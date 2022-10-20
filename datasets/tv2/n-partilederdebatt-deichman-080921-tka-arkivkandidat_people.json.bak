@@ -1,0 +1,230 @@
+{
+ "0": {
+  "name": 0,
+  "color": "#ffeeffA6",
+  "segments": [
+   {
+    "file": "/tmp/n-partilederdebatt-deichman-080921-tka-arkivkandidat_mono.wav",
+    "times": [
+     [
+      2.27,
+      9.27
+     ],
+     [
+      1338.17,
+      1345.17
+     ]
+    ]
+   }
+  ]
+ },
+ "1": {
+  "name": 1,
+  "color": "#ffeeffA6",
+  "segments": [
+   {
+    "file": "/tmp/n-partilederdebatt-deichman-080921-tka-arkivkandidat_mono.wav",
+    "times": [
+     [
+      75.08,
+      82.08
+     ],
+     [
+      96.08,
+      103.08
+     ]
+    ]
+   }
+  ]
+ },
+ "2": {
+  "name": 2,
+  "color": "#ffeeffA6",
+  "segments": [
+   {
+    "file": "/tmp/n-partilederdebatt-deichman-080921-tka-arkivkandidat_mono.wav",
+    "times": [
+     [
+      114.17,
+      119.67
+     ],
+     [
+      125.69,
+      131.19
+     ]
+    ]
+   }
+  ]
+ },
+ "3": {
+  "name": 3,
+  "color": "#ffeeffA6",
+  "segments": [
+   {
+    "file": "/tmp/n-partilederdebatt-deichman-080921-tka-arkivkandidat_mono.wav",
+    "times": [
+     [
+      157.04,
+      164.04
+     ],
+     [
+      171.17,
+      178.17
+     ]
+    ]
+   }
+  ]
+ },
+ "4": {
+  "name": 4,
+  "color": "#ffeeffA6",
+  "segments": [
+   {
+    "file": "/tmp/n-partilederdebatt-deichman-080921-tka-arkivkandidat_mono.wav",
+    "times": [
+     [
+      229.46,
+      236.46
+     ],
+     [
+      237.59,
+      244.59
+     ]
+    ]
+   }
+  ]
+ },
+ "5": {
+  "name": 5,
+  "color": "#ffeeffA6",
+  "segments": [
+   {
+    "file": "/tmp/n-partilederdebatt-deichman-080921-tka-arkivkandidat_mono.wav",
+    "times": [
+     [
+      329.93,
+      336.43
+     ],
+     [
+      337.58,
+      344.58
+     ]
+    ]
+   }
+  ]
+ },
+ "6": {
+  "name": 6,
+  "color": "#ffeeffA6",
+  "segments": [
+   {
+    "file": "/tmp/n-partilederdebatt-deichman-080921-tka-arkivkandidat_mono.wav",
+    "times": [
+     [
+      544.76,
+      551.76
+     ],
+     [
+      1256.39,
+      1263.39
+     ]
+    ]
+   }
+  ]
+ },
+ "7": {
+  "name": 7,
+  "color": "#ffeeffA6",
+  "segments": [
+   {
+    "file": "/tmp/n-partilederdebatt-deichman-080921-tka-arkivkandidat_mono.wav",
+    "times": [
+     [
+      823.97,
+      830.97
+     ],
+     [
+      832.1,
+      839.1
+     ]
+    ]
+   }
+  ]
+ },
+ "8": {
+  "name": 8,
+  "color": "#ffeeffA6",
+  "segments": [
+   {
+    "file": "/tmp/n-partilederdebatt-deichman-080921-tka-arkivkandidat_mono.wav",
+    "times": [
+     [
+      922.52,
+      929.52
+     ],
+     [
+      955.16,
+      962.16
+     ]
+    ]
+   }
+  ]
+ },
+ "9": {
+  "name": 9,
+  "color": "#ffeeffA6",
+  "segments": [
+   {
+    "file": "/tmp/n-partilederdebatt-deichman-080921-tka-arkivkandidat_mono.wav",
+    "times": [
+     [
+      1037.15,
+      1044.15
+     ],
+     [
+      1045.28,
+      1052.28
+     ]
+    ]
+   }
+  ]
+ },
+ "10": {
+  "name": 10,
+  "color": "#ffeeffA6",
+  "segments": [
+   {
+    "file": "/tmp/n-partilederdebatt-deichman-080921-tka-arkivkandidat_mono.wav",
+    "times": [
+     [
+      1728.44,
+      1735.44
+     ],
+     [
+      1876.49,
+      1883.49
+     ]
+    ]
+   }
+  ]
+ },
+ "11": {
+  "name": 11,
+  "color": "#ffeeffA6",
+  "segments": [
+   {
+    "file": "/tmp/n-partilederdebatt-deichman-080921-tka-arkivkandidat_mono.wav",
+    "times": [
+     [
+      2737.1,
+      2744.1
+     ],
+     [
+      2747.69,
+      2754.69
+     ]
+    ]
+   }
+  ]
+ }
+}

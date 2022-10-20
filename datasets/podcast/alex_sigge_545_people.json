@@ -1,0 +1,98 @@
+{
+ "0": {
+  "name": "Sigge",
+  "color": "#e0c09aa6",
+  "src": "/audio/sigge.png",
+  "segments": [
+   {
+    "file": "/tmp/alex_sigge_545_mono.wav",
+    "times": [
+     [
+      25.64,
+      31.14
+     ],
+     [
+      197.54,
+      204.04
+     ]
+    ]
+   }
+  ]
+ },
+ "1": {
+  "name": "Alex",
+  "color": "#c5784ca6",
+  "src": "/audio/alex.png",
+  "segments": [
+   {
+    "file": "/tmp/alex_sigge_545_mono.wav",
+    "times": [
+     [
+      160.52,
+      166.02
+     ],
+     [
+      318.35,
+      323.35
+     ]
+    ]
+   }
+  ]
+ },
+ "2": {
+  "name": 2,
+  "color": "#2b2b2ba6",
+  "segments": [
+   {
+    "file": "/tmp/alex_sigge_545_mono.wav",
+    "times": [
+     [
+      1532.21,
+      1538.21
+     ]
+    ]
+   }
+  ]
+ },
+ "3": {
+  "name": 3,
+  "color": "#836c5aa6",
+  "segments": [
+   {
+    "file": "/tmp/alex_sigge_545_mono.wav",
+    "times": [
+     [
+      2369.24,
+      2376.24
+     ],
+     [
+      3756.11,
+      3761.11
+     ]
+    ]
+   }
+  ]
+ },
+ "4": {
+  "name": 4,
+  "color": "#fbffffa6",
+  "segments": [
+   {
+    "file": "/tmp/alex_sigge_545_mono.wav",
+    "times": [
+     [
+      3789.65,
+      3796.65
+     ],
+     [
+      3799.88,
+      3805.38
+     ]
+    ]
+   }
+  ]
+ },
+ "extras": [
+  "#45482da6"
+ ]
+}

@@ -1,0 +1,12 @@
+{
+ "id": 1944354219,
+ "subtitles": [
+  {
+   "src": "/whisper//tv2/N-NORSKETILSTANDER-150421-ELT-HK-ENDELIG_subs.json"
+  }
+ ],
+ "cast": "/whisper//tv2/N-NORSKETILSTANDER-150421-ELT-HK-ENDELIG_people.json",
+ "audio": {
+  "src": "https://seer2.itek.norut.no/whisper//tv2/N-NORSKETILSTANDER-150421-ELT-HK-ENDELIG.mp3"
+ }
+}

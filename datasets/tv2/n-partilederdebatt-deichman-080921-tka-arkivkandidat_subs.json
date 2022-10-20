@@ -1,0 +1,7074 @@
+[
+ {
+  "start": 14.8,
+  "end": 22.4,
+  "text": "Velkommen til Oslo's nye storstue, velkommen til partilederdebatt direkte fra Deikman i Bj\u00f8rvika.",
+  "who": 11
+ },
+ {
+  "start": 22.4,
+  "end": 25.0,
+  "text": "Her er de ni partilederne.",
+  "who": 4
+ },
+ {
+  "start": 25.0,
+  "end": 30.2,
+  "text": "Fra Arbeiderpartiet Jonas Gar St\u00f8re.",
+  "who": 0
+ },
+ {
+  "start": 30.2,
+  "end": 34.0,
+  "text": "Fra H\u00f8yre Erna Solberg.",
+  "who": 4
+ },
+ {
+  "start": 34.0,
+  "end": 38.8,
+  "text": "Fra Fremskrittspartiet Sylvi Listhaug.",
+  "who": 11
+ },
+ {
+  "start": 38.8,
+  "end": 43.6,
+  "text": "Fra Centerpartiet Trygve Slagsfold Vedum.",
+  "who": 0
+ },
+ {
+  "start": 43.6,
+  "end": 48.4,
+  "text": "Fra Sosialistisk Venstreparti Audun Lysbakken.",
+  "who": 4
+ },
+ {
+  "start": 48.4,
+  "end": 52.4,
+  "text": "Fra Venstre Guri Melby.",
+  "who": 4
+ },
+ {
+  "start": 52.4,
+  "end": 57.199999999999996,
+  "text": "Fra Kristelig Folkeparti Kjell Ingolf Ropstad.",
+  "who": 4
+ },
+ {
+  "start": 57.2,
+  "end": 62.2,
+  "text": "Fra Milj\u00f8partiet De Gr\u00f8nne, Une Bastholm.",
+  "who": 4
+ },
+ {
+  "start": 62.2,
+  "end": 66.60000000000001,
+  "text": "Fra R\u00f8dt, Bj\u00f8rnar Moxnes.",
+  "who": 4
+ },
+ {
+  "start": 66.6,
+  "end": 71.2,
+  "text": "Her er kveldens debatleder, Aril Riese.",
+  "who": 11
+ },
+ {
+  "start": 74.58,
+  "end": 77.38,
+  "text": "Velkommen til partilederdebatt her p\u00e5 TV2.",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 77.38,
+  "end": 82.58,
+  "text": "Den forrige debatten ble litt intens og h\u00f8y, men n\u00e5 er vi p\u00e5 et bibliotek.",
+  "who": 1
+ },
+ {
+  "start": 82.58,
+  "end": 86.58000000000001,
+  "text": "Da vet alle at det kan bli hysj p\u00e5.",
+  "who": 1
+ },
+ {
+  "start": 86.64,
+  "end": 88.24,
+  "text": "Vi har tre tema i kveld.",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 89.2,
+  "end": 92.0,
+  "text": "F\u00f8rste tema er at vi setter fokus p\u00e5 l\u00e6rere.",
+  "who": 1
+ },
+ {
+  "start": 92.0,
+  "end": 94.4,
+  "text": "Alle vet hva en god l\u00e6rere betyr.",
+  "who": 1
+ },
+ {
+  "start": 94.4,
+  "end": 97.13333333333334,
+  "text": "Alle har forh\u00e5pentlig hatt en god l\u00e6rere.",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 97.8,
+  "end": 101.0,
+  "text": "Hvordan skal vi f\u00e5 flere av dere i den norske skolen?",
+  "who": 1
+ },
+ {
+  "start": 101.0,
+  "end": 103.80000000000001,
+  "text": "Hva krav skal vi stille til dere?",
+  "who": 1
+ },
+ {
+  "start": 103.80000000000001,
+  "end": 107.60000000000001,
+  "text": "Vi begynner med \u00e5 stille krav allerede ved l\u00e6rerutdanninger.",
+  "who": 1
+ },
+ {
+  "start": 107.60000000000001,
+  "end": 111.80000000000001,
+  "text": "Jonas Skarsd\u00f8re har fire i matte for \u00e5 komme inn p\u00e5 l\u00e6rerutdanninger.",
+  "who": 1
+ },
+ {
+  "start": 111.80000000000001,
+  "end": 113.80000000000003,
+  "text": "Men er ikke det greit?",
+  "who": 1
+ },
+ {
+  "start": 113.8,
+  "end": 117.0,
+  "text": "Det er et veldig lite treffsikkert krav for \u00e5 f\u00e5 gode l\u00e6rere inn.",
+  "who": 2
+ },
+ {
+  "start": 117.0,
+  "end": 120.80000000000001,
+  "text": "Vi ser n\u00e5 at det er ledige plasser p\u00e5 l\u00e6rereutdanning rundt om i landet.",
+  "who": 2
+ },
+ {
+  "start": 120.80000000000001,
+  "end": 127.2,
+  "text": "Vi har et mer treffsikkert krav som sier hvordan du har kunnskapssnitt i flere fag.",
+  "who": 2
+ },
+ {
+  "start": 127.2,
+  "end": 132.40000000000003,
+  "text": "Det fire kravet kan f\u00f8re til at vi ser at folk som er veldig gode i norsk,",
+  "who": 2
+ },
+ {
+  "start": 132.40000000000003,
+  "end": 135.20000000000002,
+  "text": "de f\u00e5r ikke undervise i norsk fordi de kanskje har tre i matte.",
+  "who": 2
+ },
+ {
+  "start": 135.20000000000002,
+  "end": 140.60000000000002,
+  "text": "Vi vil slippe p\u00e5 veldig mange dyktige, motiverte og engasjerte unge som \u00f8nsker \u00e5 bli l\u00e6rere.",
+  "who": 2
+ },
+ {
+  "start": 140.60000000000002,
+  "end": 145.00000000000003,
+  "text": "Vi skal ha kvalitetskrav, men er det mer treffsikkert f\u00e5r vi flere inn p\u00e5 l\u00e6rerutdanningen.",
+  "who": 2
+ },
+ {
+  "start": 145.0,
+  "end": 147.8,
+  "text": "S\u00e5 hvis du f\u00e5r makta s\u00e5 blir det vekk med det fire kravet?",
+  "who": 1
+ },
+ {
+  "start": 147.8,
+  "end": 152.6,
+  "text": "Ja, da lar vi et bedre, mer treffsikkert kvalitetskrav som vi skal ha for opptaket.",
+  "who": 2
+ },
+ {
+  "start": 152.6,
+  "end": 156.8,
+  "text": "Solberg, fire i matte gir ikke det gode l\u00e6rerstudenter?",
+  "who": 1
+ },
+ {
+  "start": 156.54,
+  "end": 160.33999999999997,
+  "text": "Det gir gode l\u00e6rerstudenter, og det gir flere l\u00e6rerstudenter som fullf\u00f8rer.",
+  "who": 3,
+  "matched": true
+ },
+ {
+  "start": 160.6,
+  "end": 163.6,
+  "text": "Det vi har sett n\u00e5 er at vi har klart \u00e5 f\u00e5 flere til \u00e5 fullf\u00f8re.",
+  "who": 3
+ },
+ {
+  "start": 163.6,
+  "end": 165.6,
+  "text": "Og s\u00e5 tenker folk at det er det samme hvilket fag det er.",
+  "who": 3
+ },
+ {
+  "start": 165.6,
+  "end": 172.4,
+  "text": "Nei, det er faktisk viktig med matte, for det er ikke noe fag som skaper st\u00f8rre sosialforskjell,",
+  "who": 3
+ },
+ {
+  "start": 172.4,
+  "end": 175.6,
+  "text": "som har de st\u00f8rre vanskeligheter for foreldrene \u00e5 hjelpe med enn matematikk.",
+  "who": 3
+ },
+ {
+  "start": 175.6,
+  "end": 182.79999999999998,
+  "text": "Vi har god forskning som viser at det faget foreldre har st\u00f8rst problemer med \u00e5 hjelpe barna med, det er matematikk.",
+  "who": 3
+ },
+ {
+  "start": 182.8,
+  "end": 184.6,
+  "text": "Derfor m\u00e5 vi ha gode l\u00e6rere.",
+  "who": 3
+ },
+ {
+  "start": 184.6,
+  "end": 188.19999999999996,
+  "text": "Det \u00e5 ha en l\u00e6rer som faktisk selv behersker matematikk,",
+  "who": 3
+ },
+ {
+  "start": 188.2,
+  "end": 190.6,
+  "text": "er viktig for at de skal kunne formidle matematikk.",
+  "who": 3
+ },
+ {
+  "start": 190.6,
+  "end": 193.00000000000003,
+  "text": "Og i norsk skole er det s\u00e5nn at det er det du gj\u00f8r i barneskolen.",
+  "who": 3
+ },
+ {
+  "start": 193.00000000000003,
+  "end": 198.60000000000002,
+  "text": "Ja, s\u00e5 er det s\u00e5nn at du ofte m\u00e5 undervise i fag p\u00e5 hele rekken av det,",
+  "who": 3
+ },
+ {
+  "start": 198.60000000000002,
+  "end": 201.00000000000003,
+  "text": "for vi har mange sm\u00e5 skoler rundt om kringlandet.",
+  "who": 3
+ },
+ {
+  "start": 201.00000000000003,
+  "end": 207.0,
+  "text": "S\u00e5 for meg er det viktig at barn l\u00e6rer godt, at vi skal satse p\u00e5 matematikk,",
+  "who": 3
+ },
+ {
+  "start": 207.0,
+  "end": 210.2,
+  "text": "og at vi f\u00e5r flest l\u00e6rerstudenter ut av utdanningen.",
+  "who": 3
+ },
+ {
+  "start": 210.2,
+  "end": 213.40000000000003,
+  "text": "Og det har vi n\u00e5 vist, det er flere som fullf\u00f8rer i l\u00e6rereutdanningen.",
+  "who": 3
+ },
+ {
+  "start": 213.40000000000003,
+  "end": 216.20000000000002,
+  "text": "Vi f\u00e5r alts\u00e5 flere l\u00e6rere av \u00e5 stille krav.",
+  "who": 3
+ },
+ {
+  "start": 216.13,
+  "end": 218.53000000000003,
+  "text": "Lysbakken, SV er ut s\u00e5 glad i karakterer.",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 218.6,
+  "end": 220.8,
+  "text": "Er det derfor det er imot dette fire kravet?",
+  "who": 1
+ },
+ {
+  "start": 220.8,
+  "end": 223.2,
+  "text": "Fordi det er et tom symbolpolitik,",
+  "who": 6
+ },
+ {
+  "start": 223.2,
+  "end": 226.2,
+  "text": "og det er jo helt meningsl\u00f8st n\u00e5r vi har l\u00e6rermangel i Norge,",
+  "who": 4
+ },
+ {
+  "start": 226.2,
+  "end": 229.0,
+  "text": "at motivert ungdom med h\u00f8ye karakterssnitt,",
+  "who": 4
+ },
+ {
+  "start": 229.0,
+  "end": 230.60000000000002,
+  "text": "ikke skal f\u00e5 komme inn p\u00e5 l\u00e6rereutdanningen.",
+  "who": 4
+ },
+ {
+  "start": 230.60000000000002,
+  "end": 232.4,
+  "text": "N\u00e5 st\u00e5r det masse plasser ledig.",
+  "who": 4
+ },
+ {
+  "start": 232.4,
+  "end": 236.80000000000004,
+  "text": "Og det er alts\u00e5 s\u00e5nn at til og med hvis du ikke skal bli mattel\u00e6rere,",
+  "who": 4
+ },
+ {
+  "start": 236.80000000000004,
+  "end": 239.2,
+  "text": "s\u00e5 er Arne Solberg bestemt at du m\u00e5 ha fire i matte.",
+  "who": 4
+ },
+ {
+  "start": 239.2,
+  "end": 242.8,
+  "text": "Selv om du er kjempegod i engelsk eller norsk, og det er helt meningsl\u00f8st.",
+  "who": 6
+ },
+ {
+  "start": 242.8,
+  "end": 246.6,
+  "text": "Det er en falitterkl\u00e6ring for h\u00f8yre at vi har s\u00e5 stor l\u00e6rermangel som vi har i Norge.",
+  "who": 4
+ },
+ {
+  "start": 246.6,
+  "end": 251.19999999999996,
+  "text": "Og s\u00e5 driver de og snakker om \u00e5 stille krav, de snakker om kunnskapskole.",
+  "who": 4
+ },
+ {
+  "start": 251.2,
+  "end": 255.4,
+  "text": "Mens realiteten under Arne Solberg er at fryktelig mange norske barn",
+  "who": 6
+ },
+ {
+  "start": 255.4,
+  "end": 259.6,
+  "text": "m\u00f8ter ufagl\u00e6rte l\u00e6rere, l\u00e6rere uten l\u00e6rereutdanning, til sine timer.",
+  "who": 4
+ },
+ {
+  "start": 259.6,
+  "end": 261.6,
+  "text": "Og mens de gj\u00f8r det,",
+  "who": 6
+ },
+ {
+  "start": 261.6,
+  "end": 265.19999999999993,
+  "text": "s\u00e5 nekter hun motivert ungdom \u00e5 komme inn p\u00e5 l\u00e6rereutdanningen,",
+  "who": 6
+ },
+ {
+  "start": 265.2,
+  "end": 268.4,
+  "text": "og hun avskilter erfarne l\u00e6rere.",
+  "who": 6
+ },
+ {
+  "start": 268.4,
+  "end": 271.8,
+  "text": "I en valgkamp for noen \u00e5r siden, s\u00e5 snakket du, Arne, om dr\u00f8mmel\u00e6reren.",
+  "who": 4
+ },
+ {
+  "start": 271.8,
+  "end": 276.2,
+  "text": "Og n\u00e5 driver du alts\u00e5 og avskilter dr\u00f8mmel\u00e6rere i norskole. Hvorfor gj\u00f8r du det?",
+  "who": 4
+ },
+ {
+  "start": 276.2,
+  "end": 280.4,
+  "text": "Jeg utdanner dr\u00f8mmel\u00e6reren gjennom \u00e5 ha den mest kraftfulle satsingen",
+  "who": 3
+ },
+ {
+  "start": 280.4,
+  "end": 283.0,
+  "text": "p\u00e5 etter og videreutdanning som noen gang har v\u00e6rt.",
+  "who": 3
+ },
+ {
+  "start": 283.0,
+  "end": 287.79999999999995,
+  "text": "Derfor s\u00f8ker jeg for at dr\u00f8mmel\u00e6reren kan gi enda flere dr\u00f8mmer til barn.",
+  "who": 3
+ },
+ {
+  "start": 287.8,
+  "end": 291.2,
+  "text": "Og matte er ikke noe t\u00f8ysefag. Matte er alts\u00e5 det faget.",
+  "who": 3
+ },
+ {
+  "start": 291.2,
+  "end": 295.2,
+  "text": "N\u00e5r du st\u00e5r i alle andre debatter med meg, Audun, s\u00e5 snakker du om sosiale forskjeller.",
+  "who": 3
+ },
+ {
+  "start": 295.2,
+  "end": 300.3999999999999,
+  "text": "I skolen, s\u00e5 er det det faget forskning viser at det er vanskeligst for foreldrene \u00e5 hjelpe.",
+  "who": 3
+ },
+ {
+  "start": 300.4,
+  "end": 303.8,
+  "text": "Det er alts\u00e5 absolutt viktig at du har en kvalifisert l\u00e6rer.",
+  "who": 3
+ },
+ {
+  "start": 303.8,
+  "end": 307.2,
+  "text": "Og det betyr det at vi setter litt h\u00f8yere krav i matematikk.",
+  "who": 3
+ },
+ {
+  "start": 307.2,
+  "end": 310.8,
+  "text": "Gjennomsnedskarakterer har vi for \u00e5 komme inn, men litt h\u00f8yere i matematikk,",
+  "who": 3
+ },
+ {
+  "start": 310.8,
+  "end": 314.99999999999994,
+  "text": "for det er s\u00e5 viktig for at du skal kunne komme ut av skolen",
+  "who": 3
+ },
+ {
+  "start": 315.0,
+  "end": 318.0,
+  "text": "og kunne ha valgmuligheter fremover i yrkeslivet.",
+  "who": 3
+ },
+ {
+  "start": 318.0,
+  "end": 325.4,
+  "text": "Gurir Melvi, 15 prosent av l\u00e6rere i grunnskolen er ukvalifiserte, og 21 prosent er videreg\u00e5ende.",
+  "who": 1
+ },
+ {
+  "start": 325.4,
+  "end": 329.4,
+  "text": "Viser ikke det at det er for mange ukvalifiserte l\u00e6rere i den norske skolen?",
+  "who": 1
+ },
+ {
+  "start": 329.4,
+  "end": 334.6,
+  "text": "Det \u00e5 sikre gode l\u00e6rere, l\u00e6rere som har kompetanse i de fagene som de underviser,",
+  "who": 5
+ },
+ {
+  "start": 334.6,
+  "end": 336.4,
+  "text": "det er virkelig jobb nummer en.",
+  "who": 5
+ },
+ {
+  "start": 336.4,
+  "end": 339.6,
+  "text": "Men hvis det er en fallittarkl\u00e6ring at vi har for mange ukvalifiserte,",
+  "who": 5
+ },
+ {
+  "start": 339.6,
+  "end": 343.0,
+  "text": "s\u00e5 var det jo ikke noe mye bedre da SV styrte kunnskapssparmanget.",
+  "who": 5
+ },
+ {
+  "start": 343.0,
+  "end": 347.0,
+  "text": "For n\u00e5 er det flere l\u00e6rere enn det var for ti \u00e5r siden,",
+  "who": 5
+ },
+ {
+  "start": 347.0,
+  "end": 350.20000000000005,
+  "text": "det er flere kvalifiserte l\u00e6rere enn det var for ti \u00e5r siden,",
+  "who": 5
+ },
+ {
+  "start": 350.20000000000005,
+  "end": 352.00000000000006,
+  "text": "og det er f\u00e6rre ukvalifiserte.",
+  "who": 5
+ },
+ {
+  "start": 352.00000000000006,
+  "end": 356.80000000000007,
+  "text": "Og grunn til det er jo at vi har stilt mange krav, ikke bare det her i firekravet.",
+  "who": 5
+ },
+ {
+  "start": 356.80000000000007,
+  "end": 362.2,
+  "text": "Vi stiller fire krav i matematikk, vi stiller alts\u00e5 tre krav i norsk for \u00e5 komme inn p\u00e5 l\u00e6rutdanninga,",
+  "who": 5
+ },
+ {
+  "start": 362.2,
+  "end": 365.8,
+  "text": "fordi vi vil at det skal v\u00e6re de beste ungdomene som begynner p\u00e5 l\u00e6rutdanninga.",
+  "who": 5
+ },
+ {
+  "start": 365.8,
+  "end": 370.40000000000003,
+  "text": "Og s\u00e5 har vi utvirket l\u00e6rutdanninga fra \u00e5 v\u00e6re fire\u00e5rig til \u00e5 bli fem\u00e5rig,",
+  "who": 5
+ },
+ {
+  "start": 370.40000000000003,
+  "end": 374.0000000000001,
+  "text": "for at l\u00e6rere skal ha dybde kompetanse i de fagene de underviser i.",
+  "who": 5
+ },
+ {
+  "start": 374.0000000000001,
+  "end": 380.20000000000005,
+  "text": "Og s\u00e5 har vi ogs\u00e5 stilt krav om at du m\u00e5 ha tilstrekkelig studiepoeng i norsk engelsk matte for \u00e5 undervise.",
+  "who": 5
+ },
+ {
+  "start": 380.20000000000005,
+  "end": 386.00000000000006,
+  "text": "Og det handler jo om at l\u00e6rere skal ha faglig tryghet i de fagene de underviser i.",
+  "who": 5
+ },
+ {
+  "start": 386.00000000000006,
+  "end": 391.20000000000005,
+  "text": "S\u00e5 hvorfor SV da vil svekke ambisjonen p\u00e5 vegne av norske elever, det forst\u00e5r jeg virkelig ikke.",
+  "who": 5
+ },
+ {
+  "start": 391.2,
+  "end": 392.4,
+  "text": "B\u00f8r ikke vi stille krav, Liesbakken?",
+  "who": 1
+ },
+ {
+  "start": 392.4,
+  "end": 396.2,
+  "text": "Jo, selvf\u00f8lgelig, men jeg synes faktisk det er p\u00e5 tide at l\u00e6rere m\u00e5 f\u00e5 stille noen krav til den regjeringen.",
+  "who": 4
+ },
+ {
+  "start": 396.2,
+  "end": 401.3999999999999,
+  "text": "Hver gang H\u00f8yre har makten, de borgerlige har makten, s\u00e5 snakker de ned norske l\u00e6rer de s\u00e5 mistilitt i skolen.",
+  "who": 4
+ },
+ {
+  "start": 401.4,
+  "end": 404.0,
+  "text": "Det er det avskiltingen har f\u00f8rt til.",
+  "who": 4
+ },
+ {
+  "start": 404.0,
+  "end": 409.0,
+  "text": "Alts\u00e5 at masse l\u00e6rere med masse erfaring, akkurat de dr\u00f8mmel\u00e6rerne som H\u00f8yre har snakket om f\u00f8r,",
+  "who": 4
+ },
+ {
+  "start": 409.0,
+  "end": 412.0,
+  "text": "de har f\u00e5tt beskjed om at deres kompetanse, deres utdanning ikke er god nok.",
+  "who": 4
+ },
+ {
+  "start": 412.0,
+  "end": 416.4,
+  "text": "Og det har skapt et stort mistilitsproblem p\u00e5 de borgerlige sin vakt.",
+  "who": 6
+ },
+ {
+  "start": 416.4,
+  "end": 423.0,
+  "text": "N\u00e5 har vi ogs\u00e5 en situasjon hvor ett av fem l\u00e6rersverk er ufagl\u00e6rte, sant?",
+  "who": 6
+ },
+ {
+  "start": 423.0,
+  "end": 427.6,
+  "text": "Og i den situasjonen f\u00f8rer de en politikk som aktivt forsterker l\u00e6rermangelen,",
+  "who": 6
+ },
+ {
+  "start": 427.6,
+  "end": 434.19999999999993,
+  "text": "ved \u00e5 tru med \u00e5 stenge uteerfarne l\u00e6rere, og ved \u00e5 la det bevisst st\u00e5 \u00e5pne plasser p\u00e5 l\u00e6rereutdanningen,",
+  "who": 6
+ },
+ {
+  "start": 434.2,
+  "end": 438.8,
+  "text": "p\u00e5 grunn av det tomme symbolkrav om fire i matte, som alts\u00e5 i motsetning til det Erna Solberg sier,",
+  "who": 6
+ },
+ {
+  "start": 438.8,
+  "end": 445.40000000000003,
+  "text": "holder ute motivert ungdom med gode karaktersnitt som har tenkt \u00e5 bli l\u00e6rere i norsk og engelsk.",
+  "who": 6
+ },
+ {
+  "start": 445.4,
+  "end": 450.0,
+  "text": "S\u00e5nn kan man ikke holde p\u00e5, bare fordi man har tenkt \u00e5 ha symboler \u00e5 snakke om.",
+  "who": 4
+ },
+ {
+  "start": 450.0,
+  "end": 453.6,
+  "text": "Hellinga, for \u00e5 oppst\u00e5, du er jo imot dette fire kravet egentlig,",
+  "who": 1
+ },
+ {
+  "start": 453.6,
+  "end": 457.80000000000007,
+  "text": "men ble tvinget inn i den regjeringen du sitter sammen med.",
+  "who": 1
+ },
+ {
+  "start": 457.8,
+  "end": 460.6,
+  "text": "Vi tenker at kvalifiserte l\u00e6rer det er kjempeviktig,",
+  "who": 10
+ },
+ {
+  "start": 460.6,
+  "end": 464.19999999999993,
+  "text": "og derfor s\u00e5 har vi gitt 50 000 l\u00e6rere etter \u00e5 videreutdanning,",
+  "who": 10
+ },
+ {
+  "start": 464.2,
+  "end": 466.6,
+  "text": "s\u00e5 \u00f8nsker vi \u00e5 gj\u00f8re om p\u00e5 fire og kravet.",
+  "who": 10
+ },
+ {
+  "start": 466.6,
+  "end": 469.80000000000007,
+  "text": "Vi \u00f8nsker heller ikke \u00e5 avskilte erfarne l\u00e6rere,",
+  "who": 10
+ },
+ {
+  "start": 469.80000000000007,
+  "end": 473.00000000000006,
+  "text": "fordi kompetansen er mye mer enn karakter.",
+  "who": 10
+ },
+ {
+  "start": 473.00000000000006,
+  "end": 477.20000000000005,
+  "text": "Det er akkurat som skole, det er mer enn bare puggalfabete og kunne gangetabellen.",
+  "who": 10
+ },
+ {
+  "start": 477.20000000000005,
+  "end": 479.8,
+  "text": "Vi vil gi l\u00e6rerene tid til det viktigste,",
+  "who": 10
+ },
+ {
+  "start": 479.8,
+  "end": 483.8,
+  "text": "og det viktigste er at de l\u00e6rer ungerne \u00e5 v\u00e6re trygge p\u00e5 seg selv,",
+  "who": 10
+ },
+ {
+  "start": 483.8,
+  "end": 485.40000000000003,
+  "text": "til \u00e5 bry seg om andre.",
+  "who": 10
+ },
+ {
+  "start": 485.40000000000003,
+  "end": 488.20000000000005,
+  "text": "Og da har vi prioritert l\u00e6rernormen,",
+  "who": 10
+ },
+ {
+  "start": 488.20000000000005,
+  "end": 491.40000000000003,
+  "text": "s\u00e5 det er helt feil det Lysbakken sier at vi ikke satser p\u00e5 flere l\u00e6rere.",
+  "who": 10
+ },
+ {
+  "start": 491.40000000000003,
+  "end": 495.6,
+  "text": "Det er alene gitt 3400 flere l\u00e6rere i skolen,",
+  "who": 10
+ },
+ {
+  "start": 495.6,
+  "end": 497.0,
+  "text": "og det er fantastisk med det.",
+  "who": 10
+ },
+ {
+  "start": 497.0,
+  "end": 500.4,
+  "text": "Det er et m\u00e5l om \u00e5 se hver enkelt elev bli n\u00e5dd.",
+  "who": 10
+ },
+ {
+  "start": 500.31,
+  "end": 502.04333333333335,
+  "text": "Og det aller viktigste n\u00e5,",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 502.2,
+  "end": 505.4,
+  "text": "det er \u00e5 f\u00e5 flere l\u00e6rere s\u00e5nn at vi kan se hver enkelt elev.",
+  "who": 10
+ },
+ {
+  "start": 505.4,
+  "end": 508.4,
+  "text": "Ikke flere timer i skolen, s\u00e5nn som Venstre Sia \u00f8nsker.",
+  "who": 10
+ },
+ {
+  "start": 508.4,
+  "end": 509.80000000000007,
+  "text": "Og programlederen m\u00e5 jo si det.",
+  "who": 10
+ },
+ {
+  "start": 509.80000000000007,
+  "end": 513.6000000000001,
+  "text": "Det er jo et veldig paradoks \u00e5 h\u00f8re Audun Lysbakken og SV",
+  "who": 10
+ },
+ {
+  "start": 513.6000000000001,
+  "end": 516.6000000000003,
+  "text": "som sl\u00e5ss for en sektimes arbeidsdag for voksne,",
+  "who": 10
+ },
+ {
+  "start": 516.6000000000003,
+  "end": 518.4000000000002,
+  "text": "mens ungene, jo de skal lenge p\u00e5 skolen.",
+  "who": 10
+ },
+ {
+  "start": 518.4,
+  "end": 519.6,
+  "text": "Sektimesdagen tas vi her.",
+  "who": 1
+ },
+ {
+  "start": 519.6,
+  "end": 522.2000000000002,
+  "text": "Vedum, det er jo ogs\u00e5 imot dette firekravet.",
+  "who": 1
+ },
+ {
+  "start": 522.17,
+  "end": 523.7699999999998,
+  "text": "Vi har v\u00e6rt imot det firekravet,",
+  "who": 6,
+  "matched": true
+ },
+ {
+  "start": 523.8,
+  "end": 526.6,
+  "text": "for vi mener at det viktige er at vi har et snittkrav,",
+  "who": 6
+ },
+ {
+  "start": 526.6,
+  "end": 529.4,
+  "text": "som gj\u00f8r at hvis du er veldig god i norsk og engelsk og samfunnsfag,",
+  "who": 6
+ },
+ {
+  "start": 529.4,
+  "end": 533.1999999999999,
+  "text": "s\u00e5 m\u00e5 du ogs\u00e5 kunne bli l\u00e6rer selv om du sliter litt med matten.",
+  "who": 6
+ },
+ {
+  "start": 533.2,
+  "end": 536.4,
+  "text": "Men hva er det viktigste vi diskuterer skole og l\u00e6rer?",
+  "who": 6
+ },
+ {
+  "start": 536.4,
+  "end": 538.5000000000001,
+  "text": "Det er nettopp l\u00e6reren, og det har v\u00e6rt noe av problemet,",
+  "who": 6
+ },
+ {
+  "start": 538.5000000000001,
+  "end": 540.7000000000003,
+  "text": "synes jeg, n\u00e5r Erna Solberg har diskutert skole,",
+  "who": 6
+ },
+ {
+  "start": 540.7000000000003,
+  "end": 544.2000000000003,
+  "text": "at det nesten alltid ser et negativt fortid om norske l\u00e6rere.",
+  "who": 6
+ },
+ {
+  "start": 544.2000000000003,
+  "end": 546.5000000000002,
+  "text": "Min barneskoleilige for min datter, Groenita,",
+  "who": 6
+ },
+ {
+  "start": 546.5000000000002,
+  "end": 548.3000000000002,
+  "text": "er kanskje den viktigste versjonen i mitt liv.",
+  "who": 6
+ },
+ {
+  "start": 548.3000000000002,
+  "end": 549.6000000000001,
+  "text": "Hun m\u00f8ter datteren min.",
+  "who": 6
+ },
+ {
+  "start": 549.6000000000001,
+  "end": 550.4,
+  "text": "Se henne.",
+  "who": 6
+ },
+ {
+  "start": 550.4,
+  "end": 553.1999999999999,
+  "text": "Gi henne trygghet, gi henne norsk, gi henne matte.",
+  "who": 6
+ },
+ {
+  "start": 553.2,
+  "end": 555.2,
+  "text": "Og skape gangsmennesket.",
+  "who": 6
+ },
+ {
+  "start": 555.2,
+  "end": 557.8,
+  "text": "S\u00e5 vi m\u00e5 ogs\u00e5 s\u00f8rge for at de som har blitt l\u00e6rer,",
+  "who": 6
+ },
+ {
+  "start": 557.8,
+  "end": 559.6000000000001,
+  "text": "og trykker \u00e5 bli l\u00e6rer fortsatt,",
+  "who": 6
+ },
+ {
+  "start": 559.6000000000001,
+  "end": 561.5000000000001,
+  "text": "s\u00e5 vi har mindre testing i skolen,",
+  "who": 6
+ },
+ {
+  "start": 561.5000000000001,
+  "end": 563.1000000000001,
+  "text": "vi har mindre byr\u00e5krati,",
+  "who": 6,
+  "matched": true
+ },
+ {
+  "start": 563.1000000000001,
+  "end": 566.4,
+  "text": "og vi har mer ressurser til \u00e5 f\u00f8lge opp de elevene som sliter.",
+  "who": 6
+ },
+ {
+  "start": 566.4,
+  "end": 569.5000000000001,
+  "text": "S\u00e5 det er egentlig hovedjobben for oss som er folkevalgte,",
+  "who": 6
+ },
+ {
+  "start": 569.5000000000001,
+  "end": 571.9000000000001,
+  "text": "det er \u00e5 styrke l\u00e6reren, bygge l\u00e6reren opp,",
+  "who": 6
+ },
+ {
+  "start": 571.9000000000001,
+  "end": 573.4000000000002,
+  "text": "og slutte med de nedsnakkningene,",
+  "who": 6
+ },
+ {
+  "start": 573.4000000000002,
+  "end": 574.8000000000003,
+  "text": "og s\u00e5 m\u00e5 vi ta bort firekravet,",
+  "who": 6
+ },
+ {
+  "start": 574.8000000000003,
+  "end": 577.2000000000005,
+  "text": "og s\u00f8rge for at vi har gode allmennl\u00e6rere rundt i hele landet.",
+  "who": 6
+ },
+ {
+  "start": 577.2000000000005,
+  "end": 580.0000000000005,
+  "text": "Og ta vare p\u00e5 det n\u00e6rskole som er s\u00e5 definiene,",
+  "who": 6
+ },
+ {
+  "start": 580.0000000000005,
+  "end": 580.8000000000004,
+  "text": "og det legges det n\u00e5.",
+  "who": 6
+ },
+ {
+  "start": 580.8000000000004,
+  "end": 583.2000000000005,
+  "text": "En skole hver uke, og vi m\u00e5 snu det der.",
+  "who": 6
+ },
+ {
+  "start": 583.2,
+  "end": 584.9,
+  "text": "Og i noen av skolene som er lagt ned,",
+  "who": 1
+ },
+ {
+  "start": 584.9,
+  "end": 586.9,
+  "text": "s\u00e5 er det senterpartiet som styrer,",
+  "who": 1
+ },
+ {
+  "start": 586.9,
+  "end": 588.4,
+  "text": "og det vet du ogs\u00e5.",
+  "who": 1
+ },
+ {
+  "start": 588.4,
+  "end": 589.4,
+  "text": "Da m\u00e5 vi f\u00e5 svaret for det.",
+  "who": 1
+ },
+ {
+  "start": 589.4,
+  "end": 590.7999999999998,
+  "text": "Nei, det er Erna Solberg.",
+  "who": 1
+ },
+ {
+  "start": 590.8,
+  "end": 596.4,
+  "text": "Det er 500 som lediger plasser p\u00e5 l\u00e6rerstudiet om lag.",
+  "who": 1
+ },
+ {
+  "start": 596.4,
+  "end": 599.4,
+  "text": "Betyr det ikke det at de inntaktskravet er for strenge?",
+  "who": 1
+ },
+ {
+  "start": 599.4,
+  "end": 604.4,
+  "text": "Men det er flere faktisk ogs\u00e5 i \u00e5r som har kommet inn p\u00e5 l\u00e6rerutdanningene,",
+  "who": 3
+ },
+ {
+  "start": 604.4,
+  "end": 605.6,
+  "text": "som har s\u00f8kt til den,",
+  "who": 3
+ },
+ {
+  "start": 605.6,
+  "end": 607.4,
+  "text": "enn det var n\u00e5r de andre styrte.",
+  "who": 3
+ },
+ {
+  "start": 607.4,
+  "end": 608.6,
+  "text": "S\u00e5 det er fortsatt flere.",
+  "who": 3
+ },
+ {
+  "start": 608.6,
+  "end": 609.8000000000001,
+  "text": "Og s\u00e5 er det viktig \u00e5 huske,",
+  "who": 3
+ },
+ {
+  "start": 609.8000000000001,
+  "end": 611.9000000000001,
+  "text": "det hjelper ikke med om mange kommer inn,",
+  "who": 3
+ },
+ {
+  "start": 611.9000000000001,
+  "end": 613.6,
+  "text": "hvis mange stryker p\u00e5 veien.",
+  "who": 3
+ },
+ {
+  "start": 613.6,
+  "end": 615.4,
+  "text": "Og n\u00e5 er det alts\u00e5 flere som fullf\u00f8rer.",
+  "who": 3
+ },
+ {
+  "start": 615.4,
+  "end": 621.1,
+  "text": "Det er 680 flere studenter som n\u00e5 fullf\u00f8rer p\u00e5 h\u00f8yere utdanninger,",
+  "who": 3
+ },
+ {
+  "start": 621.1,
+  "end": 622.4999999999999,
+  "text": "alts\u00e5 p\u00e5 l\u00e6rerutdanningen,",
+  "who": 3
+ },
+ {
+  "start": 622.5,
+  "end": 623.8,
+  "text": "enn det det var tidligere.",
+  "who": 3
+ },
+ {
+  "start": 623.8,
+  "end": 627.3999999999999,
+  "text": "Fordi vi blant annet ikke stryker s\u00e5 mye i matematikk som vi gjorde f\u00f8r.",
+  "who": 3
+ },
+ {
+  "start": 627.4,
+  "end": 630.3,
+  "text": "Men kan jeg f\u00e5 si noe om denne avskiltingen som vi snakket om?",
+  "who": 3
+ },
+ {
+  "start": 630.3,
+  "end": 632.3999999999999,
+  "text": "Jeg tror ikke folk egentlig skj\u00f8nner helt hva det er.",
+  "who": 3
+ },
+ {
+  "start": 632.4,
+  "end": 634.2,
+  "text": "La oss forklare folk hva det egentlig er.",
+  "who": 1
+ },
+ {
+  "start": 634.2,
+  "end": 635.2,
+  "text": "Hva det er jeg tenkte jeg skulle gj\u00f8re.",
+  "who": 3
+ },
+ {
+  "start": 635.2,
+  "end": 637.6,
+  "text": "Ja, ikke sant, men jeg kan gjerne f\u00e5 det.",
+  "who": 1
+ },
+ {
+  "start": 637.6,
+  "end": 638.4,
+  "text": "V\u00e6r s\u00e5 god.",
+  "who": 1
+ },
+ {
+  "start": 638.4,
+  "end": 644.1999999999999,
+  "text": "Dere krever det at de har kompetanse i de fagene som de underviser i,",
+  "who": 1
+ },
+ {
+  "start": 644.2,
+  "end": 648.5,
+  "text": "og alle l\u00e6rere f\u00f8r 2014 m\u00e5 ta 30 og 60 vektall",
+  "who": 1
+ },
+ {
+  "start": 648.5,
+  "end": 652.0,
+  "text": "for \u00e5 utfylle dette kompetansekravet innen 2025.",
+  "who": 1
+ },
+ {
+  "start": 652.0,
+  "end": 655.7,
+  "text": "Det betyr at i dag s\u00e5 st\u00e5r det alts\u00e5 rundt 20 000 l\u00e6rere",
+  "who": 1
+ },
+ {
+  "start": 655.7,
+  "end": 657.0,
+  "text": "som ikke har oppfylt dette kravet.",
+  "who": 1
+ },
+ {
+  "start": 657.0,
+  "end": 658.9000000000001,
+  "text": "Dette er l\u00e6rere som har undervist lenge.",
+  "who": 1
+ },
+ {
+  "start": 658.9000000000001,
+  "end": 660.9000000000002,
+  "text": "Kvi for denne avskiltingen?",
+  "who": 1
+ },
+ {
+  "start": 660.63,
+  "end": 663.0299999999999,
+  "text": "Fordi det er viktig at l\u00e6rere f\u00e5r videreutdanning.",
+  "who": 3,
+  "matched": true
+ },
+ {
+  "start": 663.3,
+  "end": 666.0,
+  "text": "De fleste andre grupper er veldig glade n\u00e5r de f\u00e5r videreutdanning,",
+  "who": 3
+ },
+ {
+  "start": 666.0,
+  "end": 667.5999999999999,
+  "text": "og det opplever jeg at l\u00e6rere n\u00e5 ser.",
+  "who": 3
+ },
+ {
+  "start": 667.6,
+  "end": 669.3,
+  "text": "De blir mer kvalifiserte.",
+  "who": 3
+ },
+ {
+  "start": 669.3,
+  "end": 672.5,
+  "text": "Vi har rapporter n\u00e5 som viser at de l\u00e6rere blir bedre,",
+  "who": 3
+ },
+ {
+  "start": 672.5,
+  "end": 675.7,
+  "text": "har mer variert undervisning n\u00e5r de kommer tilbake til klasserommet.",
+  "who": 3
+ },
+ {
+  "start": 675.7,
+  "end": 680.7,
+  "text": "De bidrar da til at elever som har ulike typer av l\u00e6ringsvansker",
+  "who": 3
+ },
+ {
+  "start": 680.7,
+  "end": 683.8,
+  "text": "m\u00f8ter en l\u00e6rer som har et st\u00f8rre repertuar \u00e5 undervise p\u00e5.",
+  "who": 3
+ },
+ {
+  "start": 683.8,
+  "end": 687.3,
+  "text": "Derfor henger jo dette kravet sammen med den kjempe store satsingen",
+  "who": 3
+ },
+ {
+  "start": 687.3,
+  "end": 688.3999999999999,
+  "text": "vi har hatt p\u00e5 videreutdanning.",
+  "who": 3
+ },
+ {
+  "start": 688.4,
+  "end": 691.9,
+  "text": "47 000 har f\u00e5tt denne videreutdanningen,",
+  "who": 3
+ },
+ {
+  "start": 691.9,
+  "end": 695.1,
+  "text": "og vi har lovet at de siste 20 000 skal ogs\u00e5 f\u00e5 det.",
+  "who": 3
+ },
+ {
+  "start": 695.1,
+  "end": 697.9,
+  "text": "Vi har sagt at i neste 4 \u00e5rsperiode for h\u00f8yresett vedkommende",
+  "who": 3
+ },
+ {
+  "start": 698.28,
+  "end": 701.58,
+  "text": "s\u00e5 skal vi ha over 22 000 flere som f\u00e5r videreutdanning.",
+  "who": 3,
+  "matched": true
+ },
+ {
+  "start": 701.58,
+  "end": 704.5800000000002,
+  "text": "Og ikke bare de som har disse tre kjernefagene,",
+  "who": 3
+ },
+ {
+  "start": 704.5800000000002,
+  "end": 706.5800000000002,
+  "text": "men ogs\u00e5 i spesialpedagogikk.",
+  "who": 3
+ },
+ {
+  "start": 706.5800000000002,
+  "end": 709.7800000000003,
+  "text": "Vi er veldig avhengige av at man ogs\u00e5 har l\u00e6rere",
+  "who": 3,
+  "matched": true
+ },
+ {
+  "start": 709.7800000000003,
+  "end": 712.0466666666669,
+  "text": "som er gode p\u00e5 spesialpedagogikken",
+  "who": 3,
+  "matched": true
+ },
+ {
+  "start": 712.6,
+  "end": 716.6,
+  "text": "for \u00e5 s\u00f8rge for at de ikke f\u00e5r masse ufagl\u00e6rte som hjelper dem n\u00e5r de sliter.",
+  "who": 3
+ },
+ {
+  "start": 716.6,
+  "end": 721.7000000000002,
+  "text": "De skal ha fagl\u00e6rte som er i klasserommet og hjelper dem enkelt som sakker akterutt.",
+  "who": 3
+ },
+ {
+  "start": 721.7,
+  "end": 724.3,
+  "text": "Skal ikke vi stille krav til l\u00e6reren, Jonas Garsd\u00f8re?",
+  "who": 1
+ },
+ {
+  "start": 724.3,
+  "end": 726.3,
+  "text": "Jeg er veldig enig om etter og videreutdanning.",
+  "who": 1
+ },
+ {
+  "start": 726.3,
+  "end": 728.3,
+  "text": "40 000 har f\u00e5tt det, det kommer 20 000 i \u00f8.",
+  "who": 2
+ },
+ {
+  "start": 728.3,
+  "end": 731.6000000000001,
+  "text": "Men det er alts\u00e5 rundt 20 000 som er p\u00e5 min alder,",
+  "who": 2
+ },
+ {
+  "start": 733.35,
+  "end": 735.85,
+  "text": "og jeg har m\u00f8tt en del av dem erfarne l\u00e6rere i skolen.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 735.85,
+  "end": 739.15,
+  "text": "De f\u00e5r n\u00e5 vite at hvis ikke du tar ett \u00e5r p\u00e5 skolebenken n\u00e5,",
+  "who": 2
+ },
+ {
+  "start": 739.15,
+  "end": 741.1499999999999,
+  "text": "s\u00e5 mister du l\u00e6restatusen din.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 741.1499999999999,
+  "end": 744.35,
+  "text": "S\u00e5 sier de at de har 60 \u00e5r, da f\u00f8rtidspansjonerer hjemme.",
+  "who": 2
+ },
+ {
+  "start": 744.35,
+  "end": 747.15,
+  "text": "Halvparten av l\u00e6rere sier n\u00e5 at de vurderer \u00e5 slutte i skolen,",
+  "who": 2
+ },
+ {
+  "start": 747.15,
+  "end": 749.85,
+  "text": "og det er k\u00f8 p\u00e5 s\u00e5nne kurser for \u00e5 pansjonere seg.",
+  "who": 2
+ },
+ {
+  "start": 749.85,
+  "end": 753.5500000000001,
+  "text": "Man ser seg blind p\u00e5 noe som f\u00f8rer til et veldig negativt resultat.",
+  "who": 2
+ },
+ {
+  "start": 753.5500000000001,
+  "end": 757.05,
+  "text": "Du sa innledningsvis, Arie Lise, at alle trenger en god l\u00e6rer.",
+  "who": 2
+ },
+ {
+  "start": 757.05,
+  "end": 761.05,
+  "text": "N\u00e5 kom det forleden dag ungdata, 144 000 unge,",
+  "who": 2
+ },
+ {
+  "start": 761.05,
+  "end": 764.05,
+  "text": "i ungdomsskolen videreg\u00e5ende snakket om skolehverdagen sin.",
+  "who": 2
+ },
+ {
+  "start": 764.37,
+  "end": 766.0366666666666,
+  "text": "De mistrives mer enn f\u00f8r,",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 766.0366666666666,
+  "end": 769.0366666666666,
+  "text": "og en av de tingene de etterlyser er mer tid med l\u00e6reren.",
+  "who": 2
+ },
+ {
+  "start": 769.0366666666666,
+  "end": 771.8366666666666,
+  "text": "En av de tingene l\u00e6reren etterlyser er mer tid med eleven.",
+  "who": 2
+ },
+ {
+  "start": 771.8366666666666,
+  "end": 773.8366666666666,
+  "text": "Og det er ikke fordi at l\u00e6reren er d\u00e5rlig,",
+  "who": 2
+ },
+ {
+  "start": 773.8366666666666,
+  "end": 777.8366666666666,
+  "text": "men det er for f\u00e5 kvalifiserte l\u00e6rere med tid for elevene.",
+  "who": 2
+ },
+ {
+  "start": 777.8366666666666,
+  "end": 782.8366666666666,
+  "text": "Og derfor s\u00e5 er dette \u00e5 skulle sende 20 000 godt l\u00e6rere.",
+  "who": 2
+ },
+ {
+  "start": 782.8366666666666,
+  "end": 785.8366666666666,
+  "text": "20 000 godt erfarne l\u00e6rere ut av skolen.",
+  "who": 2
+ },
+ {
+  "start": 785.8366666666666,
+  "end": 787.0366666666667,
+  "text": "Det er grovt feil.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 787.0366666666667,
+  "end": 790.0366666666666,
+  "text": "Det vi ogs\u00e5 burde gj\u00f8re er \u00e5 hente tilbake en del av de som har sluttet,",
+  "who": 2
+ },
+ {
+  "start": 790.0366666666666,
+  "end": 792.0366666666666,
+  "text": "som er l\u00e6rere og er glad i yrkesitt,",
+  "who": 2
+ },
+ {
+  "start": 792.0366666666666,
+  "end": 794.5366666666666,
+  "text": "og er ute i arbeidslivet, s\u00e5 de kan komme tilbake.",
+  "who": 2
+ },
+ {
+  "start": 794.5366666666666,
+  "end": 797.5366666666666,
+  "text": "Men de kan heller ikke komme tilbake, for de ikke har de poengene.",
+  "who": 2
+ },
+ {
+  "start": 796.95,
+  "end": 798.95,
+  "text": "Alle l\u00e6rere som f\u00e5r tilbud om det,",
+  "who": 9,
+  "matched": true
+ },
+ {
+  "start": 798.8,
+  "end": 801.3,
+  "text": "har viset \u00f8nsker den etter og videreutdanningen,",
+  "who": 2
+ },
+ {
+  "start": 801.3,
+  "end": 804.3,
+  "text": "men noen av de eldste m\u00e5 vi beholde, ikke avskilte.",
+  "who": 2
+ },
+ {
+  "start": 804.3,
+  "end": 808.3,
+  "text": "Sylvi Listhaug, da du satt i regjering,",
+  "who": 1
+ },
+ {
+  "start": 808.3,
+  "end": 814.8,
+  "text": "s\u00e5 stemte du for dette \u00e5 kreve noe av de eldre l\u00e6rerene?",
+  "who": 1
+ },
+ {
+  "start": 814.8,
+  "end": 816.3,
+  "text": "St\u00e5r du fortsatt i det?",
+  "who": 1
+ },
+ {
+  "start": 816.3,
+  "end": 820.3,
+  "text": "Vi mener at det viktigste av alt for barna v\u00e5re er \u00e5 ha gode l\u00e6rere,",
+  "who": 7
+ },
+ {
+  "start": 820.3,
+  "end": 824.8,
+  "text": "og jeg tror mange foreldre ser at det kan v\u00e6re veldig variabelt,",
+  "who": 7
+ },
+ {
+  "start": 824.8,
+  "end": 826.8,
+  "text": "hvilken l\u00e6rer man f\u00e5r og hvor godt det fungerer,",
+  "who": 7
+ },
+ {
+  "start": 826.8,
+  "end": 828.3,
+  "text": "og det er veldig urettferdig.",
+  "who": 7
+ },
+ {
+  "start": 828.3,
+  "end": 830.3,
+  "text": "Men disse folka her vil jo ikke ha krav.",
+  "who": 7
+ },
+ {
+  "start": 830.3,
+  "end": 831.8,
+  "text": "De vil ikke ha frav\u00e6rsk grense.",
+  "who": 7
+ },
+ {
+  "start": 831.8,
+  "end": 833.3,
+  "text": "De skal ikke ha karakterer.",
+  "who": 7
+ },
+ {
+  "start": 833.3,
+  "end": 835.3,
+  "text": "De skal ikke ha krav til l\u00e6rerene.",
+  "who": 7
+ },
+ {
+  "start": 835.3,
+  "end": 840.3,
+  "text": "Og det er jo problemet, fordi vi lever jo i en verden der vi er en internasjonal konkurranse.",
+  "who": 7
+ },
+ {
+  "start": 840.3,
+  "end": 845.8,
+  "text": "Det blir litt s\u00e5nn som at Jakob Ingebrigtsen og Karsten Warholm skulle springe uten \u00e5 ta tida,",
+  "who": 7
+ },
+ {
+  "start": 845.8,
+  "end": 849.8,
+  "text": "og s\u00e5 plutselig s\u00e5 kom det en konkurranse og s\u00e5 det at, oi, her henger vi etter.",
+  "who": 7
+ },
+ {
+  "start": 849.8,
+  "end": 853.3,
+  "text": "Fordi det handler om at v\u00e5re elever er i internasjonal konkurranse,",
+  "who": 7
+ },
+ {
+  "start": 853.3,
+  "end": 855.8,
+  "text": "og derfor s\u00e5 m\u00e5 vi v\u00e6re fremme der.",
+  "who": 7
+ },
+ {
+  "start": 855.8,
+  "end": 856.8,
+  "text": "Og bare for \u00e5 si en ting.",
+  "who": 7
+ },
+ {
+  "start": 856.8,
+  "end": 860.5333333333333,
+  "text": "Hvis v\u00e5re elever skal ut og studere i USA eller England,",
+  "who": 7,
+  "matched": true
+ },
+ {
+  "start": 860.8,
+  "end": 865.3,
+  "text": "s\u00e5 nytter det jo ikke \u00e5 komme med tre sleiver fra sl\u00f8yden og smile fjes i karakterboka.",
+  "who": 7
+ },
+ {
+  "start": 865.3,
+  "end": 871.3,
+  "text": "Man m\u00e5 faktisk ha karakterer og et system som gir at vi greier \u00e5 m\u00e5le hva v\u00e5re elever har av kunnskap.",
+  "who": 7
+ },
+ {
+  "start": 871.3,
+  "end": 873.3,
+  "text": "Og s\u00e5 er en ting til programledet.",
+  "who": 7
+ },
+ {
+  "start": 873.3,
+  "end": 876.8,
+  "text": "Noe av det viktigste l\u00e6rerene skal h\u00e5ndtere, det er mobbing.",
+  "who": 7
+ },
+ {
+  "start": 876.8,
+  "end": 881.3,
+  "text": "Det er helt forferdelig \u00e5 tenke p\u00e5 at mange barn i den norske skolen",
+  "who": 7
+ },
+ {
+  "start": 881.3,
+  "end": 883.3,
+  "text": "har en grusom hverdag p\u00e5 grunn av det.",
+  "who": 7
+ },
+ {
+  "start": 883.3,
+  "end": 884.3,
+  "text": "N\u00e5 snakker vi jo om l\u00e6rerene.",
+  "who": 1
+ },
+ {
+  "start": 884.3,
+  "end": 886.3,
+  "text": "Ja, men det er jo l\u00e6rerene som er viktige der.",
+  "who": 7
+ },
+ {
+  "start": 886.3,
+  "end": 888.3,
+  "text": "Og da er det to ting jeg vil si.",
+  "who": 7
+ },
+ {
+  "start": 888.3,
+  "end": 892.3,
+  "text": "Det ene er at vi n\u00e5 m\u00e5 s\u00f8rge for at det er mobberne som er viktige.",
+  "who": 7
+ },
+ {
+  "start": 892.3,
+  "end": 894.3,
+  "text": "Mobbing er en helt en debatt.",
+  "who": 1
+ },
+ {
+  "start": 894.3,
+  "end": 896.3,
+  "text": "Ja, men det er en viktig debatt ogs\u00e5. Helt enig med deg.",
+  "who": 1
+ },
+ {
+  "start": 896.3,
+  "end": 897.3,
+  "text": "Men Bj\u00f8rnar Moxnes.",
+  "who": 1
+ },
+ {
+  "start": 897.3,
+  "end": 898.3,
+  "text": "Skal vi svare p\u00e5 en ting?",
+  "who": 6
+ },
+ {
+  "start": 898.3,
+  "end": 900.3,
+  "text": "Nei, vi m\u00e5 til \u00e5 avbryte hverandre.",
+  "who": 1
+ },
+ {
+  "start": 900.3,
+  "end": 902.3,
+  "text": "Ikke avbryte hverandre.",
+  "who": 1
+ },
+ {
+  "start": 902.3,
+  "end": 903.3,
+  "text": "Vi svarer om det hadde v\u00e6rt god \u00e5 l\u00f8pe.",
+  "who": 4
+ },
+ {
+  "start": 903.3,
+  "end": 905.3,
+  "text": "Vi slipper til alle her, ikke sant?",
+  "who": 1
+ },
+ {
+  "start": 905.3,
+  "end": 907.3,
+  "text": "Du er p\u00e5 bibliotek, husk det.",
+  "who": 1
+ },
+ {
+  "start": 907.3,
+  "end": 910.3,
+  "text": "Moxnes, skal ikke vi stille krav til l\u00e6rerene?",
+  "who": 1
+ },
+ {
+  "start": 909.87,
+  "end": 915.8700000000001,
+  "text": "Jo, \u00e5 stille krav underveis er bedre enn \u00e5 hindre at motiverte ungdommer ikke kommer inn p\u00e5 utdanninga.",
+  "who": 8,
+  "matched": true
+ },
+ {
+  "start": 916.3,
+  "end": 919.3,
+  "text": "Men det store problemet blir jo ikke nevnt.",
+  "who": 8
+ },
+ {
+  "start": 919.3,
+  "end": 925.3,
+  "text": "Nemlig flukten fra l\u00e6rervelsen at 40 000 l\u00e6rere ikke i dag er i skolen.",
+  "who": 8
+ },
+ {
+  "start": 925.3,
+  "end": 927.3,
+  "text": "Og de sier to ting om hvorfor de ikke er det.",
+  "who": 8
+ },
+ {
+  "start": 927.3,
+  "end": 930.3,
+  "text": "Det f\u00f8rste er at de bruker for mye tid p\u00e5 kontorarbeid.",
+  "who": 8
+ },
+ {
+  "start": 930.3,
+  "end": 933.2333333333332,
+  "text": "Testing, rapportering, vil ha mindre av det.",
+  "who": 8,
+  "matched": true
+ },
+ {
+  "start": 933.3,
+  "end": 936.3,
+  "text": "Og det andre de sier, det er l\u00f8nna.",
+  "who": 8
+ },
+ {
+  "start": 936.3,
+  "end": 941.3,
+  "text": "Det har veldig lite skjedd i mange \u00e5r hvor flere forskjellige partier har styrt.",
+  "who": 8
+ },
+ {
+  "start": 941.3,
+  "end": 944.3,
+  "text": "De m\u00e5 f\u00e5 l\u00f8fta l\u00f8nna for l\u00e6rere.",
+  "who": 8
+ },
+ {
+  "start": 944.3,
+  "end": 948.3,
+  "text": "Vi gikk til valg for fire \u00e5r siden p\u00e5 \u00e5 heve l\u00e6rerl\u00f8nna.",
+  "who": 8
+ },
+ {
+  "start": 948.3,
+  "end": 950.3,
+  "text": "Hun ble spurt om det samme n\u00e5 rett f\u00f8r sommeren.",
+  "who": 8,
+  "matched": true
+ },
+ {
+  "start": 950.3,
+  "end": 954.3,
+  "text": "Da var det en ambisjon for neste stortingsperiode, kanskje.",
+  "who": 8
+ },
+ {
+  "start": 954.3,
+  "end": 959.3,
+  "text": "Det som trengs, mener vi, er at vi setter av en likel\u00f8nnspott til forhandling i offentlig sektor.",
+  "who": 8
+ },
+ {
+  "start": 959.3,
+  "end": 961.3,
+  "text": "For \u00e5 kunne l\u00f8fte l\u00e6rerl\u00f8nningene.",
+  "who": 8
+ },
+ {
+  "start": 961.3,
+  "end": 965.3,
+  "text": "Ikke bare prate om det, ikke bare gi applaus, men faktisk stille penger til r\u00e5dighet.",
+  "who": 8
+ },
+ {
+  "start": 965.3,
+  "end": 971.3,
+  "text": "Ogs\u00e5 f\u00e5 ned omfanget av meningsl\u00f8s testing, rapportering, byr\u00e5krati.",
+  "who": 8
+ },
+ {
+  "start": 971.3,
+  "end": 975.3,
+  "text": "For skal du f\u00e5 Sybilisthavs dr\u00f8mmeskole, som hun \u00f8nsker seg med interns og konkurranse,",
+  "who": 8
+ },
+ {
+  "start": 975.3,
+  "end": 982.3,
+  "text": "vil det bli ekstremt mye mer testing, m\u00e5ling, rapportering og mindre tid for l\u00e6reren til en enkelt elev.",
+  "who": 8
+ },
+ {
+  "start": 982.3,
+  "end": 984.3,
+  "text": "Og da vil ogs\u00e5 flere l\u00e6rere slutte i skolen.",
+  "who": 8
+ },
+ {
+  "start": 984.3,
+  "end": 989.3,
+  "text": "Det er alts\u00e5 bakvent land det lista kommer med, hvis du \u00f8nsker en skole med nok l\u00e6rere som er kvalifiserte,",
+  "who": 8
+ },
+ {
+  "start": 989.3,
+  "end": 992.3,
+  "text": "og som blir i skolen og gir elevene god undervisning.",
+  "who": 8
+ },
+ {
+  "start": 993.03,
+  "end": 994.43,
+  "text": "Det vil jeg svare p\u00e5.",
+  "who": 7,
+  "matched": true
+ },
+ {
+  "start": 994.43,
+  "end": 997.4300000000001,
+  "text": "Det vi \u00f8nsker er jo l\u00e6rere som gir en kjempegod jobb.",
+  "who": 7
+ },
+ {
+  "start": 997.4300000000001,
+  "end": 1003.4300000000001,
+  "text": "Det som er litt av problemet, Bj\u00f8rnar Mokstes, er at en del l\u00e6rere g\u00e5r fra den ene klassen til den andre.",
+  "who": 7
+ },
+ {
+  "start": 1003.4300000000001,
+  "end": 1006.4300000000001,
+  "text": "Foreldre klager, og s\u00e5 blir de flyttet til en ny klasse.",
+  "who": 7
+ },
+ {
+  "start": 1006.4300000000001,
+  "end": 1013.4300000000001,
+  "text": "Det vi mener er at det er de som ikke greier \u00e5 gi en god jobb, de m\u00e5 f\u00e5 videreutdanning og oppf\u00f8lging.",
+  "who": 7
+ },
+ {
+  "start": 1013.4300000000001,
+  "end": 1018.4300000000001,
+  "text": "Men hvis de ikke greier det deretter, s\u00e5 m\u00e5 man faktisk finne seg noe annet \u00e5 gj\u00f8re.",
+  "who": 7
+ },
+ {
+  "start": 1018.4300000000001,
+  "end": 1022.4300000000001,
+  "text": "For barna er det mest dyrbare vi har, og vi m\u00e5 ta vare p\u00e5 dem p\u00e5 en god m\u00e5te.",
+  "who": 7
+ },
+ {
+  "start": 1022.4300000000001,
+  "end": 1026.43,
+  "text": "Og da handler det om \u00e5 stille krav til de som skal v\u00e6re l\u00e6rere i norsk skole.",
+  "who": 7
+ },
+ {
+  "start": 1026.3,
+  "end": 1028.3,
+  "text": "Unne Basthorn.",
+  "who": 9
+ },
+ {
+  "start": 1028.3,
+  "end": 1033.3,
+  "text": "Jeg tenker at noe av hovedproblemet i h\u00f8yre sin skolepolitikk, og i alle fall i FFP sin skolepolitikk,",
+  "who": 9
+ },
+ {
+  "start": 1033.3,
+  "end": 1039.3,
+  "text": "er at man behandler skolen som om det var en bedrift, med fokus p\u00e5 rapportering og p\u00e5 resultater.",
+  "who": 9
+ },
+ {
+  "start": 1039.3,
+  "end": 1043.3,
+  "text": "Og en av de st\u00f8rste utfordringene vi har i skolen er frafall i videreg\u00e5ende skole.",
+  "who": 9
+ },
+ {
+  "start": 1043.3,
+  "end": 1049.3,
+  "text": "Og det her er masse ungdommer som har g\u00e5tt dritt lei rett og slett av \u00e5 m\u00f8te opp samme plass hver dag,",
+  "who": 9
+ },
+ {
+  "start": 1049.3,
+  "end": 1053.3,
+  "text": "og ikke oppleve at de mestrer det de g\u00e5r inn der og skal gj\u00f8re.",
+  "who": 9
+ },
+ {
+  "start": 1053.3,
+  "end": 1056.3,
+  "text": "Og det hadde jo vi blitt ogs\u00e5 som vaksne hvis vi skulle m\u00f8te opp p\u00e5 en arbeidspass hver dag,",
+  "who": 9
+ },
+ {
+  "start": 1056.3,
+  "end": 1060.3,
+  "text": "og aldri fikk p\u00e5 en m\u00e5te egentlig brukt det som vi har i oss p\u00e5 en god m\u00e5te.",
+  "who": 9
+ },
+ {
+  "start": 1060.3,
+  "end": 1066.3,
+  "text": "S\u00e5 i gr\u00f8nn skolepolitikk s\u00e5 er vi opptatt av \u00e5 f\u00e5 mindre press og stress og testing i skolen,",
+  "who": 9
+ },
+ {
+  "start": 1066.3,
+  "end": 1070.3,
+  "text": "og s\u00e5 m\u00e5 vi s\u00e5vel ha l\u00e6rere som har tillit og tid til \u00e5 m\u00f8te den enkelte eleven.",
+  "who": 9
+ },
+ {
+  "start": 1070.3,
+  "end": 1073.3,
+  "text": "Men da trenger du flere kvalifiserte l\u00e6rere, selvf\u00f8lgelig,",
+  "who": 9
+ },
+ {
+  "start": 1073.3,
+  "end": 1077.3,
+  "text": "og s\u00e5 trenger du at de nyutdanne l\u00e6reren har god st\u00f8tte n\u00e5r de f\u00f8rst begynner jobben.",
+  "who": 9
+ },
+ {
+  "start": 1077.3,
+  "end": 1081.3,
+  "text": "S\u00e5 vi trenger \u00e5 bruke mer ressurser p\u00e5 oppf\u00f8lging og r\u00e5dgivning,",
+  "who": 9
+ },
+ {
+  "start": 1081.3,
+  "end": 1084.3,
+  "text": "og et st\u00f8ttapparat rundt de l\u00e6rere som velger \u00e5 bli l\u00e6rere.",
+  "who": 9
+ },
+ {
+  "start": 1084.3,
+  "end": 1087.3,
+  "text": "Det er de aller viktigste n\u00f8kkepersonene til \u00e5 m\u00f8te eleven,",
+  "who": 9
+ },
+ {
+  "start": 1087.3,
+  "end": 1091.3,
+  "text": "s\u00e5nn at de faktisk f\u00f8ler mestring gjennom de ti \u00e5rene f\u00f8r de kommer p\u00e5 videreg\u00e5ende.",
+  "who": 9
+ },
+ {
+  "start": 1091.3,
+  "end": 1094.3,
+  "text": "Men dette er jo en helt feil riktighetsbeskrivelse.",
+  "who": 10
+ },
+ {
+  "start": 1094.3,
+  "end": 1098.3,
+  "text": "Ropsa, nei, n\u00e5 er du p\u00e5 et bibliotek.",
+  "who": 1
+ },
+ {
+  "start": 1098.3,
+  "end": 1104.3,
+  "text": "Jonas Karlst\u00f8re, det at flere fullf\u00f8rer under den regjeringen,",
+  "who": 1
+ },
+ {
+  "start": 1104.3,
+  "end": 1106.3,
+  "text": "tyr du ikke det p\u00e5 at skolen er blitt bedre?",
+  "who": 1
+ },
+ {
+  "start": 1105.95,
+  "end": 1108.95,
+  "text": "Jo, men vi har jo jobbet for \u00e5 f\u00e5 mer fullf\u00f8ring p\u00e5 l\u00e6rereutdanningen.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 1109.3,
+  "end": 1112.3,
+  "text": "Men det viktige er \u00e5 f\u00e5 gjennom folk gjennom videreg\u00e5ende utdanning,",
+  "who": 2
+ },
+ {
+  "start": 1112.3,
+  "end": 1117.3,
+  "text": "og jeg frykter at n\u00e5r vi n\u00e5 har en av fem l\u00e6rere som ikke har l\u00e6rerkvalifikasjoner,",
+  "who": 2
+ },
+ {
+  "start": 1117.3,
+  "end": 1122.3,
+  "text": "s\u00e5 g\u00e5r det ut over trivselen, og det g\u00e5r ut over muligheten til \u00e5 gjennomf\u00f8re videreg\u00e5ende.",
+  "who": 2
+ },
+ {
+  "start": 1122.3,
+  "end": 1124.3000000000002,
+  "text": "Men jeg er ogs\u00e5 opptatt av disse l\u00e6rere.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 1124.3000000000002,
+  "end": 1127.3000000000004,
+  "text": "De har st\u00e5tt i frontlinjen under koronatiden.",
+  "who": 2
+ },
+ {
+  "start": 1127.3000000000004,
+  "end": 1130.3000000000004,
+  "text": "Vi etterlyste tidligere i \u00e5r at de burde sikres vaksine,",
+  "who": 2
+ },
+ {
+  "start": 1130.3000000000004,
+  "end": 1133.3000000000004,
+  "text": "slik at de var helt sikre p\u00e5 at de var trygge om smitten spretter seg.",
+  "who": 2
+ },
+ {
+  "start": 1133.3000000000004,
+  "end": 1137.3000000000004,
+  "text": "Da skolen begynte n\u00e5 i h\u00f8st, s\u00e5 var 6 av 10 ikke f\u00e5tt to doser.",
+  "who": 2
+ },
+ {
+  "start": 1137.3000000000004,
+  "end": 1140.3000000000004,
+  "text": "Det mener jeg et uttrykk fra disse l\u00e6rere som st\u00e5r i den f\u00f8rste linjen.",
+  "who": 2
+ },
+ {
+  "start": 1140.3000000000004,
+  "end": 1143.3000000000004,
+  "text": "S\u00e5 man krever en arbeidsdag, jeg er helt enig med mine kolleger her,",
+  "who": 2
+ },
+ {
+  "start": 1143.3000000000004,
+  "end": 1146.3000000000004,
+  "text": "alt for mye testing, papirer og ting de m\u00e5 gjennom,",
+  "who": 2
+ },
+ {
+  "start": 1146.75,
+  "end": 1148.7500000000002,
+  "text": "vi m\u00e5 vise dem tillit p\u00e5 en ny m\u00e5te.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 1148.7500000000002,
+  "end": 1151.7500000000002,
+  "text": "Det har noe med rekruttering \u00e5 gj\u00f8re, det har noe med utdanning \u00e5 gj\u00f8re,",
+  "who": 2
+ },
+ {
+  "start": 1151.7500000000002,
+  "end": 1153.7500000000002,
+  "text": "og det har noe med beholdet dem \u00e5 gj\u00f8re.",
+  "who": 2
+ },
+ {
+  "start": 1153.92,
+  "end": 1154.4533333333334,
+  "text": "Solberg.",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 1154.3,
+  "end": 1158.3,
+  "text": "For det f\u00f8rste s\u00e5 er det jeg vil si, vi avskilter ikke l\u00e6rere, vi utdanner l\u00e6rere.",
+  "who": 3
+ },
+ {
+  "start": 1158.3,
+  "end": 1160.3,
+  "text": "Vi s\u00f8rger for at alle f\u00e5r tilbud.",
+  "who": 3
+ },
+ {
+  "start": 1160.3,
+  "end": 1164.3,
+  "text": "Og det som skjedde under den r\u00f8de gr\u00f8nne regjeringen var at man \u00f8kte antallet,",
+  "who": 3
+ },
+ {
+  "start": 1164.3,
+  "end": 1169.3,
+  "text": "man skulle gi utdanning, men man fikk aldri nok l\u00e6rere som kommunene hadde godkjent.",
+  "who": 3
+ },
+ {
+  "start": 1169.3,
+  "end": 1174.3,
+  "text": "N\u00e5r vi innf\u00f8rte dette kompetansekravet, s\u00e5 fikk vi frem alle de som trengte det.",
+  "who": 3
+ },
+ {
+  "start": 1174.3,
+  "end": 1179.3,
+  "text": "Derfor er det jo s\u00e5nn at uten det kravet, s\u00e5 hadde vi hatt 47 000 som faktisk hadde f\u00e5tt dette,",
+  "who": 3
+ },
+ {
+  "start": 1179.3,
+  "end": 1182.3000000000002,
+  "text": "for kommunene var ikke villige til \u00e5 satse, n\u00e5 var de n\u00f8dt til \u00e5 satse.",
+  "who": 3,
+  "matched": true
+ },
+ {
+  "start": 1182.3000000000002,
+  "end": 1188.3000000000004,
+  "text": "Og s\u00e5 er det 5000 flere ungdommer som n\u00e5 g\u00e5r ut av skolen med et fagbrev i h\u00e5nden,",
+  "who": 3
+ },
+ {
+  "start": 1188.3000000000004,
+  "end": 1197.3000000000004,
+  "text": "eller med et bevittningsb\u00f8d for tre \u00e5r i teoretisk utdanning f\u00f8r universitetet.",
+  "who": 3
+ },
+ {
+  "start": 1197.93,
+  "end": 1202.93,
+  "text": "Jeg tror ikke vi er klare over hva det egentlig betyr i fremtidens arbeidsmarked.",
+  "who": 3,
+  "matched": true
+ },
+ {
+  "start": 1202.93,
+  "end": 1208.93,
+  "text": "Det betyr at det er 5000 flere barn som st\u00e5r berett til \u00e5 kunne klare arbeidsmarkedskrav bedre,",
+  "who": 3
+ },
+ {
+  "start": 1208.93,
+  "end": 1214.93,
+  "text": "ta mer utdanning, som er mer sannsynlig at de kommer til \u00e5 klare \u00e5 se arbeidsmarkedet.",
+  "who": 3
+ },
+ {
+  "start": 1214.93,
+  "end": 1218.93,
+  "text": "Derfor har vi bort m\u00e5l for neste periode at 5000 til skal v\u00e6re der.",
+  "who": 3
+ },
+ {
+  "start": 1218.93,
+  "end": 1222.93,
+  "text": "Derfor har jeg sagt at vi gjennomf\u00f8rer en helt gjennomf\u00f8ringsreform for \u00e5 f\u00e5 dette til,",
+  "who": 3
+ },
+ {
+  "start": 1222.93,
+  "end": 1229.93,
+  "text": "hvor vi skal s\u00f8rge for at ikke skolegangen blir veien til et utenforskap for barn og unge.",
+  "who": 3
+ },
+ {
+  "start": 1229.93,
+  "end": 1232.93,
+  "text": "Det er en utrolig viktig sosial investering for fremtiden,",
+  "who": 3
+ },
+ {
+  "start": 1232.93,
+  "end": 1235.93,
+  "text": "og kanskje det viktigste vi b\u00f8r samle oss om alle sammen,",
+  "who": 3
+ },
+ {
+  "start": 1235.93,
+  "end": 1238.93,
+  "text": "men det er mange som ikke vil ta de grepene som er n\u00f8dvendige,",
+  "who": 3,
+  "matched": true
+ },
+ {
+  "start": 1238.93,
+  "end": 1242.93,
+  "text": "for eksempel \u00e5 teste for \u00e5 finne hull i utdanningen.",
+  "who": 1
+ },
+ {
+  "start": 1242.3,
+  "end": 1245.3,
+  "text": "Det Solberg sier, er du en lystbakken, er at hvis du var kunskapsminister,",
+  "who": 1
+ },
+ {
+  "start": 1245.3,
+  "end": 1248.3,
+  "text": "s\u00e5 hadde elevene f\u00e5tt det verre under det.",
+  "who": 1
+ },
+ {
+  "start": 1248.3,
+  "end": 1253.3,
+  "text": "Det er feil, for det f\u00f8rste vi hadde gjort var \u00e5 bygge tillit til l\u00e6reren.",
+  "who": 6
+ },
+ {
+  "start": 1252.7,
+  "end": 1254.7,
+  "text": "Vi vil ha en tillitsreform i skolen.",
+  "who": 4,
+  "matched": true
+ },
+ {
+  "start": 1255.3,
+  "end": 1262.3,
+  "text": "N\u00e5r hun sier at hun ikke har avskiltet, s\u00e5 er det jo helt i motsettning til det l\u00e6reren selv opplever.",
+  "who": 6
+ },
+ {
+  "start": 1262.3,
+  "end": 1266.3,
+  "text": "Det som har skjedd disse \u00e5rene er at l\u00e6reren \u00f8nsker seg etter utdanning,",
+  "who": 6
+ },
+ {
+  "start": 1266.52,
+  "end": 1268.5199999999998,
+  "text": "men regjeringen tror at de m\u00e5 tvinges,",
+  "who": 4,
+  "matched": true
+ },
+ {
+  "start": 1268.5199999999998,
+  "end": 1273.5199999999998,
+  "text": "og s\u00e5 er de heller ikke i stand til \u00e5 skaffe nok etter utdanning til at alle kan f\u00e5 det inn i fristen.",
+  "who": 4
+ },
+ {
+  "start": 1273.5199999999998,
+  "end": 1278.5199999999998,
+  "text": "S\u00e5nne mange erfarne l\u00e6rere frykter for framtiden sin i skolen.",
+  "who": 4
+ },
+ {
+  "start": 1278.3,
+  "end": 1282.3,
+  "text": "Det l\u00e6reren trenger n\u00e5, det er mindre den mistilliten og nedsnakkingen de alltid f\u00e5r",
+  "who": 6
+ },
+ {
+  "start": 1282.3,
+  "end": 1283.3,
+  "text": "p\u00e5 den h\u00f8yre siden av makten.",
+  "who": 4
+ },
+ {
+  "start": 1283.3,
+  "end": 1289.3,
+  "text": "Det er en del av utfordringen i seg selv, knyttet til det vi m\u00e5 gj\u00f8re for \u00e5 stoppe l\u00e6rermangel.",
+  "who": 4
+ },
+ {
+  "start": 1289.3,
+  "end": 1291.3,
+  "text": "Det handler om tillit, vi trenger en tillitsreform i skolen.",
+  "who": 6
+ },
+ {
+  "start": 1291.3,
+  "end": 1294.3,
+  "text": "Det handler om status, vi m\u00e5 snakke opp skolen.",
+  "who": 4
+ },
+ {
+  "start": 1294.3,
+  "end": 1297.3,
+  "text": "Ogs\u00e5 handler det om betingelser, vi m\u00e5 ha en kommunekonomi som gj\u00f8r at l\u00e6reren",
+  "who": 6
+ },
+ {
+  "start": 1297.3,
+  "end": 1299.3,
+  "text": "kan f\u00e5 skikkelig betalt og skolen f\u00e5r ressurser.",
+  "who": 4
+ },
+ {
+  "start": 1299.3,
+  "end": 1304.3,
+  "text": "S\u00e5 det viktigste i skolenpolitikken, sak nummer 1, 2 og 3, det er \u00e5 satse p\u00e5 l\u00e6reren.",
+  "who": 6
+ },
+ {
+  "start": 1304.3,
+  "end": 1311.3,
+  "text": "Det var det aller siste ordet i denne runden. Vi skal videre i debatten, og vi skal ta en liten pause her.",
+  "who": 1
+ },
+ {
+  "start": 1311.3,
+  "end": 1317.3,
+  "text": "Men i pause s\u00e5 kan du chatte p\u00e5 TV2N med v\u00e5re kommentatorer.",
+  "who": 1
+ },
+ {
+  "start": 1317.3,
+  "end": 1321.3,
+  "text": "N\u00e5r vi er tilbake, s\u00e5 diskuterer vi abort.",
+  "who": 1
+ },
+ {
+  "start": 1321.3,
+  "end": 1327.3,
+  "text": "Det kan faktisk bli s\u00e5nn at det g\u00e5r mot en historisk endring av abortlevlover.",
+  "who": 1
+ },
+ {
+  "start": 1327.3,
+  "end": 1351.3,
+  "text": "Skjer det, f\u00f8lg med oss videre etter pausen.",
+  "who": 0
+ },
+ {
+  "start": 1351.12,
+  "end": 1353.1200000000001,
+  "text": "Velkommen tilbake til partilederbatten.",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 1353.3,
+  "end": 1358.3,
+  "text": "Hvis det blir regjeringsgifter, s\u00e5 kan det bli en historisk endring av abortlover.",
+  "who": 1
+ },
+ {
+  "start": 1358.3,
+  "end": 1365.3,
+  "text": "Vi \u00e5pner denne sekvensen med en duell, s\u00e5 Jonas Garsd\u00f8rer og Anna Solberg kan komme fram her.",
+  "who": 1
+ },
+ {
+  "start": 1365.3,
+  "end": 1371.3,
+  "text": "Jonas Garsd\u00f8rer, hvorfor er det n\u00f8dvendig \u00e5 endre abortlover n\u00e5?",
+  "who": 1
+ },
+ {
+  "start": 1371.75,
+  "end": 1377.7500000000002,
+  "text": "Dette er et f\u00f8lsomt tema som ber\u00f8rer kvinners liv. Mange kvinner har opplevd dette som et stort og alvorlig tema i livene deres.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 1377.7500000000002,
+  "end": 1381.7500000000002,
+  "text": "Abortloven v\u00e5r har fungert bra. Det har v\u00e6rt stor oppslutning n\u00e5.",
+  "who": 2
+ },
+ {
+  "start": 1381.7500000000002,
+  "end": 1387.7500000000002,
+  "text": "De siste \u00e5rene har den v\u00e6rt fors\u00f8kt strammet inn. Det kom fra Erna Solbergs side reservasjonsrett for leger.",
+  "who": 2
+ },
+ {
+  "start": 1387.95,
+  "end": 1393.95,
+  "text": "Ogs\u00e5 var det h\u00f8sten 2018 hvor de foreslo innstramning som en del av det at Kristelig Folkeparti skulle inn i regjering.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 1393.95,
+  "end": 1400.95,
+  "text": "Det mener jeg er negativ utvikling for kvinner, negativ utvikling for samfunnet. Vi vil v\u00e6re kunnskapsbaserte, hva er det som trengs?",
+  "who": 2
+ },
+ {
+  "start": 1400.95,
+  "end": 1406.95,
+  "text": "Det vi sier er at i dag er det selvbesemt abort til uke 12 av leventiden for foster\u00f8.",
+  "who": 2
+ },
+ {
+  "start": 1406.95,
+  "end": 1413.95,
+  "text": "95 prosent av svangerskapsabbrud skjer da. Ogs\u00e5 sier vi at fra uke 12 til uke 18 s\u00e5 m\u00e5 du i dag innnemme det.",
+  "who": 2
+ },
+ {
+  "start": 1413.95,
+  "end": 1421.95,
+  "text": "Det vil si at kvinnen m\u00e5 m\u00f8te for kvinner og menn som skal avgj\u00f8re for dem. 99 prosent av de s\u00f8knadene blir innvilget.",
+  "who": 2
+ },
+ {
+  "start": 1421.95,
+  "end": 1427.95,
+  "text": "Og da mener vi at det er i tr\u00e5d med v\u00e5r abortlov, det er i tr\u00e5d med \u00e5nden i den, at det er kvinnen som skal ha det siste ordet.",
+  "who": 2
+ },
+ {
+  "start": 1427.95,
+  "end": 1433.95,
+  "text": "Det er v\u00e5rt forslag. Ogs\u00e5 skal det v\u00e6re slik at alle kvinner da f\u00e5r et godt tilbud om helsehjelp.",
+  "who": 2
+ },
+ {
+  "start": 1433.95,
+  "end": 1438.95,
+  "text": "Fordi svangerskapsabbrudd mellom 12 og 18 uker er noe ganske annet enn f\u00f8r uke 12.",
+  "who": 2
+ },
+ {
+  "start": 1438.95,
+  "end": 1443.95,
+  "text": "Men det vil v\u00e6re i tr\u00e5d med kunnskap. N\u00e5 har vi ogs\u00e5 f\u00e5tt anledning til tidlig ultralyd,",
+  "who": 2
+ },
+ {
+  "start": 1443.95,
+  "end": 1448.95,
+  "text": "som gj\u00f8r at kvinner kan f\u00e5 mer kunnskap, og hvis de skal ha svangerskapsabbrudd kan det komme f\u00f8r uke 12.",
+  "who": 2
+ },
+ {
+  "start": 1448.95,
+  "end": 1453.95,
+  "text": "Men alts\u00e5 selvbestemmelse for kvinnen, det g\u00e5r vi inn for. Solberg?",
+  "who": 2
+ },
+ {
+  "start": 1453.3,
+  "end": 1460.3,
+  "text": "Jeg mener at denne abortloven vi har i dag har funnet et ganske godt punkt p\u00e5 vei av kvinners selvbestemthet,",
+  "who": 3
+ },
+ {
+  "start": 1460.3,
+  "end": 1467.3,
+  "text": "og s\u00e5 opp mot et gradvis st\u00f8rre rettsvend for et foster. Og det at vi har en nemt har fungert godt.",
+  "who": 3
+ },
+ {
+  "start": 1467.3,
+  "end": 1472.3,
+  "text": "De legger vekt p\u00e5 kvinns situasjon. Det skal de etter loven gj\u00f8re.",
+  "who": 3
+ },
+ {
+  "start": 1472.3,
+  "end": 1477.3,
+  "text": "De er ofte et veldig godt hjelpemiddel for kvinner i en vanskelig situasjon.",
+  "who": 3
+ },
+ {
+  "start": 1477.3,
+  "end": 1484.3,
+  "text": "Det er noen kvinner som ikke liker at jeg m\u00e5tte m\u00f8te en nemt. Andre har jo nettopp kommet ut og sagt at dette er faktisk positivt.",
+  "who": 3
+ },
+ {
+  "start": 1484.3,
+  "end": 1494.3,
+  "text": "Det er noen andre som opplever at de f\u00f8ler press fra partner og familie om \u00e5 ta abort, og kanskje har f\u00e5tt styrken til \u00e5 si at det egentlig ikke er mitt valg.",
+  "who": 3
+ },
+ {
+  "start": 1494.3,
+  "end": 1506.3,
+  "text": "Andre har ogs\u00e5 f\u00f8ler at syke barn og foster som kanskje har sykdommer, har f\u00e5tt hjelpen og st\u00f8tten til \u00e5 kunne ta et valg om \u00e5 abortere.",
+  "who": 3
+ },
+ {
+  "start": 1506.3,
+  "end": 1516.3,
+  "text": "Jeg synes vi egentlig har en god abortlov. Nettopp fordi den veier selvesamhetsretten til kvinner og opp mot fosterretsrettsverden, som blir st\u00f8rre etter hvert.",
+  "who": 3
+ },
+ {
+  "start": 1516.3,
+  "end": 1523.3,
+  "text": "12 til 18 uker er et forhold. De fleste f\u00e5r abort som s\u00f8ker om det da.",
+  "who": 3
+ },
+ {
+  "start": 1523.3,
+  "end": 1530.3,
+  "text": "Det jeg synes er vanskeligste \u00e5 forholde meg til er at mange av de du skal samarbeide med har n\u00e5 g\u00e5tt fra 18 til 22 uker.",
+  "who": 3
+ },
+ {
+  "start": 1530.3,
+  "end": 1536.3,
+  "text": "Vi er veldig n\u00e6rt det som er overlevelsen.",
+  "who": 3
+ },
+ {
+  "start": 1536.3,
+  "end": 1543.3,
+  "text": "Der st\u00e5r personell p\u00e5 sykehuset i Norge klar for \u00e5 hjelpe prematuren og barn i akkurat samme tidspunkt.",
+  "who": 3
+ },
+ {
+  "start": 1543.3,
+  "end": 1546.3,
+  "text": "Det h\u00e5per jeg du setter foten ned for at det ikke blir aktuelt.",
+  "who": 3
+ },
+ {
+  "start": 1546.3,
+  "end": 1552.3,
+  "text": "Uansett tror jeg nemtsystemet har fungerert godt. Vi legger vekk p\u00e5 kvinnens rettigheter.",
+  "who": 3
+ },
+ {
+  "start": 1552.3,
+  "end": 1557.3,
+  "text": "Samtidig gir det ogs\u00e5 en hjelp som er systematisk til alle som kommer.",
+  "who": 3
+ },
+ {
+  "start": 1557.3,
+  "end": 1560.3,
+  "text": "Setter du ned foten for 22 uker?",
+  "who": 1
+ },
+ {
+  "start": 1560.3,
+  "end": 1564.3,
+  "text": "Ja, det gj\u00f8r jeg. Jeg var helseminister og vi hadde den tematikken n\u00e5r er fosterrets overlevelse.",
+  "who": 2
+ },
+ {
+  "start": 1564.3,
+  "end": 1569.3,
+  "text": "Etter 18 uker m\u00e5 det v\u00e6re det systemet som det er i dag, det foresl\u00e5r vi ikke endringer i.",
+  "who": 2
+ },
+ {
+  "start": 1569.3,
+  "end": 1572.3,
+  "text": "Det g\u00e5r til kjernen av det som nemtsystemet gj\u00f8r.",
+  "who": 2
+ },
+ {
+  "start": 1572.3,
+  "end": 1575.3,
+  "text": "De som er i disse nemtene er flotte folk, de er dyktige og erfarne folk.",
+  "who": 2
+ },
+ {
+  "start": 1575.3,
+  "end": 1578.3,
+  "text": "Men mange av dem sier til meg at det er ikke riktig.",
+  "who": 2
+ },
+ {
+  "start": 1578.3,
+  "end": 1583.3,
+  "text": "At kvinnen skal sitte her foran oss og vi skal avgj\u00f8re, vi skal v\u00e6re st\u00f8ttende.",
+  "who": 2
+ },
+ {
+  "start": 1583.3,
+  "end": 1592.3,
+  "text": "Kvinnen har det siste ordet mener jeg er veldig viktig. Ingen kvinner tar lett p\u00e5 tema svangerskapsforbrudd etter uke 12.",
+  "who": 2
+ },
+ {
+  "start": 1592.61,
+  "end": 1596.61,
+  "text": "I Sverige har de dette opp til uke 18, det har ikke f\u00f8rt til \u00f8kning i antall aborter.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 1596.61,
+  "end": 1601.61,
+  "text": "N\u00e5 g\u00e5r abortene ned, og det er p\u00e5 grunn av opplysning, prevensjon og den type ting.",
+  "who": 2
+ },
+ {
+  "start": 1601.61,
+  "end": 1606.61,
+  "text": "Jeg har v\u00e6rt i tvil p\u00e5 dette, det skal jeg innr\u00f8mme.",
+  "who": 2
+ },
+ {
+  "start": 1606.61,
+  "end": 1611.61,
+  "text": "Jeg har snakket med f\u00f8dselsleger, jordm\u00f8der, de som er i nemtene, men ikke minst de kvinnene",
+  "who": 2
+ },
+ {
+  "start": 1611.61,
+  "end": 1618.61,
+  "text": "som har fortalt om at det \u00e5 sitte i nemtene var ydmykende, nedverdigende og en vanskelig situasjon.",
+  "who": 2
+ },
+ {
+  "start": 1618.61,
+  "end": 1626.61,
+  "text": "N\u00e5r 99,5 prosent av dem f\u00e5r det, s\u00e5 mener jeg vi skal holde prinsippet klart, det er kvinnes selvbestemmelse",
+  "who": 2
+ },
+ {
+  "start": 1626.61,
+  "end": 1631.61,
+  "text": "og samfunnet i denne veldig krevende situasjonen ofte skal stille opp med god helsehjelp, s\u00e5 hun er trygg i sitt valg.",
+  "who": 2
+ },
+ {
+  "start": 1631.3,
+  "end": 1636.3,
+  "text": "Men jeg er jo redd for at hvis vi tar vekk nemten, s\u00e5 blir det mindre enn helsehjelpene.",
+  "who": 3
+ },
+ {
+  "start": 1636.3,
+  "end": 1643.3,
+  "text": "Og at de f\u00e5 kvinner som det er f\u00e5 av, som har kanskje f\u00f8lt et press, ikke f\u00e5r den hjelpen",
+  "who": 3
+ },
+ {
+  "start": 1643.3,
+  "end": 1645.3,
+  "text": "som de trenger til \u00e5 kunne avverge det presset.",
+  "who": 3
+ },
+ {
+  "start": 1645.3,
+  "end": 1649.3,
+  "text": "For det er jo s\u00e5nn at selv om kvinner skal gj\u00f8re sine egne beskyttninger, s\u00e5 er det ikke alle kvinner",
+  "who": 3
+ },
+ {
+  "start": 1649.3,
+  "end": 1656.3,
+  "text": "som ikke opplever et press rundt seg. Det at vi har en nemt, bidrar til at det faktisk ogs\u00e5 er et reelt valg.",
+  "who": 3
+ },
+ {
+  "start": 1656.3,
+  "end": 1661.3,
+  "text": "Det andre som er viktig, og det viktigste vi gj\u00f8r, det er jo fortsatt det arbeidet som er \u00e5 bli f\u00e6rre,",
+  "who": 3
+ },
+ {
+  "start": 1661.3,
+  "end": 1666.3,
+  "text": "som har behov for abort, for det er flere u\u00f8nskete sangerskap i Norge.",
+  "who": 3
+ },
+ {
+  "start": 1666.53,
+  "end": 1672.53,
+  "text": "Og vi er n\u00e5 rekordlaft p\u00e5 det, s\u00e5 p\u00e5 en m\u00e5te burde vi legge hovedfokuset v\u00e5rt p\u00e5 diskusjonen,",
+  "who": 3,
+  "matched": true
+ },
+ {
+  "start": 1672.53,
+  "end": 1676.53,
+  "text": "hvordan sikrer vi at f\u00e6rre som mulig f\u00e5r, kommer i den situasjonen til \u00e5 s\u00f8ke.",
+  "who": 3
+ },
+ {
+  "start": 1676.3,
+  "end": 1679.3,
+  "text": "Men det var du som satt abortloven i spillen, og vi mener det vi gj\u00f8r.",
+  "who": 2
+ },
+ {
+  "start": 1679.3,
+  "end": 1682.3,
+  "text": "Det er ikke det p\u00e5 grunn av det du gjorde, men da m\u00e5 jeg bare sl\u00e5 fast det.",
+  "who": 2
+ },
+ {
+  "start": 1682.3,
+  "end": 1687.3,
+  "text": "Kristi Folkepartiet, som skal f\u00e5 snakke for seg i sikkerhet etterp\u00e5, de har foresl\u00e5et et grunnl\u00f8st forslag.",
+  "who": 2
+ },
+ {
+  "start": 1687.3,
+  "end": 1692.3,
+  "text": "Inn i grunnloven, noe som bare m\u00e5 forst\u00e5s slik at det ikke skal v\u00e6re rett til selvbestemt abort.",
+  "who": 2
+ },
+ {
+  "start": 1692.3,
+  "end": 1696.3,
+  "text": "Og du har ved to anledninger tidligere v\u00e6rt villig til \u00e5 gi i forhandlinger med KRF,",
+  "who": 2
+ },
+ {
+  "start": 1696.3,
+  "end": 1701.3,
+  "text": "for \u00e5 f\u00e5 det med og forandre lov, og det mener jeg skaper en usikkerhet for kvinner i en s\u00e5rbar situasjon.",
+  "who": 2
+ },
+ {
+  "start": 1701.3,
+  "end": 1703.3,
+  "text": "Selvbestemmelse er et viktig prinsipp.",
+  "who": 2
+ },
+ {
+  "start": 1703.3,
+  "end": 1705.3,
+  "text": "God helsehjelp, det er velferdsstaten p\u00e5 sitt beste.",
+  "who": 2
+ },
+ {
+  "start": 1705.3,
+  "end": 1708.3,
+  "text": "Det er ingen usikkerhet om du m\u00e5 h\u00f8re hvor vi ikke kommer til \u00e5 stemme for.",
+  "who": 3
+ },
+ {
+  "start": 1708.3,
+  "end": 1711.3,
+  "text": "Det er ingen usikkerhet om at vi kommer til \u00e5 st\u00e5 for kvinnes selvbestemt rett.",
+  "who": 3
+ },
+ {
+  "start": 1711.3,
+  "end": 1713.3,
+  "text": "Tusen takk til Duil Antane.",
+  "who": 1
+ },
+ {
+  "start": 1713.3,
+  "end": 1717.3,
+  "text": "N\u00e5 skal dere andre f\u00e5 kommentere det som de diskuterte her.",
+  "who": 1
+ },
+ {
+  "start": 1717.3,
+  "end": 1721.3,
+  "text": "Kjelling, hvorfor oppst\u00e5r? Hvilken klar utfordring? Er du imot selvbestemt abort?",
+  "who": 1
+ },
+ {
+  "start": 1721.3,
+  "end": 1727.3,
+  "text": "KRF er veldig tydelig p\u00e5 prim\u00e6rstandpunktet at vi \u00f8nsker en mer restriktiv lov enn i dag.",
+  "who": 10
+ },
+ {
+  "start": 1727.3,
+  "end": 1733.3,
+  "text": "Men den politiske realiteten er jo at det stender mer alene om mens fire av fem partier p\u00e5 venstre siden",
+  "who": 10
+ },
+ {
+  "start": 1733.3,
+  "end": 1736.3,
+  "text": "\u00f8nsker en radikal utvidelse av abortloven.",
+  "who": 10
+ },
+ {
+  "start": 1736.3,
+  "end": 1742.3,
+  "text": "Og jeg peker tydelig p\u00e5 den statsministeren fordi jeg er enig i at det er noen etiske dilemma her.",
+  "who": 10
+ },
+ {
+  "start": 1742.3,
+  "end": 1744.3,
+  "text": "Det er et veldig vanskelig sp\u00f8rsm\u00e5l.",
+  "who": 10
+ },
+ {
+  "start": 1744.3,
+  "end": 1748.3,
+  "text": "Men vi kan redde liv ned til veke 22 tidligere og tidligere.",
+  "who": 10
+ },
+ {
+  "start": 1748.3,
+  "end": 1756.3,
+  "text": "Parallelt med det vil jeg likevel fjerne alle rettighetene til barnet til veke 18 eller 22.",
+  "who": 10
+ },
+ {
+  "start": 1756.3,
+  "end": 1760.3,
+  "text": "Det som er bekymringen min er at dersom det er i f\u00e6r flertall,",
+  "who": 10
+ },
+ {
+  "start": 1760.3,
+  "end": 1763.3,
+  "text": "s\u00e5 tyder alt p\u00e5 at det faktisk blir en radikal utvidelse.",
+  "who": 10
+ },
+ {
+  "start": 1763.3,
+  "end": 1765.3,
+  "text": "Derfor er KRF s\u00e5 tydelig mot.",
+  "who": 10
+ },
+ {
+  "start": 1765.3,
+  "end": 1768.3,
+  "text": "Man kan bebedre \u00e5 avklare dette, Kjelling g\u00e5r for oppst\u00e5.",
+  "who": 1
+ },
+ {
+  "start": 1768.3,
+  "end": 1772.3,
+  "text": "Jeg vil svare \u00e6rlig. Er du imot selvbestemt abort?",
+  "who": 1
+ },
+ {
+  "start": 1772.3,
+  "end": 1775.3,
+  "text": "KRF sitt program er veldig tydelig.",
+  "who": 1
+ },
+ {
+  "start": 1775.3,
+  "end": 1778.3,
+  "text": "Er du imot selvbestemt abort personlig?",
+  "who": 1
+ },
+ {
+  "start": 1778.82,
+  "end": 1780.82,
+  "text": "KRF sier veldig tydelig to ting.",
+  "who": 10,
+  "matched": true
+ },
+ {
+  "start": 1780.3,
+  "end": 1784.3,
+  "text": "Hvis du vil svare om du er imot eller ikke?",
+  "who": 1
+ },
+ {
+  "start": 1784.73,
+  "end": 1786.7299999999998,
+  "text": "Dette er et veldig krevende sp\u00f8rsm\u00e5l.",
+  "who": 10,
+  "matched": true
+ },
+ {
+  "start": 1786.7299999999998,
+  "end": 1790.7299999999998,
+  "text": "Her er det mange etiske dilemma som kremmer tett p\u00e5 kvinner og par",
+  "who": 10
+ },
+ {
+  "start": 1790.7299999999998,
+  "end": 1792.7299999999998,
+  "text": "som er i en veldig s\u00e5rbar og krevende situasjon.",
+  "who": 10
+ },
+ {
+  "start": 1792.7299999999998,
+  "end": 1794.7299999999998,
+  "text": "Derfor sier KRF to ting.",
+  "who": 10
+ },
+ {
+  "start": 1794.7299999999998,
+  "end": 1798.7299999999998,
+  "text": "Det f\u00f8rste er \u00e5 \u00f8nske meg et nytt lovverk som i st\u00f8rre grad styrker",
+  "who": 10
+ },
+ {
+  "start": 1798.7299999999998,
+  "end": 1802.7299999999998,
+  "text": "fosterets menneskeverd og samtidig varter kvinnes helse og trygghet",
+  "who": 10
+ },
+ {
+  "start": 1802.7299999999998,
+  "end": 1804.7299999999998,
+  "text": "p\u00e5 en etisk forsvarlig m\u00e5te.",
+  "who": 10
+ },
+ {
+  "start": 1804.7299999999998,
+  "end": 1808.7299999999998,
+  "text": "For det andre er vi veldig opptatt av fortsette arbeid med \u00e5 redusere",
+  "who": 10
+ },
+ {
+  "start": 1808.7299999999998,
+  "end": 1809.7299999999998,
+  "text": "antallet av aborter.",
+  "who": 10
+ },
+ {
+  "start": 1809.7299999999998,
+  "end": 1812.7299999999998,
+  "text": "I 2012 var det 15 000, n\u00e5 er det nede i 11 000.",
+  "who": 10
+ },
+ {
+  "start": 1812.7299999999998,
+  "end": 1815.7299999999998,
+  "text": "Det er mye p\u00e5 grunn av at vi har \u00f8kt st\u00f8tten,",
+  "who": 10
+ },
+ {
+  "start": 1815.7299999999998,
+  "end": 1819.7299999999998,
+  "text": "tridobler st\u00f8tten til gravidis med uten jobb og gratis langtidsvirkning.",
+  "who": 10
+ },
+ {
+  "start": 1819.3,
+  "end": 1822.3,
+  "text": "Du ville ikke svare p\u00e5 sp\u00f8rsm\u00e5let, det respekterer jeg.",
+  "who": 1
+ },
+ {
+  "start": 1822.3,
+  "end": 1825.3,
+  "text": "Vi sier veldig tydelig i programmet at vi \u00f8nsker en tydelig utredning",
+  "who": 10
+ },
+ {
+  "start": 1825.3,
+  "end": 1830.3,
+  "text": "utifra et flertall, og for \u00e5 fortsette ordet s\u00e5 er ikke det realiteten n\u00e5.",
+  "who": 10
+ },
+ {
+  "start": 1830.3,
+  "end": 1833.3,
+  "text": "Nei, det er greit.",
+  "who": 5
+ },
+ {
+  "start": 1833.3,
+  "end": 1834.3,
+  "text": "Visparken.",
+  "who": 1
+ },
+ {
+  "start": 1834.3,
+  "end": 1838.3,
+  "text": "Jeg synes det er litt oppsiktsvekkende at KRF ikke ansvarer p\u00e5 det,",
+  "who": 6
+ },
+ {
+  "start": 1838.3,
+  "end": 1844.3,
+  "text": "fordi KRF er jo det eneste partiet her som ikke tydelig forsvarer abortloven",
+  "who": 6
+ },
+ {
+  "start": 1844.3,
+  "end": 1845.3,
+  "text": "og kvinnens sj\u00f8bestemmelse.",
+  "who": 4
+ },
+ {
+  "start": 1845.3,
+  "end": 1850.3,
+  "text": "Det ville jo v\u00e6rt nyttig \u00e5 forvite Ropstad om det er s\u00e5nn som de har det i Texas",
+  "who": 4
+ },
+ {
+  "start": 1850.3,
+  "end": 1854.3,
+  "text": "du vil ha det, seks uker om det er s\u00e5nn som de har det i Polen med forbud,",
+  "who": 4
+ },
+ {
+  "start": 1854.3,
+  "end": 1859.3,
+  "text": "for hvis dere skal gj\u00f8re abortloven til en hovedsak i denne valgkampen,",
+  "who": 4
+ },
+ {
+  "start": 1859.3,
+  "end": 1862.3,
+  "text": "s\u00e5 er det jo viktig \u00e5 f\u00e5 vite hva dere faktisk mener.",
+  "who": 6
+ },
+ {
+  "start": 1862.3,
+  "end": 1866.3,
+  "text": "Og n\u00e5 fremst\u00e5r du ogs\u00e5 som forsvarer av dagens abortlov,",
+  "who": 4
+ },
+ {
+  "start": 1866.15,
+  "end": 1868.1499999999999,
+  "text": "men det har jo KRF aldri v\u00e6rt.",
+  "who": 6,
+  "matched": true
+ },
+ {
+  "start": 1868.3,
+  "end": 1872.3,
+  "text": "Og jeg synes det er redelig \u00e5 be om et svar p\u00e5 det,",
+  "who": 4
+ },
+ {
+  "start": 1872.3,
+  "end": 1875.3,
+  "text": "om dere er for sj\u00f8lbestemmelse eller mot.",
+  "who": 4
+ },
+ {
+  "start": 1875.53,
+  "end": 1878.53,
+  "text": "Jo, men det er jo det som vi ikke l\u00f8fter denne debatten,",
+  "who": 10,
+  "matched": true
+ },
+ {
+  "start": 1878.53,
+  "end": 1883.53,
+  "text": "det dykkes spesielt SV i spissen som \u00f8nsker fri selvbestendt abort veke 22.",
+  "who": 10
+ },
+ {
+  "start": 1883.53,
+  "end": 1886.53,
+  "text": "S\u00e5 med seg er det veldig tydelig at den politiske realiteten er at det blir",
+  "who": 10
+ },
+ {
+  "start": 1886.53,
+  "end": 1891.53,
+  "text": "ikke et flertall i Stortinget neste periode for retningen KRF \u00f8nsker,",
+  "who": 10
+ },
+ {
+  "start": 1891.53,
+  "end": 1895.53,
+  "text": "men dessverre er det stor sannsynlighet for at det blir et flertall enten for veke 18",
+  "who": 10
+ },
+ {
+  "start": 1895.53,
+  "end": 1896.53,
+  "text": "eller s\u00e5 langt som veke 22.",
+  "who": 10
+ },
+ {
+  "start": 1896.3,
+  "end": 1899.3,
+  "text": "Ved du om du ogs\u00e5 vil beholde dagens abortlov?",
+  "who": 1
+ },
+ {
+  "start": 1899.3,
+  "end": 1902.3,
+  "text": "Og dagens abortlov har v\u00e6rt en veldig god lov,",
+  "who": 6
+ },
+ {
+  "start": 1902.3,
+  "end": 1908.3,
+  "text": "det har g\u00e5tt siden 1978, sikre kvinners selvbestemmelse og sikre ro.",
+  "who": 6
+ },
+ {
+  "start": 1908.3,
+  "end": 1911.3,
+  "text": "Og det her er et omr\u00e5de som det b\u00f8r v\u00e6re i st\u00f8rst mulig grad ro p\u00e5.",
+  "who": 6
+ },
+ {
+  "start": 1911.3,
+  "end": 1915.3,
+  "text": "Og der mener jeg at Ropstad og Erna Solberg b\u00e6rer et stort ansvar,",
+  "who": 6
+ },
+ {
+  "start": 1915.3,
+  "end": 1919.3,
+  "text": "fordi de trakk abortloven inn i en politisk hesthandel om makt",
+  "who": 6
+ },
+ {
+  "start": 1919.3,
+  "end": 1922.3,
+  "text": "og skapte masse uro og usikkerhet rundt hele lovverket.",
+  "who": 6
+ },
+ {
+  "start": 1922.3,
+  "end": 1925.3,
+  "text": "S\u00e5 det aller beste i denne typen sp\u00f8rsm\u00e5l er at vi har brede gode l\u00f8sninger",
+  "who": 6
+ },
+ {
+  "start": 1925.3,
+  "end": 1927.3,
+  "text": "som st\u00e5r s\u00e5 over tid.",
+  "who": 6
+ },
+ {
+  "start": 1927.3,
+  "end": 1931.3,
+  "text": "Og uke 12 har nettopp v\u00e6rt en s\u00e5 god l\u00f8sning trygt for den kvinnen",
+  "who": 6
+ },
+ {
+  "start": 1931.3,
+  "end": 1933.3,
+  "text": "eller det unge paret som er usikre.",
+  "who": 6
+ },
+ {
+  "start": 1933.71,
+  "end": 1935.7100000000003,
+  "text": "Men ogs\u00e5 et godt oppf\u00f8lgningssystem etterp\u00e5,",
+  "who": 6,
+  "matched": true
+ },
+ {
+  "start": 1935.7100000000003,
+  "end": 1937.7100000000003,
+  "text": "som vi alltid ser p\u00e5 hvordan vi kan gj\u00f8re ting bedre.",
+  "who": 6
+ },
+ {
+  "start": 1937.7100000000003,
+  "end": 1939.7100000000003,
+  "text": "Men hovedprinsippet har v\u00e6rt godt.",
+  "who": 6
+ },
+ {
+  "start": 1939.7100000000003,
+  "end": 1942.7100000000003,
+  "text": "Og jeg synes Ropstad og Solberg gjorde det veldig uklogt,",
+  "who": 6
+ },
+ {
+  "start": 1942.7100000000003,
+  "end": 1944.7100000000003,
+  "text": "fordi det i mange land er s\u00e5 mye konflikter.",
+  "who": 6
+ },
+ {
+  "start": 1944.7100000000003,
+  "end": 1946.7100000000003,
+  "text": "Det er s\u00e5 sterke ord.",
+  "who": 6
+ },
+ {
+  "start": 1946.7100000000003,
+  "end": 1948.7100000000003,
+  "text": "I USA og mange andre i Europa er det s\u00e5 sterke ord.",
+  "who": 6
+ },
+ {
+  "start": 1948.7100000000003,
+  "end": 1950.7100000000003,
+  "text": "Og n\u00e5r dere dro det inn i en maktpolitisk spill,",
+  "who": 6
+ },
+ {
+  "start": 1950.7100000000003,
+  "end": 1952.7100000000003,
+  "text": "s\u00e5 har vi ogs\u00e5 f\u00e5tt opp konflikten her.",
+  "who": 6
+ },
+ {
+  "start": 1952.3,
+  "end": 1954.3,
+  "text": "Og n\u00e5 m\u00e5 vi ro det ned i stedet for \u00e5 gi det opp.",
+  "who": 1
+ },
+ {
+  "start": 1954.3,
+  "end": 1958.3,
+  "text": "Ved du om, kan du sitte i en regjering som utvidet grenseforskj\u00f8l",
+  "who": 1
+ },
+ {
+  "start": 1958.3,
+  "end": 1961.3,
+  "text": "bestemte bort fra 12 til 18 veker?",
+  "who": 1
+ },
+ {
+  "start": 1961.3,
+  "end": 1963.3,
+  "text": "Vi i Senterpart er veldig tyde p\u00e5 hva vi \u00f8nsker.",
+  "who": 6
+ },
+ {
+  "start": 1963.3,
+  "end": 1965.3,
+  "text": "Og det er i uke 12, og s\u00e5 har vi ogs\u00e5 en annen tradisjon.",
+  "who": 6
+ },
+ {
+  "start": 1965.3,
+  "end": 1967.3,
+  "text": "Har du lisense i regjering, da?",
+  "who": 1
+ },
+ {
+  "start": 1967.3,
+  "end": 1969.3,
+  "text": "Poenget er at vi \u00f8nsker for gjennomslag i regjering,",
+  "who": 6
+ },
+ {
+  "start": 1969.3,
+  "end": 1971.3,
+  "text": "og det gjorde vi sist vi satte i regjering.",
+  "who": 6
+ },
+ {
+  "start": 1971.3,
+  "end": 1973.3,
+  "text": "Det var det ro og trygget rundt abortloven.",
+  "who": 6
+ },
+ {
+  "start": 1973.3,
+  "end": 1975.3,
+  "text": "Og det var gjennomtenkt de endringene man kom med.",
+  "who": 6
+ },
+ {
+  "start": 1975.3,
+  "end": 1977.3,
+  "text": "Det var ikke en del av et eller annet politisk spill.",
+  "who": 6
+ },
+ {
+  "start": 1977.3,
+  "end": 1979.3,
+  "text": "Og det er det vi ogs\u00e5 \u00f8nsker framover.",
+  "who": 6
+ },
+ {
+  "start": 1979.3,
+  "end": 1981.3,
+  "text": "Ro og trygget rundt abortloven.",
+  "who": 6
+ },
+ {
+  "start": 1981.3,
+  "end": 1983.3,
+  "text": "Og s\u00e5 har heldigvis vi i Senterpart en tradisjon p\u00e5",
+  "who": 6
+ },
+ {
+  "start": 1984.35,
+  "end": 1988.75,
+  "text": "at vi binder ikke opp hver enkelt i den type dype etiske sp\u00f8rsm\u00e5l.",
+  "who": 6,
+  "matched": true
+ },
+ {
+  "start": 1988.75,
+  "end": 1990.7500000000002,
+  "text": "Men det vi \u00f8nsker er brede l\u00f8sninger.",
+  "who": 6
+ },
+ {
+  "start": 1990.7500000000002,
+  "end": 1993.7500000000002,
+  "text": "Og vi mener at den loven som har tjent oss fra 1978",
+  "who": 6
+ },
+ {
+  "start": 1993.7500000000002,
+  "end": 1996.7500000000002,
+  "text": "har tjent oss veldig godt \u00e5 dempe konflikter.",
+  "who": 6
+ },
+ {
+  "start": 1996.7500000000002,
+  "end": 1998.7500000000002,
+  "text": "Og dette er en typisk politisk debatt",
+  "who": 6
+ },
+ {
+  "start": 1998.7500000000002,
+  "end": 2001.7500000000002,
+  "text": "der vi vil snakke med innstemme, respekt.",
+  "who": 6
+ },
+ {
+  "start": 2001.7500000000002,
+  "end": 2003.7500000000002,
+  "text": "For det er s\u00e5 delvis vanskelig for mange av de, spesielt unge damer",
+  "who": 6
+ },
+ {
+  "start": 2003.7500000000002,
+  "end": 2005.7500000000002,
+  "text": "som har st\u00e5tt i den situasjonen.",
+  "who": 1
+ },
+ {
+  "start": 2005.3,
+  "end": 2011.3,
+  "text": "S\u00e5 det setter medlemmene fritt i denne saken her.",
+  "who": 1
+ },
+ {
+  "start": 2011.3,
+  "end": 2015.3,
+  "text": "Og s\u00e5 fremst sexpartiet, men hva mener du selv, Sylvie Listauk?",
+  "who": 1
+ },
+ {
+  "start": 2015.13,
+  "end": 2017.7700000000002,
+  "text": "Ja, som sagt, det er et samvittighetssp\u00f8rsm\u00e5l, s\u00e5 alle st\u00e5r fritt.",
+  "who": 7,
+  "matched": true
+ },
+ {
+  "start": 2017.7700000000002,
+  "end": 2021.7700000000002,
+  "text": "Men personlig s\u00e5 synes jeg at dagens lov har fungert bra.",
+  "who": 7
+ },
+ {
+  "start": 2021.7700000000002,
+  "end": 2026.7700000000002,
+  "text": "Det som er et paradoks er jo at alle her er enige om at man skal f\u00e5 ta det valget selv",
+  "who": 7
+ },
+ {
+  "start": 2026.7700000000002,
+  "end": 2029.7700000000002,
+  "text": "innenfor den ramma som ligger i dag.",
+  "who": 7
+ },
+ {
+  "start": 2029.7700000000002,
+  "end": 2032.7700000000002,
+  "text": "Men n\u00e5r barnet er f\u00f8dt, da skal politikerne begynne \u00e5 blande seg inn i",
+  "who": 7
+ },
+ {
+  "start": 2032.7700000000002,
+  "end": 2034.7700000000002,
+  "text": "hvordan man f\u00e5r dele permission.",
+  "who": 7
+ },
+ {
+  "start": 2034.3,
+  "end": 2036.3,
+  "text": "Det er en annen debatt.",
+  "who": 1
+ },
+ {
+  "start": 2036.3,
+  "end": 2038.3,
+  "text": "Det er en annen debatt, det er vi helt enige om.",
+  "who": 1
+ },
+ {
+  "start": 2038.3,
+  "end": 2042.3,
+  "text": "Men bare til slutt, jeg synes det er rart trygge at du skal samarbeide med parti",
+  "who": 7
+ },
+ {
+  "start": 2042.3,
+  "end": 2047.3,
+  "text": "nok enn han skal 18 uker, er du lyst p\u00e5 at han skal alts\u00e5 uke 22?",
+  "who": 7
+ },
+ {
+  "start": 2047.65,
+  "end": 2051.9833333333336,
+  "text": "For kort tid siden ble det f\u00f8dt et barn i Storbritannia i uke 21.",
+  "who": 7,
+  "matched": true
+ },
+ {
+  "start": 2052.3,
+  "end": 2056.3,
+  "text": "Det betyr alts\u00e5 at man vil \u00e5pne opp for abort p\u00e5 et tidspunkt der vi n\u00e5 kan",
+  "who": 7
+ },
+ {
+  "start": 2056.3,
+  "end": 2058.3,
+  "text": "begynne \u00e5 redde liv.",
+  "who": 7
+ },
+ {
+  "start": 2058.3,
+  "end": 2061.3,
+  "text": "Jeg mener det er grotesk, og jeg synes det er rart og trygge at vi vil",
+  "who": 7
+ },
+ {
+  "start": 2061.3,
+  "end": 2062.3,
+  "text": "samarbeide med s\u00e5nne partier.",
+  "who": 7
+ },
+ {
+  "start": 2062.3,
+  "end": 2064.3,
+  "text": "Er du enig i det, B\u00f8ren?",
+  "who": 1
+ },
+ {
+  "start": 2064.3,
+  "end": 2066.3,
+  "text": "Vi er jo til v\u00e5rt standpunkt.",
+  "who": 6
+ },
+ {
+  "start": 2066.3,
+  "end": 2068.3,
+  "text": "Er du enig i beskrivelsen der?",
+  "who": 6
+ },
+ {
+  "start": 2068.3,
+  "end": 2072.3,
+  "text": "Ikke alle ord av dramaturgien rundt, men jeg er helt enig at det \u00e5 \u00e5pne opp",
+  "who": 6
+ },
+ {
+  "start": 2072.3,
+  "end": 2076.3,
+  "text": "for abort i uke 21 eller uke 22 er grunnleggende feil, for da kan du v\u00e6re p\u00e5",
+  "who": 6
+ },
+ {
+  "start": 2076.3,
+  "end": 2080.3,
+  "text": "den ene rommet enn abort og den andre enn f\u00f8destue, og foster er nesten",
+  "who": 6
+ },
+ {
+  "start": 2080.3,
+  "end": 2081.3,
+  "text": "like gammelt.",
+  "who": 6
+ },
+ {
+  "start": 2081.3,
+  "end": 2084.3,
+  "text": "Men jeg \u00f8nsker ikke ogs\u00e5 \u00e5 fornemmiserer min liste p\u00e5 det, for v\u00e5rt standpunkt",
+  "who": 6
+ },
+ {
+  "start": 2084.3,
+  "end": 2085.3,
+  "text": "er s\u00e5 tydelig.",
+  "who": 6
+ },
+ {
+  "start": 2085.3,
+  "end": 2086.3,
+  "text": "Vi \u00f8nsker uke 12.",
+  "who": 6
+ },
+ {
+  "start": 2086.3,
+  "end": 2089.3,
+  "text": "Vi \u00f8nsker trygghet, og vi \u00f8nsker st\u00f8tte til de kvinner som st\u00e5r i den",
+  "who": 6
+ },
+ {
+  "start": 2089.3,
+  "end": 2090.3,
+  "text": "situasjonen.",
+  "who": 6
+ },
+ {
+  "start": 2090.3,
+  "end": 2092.3,
+  "text": "Under bast\u00e5len g\u00e5r det til veke 18 eller 22?",
+  "who": 1
+ },
+ {
+  "start": 2093.13,
+  "end": 2093.596666666667,
+  "text": "Uke 18.",
+  "who": 9,
+  "matched": true
+ },
+ {
+  "start": 2094.3,
+  "end": 2098.3,
+  "text": "Ropstad kaller det en radikal endring, men det er det ikke, for i de aller",
+  "who": 9
+ },
+ {
+  "start": 2098.3,
+  "end": 2103.3,
+  "text": "aller fleste tilfellene er kvinnene og nemdene helt enige i de her tilfellene.",
+  "who": 9
+ },
+ {
+  "start": 2103.3,
+  "end": 2107.3,
+  "text": "Ogs\u00e5 skal nemdene erstattes med god, faglig r\u00e5dgivning og st\u00f8tte.",
+  "who": 9
+ },
+ {
+  "start": 2107.3,
+  "end": 2111.3,
+  "text": "Og den st\u00f8tten, m\u00e5 jeg bare f\u00e5 si, den burde selvf\u00f8lgelig alle kvinner,",
+  "who": 9
+ },
+ {
+  "start": 2111.3,
+  "end": 2115.3,
+  "text": "det store flertallet av kvinner som opplever spontane aborter, og ogs\u00e5",
+  "who": 9
+ },
+ {
+  "start": 2115.3,
+  "end": 2117.3,
+  "text": "velge \u00e5 ta abort f\u00f8r uke 12 f\u00e5r.",
+  "who": 9
+ },
+ {
+  "start": 2117.3,
+  "end": 2120.3,
+  "text": "Og det er ogs\u00e5 s\u00e5nn, synes jeg, skremmende at ikke flere snakker om, og det er",
+  "who": 9
+ },
+ {
+  "start": 2120.3,
+  "end": 2122.3,
+  "text": "s\u00e5 typisk for kvinnehelse.",
+  "who": 9
+ },
+ {
+  "start": 2122.3,
+  "end": 2127.3,
+  "text": "Det er mer tabubelag, det brukes mindre penger p\u00e5, det forskes mindre p\u00e5, og s\u00e5nn",
+  "who": 9
+ },
+ {
+  "start": 2127.3,
+  "end": 2128.3,
+  "text": "har det v\u00e6rt i \u00e5revis.",
+  "who": 9
+ },
+ {
+  "start": 2128.3,
+  "end": 2131.3,
+  "text": "Og hvis du i tillegg er trans og f\u00f8dt i feil kropp, ja, da kan du i hvert fall",
+  "who": 9
+ },
+ {
+  "start": 2131.3,
+  "end": 2136.3,
+  "text": "banne p\u00e5 at ingen kommer til \u00e5 gi deg rettigheter og forsker p\u00e5 det du driver med.",
+  "who": 9
+ },
+ {
+  "start": 2136.3,
+  "end": 2138.3,
+  "text": "Fordi det prioriterer vi rett og slett ikke.",
+  "who": 9
+ },
+ {
+  "start": 2138.3,
+  "end": 2140.3,
+  "text": "S\u00e5 det her er ogs\u00e5 et sp\u00f8rsm\u00e5l om \u00e5 ivareta minoriteter.",
+  "who": 9
+ },
+ {
+  "start": 2140.3,
+  "end": 2145.3,
+  "text": "At vi ikke enda har en samtykkelov i Norge, som gj\u00f8r det tydelig at begge er",
+  "who": 9
+ },
+ {
+  "start": 2145.3,
+  "end": 2146.3,
+  "text": "to.",
+  "who": 1
+ },
+ {
+  "start": 2146.3,
+  "end": 2151.3,
+  "text": "Ja, men du m\u00e5 ofte ha sex f\u00f8r du kan ta abort, s\u00e5 det h\u00f8rer sammen.",
+  "who": 9
+ },
+ {
+  "start": 2151.3,
+  "end": 2155.3,
+  "text": "Dette handler om v\u00e6ren av kvinnehelse, det handler om kvinners rettigheter til \u00e5",
+  "who": 9
+ },
+ {
+  "start": 2155.3,
+  "end": 2158.3,
+  "text": "kunne bestemme over egen kropp.",
+  "who": 9
+ },
+ {
+  "start": 2158.3,
+  "end": 2159.3,
+  "text": "Da trenger du en samtykkelov.",
+  "who": 9
+ },
+ {
+  "start": 2159.3,
+  "end": 2163.3,
+  "text": "Dette gj\u00f8r at veldig mange unge kvinner, halvparten av overgrepene, seksuelle",
+  "who": 9
+ },
+ {
+  "start": 2163.3,
+  "end": 2165.3,
+  "text": "overgrepene, er barn under 18 \u00e5r.",
+  "who": 9
+ },
+ {
+  "start": 2165.3,
+  "end": 2166.3,
+  "text": "Ja.",
+  "who": 9
+ },
+ {
+  "start": 2166.3,
+  "end": 2168.3,
+  "text": "Bj\u00f8rnar Voxnes, 18 eller 22 veke?",
+  "who": 1
+ },
+ {
+  "start": 2168.3,
+  "end": 2174.3,
+  "text": "Nei, vi sier at s\u00e5 lenge abort er tillatt, s\u00e5 skal kvinnen bestemme, det vil si",
+  "who": 8
+ },
+ {
+  "start": 2174.3,
+  "end": 2175.3,
+  "text": "frem til uke 22.",
+  "who": 8
+ },
+ {
+  "start": 2175.3,
+  "end": 2181.3,
+  "text": "Husk p\u00e5 det, at kvinnebevegelsen kjemper jo fram abortloven i 70 \u00e5ra.",
+  "who": 8
+ },
+ {
+  "start": 2181.3,
+  "end": 2183.3,
+  "text": "Det var jo en lang og veldig hard kamp.",
+  "who": 8
+ },
+ {
+  "start": 2183.3,
+  "end": 2187.3,
+  "text": "Deres krav, det var aldri nemner.",
+  "who": 8
+ },
+ {
+  "start": 2187.3,
+  "end": 2190.3,
+  "text": "Deres krav, det var selvbestemmelse for kvinnen.",
+  "who": 8
+ },
+ {
+  "start": 2190.3,
+  "end": 2196.3,
+  "text": "Og vi mener at s\u00e5 lenge abort er tillatt innenfor lovens grenser, s\u00e5 skal vi ikke",
+  "who": 8
+ },
+ {
+  "start": 2196.3,
+  "end": 2198.3,
+  "text": "ha disse nemnene.",
+  "who": 8
+ },
+ {
+  "start": 2198.3,
+  "end": 2201.3,
+  "text": "Da er det kvinnen som skal ta dette valget.",
+  "who": 8
+ },
+ {
+  "start": 2201.3,
+  "end": 2205.3,
+  "text": "Alternativet er jo at noen andre tar det valget for henne.",
+  "who": 8
+ },
+ {
+  "start": 2205.3,
+  "end": 2210.3,
+  "text": "De mener vi er umyndiggj\u00f8rende, og mange sier ogs\u00e5 har de erfart det, at nemnene",
+  "who": 8
+ },
+ {
+  "start": 2210.3,
+  "end": 2212.3,
+  "text": "oppleves umyndiggj\u00f8rende.",
+  "who": 8
+ },
+ {
+  "start": 2212.3,
+  "end": 2215.3,
+  "text": "Det oppleves som en fornedrende opplevelse.",
+  "who": 8
+ },
+ {
+  "start": 2215.3,
+  "end": 2220.3,
+  "text": "Det er ingen grunn til \u00e5 ha disse n\u00e5r vi kan sl\u00e5 ringer rundt og styrke",
+  "who": 8
+ },
+ {
+  "start": 2220.3,
+  "end": 2221.3,
+  "text": "selvbestemmelsen.",
+  "who": 8
+ },
+ {
+  "start": 2221.3,
+  "end": 2227.3,
+  "text": "Og det stemmer ikke at det er vi som har skapt uro rundt abortloven.",
+  "who": 8
+ },
+ {
+  "start": 2227.3,
+  "end": 2231.3,
+  "text": "Vi har jo tatt videre det prinsippet som er til grunn for abortloven, og tatt det",
+  "who": 8
+ },
+ {
+  "start": 2231.3,
+  "end": 2236.3,
+  "text": "videre til lovens grense, nemluke 22, mens andre partier \u00f8nsker \u00e5 \u00e5penbart",
+  "who": 8
+ },
+ {
+  "start": 2236.3,
+  "end": 2240.3,
+  "text": "\u00e5 innskrenke den, og fra \u00e5 ta kvinners rettigheter.",
+  "who": 8
+ },
+ {
+  "start": 2240.3,
+  "end": 2243.3,
+  "text": "Vi vil g\u00e5 den andre retningen og styrke selvbestemmelsen, for det er viktig",
+  "who": 8
+ },
+ {
+  "start": 2243.3,
+  "end": 2246.3,
+  "text": "for som prinsipp, og ogs\u00e5 for \u00e5 sikre at man unng\u00e5r nemnbehandling.",
+  "who": 8
+ },
+ {
+  "start": 2246.3,
+  "end": 2249.3,
+  "text": "Takk s\u00e5 r\u00e5d, Bj\u00f8rn Amoksen. Jeg sier gud i Melby.",
+  "who": 1
+ },
+ {
+  "start": 2249.3,
+  "end": 2253.3,
+  "text": "Det vil g\u00e5 til vekke 12 n\u00e5r det gjelder selvbestemmelse.",
+  "who": 1
+ },
+ {
+  "start": 2253.3,
+  "end": 2254.3,
+  "text": "Nei, vekke 18.",
+  "who": 1
+ },
+ {
+  "start": 2254.47,
+  "end": 2258.4700000000003,
+  "text": "Venstre er et liberalt parti, og vi mener at denne type dypt personlige",
+  "who": 5,
+  "matched": true
+ },
+ {
+  "start": 2258.4700000000003,
+  "end": 2263.4700000000003,
+  "text": "vanskelige sp\u00f8rsm\u00e5l, de skal besluttes av den det gjelder, og ikke av oss politikere.",
+  "who": 5
+ },
+ {
+  "start": 2263.4700000000003,
+  "end": 2267.4700000000003,
+  "text": "Og s\u00e5 syns jeg at Jonas Garsd\u00f8re og andre har resonert veldig godt rundt",
+  "who": 5
+ },
+ {
+  "start": 2267.4700000000003,
+  "end": 2268.4700000000003,
+  "text": "disse nemndene.",
+  "who": 5
+ },
+ {
+  "start": 2268.4700000000003,
+  "end": 2272.4700000000003,
+  "text": "Jeg tror det er veldig mange dyktige fagfolk som sitter i nemndene i dag,",
+  "who": 5
+ },
+ {
+  "start": 2272.4700000000003,
+  "end": 2278.4700000000003,
+  "text": "og gir god veiledning, men hvis det er en kvinne som opplever det fornedrende,",
+  "who": 5
+ },
+ {
+  "start": 2278.4700000000003,
+  "end": 2280.4700000000003,
+  "text": "s\u00e5 er det en kvinne for mye.",
+  "who": 5
+ },
+ {
+  "start": 2280.4700000000003,
+  "end": 2284.4700000000003,
+  "text": "Det systemet b\u00f8r bli fjerne, og vi b\u00f8r innf\u00f8re selvbestemt abort",
+  "who": 5
+ },
+ {
+  "start": 2284.4700000000003,
+  "end": 2285.4700000000003,
+  "text": "til og med uke 18.",
+  "who": 5
+ },
+ {
+  "start": 2285.4700000000003,
+  "end": 2289.4700000000003,
+  "text": "P\u00e5 Borgelig siden er Venstre det eneste partiet som er den klare forkjemperen",
+  "who": 5
+ },
+ {
+  "start": 2289.4700000000003,
+  "end": 2294.4700000000003,
+  "text": "for dette, og det h\u00e5per jeg at velgerne merker seg, og det er helt uaktuelt",
+  "who": 5
+ },
+ {
+  "start": 2294.4700000000003,
+  "end": 2297.4700000000003,
+  "text": "\u00e5 g\u00e5 inn p\u00e5 noen innstr\u00f8mninger i abortloven.",
+  "who": 5
+ },
+ {
+  "start": 2297.3,
+  "end": 2302.3,
+  "text": "S\u00e5 Venstre, hvis det blir regjeringsgifte, vil stemme for \u00e5 utvide",
+  "who": 1
+ },
+ {
+  "start": 2302.3,
+  "end": 2305.3,
+  "text": "selvbestemt abort til vekke 18, dersom regjeringen foresl\u00e5r det?",
+  "who": 1
+ },
+ {
+  "start": 2305.3,
+  "end": 2308.3,
+  "text": "Venstre er veldig tydelig i v\u00e5rt program. Vi \u00f8nsker \u00e5 utvide selvbestemmelsen",
+  "who": 5
+ },
+ {
+  "start": 2308.3,
+  "end": 2309.3,
+  "text": "til uke 18.",
+  "who": 5
+ },
+ {
+  "start": 2309.3,
+  "end": 2313.3,
+  "text": "Temer du til \u00e5 legge fram dette lovforslaget for Stortinget i l\u00f8pet av",
+  "who": 1
+ },
+ {
+  "start": 2313.3,
+  "end": 2315.3,
+  "text": "Haustens d\u00f8ra, hvis det f\u00e5r regjeringsmannen?",
+  "who": 1
+ },
+ {
+  "start": 2315.3,
+  "end": 2318.3,
+  "text": "Jeg er veldig enig med Trygve. Vi har litt ulik syn p\u00e5 dette.",
+  "who": 2
+ },
+ {
+  "start": 2318.3,
+  "end": 2321.3,
+  "text": "Dette er et sp\u00f8rsm\u00e5l som tjenes \u00e5 bli snakket om med innestemme,",
+  "who": 2
+ },
+ {
+  "start": 2321.3,
+  "end": 2323.3,
+  "text": "og at vi tar det bredt i Stortinget.",
+  "who": 2
+ },
+ {
+  "start": 2323.74,
+  "end": 2326.74,
+  "text": "Og at vi ikke lar partier p\u00e5 ytterkanten bestemme det.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 2326.74,
+  "end": 2329.74,
+  "text": "Og jeg mener til 22 er et ytterkantsstandpunkt.",
+  "who": 2
+ },
+ {
+  "start": 2330.1,
+  "end": 2331.0999999999995,
+  "text": "Det er jeg helt uenig i.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 2331.39,
+  "end": 2335.3900000000003,
+  "text": "For mellom 18 og 22, n\u00e5r vi f\u00f8lger med hva som skjer i mors liv",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 2335.3900000000003,
+  "end": 2338.3900000000003,
+  "text": "og med fosteret, s\u00e5 er det et standpunkt her ute.",
+  "who": 2
+ },
+ {
+  "start": 2338.3900000000003,
+  "end": 2340.3900000000003,
+  "text": "Men til uke 18 mener vi at Trygve p\u00e5 det.",
+  "who": 2
+ },
+ {
+  "start": 2340.3900000000003,
+  "end": 2342.3900000000003,
+  "text": "Og jeg er glad for det Guri Melbus gir.",
+  "who": 2
+ },
+ {
+  "start": 2342.3900000000003,
+  "end": 2347.3900000000003,
+  "text": "For her kan vi p\u00e5 en m\u00e5te diskutere, finne en bred samling.",
+  "who": 2
+ },
+ {
+  "start": 2347.3900000000003,
+  "end": 2350.3900000000003,
+  "text": "Senterpartiet og Fremskrittspartiet har vanlig \u00e5 fristille sine",
+  "who": 2
+ },
+ {
+  "start": 2350.3900000000003,
+  "end": 2352.3900000000003,
+  "text": "lepsenhanter. I Arbeiderpartiet i denne typen sp\u00f8rsm\u00e5l s\u00e5 har vi et",
+  "who": 2
+ },
+ {
+  "start": 2352.3900000000003,
+  "end": 2356.3900000000003,
+  "text": "landsm\u00f8te og vi har et klart standpunkt.",
+  "who": 2
+ },
+ {
+  "start": 2356.3900000000003,
+  "end": 2359.3900000000003,
+  "text": "Men vi er opptatt av \u00e5 ta dette med stor respekt og g\u00e5 fram p\u00e5 en m\u00e5te",
+  "who": 2
+ },
+ {
+  "start": 2359.3900000000003,
+  "end": 2361.3900000000003,
+  "text": "hvor vi tar det opp med de vi skal forhandle om regjering med.",
+  "who": 2
+ },
+ {
+  "start": 2361.3900000000003,
+  "end": 2364.3900000000003,
+  "text": "Og s\u00e5 f\u00e5r vi diskutere det p\u00e5 klok m\u00e5te i Stortinget.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 2363.3,
+  "end": 2366.3,
+  "text": "Rops sa dette ser ut som at det blir en historisk endring.",
+  "who": 1
+ },
+ {
+  "start": 2366.3,
+  "end": 2369.3,
+  "text": "N\u00e5r vi ser at det blir en stor endring i regjeringen for \u00e5 stramme inn",
+  "who": 1
+ },
+ {
+  "start": 2369.3,
+  "end": 2372.3,
+  "text": "abortlova, og n\u00e5 ser du kanskje at det blir den st\u00f8rste endringen",
+  "who": 1
+ },
+ {
+  "start": 2372.3,
+  "end": 2376.3,
+  "text": "siden 1978.",
+  "who": 1
+ },
+ {
+  "start": 2376.3,
+  "end": 2379.3,
+  "text": "Sitter du med svarte per i denne saken hvis han kan bruke det uttrykket?",
+  "who": 1
+ },
+ {
+  "start": 2379.3,
+  "end": 2382.3,
+  "text": "Nei, jeg h\u00e5per heller at velgerne merker seg det.",
+  "who": 10
+ },
+ {
+  "start": 2382.3,
+  "end": 2385.3,
+  "text": "Og jeg tror det er mange som er opptatt av dette sp\u00f8rsm\u00e5let.",
+  "who": 10
+ },
+ {
+  "start": 2385.3,
+  "end": 2388.3,
+  "text": "Og n\u00e5r han snakker om nemnes er jeg helt enig i at det er kjempeviktig",
+  "who": 10
+ },
+ {
+  "start": 2388.3,
+  "end": 2391.3,
+  "text": "apparat rundt kvinner, rundt parer.",
+  "who": 10
+ },
+ {
+  "start": 2391.3,
+  "end": 2394.3,
+  "text": "S\u00e5 det \u00f8nsker vi \u00e5 styrke og det kan vi godt se p\u00e5.",
+  "who": 10
+ },
+ {
+  "start": 2394.3,
+  "end": 2397.3,
+  "text": "Hvis det ikke blir noen konsekvenser, det er jeg helt uenig i.",
+  "who": 10
+ },
+ {
+  "start": 2397.3,
+  "end": 2400.3,
+  "text": "Og hvis de ikke vil lytte til KRF, s\u00e5 b\u00f8r de i hvert fall lytte til fagfolkene.",
+  "who": 10
+ },
+ {
+  "start": 2400.3,
+  "end": 2403.3,
+  "text": "Fordi det var en unders\u00f8kelse brant jordm\u00f8derne.",
+  "who": 10
+ },
+ {
+  "start": 2403.3,
+  "end": 2406.3,
+  "text": "Og der sa halvparten at de faktisk ville reservere seg",
+  "who": 10
+ },
+ {
+  "start": 2406.3,
+  "end": 2409.3,
+  "text": "dersom abortloven ble endret til veke 2022.",
+  "who": 10
+ },
+ {
+  "start": 2409.3,
+  "end": 2412.3,
+  "text": "Og det er jo fordi vi kan redde barn tidligere og tidligere.",
+  "who": 10
+ },
+ {
+  "start": 2412.3,
+  "end": 2415.3,
+  "text": "Og da vil det komme nye gr\u00e5zoner her.",
+  "who": 10
+ },
+ {
+  "start": 2415.3,
+  "end": 2418.3,
+  "text": "Og derfor kommer vi etter uavhengig regjering til \u00e5 kjempe mot denne radikale utvidelsen.",
+  "who": 10
+ },
+ {
+  "start": 2418.3,
+  "end": 2421.3,
+  "text": "En av grunnen til at det er viktig \u00e5 bruke innestemme i den debatten",
+  "who": 6
+ },
+ {
+  "start": 2421.3,
+  "end": 2424.3,
+  "text": "er at en skal vise respekt for de kvinner og de familiene",
+  "who": 4
+ },
+ {
+  "start": 2424.3,
+  "end": 2427.3,
+  "text": "som har v\u00e6rt i den vanskelig situasjonen, er i den vanskelig situasjonen.",
+  "who": 4
+ },
+ {
+  "start": 2427.3,
+  "end": 2430.3,
+  "text": "Det er mens en er borte. Derfor reagerer jeg p\u00e5 tonen i en del av de innleggene som kom her.",
+  "who": 4
+ },
+ {
+  "start": 2430.3,
+  "end": 2433.3,
+  "text": "Som f\u00e5r det til \u00e5 h\u00f8res ut som, i noen tilfeller,",
+  "who": 4
+ },
+ {
+  "start": 2433.3,
+  "end": 2437.3,
+  "text": "at det ikke foreg\u00e5r abortar i uke 19, 20 og 21 i Norge i dag.",
+  "who": 6
+ },
+ {
+  "start": 2437.3,
+  "end": 2441.3,
+  "text": "Men det gj\u00f8r det alts\u00e5. S\u00e5 denne diskusjonen handler ikke om",
+  "who": 6
+ },
+ {
+  "start": 2441.3,
+  "end": 2444.3,
+  "text": "grensene for n\u00e5r en skal kunne ta bort i Norge.",
+  "who": 4
+ },
+ {
+  "start": 2444.3,
+  "end": 2447.3,
+  "text": "Den handler kun om en ting. Om det skal v\u00e6re nevnt,",
+  "who": 4
+ },
+ {
+  "start": 2447.3,
+  "end": 2450.3,
+  "text": "om kvinnen skal siste ord eller ikke.",
+  "who": 4
+ },
+ {
+  "start": 2450.3,
+  "end": 2453.3,
+  "text": "Jeg vil ha med frabeidt en del av den spr\u00e5kbruken",
+  "who": 6
+ },
+ {
+  "start": 2453.3,
+  "end": 2456.3,
+  "text": "som kom fra lista her, for eksempel. Jeg tror det er viktig",
+  "who": 4
+ },
+ {
+  "start": 2456.3,
+  "end": 2459.3,
+  "text": "\u00e5 kunne f\u00f8re den diskusjonen p\u00e5 en respektfull m\u00e5te.",
+  "who": 4
+ },
+ {
+  "start": 2459.3,
+  "end": 2461.966666666667,
+  "text": "V\u00e5rt forslag er ikke s\u00e5 veldig radikalt.",
+  "who": 4,
+  "matched": true
+ },
+ {
+  "start": 2462.3,
+  "end": 2465.3,
+  "text": "Det kommer ikke til \u00e5 bety flere seinebortar.",
+  "who": 6
+ },
+ {
+  "start": 2465.3,
+  "end": 2468.3,
+  "text": "Det viser erfaringen fra Nederland, som for eksempel har en s\u00e5nn lov.",
+  "who": 4
+ },
+ {
+  "start": 2468.3,
+  "end": 2471.3,
+  "text": "Men det flytter makten, og grunnen til at vi har g\u00e5tt inn for det",
+  "who": 4
+ },
+ {
+  "start": 2471.3,
+  "end": 2474.3,
+  "text": "er jo at mange kvinner i den situasjonen,",
+  "who": 6
+ },
+ {
+  "start": 2474.45,
+  "end": 2477.45,
+  "text": "som for eksempel har f\u00e5tt p\u00e5 skje om at en har",
+  "who": 6,
+  "matched": true
+ },
+ {
+  "start": 2477.45,
+  "end": 2480.45,
+  "text": "et forsta som ikke kan leve opp, at det vil bli d\u00f8df\u00f8dt selv i magen,",
+  "who": 6
+ },
+ {
+  "start": 2480.3,
+  "end": 2483.3,
+  "text": "opplever nemden som en belastning.",
+  "who": 4
+ },
+ {
+  "start": 2483.3,
+  "end": 2486.3,
+  "text": "Da synes jeg man skal h\u00f8re p\u00e5 det.",
+  "who": 4
+ },
+ {
+  "start": 2486.3,
+  "end": 2489.3,
+  "text": "Ogs\u00e5 skal man i hvert fall ha respekt for at vi kan ha ulike syn p\u00e5 det",
+  "who": 6
+ },
+ {
+  "start": 2489.88,
+  "end": 2492.746666666667,
+  "text": "uten \u00e5 stemple noe som ytterligere g\u00e5r ned.",
+  "who": 6,
+  "matched": true
+ },
+ {
+  "start": 2492.3,
+  "end": 2495.3,
+  "text": "Det regler jeg p\u00e5. Vi er alle enige om",
+  "who": 4
+ },
+ {
+  "start": 2495.3,
+  "end": 2498.3,
+  "text": "at grensen for n\u00e5r det skal kunne ta seg bort i Norge",
+  "who": 6
+ },
+ {
+  "start": 2498.78,
+  "end": 2501.7799999999997,
+  "text": "skal f\u00f8lge levedyktighet. Derfor har vi ikke sagt",
+  "who": 6,
+  "matched": true
+ },
+ {
+  "start": 2501.7799999999997,
+  "end": 2504.7799999999997,
+  "text": "uke 22, vi har sagt levedyktighet.",
+  "who": 4
+ },
+ {
+  "start": 2504.3,
+  "end": 2507.3,
+  "text": "Hva rekner SV som levedyktige forsta?",
+  "who": 1
+ },
+ {
+  "start": 2507.3,
+  "end": 2510.3,
+  "text": "Det er ikke det vi som regner.",
+  "who": 6
+ },
+ {
+  "start": 2510.3,
+  "end": 2513.3,
+  "text": "Det er den rammen som i dag gjelder i den norske abortloven.",
+  "who": 6
+ },
+ {
+  "start": 2514.61,
+  "end": 2517.6099999999997,
+  "text": "Men poenget er at den kan komme til \u00e5 flytte seg",
+  "who": 6,
+  "matched": true
+ },
+ {
+  "start": 2517.6099999999997,
+  "end": 2520.6099999999997,
+  "text": "i tr\u00e5d med nettopp det som flere er inne p\u00e5 her.",
+  "who": 6
+ },
+ {
+  "start": 2520.6099999999997,
+  "end": 2523.6099999999997,
+  "text": "At det blir mulig \u00e5 redde, alts\u00e5 at det blir mulig",
+  "who": 4
+ },
+ {
+  "start": 2522.3,
+  "end": 2525.3,
+  "text": "for et forsta \u00e5 leve opp til det.",
+  "who": 4
+ },
+ {
+  "start": 2525.3,
+  "end": 2528.3,
+  "text": "Anna Solberg, det ser ut som at det er flertall",
+  "who": 1
+ },
+ {
+  "start": 2528.3,
+  "end": 2531.3,
+  "text": "for en endring av abortloven.",
+  "who": 1
+ },
+ {
+  "start": 2531.3,
+  "end": 2534.3,
+  "text": "N\u00e5r til og med Venstre g\u00e5r de mot det",
+  "who": 1
+ },
+ {
+  "start": 2534.3,
+  "end": 2537.3,
+  "text": "som er ditt sitt standpunkt, s\u00e5 ser det ut som",
+  "who": 1
+ },
+ {
+  "start": 2537.3,
+  "end": 2540.3,
+  "text": "at det blir det.",
+  "who": 1
+ },
+ {
+  "start": 2540.3,
+  "end": 2543.3,
+  "text": "Jeg mener vi kan diskutere hvordan nevnene fungerer.",
+  "who": 3
+ },
+ {
+  "start": 2543.3,
+  "end": 2546.3,
+  "text": "Jeg tror det er en myte rundt disse nevnene.",
+  "who": 3
+ },
+ {
+  "start": 2546.3,
+  "end": 2549.3,
+  "text": "De fleste av disse nevnene er en samtale med en lege.",
+  "who": 3
+ },
+ {
+  "start": 2549.3,
+  "end": 2552.3,
+  "text": "En samtale med en lege om hvorfor du s\u00f8ker abort,",
+  "who": 3
+ },
+ {
+  "start": 2552.3,
+  "end": 2555.3,
+  "text": "hva er behovene dine, og du kan f\u00e5 st\u00f8tte i det.",
+  "who": 3
+ },
+ {
+  "start": 2555.3,
+  "end": 2558.3,
+  "text": "Jeg synes jo at det har v\u00e6rt ganske mange",
+  "who": 3
+ },
+ {
+  "start": 2558.3,
+  "end": 2561.3,
+  "text": "gode historier fortalt om de som nettopp",
+  "who": 3
+ },
+ {
+  "start": 2561.3,
+  "end": 2564.3,
+  "text": "ser en abortsp\u00f8rsm\u00e5l.",
+  "who": 3
+ },
+ {
+  "start": 2564.3,
+  "end": 2567.3,
+  "text": "Det \u00e5 kunne snakke med noen, det \u00e5 v\u00e6re en nevn",
+  "who": 3
+ },
+ {
+  "start": 2567.3,
+  "end": 2570.3,
+  "text": "har bidra til at de har f\u00f8lt at burden",
+  "who": 3
+ },
+ {
+  "start": 2570.3,
+  "end": 2573.3,
+  "text": "har v\u00e6rt flyttet litt fra deres skuldre",
+  "who": 3
+ },
+ {
+  "start": 2573.3,
+  "end": 2576.3,
+  "text": "n\u00e5r de har et alvorlig syk barn til \u00e5 bestemme",
+  "who": 3
+ },
+ {
+  "start": 2576.3,
+  "end": 2579.3,
+  "text": "seg for \u00e5 ta seg en abort.",
+  "who": 3
+ },
+ {
+  "start": 2579.3,
+  "end": 2582.3,
+  "text": "Det er faktisk viktig med det st\u00f8tteapparatet.",
+  "who": 3
+ },
+ {
+  "start": 2582.3,
+  "end": 2585.3,
+  "text": "S\u00e5 m\u00e5 vi se hva som st\u00f8tteapparat kommer med dette.",
+  "who": 3
+ },
+ {
+  "start": 2585.3,
+  "end": 2588.3,
+  "text": "Det er noen ting vi har v\u00e6rt enige om f\u00f8r.",
+  "who": 3
+ },
+ {
+  "start": 2588.3,
+  "end": 2591.3,
+  "text": "For eksempel har vi v\u00e6rt enige om at kj\u00f8nn",
+  "who": 3
+ },
+ {
+  "start": 2591.3,
+  "end": 2594.3,
+  "text": "ikke skal opplyses f\u00f8r etter 12 uker.",
+  "who": 3
+ },
+ {
+  "start": 2594.3,
+  "end": 2597.3,
+  "text": "Det har v\u00e6rt begrunnet til at det ikke skulle opplyses",
+  "who": 3,
+  "matched": true
+ },
+ {
+  "start": 2597.3,
+  "end": 2600.3,
+  "text": "kj\u00f8nn i den tiden man hadde selv bestemt abort.",
+  "who": 3
+ },
+ {
+  "start": 2600.3,
+  "end": 2603.3,
+  "text": "Hvis du g\u00e5r til 18 uker s\u00e5 er kj\u00f8nn klart.",
+  "who": 3
+ },
+ {
+  "start": 2603.3,
+  "end": 2606.3,
+  "text": "Det er en del ting som vil falle i det \u00f8yeblikket.",
+  "who": 3
+ },
+ {
+  "start": 2606.3,
+  "end": 2609.3,
+  "text": "Jeg tror alle kvinner er veldig opptatt av",
+  "who": 3
+ },
+ {
+  "start": 2609.3,
+  "end": 2612.3,
+  "text": "situasjonen.",
+  "who": 3
+ },
+ {
+  "start": 2612.3,
+  "end": 2615.3,
+  "text": "Det er veldig mange kvinner som vet at det er",
+  "who": 3
+ },
+ {
+  "start": 2615.3,
+  "end": 2618.3,
+  "text": "ekstremt vanskelige saker b\u00e5de f\u00f8r og etter 12 uker.",
+  "who": 3
+ },
+ {
+  "start": 2618.3,
+  "end": 2621.3,
+  "text": "Men vi flytter noen grenser.",
+  "who": 3
+ },
+ {
+  "start": 2621.3,
+  "end": 2624.3,
+  "text": "Hvor en del av de tingene vi har v\u00e6rt enige om f\u00f8r,",
+  "who": 3
+ },
+ {
+  "start": 2624.3,
+  "end": 2627.3,
+  "text": "for eksempel opplysning om kj\u00f8nn, flytter nye grenser",
+  "who": 3
+ },
+ {
+  "start": 2627.3,
+  "end": 2630.3,
+  "text": "for oss som kan utvikle seg til \u00e5 endre",
+  "who": 3
+ },
+ {
+  "start": 2630.3,
+  "end": 2633.3,
+  "text": "hvordan samfunnet v\u00e5rt ser ut.",
+  "who": 1
+ },
+ {
+  "start": 2633.3,
+  "end": 2636.3,
+  "text": "Vi har veldig kort tid igjen i den sekvensen.",
+  "who": 1
+ },
+ {
+  "start": 2636.3,
+  "end": 2639.3,
+  "text": "Kan du svare om dette blir et lovforslag",
+  "who": 1
+ },
+ {
+  "start": 2639.3,
+  "end": 2642.3,
+  "text": "for oss dersom det blir regjeringsgift?",
+  "who": 1
+ },
+ {
+  "start": 2642.3,
+  "end": 2645.3,
+  "text": "Det kommer ikke raskere enn forsvarlig.",
+  "who": 2
+ },
+ {
+  "start": 2645.3,
+  "end": 2648.3,
+  "text": "Jeg synes det er \u00e5 snakke om hvor fin abortloven er",
+  "who": 2
+ },
+ {
+  "start": 2648.3,
+  "end": 2651.3,
+  "text": "n\u00e5r den er stabil og fungerer.",
+  "who": 1
+ },
+ {
+  "start": 2651.3,
+  "end": 2654.3,
+  "text": "Hun foreslo innstramming.",
+  "who": 2
+ },
+ {
+  "start": 2654.3,
+  "end": 2657.3,
+  "text": "Hun lokket med en innstramning.",
+  "who": 2
+ },
+ {
+  "start": 2657.3,
+  "end": 2660.3,
+  "text": "Vi \u00f8nsker \u00e5 videref\u00f8re prinsipp.",
+  "who": 2
+ },
+ {
+  "start": 2660.3,
+  "end": 2663.3,
+  "text": "Grensen p\u00e5 18 uker.",
+  "who": 2
+ },
+ {
+  "start": 2663.3,
+  "end": 2666.3,
+  "text": "Vi skal utrede hvordan helsehjelpene er gode.",
+  "who": 2
+ },
+ {
+  "start": 2666.3,
+  "end": 2669.3,
+  "text": "Takk skal du ha alle.",
+  "who": 1
+ },
+ {
+  "start": 2669.3,
+  "end": 2672.3,
+  "text": "Vi tar en puss tilbake.",
+  "who": 1
+ },
+ {
+  "start": 2672.3,
+  "end": 2675.3,
+  "text": "Det er varmt i v\u00e5rt studio her.",
+  "who": 1
+ },
+ {
+  "start": 2675.3,
+  "end": 2678.3,
+  "text": "Hva blir det n\u00e5r vi skal diskutere hva regjeringen f\u00e5r",
+  "who": 1
+ },
+ {
+  "start": 2678.3,
+  "end": 2681.3,
+  "text": "etter vanlig 13. september?",
+  "who": 1
+ },
+ {
+  "start": 2681.3,
+  "end": 2684.3,
+  "text": "Det jeg er spent p\u00e5 er en rykende fersk meningsm\u00e5ling",
+  "who": 1
+ },
+ {
+  "start": 2684.3,
+  "end": 2687.3,
+  "text": "som vi har spesialaget for denne debatten.",
+  "who": 1
+ },
+ {
+  "start": 2687.3,
+  "end": 2690.3,
+  "text": "S\u00e5 kan du g\u00e5 inn p\u00e5 TV2 enn\u00e5 og livechatte",
+  "who": 1
+ },
+ {
+  "start": 2690.3,
+  "end": 2696.3,
+  "text": "med v\u00e5re kommentatorer.",
+  "who": 1
+ },
+ {
+  "start": 2696.3,
+  "end": 2699.3,
+  "text": "Velkommen tilbake.",
+  "who": 0
+ },
+ {
+  "start": 2699.3,
+  "end": 2702.3,
+  "text": "Det er valgdagen 13. september.",
+  "who": null
+ },
+ {
+  "start": 2702.3,
+  "end": 2705.3,
+  "text": "Det er det som alle lurer p\u00e5.",
+  "who": 0
+ },
+ {
+  "start": 2705.3,
+  "end": 2708.3,
+  "text": "Hvordan ligger regjeringen?",
+  "who": 0
+ },
+ {
+  "start": 2708.3,
+  "end": 2711.3,
+  "text": "Det er det som alle lurer p\u00e5.",
+  "who": 0
+ },
+ {
+  "start": 2711.3,
+  "end": 2714.3,
+  "text": "Det er det som alle lurer p\u00e5.",
+  "who": 0
+ },
+ {
+  "start": 2714.3,
+  "end": 2717.3,
+  "text": "Det er det som alle lurer p\u00e5.",
+  "who": 0
+ },
+ {
+  "start": 2717.3,
+  "end": 2720.3,
+  "text": "Det er det som alle lurer p\u00e5.",
+  "who": 1
+ },
+ {
+  "start": 2720.3,
+  "end": 2723.3,
+  "text": "Det er det som alle lurer p\u00e5.",
+  "who": 1
+ },
+ {
+  "start": 2723.3,
+  "end": 2726.3,
+  "text": "Det er det som alle lurer p\u00e5.",
+  "who": 1
+ },
+ {
+  "start": 2726.3,
+  "end": 2729.3,
+  "text": "Hvordan ligger partiet annet bare fem dager f\u00f8r valgdagen?",
+  "who": 1
+ },
+ {
+  "start": 2729.47,
+  "end": 2731.403333333333,
+  "text": "Det skal vi pr\u00f8ve \u00e5 finne ut.",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 2732.3,
+  "end": 2735.3,
+  "text": "Vi setter over til Kjetil og Dale i Bergen med",
+  "who": 1
+ },
+ {
+  "start": 2735.3,
+  "end": 2738.3,
+  "text": "en rykende fersk meningsm\u00e5ling.",
+  "who": 11
+ },
+ {
+  "start": 2738.3,
+  "end": 2741.2999999999997,
+  "text": "Vi er klar med en helt fersk TV2 gallup fra Kantar.",
+  "who": 11,
+  "matched": true
+ },
+ {
+  "start": 2741.3,
+  "end": 2744.3,
+  "text": "Dette er en stor m\u00e5ling med 2500 spurt.",
+  "who": 11
+ },
+ {
+  "start": 2744.3,
+  "end": 2747.3,
+  "text": "De siste telefonene ble tatt i kveld.",
+  "who": 11
+ },
+ {
+  "start": 2747.69,
+  "end": 2750.6899999999996,
+  "text": "Her er tallene, og vi har en m\u00e5ling med sm\u00e5 endringer",
+  "who": 11,
+  "matched": true
+ },
+ {
+  "start": 2750.6899999999996,
+  "end": 2753.6899999999996,
+  "text": "foran oss. Se p\u00e5 h\u00f8yre her.",
+  "who": 11
+ },
+ {
+  "start": 2753.6899999999996,
+  "end": 2756.6899999999996,
+  "text": "Mest frem med 0,5 prosentpoeng.",
+  "who": 11
+ },
+ {
+  "start": 2756.6899999999996,
+  "end": 2759.6899999999996,
+  "text": "Snur med trenden etter fire m\u00e5linger med nedgang.",
+  "who": 11
+ },
+ {
+  "start": 2759.6899999999996,
+  "end": 2762.6899999999996,
+  "text": "I midten, akkurat her foran meg, har vi tre partier",
+  "who": 11
+ },
+ {
+  "start": 2762.6899999999996,
+  "end": 2765.6899999999996,
+  "text": "p\u00e5 fire talle. Milj\u00f8partiet De Gr\u00f8nne faller",
+  "who": 11
+ },
+ {
+  "start": 2765.6899999999996,
+  "end": 2768.6899999999996,
+  "text": "0,3 prosentpoeng og er med i klubben",
+  "who": 11
+ },
+ {
+  "start": 2768.6899999999996,
+  "end": 2771.6899999999996,
+  "text": "som kjemper mot sperregrensen.",
+  "who": 11
+ },
+ {
+  "start": 2771.6899999999996,
+  "end": 2774.6899999999996,
+  "text": "Centerpartiet og Arbeiderpartiet faller ogs\u00e5 litt",
+  "who": 11,
+  "matched": true
+ },
+ {
+  "start": 2774.6899999999996,
+  "end": 2777.6899999999996,
+  "text": "nok til at det f\u00e5r konsekvenser.",
+  "who": 11
+ },
+ {
+  "start": 2777.6899999999996,
+  "end": 2780.6899999999996,
+  "text": "Vi ser n\u00e5 p\u00e5 skjermen hva som skjer med det vi kaller for",
+  "who": 11
+ },
+ {
+  "start": 2780.6899999999996,
+  "end": 2783.6899999999996,
+  "text": "St\u00f8rres Dr\u00f8mme Regjering som best\u00e5r av Arbeiderpartiet",
+  "who": 11
+ },
+ {
+  "start": 2783.6899999999996,
+  "end": 2786.6899999999996,
+  "text": "selvf\u00f8lgelig, Centerpartiet, og s\u00e5 tar vi med SV",
+  "who": 11
+ },
+ {
+  "start": 2786.6899999999996,
+  "end": 2789.6899999999996,
+  "text": "i det regjeringens grunnlaget og f\u00e5r bare",
+  "who": 11
+ },
+ {
+  "start": 2789.6899999999996,
+  "end": 2792.6899999999996,
+  "text": "84 mandater p\u00e5 kveldens m\u00e5ling.",
+  "who": 11
+ },
+ {
+  "start": 2792.6899999999996,
+  "end": 2795.6899999999996,
+  "text": "Det er ikke flertall, dermed m\u00e5 St\u00f8rre s\u00f8ke st\u00f8tte",
+  "who": 11
+ },
+ {
+  "start": 2795.6899999999996,
+  "end": 2798.6899999999996,
+  "text": "fra R\u00f8dt eller Milj\u00f8partiet De Gr\u00f8nne",
+  "who": 11
+ },
+ {
+  "start": 2798.6899999999996,
+  "end": 2801.023333333333,
+  "text": "eller kanskje Kristelig Folkeparti.",
+  "who": 11,
+  "matched": true
+ },
+ {
+  "start": 2801.3,
+  "end": 2804.3,
+  "text": "Vi legger inn Milj\u00f8partiet De Gr\u00f8nne p\u00e5 venstre siden her",
+  "who": 11
+ },
+ {
+  "start": 2804.3,
+  "end": 2807.3,
+  "text": "med R\u00f8dt og ser du at venstre siden har 103 mandater",
+  "who": 11
+ },
+ {
+  "start": 2807.3,
+  "end": 2810.3,
+  "text": "p\u00e5 v\u00e5r m\u00e5ling, s\u00e5 er det 66 her",
+  "who": 11
+ },
+ {
+  "start": 2810.3,
+  "end": 2813.3,
+  "text": "p\u00e5 borgerlig side i kveld.",
+  "who": 11
+ },
+ {
+  "start": 2816.3,
+  "end": 2819.3,
+  "text": "Ja, Jonas Skar St\u00f8rre, det er R\u00f8yk Dr\u00f8mme Regjering",
+  "who": 1
+ },
+ {
+  "start": 2819.3,
+  "end": 2822.3,
+  "text": "av det, 84 mandater.",
+  "who": 1
+ },
+ {
+  "start": 2822.3,
+  "end": 2825.3,
+  "text": "Det var en r\u00f8yk som het Smelget p\u00e5 0,1 her og 0,3 der.",
+  "who": 2
+ },
+ {
+  "start": 2825.3,
+  "end": 2828.3,
+  "text": "Og du vet TV2 er best p\u00e5 tall.",
+  "who": 1
+ },
+ {
+  "start": 2829.36,
+  "end": 2831.626666666667,
+  "text": "Men det var 84 til de tre partiene",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 2831.626666666667,
+  "end": 2834.626666666667,
+  "text": "og 66 til de fire.",
+  "who": 2
+ },
+ {
+  "start": 2834.626666666667,
+  "end": 2837.626666666667,
+  "text": "103 p\u00e5 denne siden, s\u00e5 det som er m\u00e5lingenes tale",
+  "who": 2
+ },
+ {
+  "start": 2837.626666666667,
+  "end": 2840.626666666667,
+  "text": "er at det er et klart flertall for \u00e5 skifte kurs i Norge.",
+  "who": 2
+ },
+ {
+  "start": 2841.93,
+  "end": 2844.5966666666664,
+  "text": "Jeg har tro p\u00e5 at vi kan f\u00e5 til flertall",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 2844.5966666666664,
+  "end": 2847.5966666666664,
+  "text": "for de tre partiene.",
+  "who": 2
+ },
+ {
+  "start": 2847.5966666666664,
+  "end": 2850.5966666666664,
+  "text": "I g\u00e5r var det p\u00e5 85 og 86, s\u00e5 andre m\u00e5linger viser det.",
+  "who": 2
+ },
+ {
+  "start": 2850.5966666666664,
+  "end": 2853.5966666666664,
+  "text": "Jeg har tro p\u00e5 at det er mulig \u00e5 f\u00e5 til mandater.",
+  "who": 2
+ },
+ {
+  "start": 2853.5966666666664,
+  "end": 2856.5966666666664,
+  "text": "Det viktige er at det er et flertall for \u00e5 endre kurs,",
+  "who": 2
+ },
+ {
+  "start": 2856.5966666666664,
+  "end": 2859.5966666666664,
+  "text": "mindre ulikhet, sl\u00e5 ring om v\u00e5r felles velferd,",
+  "who": 2
+ },
+ {
+  "start": 2859.5966666666664,
+  "end": 2862.5966666666664,
+  "text": "skole og eldreomsorg som er et felles ansvar,",
+  "who": 2
+ },
+ {
+  "start": 2862.5966666666664,
+  "end": 2865.5966666666664,
+  "text": "mer aktiv distriktspolitikk og en rettferdig klimapolitikk.",
+  "who": 2
+ },
+ {
+  "start": 2865.5966666666664,
+  "end": 2868.5966666666664,
+  "text": "Og det kommer vi til \u00e5 finne ut av.",
+  "who": 2
+ },
+ {
+  "start": 2868.5966666666664,
+  "end": 2871.5966666666664,
+  "text": "De har alts\u00e5 66 mandater p\u00e5 denne m\u00e5lingen.",
+  "who": 2
+ },
+ {
+  "start": 2871.5966666666664,
+  "end": 2874.5966666666664,
+  "text": "Det er ikke avgjort f\u00f8r vi kommer til valget, men jeg er trygg p\u00e5 at vi",
+  "who": 2
+ },
+ {
+  "start": 2874.5966666666664,
+  "end": 2877.5966666666664,
+  "text": "kommer til \u00e5 kunne ta ansvar, finne en god l\u00f8sning p\u00e5 forsiden,",
+  "who": 2
+ },
+ {
+  "start": 2877.5966666666664,
+  "end": 2880.5966666666664,
+  "text": "jeg h\u00e5per med oss tre, for \u00e5 styre landet fremover.",
+  "who": 1
+ },
+ {
+  "start": 2879.3,
+  "end": 2882.3,
+  "text": "Selve Lise Taug, her ser du kanskje regjering som trenger st\u00f8tte",
+  "who": 1
+ },
+ {
+  "start": 2882.3,
+  "end": 2885.3,
+  "text": "fra R\u00f8dt og MDG.",
+  "who": 1
+ },
+ {
+  "start": 2885.3,
+  "end": 2888.3,
+  "text": "Er det rett som \u00e5penv\u00e6re seg for det, eller?",
+  "who": 1
+ },
+ {
+  "start": 2888.3,
+  "end": 2891.3,
+  "text": "Ja, definitivt. Mare rette for alle oljearbeidere.",
+  "who": 7
+ },
+ {
+  "start": 2891.3,
+  "end": 2894.3,
+  "text": "Mare rette for de som ser det at vi prenger oljeindustrien",
+  "who": 7
+ },
+ {
+  "start": 2894.3,
+  "end": 2897.3,
+  "text": "for \u00e5 leve i dette landet.",
+  "who": 7
+ },
+ {
+  "start": 2897.3,
+  "end": 2900.3,
+  "text": "I dag har jo ogs\u00e5 St\u00f8r v\u00e6rt ute og snakket om at de skal",
+  "who": 7
+ },
+ {
+  "start": 2900.3,
+  "end": 2903.3,
+  "text": "gj\u00f8re endringer p\u00e5 leiting og s\u00e5 videre.",
+  "who": 7
+ },
+ {
+  "start": 2903.3,
+  "end": 2906.3,
+  "text": "Det er klart at det kommer til \u00e5 ha store konsekvenser.",
+  "who": 7
+ },
+ {
+  "start": 2906.3,
+  "end": 2909.3,
+  "text": "S\u00e5 for Fremskrittspartiet skal vi st\u00e5 p\u00e5 alt vi kan",
+  "who": 7
+ },
+ {
+  "start": 2909.3,
+  "end": 2912.3,
+  "text": "for \u00e5 unng\u00e5 det.",
+  "who": 7
+ },
+ {
+  "start": 2912.3,
+  "end": 2915.3,
+  "text": "Det er jo det vi mener er feilmedisin,",
+  "who": 7
+ },
+ {
+  "start": 2915.3,
+  "end": 2918.3,
+  "text": "n\u00e5r vi trenger \u00e5 skape flere arbeidsplasser.",
+  "who": 7
+ },
+ {
+  "start": 2919.78,
+  "end": 2922.7799999999997,
+  "text": "S\u00e5 vi skal definitivt kjempe for \u00e5 unng\u00e5 dette r\u00f8dgr\u00f8nne kaoset",
+  "who": 7,
+  "matched": true
+ },
+ {
+  "start": 2922.7799999999997,
+  "end": 2925.7799999999997,
+  "text": "og sikre en regjering som sikrer oljen\u00e6ringen",
+  "who": 7
+ },
+ {
+  "start": 2927.91,
+  "end": 2930.91,
+  "text": "og som sikrer at dette landet har noe \u00e5 leve av fremover.",
+  "who": 7,
+  "matched": true
+ },
+ {
+  "start": 2930.91,
+  "end": 2933.91,
+  "text": "For det g\u00e5r ikke an b\u00e5de \u00e5 kutte de innteksdr\u00f8mmene",
+  "who": 7
+ },
+ {
+  "start": 2933.91,
+  "end": 2936.91,
+  "text": "som vi har og samtidig love gulle og gr\u00f8nne skoger til alle,",
+  "who": 7
+ },
+ {
+  "start": 2936.91,
+  "end": 2939.91,
+  "text": "slik som disse der holder p\u00e5 med.",
+  "who": 7
+ },
+ {
+  "start": 2939.91,
+  "end": 2942.91,
+  "text": "Bj\u00f8rnar M\u00e5ksnes, dette er vel en dr\u00f8mmeregjering for deg?",
+  "who": 1
+ },
+ {
+  "start": 2939.3,
+  "end": 2942.3,
+  "text": "Der du er p\u00e5 vippen, sammen med MDG.",
+  "who": 1
+ },
+ {
+  "start": 2946.23,
+  "end": 2947.963333333333,
+  "text": "Ja, det ser veldig bra ut,",
+  "who": 8,
+  "matched": true
+ },
+ {
+  "start": 2947.963333333333,
+  "end": 2950.963333333333,
+  "text": "men det viser jo at det \u00e5 f\u00e5 r\u00f8dt over sperregrensa",
+  "who": 8
+ },
+ {
+  "start": 2950.963333333333,
+  "end": 2953.963333333333,
+  "text": "er ogs\u00e5 avgj\u00f8rende for \u00e5 sikre flertall.",
+  "who": 8
+ },
+ {
+  "start": 2953.963333333333,
+  "end": 2956.963333333333,
+  "text": "Hvis du stemmer p\u00e5 R\u00f8dt i \u00e5r, s\u00e5 kan du jo f\u00e5 ti mandater.",
+  "who": 8
+ },
+ {
+  "start": 2956.963333333333,
+  "end": 2959.963333333333,
+  "text": "Vi har vel l\u00f8ft oss over 4%, s\u00e5 det er ganske spesielt",
+  "who": 8
+ },
+ {
+  "start": 2959.963333333333,
+  "end": 2962.963333333333,
+  "text": "at vi kan styrke venstre siden kraftig hvis vi tar den grensa.",
+  "who": 8
+ },
+ {
+  "start": 2962.963333333333,
+  "end": 2965.963333333333,
+  "text": "Ogs\u00e5 er det viktig her at vi har jo pr\u00f8vd",
+  "who": 8
+ },
+ {
+  "start": 2965.963333333333,
+  "end": 2968.963333333333,
+  "text": "bare r\u00f8dgr\u00f8nne regjering tidligere.",
+  "who": 8
+ },
+ {
+  "start": 2968.963333333333,
+  "end": 2971.963333333333,
+  "text": "Det er mye bra med det, men vi s\u00e5 at forskjellen \u00f8kte.",
+  "who": 8
+ },
+ {
+  "start": 2971.963333333333,
+  "end": 2974.5633333333326,
+  "text": "Det var en veldig passig milj\u00f8politikk,",
+  "who": 8,
+  "matched": true
+ },
+ {
+  "start": 2974.5633333333326,
+  "end": 2977.5633333333326,
+  "text": "og det \u00e5pna Barendshavet for \u00e5lreiting,",
+  "who": 8
+ },
+ {
+  "start": 2977.5633333333326,
+  "end": 2980.5633333333326,
+  "text": "s\u00e5 vi trenger jo ogs\u00e5 en sterk kraft til venstre",
+  "who": 8
+ },
+ {
+  "start": 2980.5633333333326,
+  "end": 2983.5633333333326,
+  "text": "for st\u00f8rres regjering, b\u00e5de for \u00e5 f\u00e5 ned forskjellene,",
+  "who": 8
+ },
+ {
+  "start": 2983.5633333333326,
+  "end": 2986.5633333333326,
+  "text": "skatte det rike mye mer rettferdig,",
+  "who": 8
+ },
+ {
+  "start": 2986.5633333333326,
+  "end": 2989.5633333333326,
+  "text": "f\u00e5 innf\u00f8rt gratis tannhelse i l\u00f8pet av neste fire\u00e5rsperiode,",
+  "who": 8
+ },
+ {
+  "start": 2989.5633333333326,
+  "end": 2992.5633333333326,
+  "text": "og ikke minst f\u00e5...",
+  "who": 1
+ },
+ {
+  "start": 2990.3,
+  "end": 2993.3,
+  "text": "Men hvorfor reagerer du...",
+  "who": 1
+ },
+ {
+  "start": 2993.3,
+  "end": 2996.3,
+  "text": "Hvordan reagerer du p\u00e5 at det st\u00f8rre g\u00e5r ut offentlig",
+  "who": 1
+ },
+ {
+  "start": 2996.3,
+  "end": 2999.3,
+  "text": "og ber velgerne de ikke stemmer p\u00e5 D og p\u00e5 MDG?",
+  "who": 1
+ },
+ {
+  "start": 2999.3,
+  "end": 3002.3,
+  "text": "Ja, det er ikke bare han som advarer.",
+  "who": 8
+ },
+ {
+  "start": 3002.3,
+  "end": 3005.3,
+  "text": "Det gj\u00f8r jo ogs\u00e5 Erna Solberg av en veldig god grunn,",
+  "who": 8
+ },
+ {
+  "start": 3005.3,
+  "end": 3008.3,
+  "text": "for hun ser at H\u00f8yres eneste h\u00e5p for \u00e5 kunne vinne valget",
+  "who": 8
+ },
+ {
+  "start": 3008.3,
+  "end": 3011.3,
+  "text": "er \u00e5 f\u00e5 oss under sperregrensen.",
+  "who": 8
+ },
+ {
+  "start": 3011.3,
+  "end": 3014.3,
+  "text": "Vi vet at du ikke st\u00f8tter Erna Solberg,",
+  "who": 1
+ },
+ {
+  "start": 3014.3,
+  "end": 3017.3,
+  "text": "men du kan komme til \u00e5 st\u00f8tte Jonas Gahr St\u00f8re.",
+  "who": 1
+ },
+ {
+  "start": 3017.3,
+  "end": 3020.3,
+  "text": "Men hvorfor reagerer du p\u00e5 at de ikke stemper i disse sm\u00e5 partiene her?",
+  "who": 1
+ },
+ {
+  "start": 3021.62,
+  "end": 3024.62,
+  "text": "Det er jo poenget mitt at jeg forst\u00e5r at Erna advarer,",
+  "who": 8,
+  "matched": true
+ },
+ {
+  "start": 3024.62,
+  "end": 3027.62,
+  "text": "men ikke er enklart st\u00f8rre advarer,",
+  "who": 8
+ },
+ {
+  "start": 3027.62,
+  "end": 3030.62,
+  "text": "fordi at med R\u00f8dt over sperregrensen vil han oppn\u00e5 to ting.",
+  "who": 8
+ },
+ {
+  "start": 3030.62,
+  "end": 3033.62,
+  "text": "For det f\u00f8rste, trygghet for nytt flertall,",
+  "who": 8
+ },
+ {
+  "start": 3033.62,
+  "end": 3036.62,
+  "text": "og for det andre, en kraft som kan trekke han i en mer rettferdig retning.",
+  "who": 8
+ },
+ {
+  "start": 3036.62,
+  "end": 3039.62,
+  "text": "For han skal jo frede 80 prosent av Erna Solbergs skatteekutt.",
+  "who": 8
+ },
+ {
+  "start": 3039.62,
+  "end": 3042.62,
+  "text": "Vi skal \u00f8ke skattene for det rike,",
+  "who": 8
+ },
+ {
+  "start": 3042.62,
+  "end": 3045.62,
+  "text": "for \u00e5 kunne finansiere tannhelse,",
+  "who": 8
+ },
+ {
+  "start": 3045.62,
+  "end": 3048.62,
+  "text": "kommune\u00f8konomi og ikke minst f\u00e5 forskjellene ned.",
+  "who": 8
+ },
+ {
+  "start": 3048.62,
+  "end": 3051.62,
+  "text": "Det er jo det vi i politiske standpunktene klapper for,",
+  "who": 8
+ },
+ {
+  "start": 3051.62,
+  "end": 3054.62,
+  "text": "og er glad for at han f\u00e5r oss p\u00e5 laget som en sterk kraft,",
+  "who": 8
+ },
+ {
+  "start": 3053.3,
+  "end": 3056.3,
+  "text": "for rettferdighet, p\u00e5 lag med de her partiene.",
+  "who": 1
+ },
+ {
+  "start": 3056.3,
+  "end": 3059.3,
+  "text": "Vil du klappe her n\u00e5, St\u00f8re?",
+  "who": 2
+ },
+ {
+  "start": 3059.3,
+  "end": 3062.3,
+  "text": "Vet du hva, hvis dette flertallet for Erna Solberg ryker,",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 3062.3,
+  "end": 3065.3,
+  "text": "s\u00e5 skal jeg snakke veldig fint med alle disse.",
+  "who": 2
+ },
+ {
+  "start": 3065.3,
+  "end": 3068.3,
+  "text": "Tror du vi kjenner meg i Moksnes som en fyr som lytter og snakker?",
+  "who": 2
+ },
+ {
+  "start": 3068.3,
+  "end": 3071.3,
+  "text": "Vi skal snakke om hva jeg tror vi er enig om i denne kursen.",
+  "who": 2
+ },
+ {
+  "start": 3071.3,
+  "end": 3074.3,
+  "text": "Det er uaktuelt for meg \u00e5 sitte i regjering med deg,",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 3074.3,
+  "end": 3077.3,
+  "text": "men det er noe med de politiske standpunktene hvor vi er for uenige.",
+  "who": 2
+ },
+ {
+  "start": 3077.3,
+  "end": 3080.3,
+  "text": "Men vi kan snakke godt sammen om det, men h\u00f8r n\u00e5.",
+  "who": 2
+ },
+ {
+  "start": 3080.3,
+  "end": 3083.3,
+  "text": "Dette skremmebildet, Sylvia Listau.",
+  "who": 2
+ },
+ {
+  "start": 3083.3,
+  "end": 3086.3,
+  "text": "I 2005 kom vi i regjering.",
+  "who": 2
+ },
+ {
+  "start": 3086.3,
+  "end": 3089.3,
+  "text": "Da advarte H\u00f8yresiden veldig med SV i regjering.",
+  "who": 2
+ },
+ {
+  "start": 3089.3,
+  "end": 3092.3,
+  "text": "I 2013 advarte vi veldig mot FRP i regjering.",
+  "who": 2
+ },
+ {
+  "start": 3092.3,
+  "end": 3095.3,
+  "text": "Da sa Erna Solberg, det husker jeg,",
+  "who": 2
+ },
+ {
+  "start": 3095.3,
+  "end": 3098.3,
+  "text": "at det \u00e5 advare med s\u00e5nne skremser funker ikke.",
+  "who": 2
+ },
+ {
+  "start": 3098.3,
+  "end": 3101.3,
+  "text": "Da jeg h\u00f8rte Erna, tenkte jeg at hun egentlig har rett.",
+  "who": 2
+ },
+ {
+  "start": 3101.3,
+  "end": 3104.3,
+  "text": "N\u00e5 er de i gang igjen, og Sylvia Listau er oppr\u00f8rt.",
+  "who": 2
+ },
+ {
+  "start": 3104.3,
+  "end": 3107.3,
+  "text": "Hva er det vi har sett i disse fire \u00e5rene?",
+  "who": 2
+ },
+ {
+  "start": 3107.3,
+  "end": 3110.3,
+  "text": "Disse har v\u00e6rt ut og inn av regjering med hverandre.",
+  "who": 2
+ },
+ {
+  "start": 3110.3,
+  "end": 3113.3,
+  "text": "Vi har byttet \u00e5tte justisminister.",
+  "who": 2
+ },
+ {
+  "start": 3113.3,
+  "end": 3116.3,
+  "text": "Noen byttet tannb\u00f8rster omtent i den rytmen.",
+  "who": 2
+ },
+ {
+  "start": 3116.3,
+  "end": 3119.3,
+  "text": "N\u00e5 er St\u00f8ttegjorde Sylvia Listau.",
+  "who": 2
+ },
+ {
+  "start": 3119.3,
+  "end": 3121.9,
+  "text": "Hun vil ikke gjennomf\u00f8re klimapolitikk.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 3122.3,
+  "end": 3125.3,
+  "text": "Hun tror ikke p\u00e5 Parisavtalen.",
+  "who": 2
+ },
+ {
+  "start": 3125.3,
+  "end": 3128.3,
+  "text": "N\u00e5r dere bruker tid p\u00e5 \u00e5 snakke om oss, s\u00e5 sett opp speilet p\u00e5 dere selv.",
+  "who": 2
+ },
+ {
+  "start": 3128.3,
+  "end": 3131.3,
+  "text": "Det er uklart hva vi f\u00e5r p\u00e5 den siden.",
+  "who": 2
+ },
+ {
+  "start": 3131.3,
+  "end": 3134.3,
+  "text": "Vi snakker gjerne om samarbeidsutfordringer og muligheter.",
+  "who": 2
+ },
+ {
+  "start": 3134.3,
+  "end": 3137.3,
+  "text": "Jammen, dere har litt \u00e5 st\u00e5 i med dere ogs\u00e5.",
+  "who": 7
+ },
+ {
+  "start": 3137.3,
+  "end": 3140.3,
+  "text": "Du er jo ute selv i dag og advarer mot MDG og R\u00f8dt.",
+  "who": 7
+ },
+ {
+  "start": 3140.3,
+  "end": 3143.3,
+  "text": "Det er jo et parti som vil legge ned oljen\u00e6ringen.",
+  "who": 7
+ },
+ {
+  "start": 3143.3,
+  "end": 3146.3,
+  "text": "Det er et kommunistisk parti som skal bruke masse penger",
+  "who": 7
+ },
+ {
+  "start": 3146.3,
+  "end": 3149.3,
+  "text": "for \u00e5 kj\u00f8pe opp selskap fra b\u00f8rs.",
+  "who": 7
+ },
+ {
+  "start": 3151.02,
+  "end": 3154.0199999999995,
+  "text": "Dette er det selskapet som du kan f\u00e5 p\u00e5 vippen.",
+  "who": 7,
+  "matched": true
+ },
+ {
+  "start": 3154.0199999999995,
+  "end": 3157.0199999999995,
+  "text": "Det Franskets parti skal garantere,",
+  "who": 7
+ },
+ {
+  "start": 3157.0199999999995,
+  "end": 3160.0199999999995,
+  "text": "er at vi skal gj\u00f8re alt vi kan for at du ikke skal bli statsminister.",
+  "who": 7
+ },
+ {
+  "start": 3160.0199999999995,
+  "end": 3163.0199999999995,
+  "text": "At vi f\u00e5r en h\u00f8yere Franskets parti regjering",
+  "who": 7
+ },
+ {
+  "start": 3163.0199999999995,
+  "end": 3166.0199999999995,
+  "text": "som vi hadde i fire \u00e5r, som var popul\u00e6r og ble gjenvalgt.",
+  "who": 7
+ },
+ {
+  "start": 3166.0199999999995,
+  "end": 3169.0199999999995,
+  "text": "Vi har sett i de siste \u00e5rene at Erna Solberg trenger h\u00f8yere.",
+  "who": 7
+ },
+ {
+  "start": 3169.0199999999995,
+  "end": 3172.0199999999995,
+  "text": "Nei, trenger FNP.",
+  "who": 7
+ },
+ {
+  "start": 3175.04,
+  "end": 3178.04,
+  "text": "Det har vi sett fordi vi ser at dere har v\u00e6rt med p\u00e5",
+  "who": 7,
+  "matched": true
+ },
+ {
+  "start": 3178.04,
+  "end": 3181.04,
+  "text": "\u00e5 g\u00e5 for elektrifisering av sokkel.",
+  "who": 7
+ },
+ {
+  "start": 3181.04,
+  "end": 3184.04,
+  "text": "De har disse str\u00f8mkablene ut p\u00e5 plattformer",
+  "who": 7
+ },
+ {
+  "start": 3184.04,
+  "end": 3187.04,
+  "text": "og sier h\u00f8yere str\u00f8mpriser.",
+  "who": 7
+ },
+ {
+  "start": 3187.04,
+  "end": 3188.5733333333337,
+  "text": "\u00d8kning av CO2 avgifter.",
+  "who": 7,
+  "matched": true
+ },
+ {
+  "start": 3188.5733333333337,
+  "end": 3191.5733333333337,
+  "text": "Dere har n\u00e5 lagt endringer i oljeskatten.",
+  "who": 7
+ },
+ {
+  "start": 3191.5733333333337,
+  "end": 3194.5733333333337,
+  "text": "Det er ting som dere ikke ville gjort, tror jeg,",
+  "who": 7
+ },
+ {
+  "start": 3194.5733333333337,
+  "end": 3197.5733333333337,
+  "text": "hvis dere hadde v\u00e6rt i regjering med Berre Franskets parti.",
+  "who": 7
+ },
+ {
+  "start": 3197.5733333333337,
+  "end": 3200.5733333333337,
+  "text": "Vi s\u00e5 at det vi fikk til var veldig bra for Norge.",
+  "who": 1
+ },
+ {
+  "start": 3197.3,
+  "end": 3200.3,
+  "text": "Hvordan skal du ha, Sylvie Listeg?",
+  "who": 1
+ },
+ {
+  "start": 3200.3,
+  "end": 3203.3,
+  "text": "Hvordan reagerer MDG p\u00e5 at man ikke f\u00e5r noen frier",
+  "who": 1
+ },
+ {
+  "start": 3203.3,
+  "end": 3206.3,
+  "text": "i fra Jonas Gahrs d\u00f8ra og Verrepartiet?",
+  "who": 1
+ },
+ {
+  "start": 3206.3,
+  "end": 3209.3,
+  "text": "Men beder folk om vi ikke stemmer p\u00e5 dere?",
+  "who": 1
+ },
+ {
+  "start": 3209.3,
+  "end": 3212.3,
+  "text": "Helt \u00e6rlig f\u00f8ler jeg ikke s\u00e5 mye rundt det.",
+  "who": 9
+ },
+ {
+  "start": 3212.3,
+  "end": 3215.3,
+  "text": "Jeg h\u00e5per at alle dem som \u00f8nsker at neste regjeringsprosjekt",
+  "who": 9
+ },
+ {
+  "start": 3215.3,
+  "end": 3218.3,
+  "text": "handler om \u00e5 ta p\u00e5 alvor at vi har en klimakrise.",
+  "who": 9
+ },
+ {
+  "start": 3218.3,
+  "end": 3221.3,
+  "text": "At FN har varsla kode r\u00f8d for menneskeheten.",
+  "who": 9
+ },
+ {
+  "start": 3221.3,
+  "end": 3224.3,
+  "text": "FNs generalsekret\u00e6r har ogs\u00e5 bett Norge og alle land",
+  "who": 9
+ },
+ {
+  "start": 3226.15,
+  "end": 3228.9500000000003,
+  "text": "som driver med utvinning av fossile energi",
+  "who": 9,
+  "matched": true
+ },
+ {
+  "start": 3228.9500000000003,
+  "end": 3231.95,
+  "text": "om \u00e5 slutte \u00e5 lete etter mer fossile energi.",
+  "who": 9
+ },
+ {
+  "start": 3231.95,
+  "end": 3234.9499999999994,
+  "text": "At de faktisk stemmer p\u00e5 Milj\u00f8partiet i grunnene",
+  "who": 9,
+  "matched": true
+ },
+ {
+  "start": 3234.9499999999994,
+  "end": 3237.95,
+  "text": "s\u00e5 vi kommer oss over sp\u00f8rregrenser.",
+  "who": 9
+ },
+ {
+  "start": 3237.95,
+  "end": 3240.95,
+  "text": "Det er en stor forskjell p\u00e5 hvordan jeg kommer til \u00e5 prioritere",
+  "who": 9
+ },
+ {
+  "start": 3240.95,
+  "end": 3243.95,
+  "text": "i de samtale jeg \u00f8nsker om Jonas Gahrs d\u00f8ra.",
+  "who": 9
+ },
+ {
+  "start": 3243.95,
+  "end": 3246.95,
+  "text": "Det tenker jeg er en helt \u00e6rlig sak, vi prioriterer forskjellig.",
+  "who": 9
+ },
+ {
+  "start": 3246.95,
+  "end": 3249.95,
+  "text": "Men jeg vil si at dersom valgresultatet viser",
+  "who": 9
+ },
+ {
+  "start": 3249.95,
+  "end": 3253.95,
+  "text": "som det lett kan gj\u00f8re at Jonas Gahrs d\u00f8ra blir avhengig av oss eller R\u00f8dt.",
+  "who": 9
+ },
+ {
+  "start": 3253.95,
+  "end": 3256.95,
+  "text": "S\u00e5 kommer vi til \u00e5 ta ansvar i den situasjonen.",
+  "who": 9
+ },
+ {
+  "start": 3256.95,
+  "end": 3259.95,
+  "text": "Jeg \u00f8nsker gjerne \u00e5 bli invitert i samtaler,",
+  "who": 9
+ },
+ {
+  "start": 3259.95,
+  "end": 3262.95,
+  "text": "og s\u00e5 h\u00e5per jeg at Jonas Gahrs d\u00f8ra",
+  "who": 9
+ },
+ {
+  "start": 3262.95,
+  "end": 3266.95,
+  "text": "kan gj\u00f8re som sine kollegaer i Danmark og i Storbritannia.",
+  "who": 9
+ },
+ {
+  "start": 3266.95,
+  "end": 3270.9500000000003,
+  "text": "Og v\u00e6re med p\u00e5 en samtale om \u00e5 slutte \u00e5 lete etter mer olje og gass.",
+  "who": 9,
+  "matched": true
+ },
+ {
+  "start": 3270.9500000000003,
+  "end": 3274.95,
+  "text": "For vi har kommet i en tid n\u00e5 hvor vi ikke trenger \u00e5 lete etter mer fossile ressurser.",
+  "who": 9
+ },
+ {
+  "start": 3274.95,
+  "end": 3278.9500000000003,
+  "text": "Vi har allerede funnet s\u00e5pass mye olje og gass p\u00e5 norsk sokkel",
+  "who": 9,
+  "matched": true
+ },
+ {
+  "start": 3278.9500000000003,
+  "end": 3281.6833333333334,
+  "text": "som skal utvinnes de neste \u00e5rene uansett.",
+  "who": 9,
+  "matched": true
+ },
+ {
+  "start": 3280.3,
+  "end": 3284.3,
+  "text": "S\u00e5 det vi alts\u00e5 \u00f8nsker \u00e5 ta, er \u00e5 ikke fortsette \u00e5 lete etter mer.",
+  "who": 1
+ },
+ {
+  "start": 3284.3,
+  "end": 3287.3,
+  "text": "Det var ikke hele innleggen, vi har veldig mye mer enn det der.",
+  "who": 9
+ },
+ {
+  "start": 3287.3,
+  "end": 3289.3,
+  "text": "Jeg bare lurer p\u00e5.",
+  "who": 1
+ },
+ {
+  "start": 3289.3,
+  "end": 3292.3,
+  "text": "N\u00e5 strammer det litt opp Trygve V. Slagsforovering.",
+  "who": 1
+ },
+ {
+  "start": 3292.3,
+  "end": 3296.3,
+  "text": "Og s\u00e5 skal jeg si. Statsminister Trygve Slagsvold Vedum.",
+  "who": 1
+ },
+ {
+  "start": 3296.3,
+  "end": 3299.3,
+  "text": "Gj\u00f8res det feil ut, eller?",
+  "who": 1
+ },
+ {
+  "start": 3299.3,
+  "end": 3302.3,
+  "text": "Det er bra, synes jeg, at det finnes noen utfordrer i norsk politikk.",
+  "who": 6
+ },
+ {
+  "start": 3302.3,
+  "end": 3304.3,
+  "text": "Det tror ikke realisme i det?",
+  "who": 1
+ },
+ {
+  "start": 3304.3,
+  "end": 3306.3,
+  "text": "Det er folk som bestemmer det.",
+  "who": 6
+ },
+ {
+  "start": 3306.3,
+  "end": 3309.3,
+  "text": "Hovedpoenget for Senterpartiet er at de trenger et skifte n\u00e5.",
+  "who": 6
+ },
+ {
+  "start": 3309.3,
+  "end": 3312.3,
+  "text": "For vi har hatt tidens mest sentasjerende regjering.",
+  "who": 6
+ },
+ {
+  "start": 3312.3,
+  "end": 3314.3,
+  "text": "Men er du fortsatt statsministerkandidat?",
+  "who": 1
+ },
+ {
+  "start": 3314.59,
+  "end": 3316.19,
+  "text": "Selvf\u00f8lgelig er jeg det.",
+  "who": 4,
+  "matched": true
+ },
+ {
+  "start": 3316.3,
+  "end": 3320.3,
+  "text": "Ok, takk skal du ha. Og s\u00e5 er det sp\u00f8rsm\u00e5l om du fortsatt holder p\u00e5.",
+  "who": 1
+ },
+ {
+  "start": 3320.3,
+  "end": 3324.3,
+  "text": "Du har f\u00e5tt et sp\u00f8rsm\u00e5l et tusen ganger om du vil samarbeide \u00e5pne d\u00f8ra for SV.",
+  "who": 1
+ },
+ {
+  "start": 3324.3,
+  "end": 3329.3,
+  "text": "Og s\u00e5 kommer du med denne her Senterparti baserte regjering som Autopiloten sl\u00e5r p\u00e5.",
+  "who": 1
+ },
+ {
+  "start": 3329.3,
+  "end": 3331.3,
+  "text": "Og det hakker plater.",
+  "who": 1
+ },
+ {
+  "start": 3331.3,
+  "end": 3337.3,
+  "text": "Kan du utvide, skubbe litt p\u00e5 den stiften, s\u00e5nn at vi h\u00f8rer litt mer av det reportaret?",
+  "who": 1
+ },
+ {
+  "start": 3337.3,
+  "end": 3342.3,
+  "text": "Er det lite glip i d\u00f8ra n\u00e5 til SV, eller er det ikke det?",
+  "who": 1
+ },
+ {
+  "start": 3342.3,
+  "end": 3344.3,
+  "text": "Grunnen for at du f\u00e5r det samme svar er at jeg mener det.",
+  "who": 6
+ },
+ {
+  "start": 3344.3,
+  "end": 3346.3,
+  "text": "Det kan ikke v\u00e6re s\u00e5nn at du skifter standpunktet av.",
+  "who": 6
+ },
+ {
+  "start": 3346.3,
+  "end": 3350.3,
+  "text": "Jeg skifter standpunktet av hver dag. Det er kanskje noe som har det som strategi.",
+  "who": 6
+ },
+ {
+  "start": 3350.3,
+  "end": 3353.3,
+  "text": "Men jeg mener at vi trenger s\u00e5 innledt skifte.",
+  "who": 6
+ },
+ {
+  "start": 3353.3,
+  "end": 3356.3,
+  "text": "For det har v\u00e6rt en s\u00e5nn sentasjerende politikk og en s\u00e5nn forskjellspolitikk.",
+  "who": 6
+ },
+ {
+  "start": 3356.3,
+  "end": 3360.3,
+  "text": "Og da mener jeg at det aller beste da vil v\u00e6re en regjering med Senterpartiet og AP.",
+  "who": 6
+ },
+ {
+  "start": 3360.3,
+  "end": 3364.3,
+  "text": "Vi \u00f8nsker \u00e5 ha en n\u00e6ringspolitikk, vi \u00f8nsker \u00e5 f\u00e5 avgiftene ned for folk,",
+  "who": 6
+ },
+ {
+  "start": 3364.3,
+  "end": 3367.3,
+  "text": "vi \u00f8nsker \u00e5 ha nasjonalt eierskap, naturresursene og utvikle hele Norge.",
+  "who": 6
+ },
+ {
+  "start": 3367.3,
+  "end": 3372.3,
+  "text": "For eksempel en jordmorteneste politi, god lokal beredskap, s\u00e5 trenger vi n\u00e5 en ny kurs.",
+  "who": 6
+ },
+ {
+  "start": 3372.3,
+  "end": 3377.3,
+  "text": "Og da mener jeg det er definitivt beste n\u00e5r vi f\u00e5r bytta ut H\u00f8yre og Fremskapspartiet som egentlig styrer n\u00e5.",
+  "who": 6
+ },
+ {
+  "start": 3377.3,
+  "end": 3380.3,
+  "text": "Det er en regjering med Senterpartiet og AP, og da skal vi klare \u00e5 utvikle Norge.",
+  "who": 6
+ },
+ {
+  "start": 3380.3,
+  "end": 3387.3,
+  "text": "N\u00e5 skal vi sette deg p\u00e5 en pr\u00f8ve som jeg lurer p\u00e5 om du klarer \u00e5 st\u00e5 for charmen til Audun Lysbakken.",
+  "who": 1
+ },
+ {
+  "start": 3387.3,
+  "end": 3392.3,
+  "text": "For vi har gitt han i oppg\u00e5ve, og fri til deg. V\u00e6r s\u00e5 god, Audun Lysbakken.",
+  "who": 1
+ },
+ {
+  "start": 3392.3,
+  "end": 3397.3,
+  "text": "Nei, det er ikke fri, Jarl. Det er mer en konstatering av f\u00f8lgende.",
+  "who": 4
+ },
+ {
+  "start": 3397.3,
+  "end": 3404.3,
+  "text": "Valget her er ferdig med \u00e5 bli et oppr\u00f8ydsvalg hvor veldig mange krever handling mot Forskj\u00f8s Norge, mot klimakrisen.",
+  "who": 4
+ },
+ {
+  "start": 3404.3,
+  "end": 3413.3,
+  "text": "Og jeg har respekt for at Senterpartiet i utgangspunkt \u00f8nsker en sentrumsregjering med kun Senterpartiet og AP.",
+  "who": 4
+ },
+ {
+  "start": 3413.3,
+  "end": 3419.3,
+  "text": "Og jeg har ogs\u00e5 sett inn begrundelser for det, \u00e5 kunne kj\u00f8re slalom i Stortinget sammen med H\u00f8yre i mange saker.",
+  "who": 4
+ },
+ {
+  "start": 3419.3,
+  "end": 3423.3,
+  "text": "For eksempel p\u00e5 klima og milj\u00f8, kanskje, og andre saker du har nevnt.",
+  "who": 4
+ },
+ {
+  "start": 3424.05,
+  "end": 3427.05,
+  "text": "Men det er mange ting vi er enige om, tror jeg.",
+  "who": 6,
+  "matched": true
+ },
+ {
+  "start": 3427.05,
+  "end": 3431.05,
+  "text": "Du trenger jo noen \u00e5 samarbeide med hvis vi skal f\u00e5 bonden sine inntekter.",
+  "who": 4
+ },
+ {
+  "start": 3430.3,
+  "end": 3433.3,
+  "text": "SVD partiet som har st\u00f8ttet bondoppr\u00f8yret har rest.",
+  "who": 4
+ },
+ {
+  "start": 3433.3,
+  "end": 3439.3,
+  "text": "SVD partiet som st\u00f8tter kystoppr\u00f8yret, tydeligst, vil omfordre kvoter fra tr\u00e5l til kyst.",
+  "who": 4
+ },
+ {
+  "start": 3439.3,
+  "end": 3446.3,
+  "text": "Vi er det eneste partiet, kanskje, i regjeringsforhandlingene som kommer til \u00e5 v\u00e6re enige med Senterpartiet n\u00e5r det gjelder \u00e5 ta tilbake styringen av lokalsykehusene.",
+  "who": 4
+ },
+ {
+  "start": 3446.3,
+  "end": 3449.3,
+  "text": "Og vi har noen EOS direktiver vi m\u00e5 stoppe sammen.",
+  "who": 4
+ },
+ {
+  "start": 3449.3,
+  "end": 3457.3,
+  "text": "S\u00e5 jeg bare lurer p\u00e5, hvis det er viktigere for deg de uenighetene vi har om CO2 avgift og retten til \u00e5 kj\u00f8re dieselbil i Oslo sentrum,",
+  "who": 6
+ },
+ {
+  "start": 3457.3,
+  "end": 3465.3,
+  "text": "hvorfor er det viktigere enn de tingene vi er faktisk enige om, som handler om helt essensielle kjernesaker for distriktene i Norge?",
+  "who": 6
+ },
+ {
+  "start": 3465.3,
+  "end": 3467.3,
+  "text": "Klarer du \u00e5 st\u00e5 imot dette fri rige, VD?",
+  "who": 1
+ },
+ {
+  "start": 3467.3,
+  "end": 3468.3,
+  "text": "Det var ikke fri rige.",
+  "who": 4
+ },
+ {
+  "start": 3468.3,
+  "end": 3471.3,
+  "text": "Liksom fri rigeform, s\u00e5 var det i hvert fall.",
+  "who": 6
+ },
+ {
+  "start": 3471.3,
+  "end": 3474.3,
+  "text": "Hvis du bare kan tenere s\u00e5 mye fri rige, s\u00e5 er det litt krevende da.",
+  "who": 6
+ },
+ {
+  "start": 3474.3,
+  "end": 3479.3,
+  "text": "Vi kommer til \u00e5 finne sammen masse under Nysbakken i Stortinget, for eksempel helseforetagsmodellen,",
+  "who": 6
+ },
+ {
+  "start": 3479.3,
+  "end": 3484.3,
+  "text": "s\u00e5 skal vi jobbe sammen n\u00e5r det gjelder landbruspolitik, fiskeripolitikk, fordelingspolitikk,",
+  "who": 6
+ },
+ {
+  "start": 3484.3,
+  "end": 3489.3,
+  "text": "det er mange ting vi skal f\u00e5 til sammen, og s\u00e5 m\u00e5 vi forbytte at den sentraliserende regjeringen her er forskjellsregjeringen.",
+  "who": 6
+ },
+ {
+  "start": 3489.3,
+  "end": 3494.3,
+  "text": "Men i regjeringen skal vi bli enige om alt hver dag, og da m\u00e5 jeg si hva jeg mener er best.",
+  "who": 6
+ },
+ {
+  "start": 3494.3,
+  "end": 3498.3,
+  "text": "Og det er den praktiske kulturen som er Arbeiderpartiet, den praktiske kulturen som er Senterpartiet,",
+  "who": 6
+ },
+ {
+  "start": 3498.3,
+  "end": 3502.3,
+  "text": "f\u00e5 til landing, f\u00e5 til bedring, s\u00f8rge for at hverdagslivet til folk blir b\u00e6ret,",
+  "who": 6
+ },
+ {
+  "start": 3502.3,
+  "end": 3506.3,
+  "text": "det er jo hele poenget, og at folk som har lave middelsintekter skal oppleve et l\u00f8ft,",
+  "who": 6
+ },
+ {
+  "start": 3506.3,
+  "end": 3510.3,
+  "text": "for eksempel n\u00e5 p\u00e5 str\u00f8mpriser, rekord\u00f8ye str\u00f8mpriser, da m\u00e5 vi f\u00e5 ned avgiftene.",
+  "who": 6
+ },
+ {
+  "start": 3510.3,
+  "end": 3520.3,
+  "text": "Ja, du er inne i programmet, det er veldig bra, men det er viktig for velgerne \u00e5 vite om du vil v\u00e6re med i en regjering med SV og det andre, eller ikke.",
+  "who": 1
+ },
+ {
+  "start": 3520.3,
+  "end": 3525.3,
+  "text": "Fordi at hvis du mener heldig p\u00e5 at du b\u00e6rer skal v\u00e6re sammen med Arbeiderpartiet og ingen andre,",
+  "who": 1
+ },
+ {
+  "start": 3525.3,
+  "end": 3530.3,
+  "text": "s\u00e5 betyr det at du ikke blir med i en regjering der SV er med.",
+  "who": 1
+ },
+ {
+  "start": 3530.3,
+  "end": 3538.3,
+  "text": "Men punkt nummer 1 er at vi n\u00e5 m\u00e5 ha et skifte av politikk, og ikke bare regjering, alts\u00e5 ogs\u00e5 skifte av politikk.",
+  "who": 6
+ },
+ {
+  "start": 3538.3,
+  "end": 3545.3,
+  "text": "Ogs\u00e5 er det, Landsm\u00f8ta vet at b\u00e5de i 2016, 2017, da vi hadde diskusjon, og i 2021,",
+  "who": 6
+ },
+ {
+  "start": 3545.3,
+  "end": 3549.3,
+  "text": "hva vi mener, og da mener vi at det beste er Senterpartiet i AFE,",
+  "who": 6
+ },
+ {
+  "start": 3549.3,
+  "end": 3552.3,
+  "text": "og hvis da folk mener det, n\u00e5r man ser at det n\u00e5 blir regjeringsbytte,",
+  "who": 6
+ },
+ {
+  "start": 3552.3,
+  "end": 3555.3,
+  "text": "da m\u00e5 det v\u00e6re klokt \u00e5 stemme p\u00e5 Senterpartiet hvis man \u00f8nsker den type regjering,",
+  "who": 6
+ },
+ {
+  "start": 3555.3,
+  "end": 3561.3,
+  "text": "som f\u00e5r forskjellepolitikken ned, snur sentraliseringen, styrker lokalberedskapen,",
+  "who": 6
+ },
+ {
+  "start": 3561.3,
+  "end": 3564.3,
+  "text": "og styrker nasjonalt eierskap til naturresursene.",
+  "who": 6
+ },
+ {
+  "start": 3564.3,
+  "end": 3567.3,
+  "text": "V\u00e6r s\u00e5 god, Anna Solberg.",
+  "who": 1
+ },
+ {
+  "start": 3567.3,
+  "end": 3574.3,
+  "text": "Det dette viser er jo at den siden har veldig lite avklarte saker sammen.",
+  "who": 3
+ },
+ {
+  "start": 3574.3,
+  "end": 3581.3,
+  "text": "Denne siden her er mest opptatt av at de skal bli kvitt oss, og s\u00e5 har de ikke avklart hva de skal gj\u00f8re.",
+  "who": 3
+ },
+ {
+  "start": 3581.3,
+  "end": 3583.3,
+  "text": "Det blir veldig vanskelig for velgerne.",
+  "who": 3
+ },
+ {
+  "start": 3583.3,
+  "end": 3586.3,
+  "text": "Det er et veldig motsetning til hvordan det har v\u00e6rt tidligere.",
+  "who": 3
+ },
+ {
+  "start": 3586.3,
+  "end": 3594.3,
+  "text": "I 2005 var det viktig for Jens Stoltenberg \u00e5 ha noen fundamenter p\u00e5 EOS avtalen, p\u00e5 NATO,",
+  "who": 3
+ },
+ {
+  "start": 3594.3,
+  "end": 3597.3,
+  "text": "p\u00e5 skatteniv\u00e5et, som ikke skulle \u00f8ke s\u00e5 mye.",
+  "who": 3
+ },
+ {
+  "start": 3601.3,
+  "end": 3606.3,
+  "text": "N\u00e5r de m\u00f8ter, s\u00e5 er det uklart hvor mye, men de kommer til \u00e5 starte med \u00e5 by opp Arbeiderpartiet sitt.",
+  "who": 3
+ },
+ {
+  "start": 3606.3,
+  "end": 3610.3,
+  "text": "Vi har lagt \u00e5tte \u00e5r bak oss for, ja, \u00e5 v\u00e6re et forskjellig regjering,",
+  "who": 3
+ },
+ {
+  "start": 3610.3,
+  "end": 3613.3,
+  "text": "og vi har klart \u00e5 finne et samarbeid om busjett hvert eneste \u00e5r.",
+  "who": 3
+ },
+ {
+  "start": 3613.3,
+  "end": 3617.3,
+  "text": "Vi har klart \u00e5 finne punkter som folk vil se, og vite hva vi har levert.",
+  "who": 3
+ },
+ {
+  "start": 3617.3,
+  "end": 3620.3,
+  "text": "Det er det som betyr at vi n\u00e5 har lavere ledigheten,",
+  "who": 3
+ },
+ {
+  "start": 3620.3,
+  "end": 3622.3,
+  "text": "har falt raskere enn det vi hadde trodd.",
+  "who": 3
+ },
+ {
+  "start": 3622.3,
+  "end": 3624.3,
+  "text": "Vi har h\u00f8y sysselsetning for \u00f8yeblikket.",
+  "who": 3
+ },
+ {
+  "start": 3624.3,
+  "end": 3628.3,
+  "text": "Vi kommer b\u00e6re ut av pandemien, for vi har satset veldig p\u00e5 det gr\u00f8nne skiftet,",
+  "who": 3
+ },
+ {
+  "start": 3628.3,
+  "end": 3631.3,
+  "text": "har studiet om ikke norske n\u00e6ringsliv for \u00f8yeblikket.",
+  "who": 3
+ },
+ {
+  "start": 3631.3,
+  "end": 3635.3,
+  "text": "Det kommer til \u00e5 bli et seminar om hvilke n\u00e6ringer de skal v\u00e6re imot p\u00e5 den siden.",
+  "who": 3
+ },
+ {
+  "start": 3635.3,
+  "end": 3641.3,
+  "text": "Alle har sine n\u00e6ringer de er imot, og de er mest av alt for n\u00e6ringer",
+  "who": 3
+ },
+ {
+  "start": 3641.3,
+  "end": 3646.3,
+  "text": "som skal ha suger\u00f8d p\u00e5 statskassen i stedet for de som skal bidra til statskassen.",
+  "who": 3
+ },
+ {
+  "start": 3646.3,
+  "end": 3649.3,
+  "text": "Statsminister Soda er et av mye statsminister som har lagt dere n\u00e6ring i Norsk historie.",
+  "who": 6
+ },
+ {
+  "start": 3649.3,
+  "end": 3654.3,
+  "text": "En av gangene er st\u00f8rre. Blir det seminar p\u00e5 tirsdag med en gang?",
+  "who": 1
+ },
+ {
+  "start": 3654.69,
+  "end": 3659.6899999999996,
+  "text": "Det er godt \u00e5 ha et seminar i bond n\u00e5r du skal bli enig om politikk for \u00e5 styre landet,",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 3659.6899999999996,
+  "end": 3662.6899999999996,
+  "text": "men h\u00f8r n\u00e5, vi styrte landet i \u00e5tte \u00e5r.",
+  "who": 2
+ },
+ {
+  "start": 3662.6899999999996,
+  "end": 3665.689999999999,
+  "text": "Da var det finanskrise, det var store utfordringer.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 3665.689999999999,
+  "end": 3667.6899999999996,
+  "text": "Vi holdt ut i \u00e5tte \u00e5r, det klarte ikke de.",
+  "who": 2
+ },
+ {
+  "start": 3667.6899999999996,
+  "end": 3670.6899999999996,
+  "text": "Hun gikk ut og mente regjeringen var gr\u00e5 og farvel\u00f8s,",
+  "who": 2
+ },
+ {
+  "start": 3670.6899999999996,
+  "end": 3672.6899999999996,
+  "text": "og det var som \u00e5 komme ut av et fengsel. S\u00e5nn var det der.",
+  "who": 2
+ },
+ {
+  "start": 3672.6899999999996,
+  "end": 3674.6899999999996,
+  "text": "Vi har en litt annen tiln\u00e6rming.",
+  "who": 2
+ },
+ {
+  "start": 3674.6899999999996,
+  "end": 3677.6899999999996,
+  "text": "Jeg kommer til \u00e5 gj\u00f8re det veldig grundig hvis vi f\u00e5r et resultat som er grunnlag for det.",
+  "who": 2
+ },
+ {
+  "start": 3677.6899999999996,
+  "end": 3679.6899999999996,
+  "text": "Sitt ned og prate om det, sa jeg innledningsvis.",
+  "who": 2
+ },
+ {
+  "start": 3679.6899999999996,
+  "end": 3682.6899999999996,
+  "text": "Jeg sa ikke dra hele programmet mitt. Det er ikke en overraskelse.",
+  "who": 2
+ },
+ {
+  "start": 3682.6899999999996,
+  "end": 3685.6899999999996,
+  "text": "Folk f\u00e5r stemme hva de vil unna Bj\u00f8rnar, men stem p\u00e5 Arbeiderpartiet",
+  "who": 2
+ },
+ {
+  "start": 3685.6899999999996,
+  "end": 3689.6899999999996,
+  "text": "for \u00e5 f\u00e5 en trygg, styringstykt regjering. Jo, men det er min jobb \u00e5 gj\u00f8re.",
+  "who": 2
+ },
+ {
+  "start": 3689.6899999999996,
+  "end": 3694.6899999999996,
+  "text": "Og jeg mener alvorlig talt at det \u00e5 stemme p\u00e5 partier som jeg mener er veldig ensakspartier,",
+  "who": 2
+ },
+ {
+  "start": 3694.6899999999996,
+  "end": 3697.6899999999996,
+  "text": "det rimer ikke med den store oppgaven vi har foran oss n\u00e5.",
+  "who": 2
+ },
+ {
+  "start": 3697.6899999999996,
+  "end": 3700.6899999999996,
+  "text": "Men \u00e6rlig talt, det bilder om at vi driver med seminar.",
+  "who": 2
+ },
+ {
+  "start": 3700.6899999999996,
+  "end": 3703.6899999999996,
+  "text": "Det er en dannet form i forhold til hva vi h\u00f8rer p\u00e5 den siden,",
+  "who": 2
+ },
+ {
+  "start": 3703.6899999999996,
+  "end": 3705.6899999999996,
+  "text": "hvor det er rykende uenigheter om hvem som skal sitte i regjeringen.",
+  "who": 2
+ },
+ {
+  "start": 3705.6899999999996,
+  "end": 3709.6899999999996,
+  "text": "Du kan jo ta en etter en, de skal jo utelukke hverandre, og er garantert til \u00e5 gj\u00f8re det.",
+  "who": 2
+ },
+ {
+  "start": 3709.6899999999996,
+  "end": 3711.49,
+  "text": "Det er ikke bra for landet.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 3711.27,
+  "end": 3713.07,
+  "text": "Kan jeg f\u00e5 en kort replikk?",
+  "who": 3,
+  "matched": true
+ },
+ {
+  "start": 3714.3,
+  "end": 3717.3,
+  "text": "Det du egentlig inviterer folk til er \u00e5 stemme p\u00e5 et seminar,",
+  "who": 3
+ },
+ {
+  "start": 3717.3,
+  "end": 3720.3,
+  "text": "jeg vet ikke hva grupparbeidet kommer til \u00e5 bety.",
+  "who": 3
+ },
+ {
+  "start": 3720.3,
+  "end": 3723.3,
+  "text": "Jo, men det er det dere kommer til \u00e5 gj\u00f8re.",
+  "who": 3
+ },
+ {
+  "start": 3723.3,
+  "end": 3726.3,
+  "text": "Og det er jo det at du g\u00e5r rundt og garanterer for skatteniv\u00e5er,",
+  "who": 3
+ },
+ {
+  "start": 3726.3,
+  "end": 3731.2999999999997,
+  "text": "du garanterer for at folk skal f\u00e5 h\u00f8yere skatter, du garanterer for mange ulike l\u00f8sninger.",
+  "who": 3,
+  "matched": true
+ },
+ {
+  "start": 3731.3,
+  "end": 3733.3,
+  "text": "Men sannheten er at du ikke har st\u00f8tte fra de andre,",
+  "who": 3
+ },
+ {
+  "start": 3733.3,
+  "end": 3737.3,
+  "text": "og p\u00e5 n\u00e6ringen til n\u00e6ring s\u00e5 er det s\u00e5nn at man ikke vil forbedre rammvillkorene,",
+  "who": 3
+ },
+ {
+  "start": 3737.3,
+  "end": 3743.3,
+  "text": "noen er imot oljen\u00e6ringen, andre \u00f8nsker \u00e5 begrense opptrettsn\u00e6ringen i Norge,",
+  "who": 3
+ },
+ {
+  "start": 3743.3,
+  "end": 3746.3,
+  "text": "alts\u00e5 listenet er ganske langt over dette.",
+  "who": 3
+ },
+ {
+  "start": 3746.3,
+  "end": 3749.3,
+  "text": "S\u00e5 jeg tenker at man vet hva man har, man vet at det er gode resultater,",
+  "who": 3
+ },
+ {
+  "start": 3749.3,
+  "end": 3753.3,
+  "text": "og vi invier folk til \u00e5 s\u00f8rge for at Norge fortsatt g\u00e5r fremover.",
+  "who": 3
+ },
+ {
+  "start": 3753.3,
+  "end": 3759.3,
+  "text": "Ved siden av det st\u00e5r det en som er mot Mabin,",
+  "who": 2
+ },
+ {
+  "start": 3759.3,
+  "end": 3763.3,
+  "text": "mot elektrificeringen av Sokland, mot Parisavtalen, hva slags klimapolitikk blir det?",
+  "who": 2
+ },
+ {
+  "start": 3763.3,
+  "end": 3769.3,
+  "text": "Ja, det vil jeg si, for det vi er mot er \u00e5 str\u00f8 om oss med milliarder av kroner til symboliske klimatiltak,",
+  "who": 7
+ },
+ {
+  "start": 3769.3,
+  "end": 3773.3,
+  "text": "s\u00e5nn som du vil, bruke oljefondet til \u00e5 redde klima,",
+  "who": 7
+ },
+ {
+  "start": 3773.3,
+  "end": 3777.3,
+  "text": "oljefondet skal brukes til \u00e5 sikre det norske folkepensionen,",
+  "who": 7
+ },
+ {
+  "start": 3777.3,
+  "end": 3781.3,
+  "text": "og vi \u00f8nsker heller ikke \u00e5 v\u00e6re med p\u00e5 dine storstilte \u00f8slinger med bistand,",
+  "who": 7,
+  "matched": true
+ },
+ {
+  "start": 3781.3,
+  "end": 3784.3,
+  "text": "innvandring til grenen, du har rullet milliarder ut,",
+  "who": 7
+ },
+ {
+  "start": 3784.3,
+  "end": 3791.3,
+  "text": "mens vi ikke har r\u00e5d til \u00e5 sikre medisiner, bygge veier, da er vi uansvarlige,",
+  "who": 7
+ },
+ {
+  "start": 3791.3,
+  "end": 3794.3,
+  "text": "fordi vi \u00f8nsker \u00e5 bygge mer veier, og til og med uten bompenger,",
+  "who": 7
+ },
+ {
+  "start": 3794.3,
+  "end": 3796.3,
+  "text": "mens andre ting gir dere penger til.",
+  "who": 7
+ },
+ {
+  "start": 3796.3,
+  "end": 3798.1666666666674,
+  "text": "Og s\u00e5 bare st\u00f8rre til slutt.",
+  "who": 7,
+  "matched": true
+ },
+ {
+  "start": 3798.3,
+  "end": 3803.3,
+  "text": "Det er et faktum at dere kan slippe til MDG og R\u00f8dt,",
+  "who": 7
+ },
+ {
+  "start": 3803.3,
+  "end": 3807.3,
+  "text": "og n\u00e5r jeg h\u00f8rer deg snakke, s\u00e5 blir jeg helt vettet og skremt.",
+  "who": 7
+ },
+ {
+  "start": 3807.3,
+  "end": 3812.3,
+  "text": "Det er et parti som overhovedet ikke har en politikk som henger sammen \u00f8konomisk,",
+  "who": 7
+ },
+ {
+  "start": 3812.3,
+  "end": 3816.3,
+  "text": "for det skal legge ned de n\u00e6ringene som er l\u00f8nnsomme for landet,",
+  "who": 7
+ },
+ {
+  "start": 3816.3,
+  "end": 3820.3,
+  "text": "og s\u00e5 skal de skyte inn milliarder av kroner p\u00e5 ting som er jo l\u00f8nnsomme.",
+  "who": 7
+ },
+ {
+  "start": 3820.3,
+  "end": 3825.3,
+  "text": "Og i tillegg s\u00e5 bidrar i hvert fall MDG til \u00e5 spre frykt blandt barn og ungdom,",
+  "who": 7
+ },
+ {
+  "start": 3825.3,
+  "end": 3828.3,
+  "text": "med den skremselspropaganda som de framf\u00f8rer i klimapolitikken.",
+  "who": 7
+ },
+ {
+  "start": 3828.3,
+  "end": 3833.3,
+  "text": "N\u00e5 m\u00e5 vi roe ned. Norge har ikke en egen atmosf\u00e6re. Vi er en felles verden.",
+  "who": 7
+ },
+ {
+  "start": 3833.3,
+  "end": 3835.3,
+  "text": "Vi tar til med hele risikoen din.",
+  "who": 1
+ },
+ {
+  "start": 3835.3,
+  "end": 3837.3,
+  "text": "Det er dum. Vi kan ikke gj\u00f8re det slik at...",
+  "who": 7
+ },
+ {
+  "start": 3837.3,
+  "end": 3840.3,
+  "text": "Vet du om det at Sylvie Listeg blir vettet og skremt av det hun ser?",
+  "who": 1
+ },
+ {
+  "start": 3840.3,
+  "end": 3844.3,
+  "text": "Nei, det er jo bare retorikk da, for \u00e5 pr\u00f8ve \u00e5 skape et eller annet poeng.",
+  "who": 6
+ },
+ {
+  "start": 3844.3,
+  "end": 3847.3,
+  "text": "Og s\u00e5 er jo Fremskapspartiet veldig flinke \u00e5 si store ord.",
+  "who": 6
+ },
+ {
+  "start": 3847.3,
+  "end": 3851.3,
+  "text": "For eksempel s\u00e5 lovde de jo f\u00f8r det kom regjering, at alle bompenger skulle bort.",
+  "who": 6
+ },
+ {
+  "start": 3851.3,
+  "end": 3853.3,
+  "text": "Aldri hadde det v\u00e6rt mer bompenger enn n\u00e5.",
+  "who": 6
+ },
+ {
+  "start": 3853.3,
+  "end": 3857.3,
+  "text": "Og at avgiftene skulle ned. Aldri hadde det v\u00e6rt h\u00f8yere avgifter, h\u00f8yere str\u00f8mpris.",
+  "who": 6
+ },
+ {
+  "start": 3857.3,
+  "end": 3859.3,
+  "text": "Og s\u00e5 sier Erna Solberg avvarer i n\u00e6ringspolitikken.",
+  "who": 6
+ },
+ {
+  "start": 3859.3,
+  "end": 3864.3,
+  "text": "Hun er den f\u00f8rste statsministeren i norsk historie som har forbudt en lovlig n\u00e6ring uten noen proses.",
+  "who": 6
+ },
+ {
+  "start": 3864.3,
+  "end": 3867.3,
+  "text": "Hun kalte det en m\u00e5lengave til Venstre.",
+  "who": 6
+ },
+ {
+  "start": 3867.3,
+  "end": 3875.3,
+  "text": "S\u00e5 Erna Solberg har v\u00e6rt veldig lengfeldig om det har v\u00e6rt for luftfart, transportn\u00e6ring, landbruk, skogbruk og ogs\u00e5 n\u00e5 p\u00e5 olje og gass.",
+  "who": 6
+ },
+ {
+  "start": 3875.3,
+  "end": 3881.3,
+  "text": "At hun bare spiller opp en s\u00e5nn type skattepakke midt i en valgkamp uten at det er ordentlig gjennomv\u00e6ret.",
+  "who": 6
+ },
+ {
+  "start": 3881.3,
+  "end": 3885.3,
+  "text": "Erna Solberg, du har hatt mange partnere. Det har ikke v\u00e6rt noe veldig godt prosjekt.",
+  "who": 6
+ },
+ {
+  "start": 3885.3,
+  "end": 3887.3,
+  "text": "Det har f\u00f8rt til tidende sentralisering.",
+  "who": 6
+ },
+ {
+  "start": 3887.3,
+  "end": 3891.3,
+  "text": "Det er tid for at vi n\u00e5 f\u00e5r et skifte, trygghet og ro, og en regjering har sendt partnere.",
+  "who": 6
+ },
+ {
+  "start": 3891.3,
+  "end": 3894.3,
+  "text": "Vi har holdt sammen p\u00e5 denne siden hele disse \u00e5tte \u00e5rene.",
+  "who": 3
+ },
+ {
+  "start": 3894.3,
+  "end": 3897.3,
+  "text": "Litt diskusjon skal det alltid v\u00e6re, men retningen har v\u00e6rt riktig forn\u00e5et.",
+  "who": 3
+ },
+ {
+  "start": 3897.3,
+  "end": 3899.3,
+  "text": "Ja, det er det.",
+  "who": 11
+ },
+ {
+  "start": 3899.3,
+  "end": 3903.3,
+  "text": "Litt til avslutning her, folkens.",
+  "who": 1
+ },
+ {
+  "start": 3903.3,
+  "end": 3908.3,
+  "text": "Vi hadde et frieri, eller fors\u00f8ker friere, nekter p\u00e5 at det var et frieri, men likevel.",
+  "who": 1
+ },
+ {
+  "start": 3908.3,
+  "end": 3912.3,
+  "text": "Jeg tror det er bra at Audun er gift fra f\u00f8r, for det er tydeligvis ikke helt natt \u00e5 v\u00e6re s\u00e5nn.",
+  "who": 5
+ },
+ {
+  "start": 3912.3,
+  "end": 3917.3,
+  "text": "Jeg tenkte p\u00e5 en ting. Dere diskuterer jo mot hverandre.",
+  "who": 1
+ },
+ {
+  "start": 3917.3,
+  "end": 3920.3,
+  "text": "Vi har det retorikken og har det klippet, og det skal det v\u00e6re.",
+  "who": 1
+ },
+ {
+  "start": 3920.3,
+  "end": 3924.3,
+  "text": "Men jeg luter p\u00e5 om vi avslutningsvis kunne f\u00e5 to frontfigurer.",
+  "who": 1
+ },
+ {
+  "start": 3924.3,
+  "end": 3926.3,
+  "text": "Det er beklaget trygg, men s\u00e5nn er det.",
+  "who": 1
+ },
+ {
+  "start": 3926.3,
+  "end": 3930.3,
+  "text": "Jonas og Erna, til \u00e5 si noe fint om hverandre.",
+  "who": 1
+ },
+ {
+  "start": 3930.3,
+  "end": 3933.3,
+  "text": "Jonas Garst\u00f8yre, du f\u00e5r ett minutt til \u00e5 si noe fint om Erna Solberg.",
+  "who": 1
+ },
+ {
+  "start": 3933.3,
+  "end": 3937.3,
+  "text": "Det faller meg veldig lett. Det er en av de politikerne jeg respekterer mest i Norge.",
+  "who": 2
+ },
+ {
+  "start": 3937.3,
+  "end": 3941.3,
+  "text": "Hun har lang erfaring. Hun har reist p\u00e5 kryss og tv\u00e6s av Norge.",
+  "who": 2
+ },
+ {
+  "start": 3941.3,
+  "end": 3943.3,
+  "text": "Har hardt arbeid og er kunnskapsrik.",
+  "who": 2
+ },
+ {
+  "start": 3943.3,
+  "end": 3946.3,
+  "text": "Og du m\u00e5 skjerpe deg n\u00e5r du er i debatt med Erna.",
+  "who": 2
+ },
+ {
+  "start": 3946.3,
+  "end": 3949.3,
+  "text": "Jeg mener du er folkevalgt, og du har hvitet til det arbeidet.",
+  "who": 2
+ },
+ {
+  "start": 3949.95,
+  "end": 3952.95,
+  "text": "S\u00e5 skal du v\u00e6re samvittighetsfull overfor velgerne dine.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 3952.95,
+  "end": 3956.95,
+  "text": "Det mener jeg du er, Erna. Skikkelig samvittighetsfull, p\u00e5 en slik m\u00e5te at du \u00f8ker forskjellen i Norge.",
+  "who": 2
+ },
+ {
+  "start": 3956.95,
+  "end": 3958.95,
+  "text": "Det er jeg uenig i det.",
+  "who": 1
+ },
+ {
+  "start": 3958.95,
+  "end": 3961.95,
+  "text": "Men jeg mener en dyktig politiker som jeg har stor respekt for.",
+  "who": 2
+ },
+ {
+  "start": 3961.3,
+  "end": 3963.3,
+  "text": "Erna Solberg, noe fint om Jonas Garst\u00f8yre.",
+  "who": 1
+ },
+ {
+  "start": 3963.85,
+  "end": 3967.1833333333334,
+  "text": "Ja, jeg kan egentlig si nesten det samme om Jonas.",
+  "who": 3,
+  "matched": true
+ },
+ {
+  "start": 3967.3,
+  "end": 3971.3,
+  "text": "I den formen av at Jonas er en flink politiker, en flink person.",
+  "who": 3
+ },
+ {
+  "start": 3971.3,
+  "end": 3973.3,
+  "text": "Hyggelig mann \u00e5 snakke med.",
+  "who": 3
+ },
+ {
+  "start": 3973.3,
+  "end": 3976.3,
+  "text": "Det er s\u00e5nn i norsk politikk at vi ikke er s\u00e5...",
+  "who": 3
+ },
+ {
+  "start": 3976.3,
+  "end": 3982.3,
+  "text": "Vi er ikke sinte p\u00e5 hverandre, men vi har andre politiske ideer om hvordan vi skal utvikle samfunnet.",
+  "who": 3
+ },
+ {
+  "start": 3982.3,
+  "end": 3986.3,
+  "text": "Og jeg mener at Jonas er dyktig for Arbeiderpartiet.",
+  "who": 3
+ },
+ {
+  "start": 3986.3,
+  "end": 3988.3,
+  "text": "At han gj\u00f8r en god jobb som leder.",
+  "who": 3,
+  "matched": true
+ },
+ {
+  "start": 3988.3,
+  "end": 3991.3,
+  "text": "Og s\u00e5 er det s\u00e5nn at han er en hyggelig person.",
+  "who": 3
+ },
+ {
+  "start": 3991.59,
+  "end": 3992.9233333333336,
+  "text": "Flink p\u00e5 sine saker.",
+  "who": 3,
+  "matched": true
+ },
+ {
+  "start": 3993.3,
+  "end": 3997.3,
+  "text": "Og s\u00e5 er jeg dypt uenig n\u00e5r han skal drive p\u00e5 og blande seg med alle disse andre.",
+  "who": 3
+ },
+ {
+  "start": 3997.3,
+  "end": 3999.3,
+  "text": "For da g\u00e5r det galt for Norge fremover, vet du.",
+  "who": 3
+ },
+ {
+  "start": 3999.3,
+  "end": 4001.3,
+  "text": "Tusen takk, Sorge. Ha alle sammen.",
+  "who": 1
+ },
+ {
+  "start": 4001.3,
+  "end": 4004.3,
+  "text": "Der kom handshaken i dette koronatidet.",
+  "who": 1
+ },
+ {
+  "start": 4004.3,
+  "end": 4008.3,
+  "text": "Ken gikk seierende ut av denne debatten, og Ken gjorde det d\u00e5rligast.",
+  "who": 1
+ },
+ {
+  "start": 4008.3,
+  "end": 4011.3,
+  "text": "Rune p\u00e5 bakrommet, det har du kontroll p\u00e5.",
+  "who": 1
+ },
+ {
+  "start": 4011.3,
+  "end": 4014.3,
+  "text": "Ja, her har vi b\u00e5de seksere og enere, Ariel.",
+  "who": 10
+ },
+ {
+  "start": 4014.42,
+  "end": 4016.42,
+  "text": "Det er det alt handler om p\u00e5 bakrommet n\u00e5.",
+  "who": 8,
+  "matched": true
+ },
+ {
+  "start": 4016.3,
+  "end": 4019.3,
+  "text": "Vi er i gang rett etter at dere i partiledebatten er ferdig.",
+  "who": 6
+ },
+ {
+  "start": 4019.55,
+  "end": 4021.3500000000004,
+  "text": "Vi ses om noen f\u00e5 sekunder.",
+  "who": 8,
+  "matched": true
+ },
+ {
+  "start": 4022.3,
+  "end": 4026.3,
+  "text": "Og med det ser partiledebatten p\u00e5 TV2 over.",
+  "who": 1
+ },
+ {
+  "start": 4026.3,
+  "end": 4028.3,
+  "text": "Jeg h\u00e5per at dere fikk med dere alt jeg sa.",
+  "who": 1
+ },
+ {
+  "start": 4028.3,
+  "end": 4034.3,
+  "text": "Og etter det jeg gjorde, kan vi v\u00e6rt end\u00e5 sikre p\u00e5 hvem som skal stemme p\u00e5 den 13. september.",
+  "who": 1
+ },
+ {
+  "start": 4034.3,
+  "end": 4050.3,
+  "text": "Tusen takk for i kveld, og godt val.",
+  "who": 0
+ }
+]

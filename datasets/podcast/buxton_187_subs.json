@@ -1,0 +1,7305 @@
+[
+ {
+  "start": 0.0,
+  "end": 5.6,
+  "text": "I added one more podcast to the giant podcast bin.",
+  "who": 0
+ },
+ {
+  "start": 5.6,
+  "end": 9.76,
+  "text": "Now you have plucked that podcast out and started listening.",
+  "who": 0
+ },
+ {
+  "start": 9.76,
+  "end": 13.44,
+  "text": "I took my microphone and found some human folk.",
+  "who": 0
+ },
+ {
+  "start": 14.56,
+  "end": 18.16,
+  "text": "Then I recorded all the noises while we spoke.",
+  "who": 0
+ },
+ {
+  "start": 20.0,
+  "end": 24.88,
+  "text": "My name is Adam Buxton, I'm a man.",
+  "who": 0
+ },
+ {
+  "start": 24.88,
+  "end": 27.679999999999996,
+  "text": "I want you to enjoy this, that's the plan.",
+  "who": 0,
+  "matched": true
+ },
+ {
+  "start": 35.89,
+  "end": 37.88999999999999,
+  "text": "Hey, how are you doing, Podcats?",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 39.12,
+  "end": 42.96,
+  "text": "It's Adam Buxton here and I'm reporting to you from a farm track",
+  "who": "0"
+ },
+ {
+  "start": 44.12,
+  "end": 47.31999999999999,
+  "text": "in the east of England, Norfolk County to be precise.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 47.36,
+  "end": 54.08,
+  "text": "And I'm walking along beneath cloudy skies.",
+  "who": "0"
+ },
+ {
+  "start": 56.1,
+  "end": 58.98,
+  "text": "It's not raining just at the moment, but it has been.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 60.32,
+  "end": 65.12,
+  "text": "And I think it plans to do so more, which is good.",
+  "who": "0"
+ },
+ {
+  "start": 65.22,
+  "end": 65.94,
+  "text": "We need the rain.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 66.83,
+  "end": 69.54999999999998,
+  "text": "We've had a few good downpours over the last couple of days",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 69.54999999999998,
+  "end": 72.98999999999998,
+  "text": "and already things are beginning to look a little greener.",
+  "who": "0"
+ },
+ {
+  "start": 72.98999999999998,
+  "end": 78.75,
+  "text": "I'm on my own today, Rosie, my dog friend, is perfectly fine.",
+  "who": "0"
+ },
+ {
+  "start": 78.75,
+  "end": 83.55,
+  "text": "She's very well, in fact, but she went for a run this morning with her mum.",
+  "who": "0"
+ },
+ {
+  "start": 85.14,
+  "end": 87.06,
+  "text": "And I think she's knackered now.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 87.06,
+  "end": 89.38000000000001,
+  "text": "So she's at home curled up on the sofa.",
+  "who": "0"
+ },
+ {
+  "start": 90.94,
+  "end": 92.86000000000001,
+  "text": "Also, I think she's sad about the queen.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 93.94,
+  "end": 95.86,
+  "text": "Fair enough, we're all sad about the queen.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 96.4,
+  "end": 100.24,
+  "text": "She was by a long way my favorite queen.",
+  "who": "0"
+ },
+ {
+  "start": 100.24,
+  "end": 103.44000000000001,
+  "text": "And Rosie is concerned about the Christmas podcast",
+  "who": "0"
+ },
+ {
+  "start": 104.96,
+  "end": 110.24,
+  "text": "and whether it's going to be appropriate for the queen to still be involved somehow.",
+  "who": "0"
+ },
+ {
+  "start": 111.76,
+  "end": 117.36,
+  "text": "I've yet to receive official word from the palace, but I've assured Rosie that I think it'll be fine.",
+  "who": "0"
+ },
+ {
+  "start": 118.4,
+  "end": 120.88,
+  "text": "I think it's what the queen would have wanted.",
+  "who": "0"
+ },
+ {
+  "start": 125.16,
+  "end": 126.29333333333334,
+  "text": "Anyway, on we go.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 128.28,
+  "end": 129.48,
+  "text": "How are you doing, Podcat?",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 129.48,
+  "end": 131.16000000000003,
+  "text": "How are you doing, Podcats?",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 131.16000000000003,
+  "end": 133.72,
+  "text": "I hope you're okay and that you had a reasonable summer.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 134.1,
+  "end": 135.46,
+  "text": "I'm doing fine, thanks.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 135.6,
+  "end": 138.96,
+  "text": "Nothing major to report, is there?",
+  "who": "0"
+ },
+ {
+  "start": 140.85,
+  "end": 141.81,
+  "text": "I don't think so.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 142.17,
+  "end": 145.68999999999997,
+  "text": "So let me tell you a little bit about podcast number 187,",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 145.68999999999997,
+  "end": 153.29000000000002,
+  "text": "which features a conversational ramble with British professor of cognitive and computational neuroscience",
+  "who": "0"
+ },
+ {
+  "start": 153.29000000000002,
+  "end": 156.08999999999997,
+  "text": "at the University of Sussex, Anil Seth.",
+  "who": "0"
+ },
+ {
+  "start": 157.89,
+  "end": 159.80999999999997,
+  "text": "Here's some brief Seth facts for you.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 160.56,
+  "end": 164.76,
+  "text": "Anil Kumar Seth, currently aged 50, grew up in Oxfordshire, UK.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 164.76,
+  "end": 171.56,
+  "text": "The hint of a northern accent in his voice comes, perhaps, from his mother, who was from Yorkshire.",
+  "who": "0"
+ },
+ {
+  "start": 171.56,
+  "end": 173.48000000000002,
+  "text": "His father was from India.",
+  "who": "0"
+ },
+ {
+  "start": 173.92,
+  "end": 176.16,
+  "text": "Anil has a load of degrees.",
+  "who": "0"
+ },
+ {
+  "start": 176.16,
+  "end": 179.20000000000002,
+  "text": "He's got one in natural sciences from Cambridge.",
+  "who": "0"
+ },
+ {
+  "start": 179.76,
+  "end": 183.76,
+  "text": "He's got the knowledge based systems degree from South Africa.",
+  "who": "0"
+ },
+ {
+  "start": 183.76,
+  "end": 190.96000000000004,
+  "text": "Systems degree from Sussex, where he also got the computer science and artificial intelligence degree.",
+  "who": "0"
+ },
+ {
+  "start": 191.6,
+  "end": 194.56,
+  "text": "He's got other stuff too, but that's some of the degrees.",
+  "who": "0"
+ },
+ {
+  "start": 194.56,
+  "end": 200.8,
+  "text": "In the early 2000s, he also spent five years as a postdoctoral and associate fellow",
+  "who": "0"
+ },
+ {
+  "start": 200.8,
+  "end": 204.56,
+  "text": "at the Neurosciences Institute in San Diego, California.",
+  "who": "0"
+ },
+ {
+  "start": 205.53,
+  "end": 210.46333333333334,
+  "text": "Nowadays, at Sussex University, Anil and other scientists and philosophers",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 210.72,
+  "end": 216.96,
+  "text": "are investigating the question of how consciousness happens and what happens when it goes wrong.",
+  "who": "0"
+ },
+ {
+  "start": 217.68,
+  "end": 222.16,
+  "text": "His book, Being You, A New Science of Consciousness,",
+  "who": "0"
+ },
+ {
+  "start": 222.16,
+  "end": 227.6,
+  "text": "is about the ongoing process of attempting to understand how the inner universe",
+  "who": "0"
+ },
+ {
+  "start": 227.6,
+  "end": 231.92,
+  "text": "of subjective experience relates to and can be explained",
+  "who": "0"
+ },
+ {
+  "start": 231.92,
+  "end": 238.16,
+  "text": "in terms of biological and physical processes unfolding in brains and bodies.",
+  "who": "0"
+ },
+ {
+  "start": 238.16,
+  "end": 245.28,
+  "text": "It says, Anil, the essence of selfhood is neither a rational mind nor an immaterial soul.",
+  "who": "0"
+ },
+ {
+  "start": 245.92,
+  "end": 253.04,
+  "text": "It is a deeply embodied biological process, a process that underpins the simple feeling of being alive,",
+  "who": "0"
+ },
+ {
+  "start": 253.04,
+  "end": 256.24,
+  "text": "that is the basis for all our experiences of self.",
+  "who": "0"
+ },
+ {
+  "start": 256.24,
+  "end": 262.96000000000004,
+  "text": "Indeed, for any conscious experience at all, being you is literally about your body.",
+  "who": "0"
+ },
+ {
+  "start": 262.96000000000004,
+  "end": 265.6000000000001,
+  "text": "That's where Anil is coming from in this book.",
+  "who": "0"
+ },
+ {
+  "start": 265.6000000000001,
+  "end": 272.0000000000001,
+  "text": "Jim Alkalili, who I trust, calls Anil's book insightful and profound.",
+  "who": "0"
+ },
+ {
+  "start": 272.0000000000001,
+  "end": 276.1600000000001,
+  "text": "The nature of consciousness is still one of the hardest problems in science,",
+  "who": "0"
+ },
+ {
+  "start": 276.1600000000001,
+  "end": 280.00000000000006,
+  "text": "but Anil Seth brings us closer than ever before to the answer.",
+  "who": "0"
+ },
+ {
+  "start": 280.00000000000006,
+  "end": 283.60000000000014,
+  "text": "This is a hugely important book, says Alkalili.",
+  "who": "0"
+ },
+ {
+  "start": 283.60000000000014,
+  "end": 289.1200000000001,
+  "text": "My conversation with Anil took place remotely last year in July 2021,",
+  "who": "0"
+ },
+ {
+  "start": 289.1200000000001,
+  "end": 293.44000000000017,
+  "text": "with me in my nutty room here in Norfolk and Anil in Sussex.",
+  "who": "0"
+ },
+ {
+  "start": 293.44000000000017,
+  "end": 297.76000000000016,
+  "text": "And after I explained that I was going to be approaching the conversation",
+  "who": "0"
+ },
+ {
+  "start": 297.76000000000016,
+  "end": 303.0400000000002,
+  "text": "very much from a layman's point of view, and maybe even a lame man's point of view,",
+  "who": "0"
+ },
+ {
+  "start": 303.0400000000002,
+  "end": 306.9600000000002,
+  "text": "we talked about the difficulty of defining consciousness,",
+  "who": "0"
+ },
+ {
+  "start": 307.76,
+  "end": 311.44,
+  "text": "the difference between the idea of a self and a soul,",
+  "who": "0"
+ },
+ {
+  "start": 314.49,
+  "end": 318.1700000000001,
+  "text": "what happens when things go wrong with your perception of self,",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 318.24,
+  "end": 322.08,
+  "text": "the way that psychedelics alter consciousness for better or worse,",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 322.59,
+  "end": 326.19000000000005,
+  "text": "whether we are living in a Matrix style computer simulation,",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 326.76,
+  "end": 331.1599999999999,
+  "text": "whether artificial intelligence will achieve human like consciousness,",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 331.1599999999999,
+  "end": 337.64,
+  "text": "and finally we talk about whether Anil's work has changed the way he thinks about the big D,",
+  "who": "0"
+ },
+ {
+  "start": 337.64,
+  "end": 342.67999999999995,
+  "text": "the final curtain, the clog pop, the mortal coil shuffle.",
+  "who": "0"
+ },
+ {
+  "start": 342.88,
+  "end": 345.68,
+  "text": "Anil is a fascinating guy, it was really good to talk to him,",
+  "who": "0"
+ },
+ {
+  "start": 345.68,
+  "end": 347.84,
+  "text": "and if you enjoy our conversation,",
+  "who": "0"
+ },
+ {
+  "start": 347.84,
+  "end": 351.5199999999999,
+  "text": "and you're interested in what we talked about, you can help him with his work.",
+  "who": "0"
+ },
+ {
+  "start": 351.52,
+  "end": 352.56,
+  "text": "Oh, it's windy now.",
+  "who": "0"
+ },
+ {
+  "start": 355.96,
+  "end": 360.96,
+  "text": "And you can help by taking part in an online census, the Perception Census,",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 361.46,
+  "end": 362.98,
+  "text": "which Anil is working on.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 362.98,
+  "end": 368.98,
+  "text": "It's a large scale citizen science survey of perceptual diversity,",
+  "who": "0"
+ },
+ {
+  "start": 369.93,
+  "end": 373.39666666666665,
+  "text": "investigating how we each experience a unique world.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 373.39666666666665,
+  "end": 377.71666666666664,
+  "text": "Anil says, we're hoping for tens of thousands of people to take part in this,",
+  "who": "0"
+ },
+ {
+  "start": 377.71666666666664,
+  "end": 380.1166666666667,
+  "text": "tens of thousands of people to take part.",
+  "who": "0"
+ },
+ {
+  "start": 380.1166666666667,
+  "end": 384.59666666666664,
+  "text": "It's a series of fun, engaging, interactive illusions and such like,",
+  "who": "0"
+ },
+ {
+  "start": 384.59666666666664,
+  "end": 387.2366666666667,
+  "text": "that put your senses to the test.",
+  "who": "0"
+ },
+ {
+  "start": 387.2366666666667,
+  "end": 391.6366666666666,
+  "text": "There is a link to the Perception Census in the description of this podcast,",
+  "who": "0"
+ },
+ {
+  "start": 391.6366666666666,
+  "end": 396.35666666666657,
+  "text": "along with some other bits and pieces, which I will tell you about at the end.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 396.35666666666657,
+  "end": 399.79666666666657,
+  "text": "But right now, with Anil Seth, here we go.",
+  "who": "0"
+ },
+ {
+  "start": 399.28,
+  "end": 409.2,
+  "text": "Rumble chat, let's have a ramble chat. We'll focus first on this, then concentrate on that.",
+  "who": 0
+ },
+ {
+  "start": 409.2,
+  "end": 413.59999999999997,
+  "text": "Come on, let's chew the fat, and have a ramble chat.",
+  "who": 0
+ },
+ {
+  "start": 413.6,
+  "end": 429.76,
+  "text": "Put on your conversation coat and hide your talking hat.",
+  "who": 0
+ },
+ {
+  "start": 429.76,
+  "end": 447.76,
+  "text": "It feels to me as if people are more and more interested in the subject of consciousness",
+  "who": 0
+ },
+ {
+  "start": 447.86,
+  "end": 450.18000000000006,
+  "text": "and the way that we perceive the world.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 450.72,
+  "end": 455.52,
+  "text": "It all seems to have kicked off for me and for people of my generation,",
+  "who": "0"
+ },
+ {
+  "start": 455.52,
+  "end": 460.72,
+  "text": "when we saw the matrix. Before then, I don't remember ever really thinking about things like that.",
+  "who": "0"
+ },
+ {
+  "start": 460.72,
+  "end": 461.68000000000006,
+  "text": "How about you?",
+  "who": "0"
+ },
+ {
+  "start": 461.68,
+  "end": 465.12,
+  "text": "That's funny. For me, I've always thought about it.",
+  "who": 2
+ },
+ {
+  "start": 465.12,
+  "end": 471.28,
+  "text": "I had the impression that thinking about consciousness and self and where do we come from",
+  "who": 2
+ },
+ {
+  "start": 471.28,
+  "end": 474.31999999999994,
+  "text": "and what happens after we die and why are we conscious at all,",
+  "who": 2
+ },
+ {
+  "start": 474.32,
+  "end": 477.28,
+  "text": "these were thoughts that everybody had as a kid.",
+  "who": 2
+ },
+ {
+  "start": 478.14,
+  "end": 482.78000000000003,
+  "text": "But I've just been lucky, I think, in continuing to have the chance to think about consciousness",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 482.78000000000003,
+  "end": 487.66,
+  "text": "until it became a career and that's what I do now.",
+  "who": 2
+ },
+ {
+  "start": 488.07,
+  "end": 490.63000000000005,
+  "text": "I do think there is something that for young children,",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 490.64,
+  "end": 493.28,
+  "text": "there is this fascination with these big questions.",
+  "who": 2
+ },
+ {
+  "start": 494.64,
+  "end": 498.72,
+  "text": "And so it does feel like a bit of a childlike enterprise,",
+  "who": 2
+ },
+ {
+  "start": 498.72,
+  "end": 503.20000000000005,
+  "text": "to some extent, continuing to think about and work on consciousness.",
+  "who": 2
+ },
+ {
+  "start": 503.2,
+  "end": 509.12,
+  "text": "And did you, as an adolescent perhaps, have a kind of pivotal experience",
+  "who": "0"
+ },
+ {
+  "start": 509.12,
+  "end": 513.6,
+  "text": "or revelatory thought that made you think differently about consciousness?",
+  "who": "0"
+ },
+ {
+  "start": 514.26,
+  "end": 516.0199999999999,
+  "text": "I think I'd go back even further.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 516.0199999999999,
+  "end": 518.66,
+  "text": "And of course, I'm not sure how reliable this memory is.",
+  "who": 2
+ },
+ {
+  "start": 518.66,
+  "end": 523.06,
+  "text": "And this wasn't necessarily the memory that set me on the course to,",
+  "who": 2
+ },
+ {
+  "start": 523.06,
+  "end": 524.8199999999998,
+  "text": "oh, I want to become a neuroscientist now.",
+  "who": 2
+ },
+ {
+  "start": 524.8199999999998,
+  "end": 532.0999999999997,
+  "text": "But I do remember the first time I realized that I would at some point die",
+  "who": 2
+ },
+ {
+  "start": 532.0999999999997,
+  "end": 536.3399999999997,
+  "text": "and that what it was to be me would at some point come to an end.",
+  "who": 2
+ },
+ {
+  "start": 536.3399999999997,
+  "end": 540.7399999999996,
+  "text": "And I remember being in the bathroom of my family home in Oxfordshire",
+  "who": 2
+ },
+ {
+  "start": 541.6,
+  "end": 548.72,
+  "text": "and just having this recognition and being extremely blown away by it, not sideways.",
+  "who": 2
+ },
+ {
+  "start": 548.72,
+  "end": 551.6800000000001,
+  "text": "I don't remember it being that distressing or anything,",
+  "who": 2
+ },
+ {
+  "start": 551.6800000000001,
+  "end": 554.8000000000001,
+  "text": "just this sudden recognition that life is circumscribed.",
+  "who": 2
+ },
+ {
+  "start": 555.76,
+  "end": 562.4,
+  "text": "And that for me was certainly, it must have been part of this trajectory of thinking about mind,",
+  "who": 2
+ },
+ {
+  "start": 562.4,
+  "end": 569.6,
+  "text": "brain and self over those years. And then I think later on at school and even at university to begin",
+  "who": 2
+ },
+ {
+  "start": 569.6,
+  "end": 577.9999999999999,
+  "text": "with, I just became more and more interested by this mystery of consciousness as a scientific",
+  "who": 2
+ },
+ {
+  "start": 578.0,
+  "end": 584.0,
+  "text": "mystery and as a philosophical mystery, because there didn't seem to be any answer to it.",
+  "who": 2
+ },
+ {
+  "start": 584.56,
+  "end": 590.08,
+  "text": "And did you have any vague conception of what those answers might look like?",
+  "who": "0"
+ },
+ {
+  "start": 590.08,
+  "end": 594.4,
+  "text": "Did you think that you were going to find evidence of a soul?",
+  "who": "0"
+ },
+ {
+  "start": 594.4,
+  "end": 602.08,
+  "text": "Or did you think that you were going to figure out some thing that correlated consciousness between",
+  "who": "0"
+ },
+ {
+  "start": 602.08,
+  "end": 607.84,
+  "text": "humans and animals and other organic objects in the world?",
+  "who": "0"
+ },
+ {
+  "start": 607.84,
+  "end": 609.7599999999999,
+  "text": "Or did you have it? What were your ideas?",
+  "who": "0"
+ },
+ {
+  "start": 611.7,
+  "end": 615.8333333333334,
+  "text": "I was always very suspicious and still am about ideas of soul.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 616.44,
+  "end": 620.6800000000001,
+  "text": "It wasn't that I was setting out to find the neural fingerprints",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 620.6800000000001,
+  "end": 624.3600000000001,
+  "text": "of a soul somewhere inside the cerebral cortex or anything like that.",
+  "who": 2
+ },
+ {
+  "start": 624.63,
+  "end": 627.99,
+  "text": "I've actually become a little bit more sympathetic to the idea of a soul now,",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 627.99,
+  "end": 634.87,
+  "text": "but not as a thing, not as an essence, but more of a basic description of what it feels like to be",
+  "who": 2
+ },
+ {
+  "start": 634.87,
+  "end": 637.6700000000001,
+  "text": "a conscious being. But that isn't how I started.",
+  "who": 2
+ },
+ {
+  "start": 637.6700000000001,
+  "end": 643.35,
+  "text": "I think I started like many people at school and early stages of university,",
+  "who": 2
+ },
+ {
+  "start": 643.35,
+  "end": 647.8299999999999,
+  "text": "especially those interested in science and if anyone, people had an aptitude for science.",
+  "who": 2
+ },
+ {
+  "start": 647.8299999999999,
+  "end": 652.6299999999999,
+  "text": "My first aptitude was maths and physics. It was kind of easy.",
+  "who": 2
+ },
+ {
+  "start": 652.6299999999999,
+  "end": 658.55,
+  "text": "And I thought, well, also, that's the most fundamental level of description of the universe.",
+  "who": 2
+ },
+ {
+  "start": 658.55,
+  "end": 660.1499999999999,
+  "text": "It's the queen of all sciences.",
+  "who": 2
+ },
+ {
+  "start": 660.1499999999999,
+  "end": 665.27,
+  "text": "So my initial suspicion was that that's where the answer is going to come from.",
+  "who": 2
+ },
+ {
+  "start": 665.27,
+  "end": 670.2299999999999,
+  "text": "It's going to come from some new insight into physics about how the universe works as a whole.",
+  "who": 2
+ },
+ {
+  "start": 671.82,
+  "end": 676.6199999999999,
+  "text": "That's going to be the key to understanding how the brain gives rise to the mind.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 676.6199999999999,
+  "end": 681.4199999999998,
+  "text": "And to consciousness, and I'm not sure how coincidental this is,",
+  "who": 2
+ },
+ {
+  "start": 681.4199999999998,
+  "end": 685.3399999999998,
+  "text": "but halfway through university, I just hit a ceiling with my ability in maths and physics.",
+  "who": 2
+ },
+ {
+  "start": 685.3399999999998,
+  "end": 688.54,
+  "text": "And it went from being easy to being absolutely impossible.",
+  "who": 2
+ },
+ {
+  "start": 688.54,
+  "end": 690.6199999999999,
+  "text": "And I just couldn't do it at all anymore.",
+  "who": 2
+ },
+ {
+  "start": 690.6199999999999,
+  "end": 694.2999999999998,
+  "text": "And at the same time, psychology was on the menu.",
+  "who": 2
+ },
+ {
+  "start": 694.2999999999998,
+  "end": 695.98,
+  "text": "I could study psychology as well.",
+  "who": 2
+ },
+ {
+  "start": 695.98,
+  "end": 699.74,
+  "text": "So I started mixing maths and physics psychology and suddenly realized that,",
+  "who": 2
+ },
+ {
+  "start": 699.74,
+  "end": 703.8199999999999,
+  "text": "oh, this is kind of convenient because actually maybe it's not maths and physics.",
+  "who": 2
+ },
+ {
+  "start": 703.8199999999999,
+  "end": 709.5799999999999,
+  "text": "It's going to give the answer after all. It's studying the brain and the biology of the brain.",
+  "who": 2
+ },
+ {
+  "start": 709.5799999999999,
+  "end": 713.8999999999997,
+  "text": "So I then switched to studying psychology and neuroscience.",
+  "who": 2
+ },
+ {
+  "start": 714.78,
+  "end": 718.7800000000001,
+  "text": "I no longer think that the answer to consciousness is going to come from some",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 718.7800000000001,
+  "end": 721.1800000000002,
+  "text": "eureka moment that revolutionizes physics.",
+  "who": 2
+ },
+ {
+  "start": 720.08,
+  "end": 725.92,
+  "text": "Now, I'm just picturing you the way that I picture all people who are good at maths and",
+  "who": "0"
+ },
+ {
+  "start": 725.92,
+  "end": 729.7599999999999,
+  "text": "physics and things like that, which I am very much not and never have been.",
+  "who": "0"
+ },
+ {
+  "start": 729.76,
+  "end": 734.64,
+  "text": "As just being able to see the world a little bit like the matrix,",
+  "who": "0"
+ },
+ {
+  "start": 734.64,
+  "end": 738.4,
+  "text": "just strings of green numbers flowing around everywhere.",
+  "who": "0"
+ },
+ {
+  "start": 738.4,
+  "end": 741.2799999999999,
+  "text": "Anyway, listen, let's start with some basic terms.",
+  "who": "0"
+ },
+ {
+  "start": 741.28,
+  "end": 744.56,
+  "text": "Your book is all about consciousness. How do you define it?",
+  "who": "0"
+ },
+ {
+  "start": 746.96,
+  "end": 749.52,
+  "text": "What is consciousness? This is indeed the starting point.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 751.35,
+  "end": 755.03,
+  "text": "It's easy to get hung up on trying to define it, and people will always disagree and",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 755.03,
+  "end": 758.71,
+  "text": "partly because we're all very possessive of our own consciousness.",
+  "who": 2
+ },
+ {
+  "start": 758.71,
+  "end": 762.1499999999999,
+  "text": "We have direct experience of it. It is our direct experience.",
+  "who": 2
+ },
+ {
+  "start": 762.1499999999999,
+  "end": 764.4699999999999,
+  "text": "In fact, that is probably the best definition.",
+  "who": 2
+ },
+ {
+  "start": 765.63,
+  "end": 768.9100000000001,
+  "text": "Consciousness is any kind of subjective experience whatsoever.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 768.9100000000001,
+  "end": 774.9100000000002,
+  "text": "There's a philosopher called Tom Nagel who defined it in a very simple way,",
+  "who": 2
+ },
+ {
+  "start": 774.9100000000002,
+  "end": 776.59,
+  "text": "which might seem even a bit trivial.",
+  "who": 2
+ },
+ {
+  "start": 776.59,
+  "end": 781.47,
+  "text": "He said, for a conscious organism, there is something it is like to be that organism.",
+  "who": 2
+ },
+ {
+  "start": 782.64,
+  "end": 784.64,
+  "text": "There's just something going on for that organism.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 785.31,
+  "end": 788.31,
+  "text": "There's something it's like to be me. There's something it's like to be me.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 788.31,
+  "end": 793.11,
+  "text": "There's something it's like to be you. There's something it's like to be a sheep, probably.",
+  "who": 2
+ },
+ {
+  "start": 793.11,
+  "end": 797.11,
+  "text": "But the table is just a table and my iPhone is just an iPhone.",
+  "who": 2
+ },
+ {
+  "start": 797.11,
+  "end": 801.0299999999999,
+  "text": "There's nothing it is like for that table to be a table.",
+  "who": 2
+ },
+ {
+  "start": 801.0299999999999,
+  "end": 802.1499999999999,
+  "text": "It's just an object.",
+  "who": 2
+ },
+ {
+  "start": 802.1499999999999,
+  "end": 805.7499999999999,
+  "text": "It's a very, very uninformative definition of consciousness,",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 805.7499999999999,
+  "end": 809.4299999999997,
+  "text": "but I think it's helpful because it focuses on the fact that",
+  "who": 2
+ },
+ {
+  "start": 809.64,
+  "end": 811.6399999999999,
+  "text": "consciousness is all about experience.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 811.6399999999999,
+  "end": 814.8399999999999,
+  "text": "It's the redness of red. It's the feeling of an emotion.",
+  "who": 2
+ },
+ {
+  "start": 814.8399999999999,
+  "end": 817.3199999999999,
+  "text": "It's not the words we use to describe it.",
+  "who": 2
+ },
+ {
+  "start": 817.3199999999999,
+  "end": 819.3999999999999,
+  "text": "Consciousness is not intelligence.",
+  "who": 2
+ },
+ {
+  "start": 819.3999999999999,
+  "end": 822.28,
+  "text": "Consciousness does not require language.",
+  "who": 2
+ },
+ {
+  "start": 823.11,
+  "end": 826.23,
+  "text": "Consciousness is not the same thing as thinking either,",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 826.23,
+  "end": 829.11,
+  "text": "though we are conscious when we're thinking.",
+  "who": 2
+ },
+ {
+  "start": 830.0,
+  "end": 836.0,
+  "text": "But at bottom, it's just the raw facts that we are having an experience,",
+  "who": 2
+ },
+ {
+  "start": 836.0,
+  "end": 838.48,
+  "text": "that an experience of some kind is going on.",
+  "who": 2
+ },
+ {
+  "start": 838.62,
+  "end": 840.18,
+  "text": "That's the definition of consciousness.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 839.92,
+  "end": 844.56,
+  "text": "Right, you are processing information and data",
+  "who": "0"
+ },
+ {
+  "start": 844.56,
+  "end": 851.04,
+  "text": "and the result is that you produce feelings in response to an experience",
+  "who": "0"
+ },
+ {
+  "start": 851.04,
+  "end": 854.3200000000002,
+  "text": "rather than just being totally unresponsive.",
+  "who": "0"
+ },
+ {
+  "start": 854.97,
+  "end": 857.69,
+  "text": "That's right. Yeah, it's the fact that there are feelings connected,",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 857.69,
+  "end": 861.6100000000001,
+  "text": "that everything has a feeling and not just an emotional feeling.",
+  "who": 2
+ },
+ {
+  "start": 861.6100000000001,
+  "end": 866.4900000000001,
+  "text": "Like when you have a visual experience, it feels like something to have that experience",
+  "who": 2
+ },
+ {
+  "start": 867.21,
+  "end": 869.3700000000001,
+  "text": "compared to a camera, which just takes a picture",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 869.3700000000001,
+  "end": 872.4100000000001,
+  "text": "and the camera doesn't experience anything when it takes a picture, right?",
+  "who": 2
+ },
+ {
+  "start": 872.4100000000001,
+  "end": 875.2900000000002,
+  "text": "It's us looking at an image that has a visual experience.",
+  "who": 2
+ },
+ {
+  "start": 875.2900000000002,
+  "end": 875.7700000000003,
+  "text": "Yeah.",
+  "who": null
+ },
+ {
+  "start": 875.7700000000003,
+  "end": 880.4100000000002,
+  "text": "And there's all kinds of experiences that we have and we often seek,",
+  "who": 2
+ },
+ {
+  "start": 880.4100000000002,
+  "end": 883.8500000000001,
+  "text": "which we can think of what are often called flow experiences.",
+  "who": 2
+ },
+ {
+  "start": 883.8500000000001,
+  "end": 888.2500000000002,
+  "text": "When you're in the moment, playing music or playing sport, dancing,",
+  "who": 2
+ },
+ {
+  "start": 888.2500000000002,
+  "end": 891.6100000000002,
+  "text": "we're just speaking sometimes where you're not aware,",
+  "who": 2
+ },
+ {
+  "start": 891.6100000000002,
+  "end": 894.8900000000003,
+  "text": "you're no longer aware of yourself as separate from the world.",
+  "who": 2
+ },
+ {
+  "start": 895.92,
+  "end": 897.76,
+  "text": "You are fully immersed in it.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 897.76,
+  "end": 899.76,
+  "text": "That the world is just happening for you.",
+  "who": 2
+ },
+ {
+  "start": 899.76,
+  "end": 904.8800000000001,
+  "text": "The world is just happening and experience is just going on and that's enough.",
+  "who": 2
+ },
+ {
+  "start": 904.8800000000001,
+  "end": 908.4,
+  "text": "Another way to think of it very simply is consciousness is what goes away",
+  "who": 2
+ },
+ {
+  "start": 908.4,
+  "end": 911.6,
+  "text": "when you go under general anesthesia or when you fall into a dreamless sleep.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 911.6,
+  "end": 914.2399999999999,
+  "text": "You know, dreams are conscious, you're having experiences there.",
+  "who": 2
+ },
+ {
+  "start": 914.32,
+  "end": 919.28,
+  "text": "But in a state of sleep where you just go out, that's what goes away.",
+  "who": 2
+ },
+ {
+  "start": 919.28,
+  "end": 922.72,
+  "text": "It's the consciousness that goes away and it comes back again when you wake up.",
+  "who": 2
+ },
+ {
+  "start": 923.37,
+  "end": 925.7033333333334,
+  "text": "Yes, you're not left with anything.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 925.7033333333334,
+  "end": 930.5833333333334,
+  "text": "I mean, you say that what we perceive as humans",
+  "who": "0"
+ },
+ {
+  "start": 930.5833333333334,
+  "end": 934.4233333333334,
+  "text": "is the brain's best guess of what's out there in the world.",
+  "who": "0"
+ },
+ {
+  "start": 934.4233333333334,
+  "end": 939.7033333333333,
+  "text": "And I suppose that makes me think a little bit of consciousness",
+  "who": "0"
+ },
+ {
+  "start": 939.7033333333333,
+  "end": 945.0633333333332,
+  "text": "as something inside of us that's controlling things",
+  "who": "0"
+ },
+ {
+  "start": 945.0633333333332,
+  "end": 950.343333333333,
+  "text": "or receiving the information and then making us respond somehow",
+  "who": "0"
+ },
+ {
+  "start": 950.343333333333,
+  "end": 954.4233333333332,
+  "text": "like a little guy in there, like the numbskulls in Beano.",
+  "who": "0"
+ },
+ {
+  "start": 954.08,
+  "end": 958.56,
+  "text": "Yeah, that's something to always be wary of when thinking about consciousness,",
+  "who": 2
+ },
+ {
+  "start": 958.56,
+  "end": 963.28,
+  "text": "which is this very tempting idea that there's a mini me inside me",
+  "who": 2
+ },
+ {
+  "start": 963.28,
+  "end": 965.6800000000001,
+  "text": "that's receiving all this information from the senses.",
+  "who": 2
+ },
+ {
+  "start": 966.96,
+  "end": 969.92,
+  "text": "It's sort of like watching an inner movie screen",
+  "who": 2
+ },
+ {
+  "start": 969.92,
+  "end": 975.7599999999999,
+  "text": "that's being directed by the brain and there's this mini me inside",
+  "who": 2
+ },
+ {
+  "start": 975.76,
+  "end": 977.44,
+  "text": "and I'm watching it and I'm getting the sound,",
+  "who": 2
+ },
+ {
+  "start": 977.44,
+  "end": 980.24,
+  "text": "there's a little band playing all the sounds from outside",
+  "who": 2
+ },
+ {
+  "start": 980.24,
+  "end": 983.28,
+  "text": "and I decide what to do and then I pull some strings",
+  "who": 2
+ },
+ {
+  "start": 983.28,
+  "end": 985.9199999999998,
+  "text": "and make my arms move, make my muscles move.",
+  "who": 2
+ },
+ {
+  "start": 987.09,
+  "end": 989.65,
+  "text": "That, I think, it doesn't work because then,",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 989.68,
+  "end": 991.92,
+  "text": "well, you've just pushed the problem one stage back.",
+  "who": 2
+ },
+ {
+  "start": 992.64,
+  "end": 994.08,
+  "text": "How does the mini me work?",
+  "who": 2
+ },
+ {
+  "start": 994.08,
+  "end": 996.7200000000001,
+  "text": "Is there another little mini mini me inside that?",
+  "who": 2
+ },
+ {
+  "start": 996.7200000000001,
+  "end": 998.1600000000001,
+  "text": "And so on and so on and so on.",
+  "who": 2
+ },
+ {
+  "start": 999.66,
+  "end": 1002.1399999999999,
+  "text": "And it doesn't really make any sense anyway.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 1002.1399999999999,
+  "end": 1005.2599999999998,
+  "text": "I think the key thing here is that the self,",
+  "who": 2
+ },
+ {
+  "start": 1005.68,
+  "end": 1008.08,
+  "text": "the experience of what it is to be me or you",
+  "who": 2
+ },
+ {
+  "start": 1008.08,
+  "end": 1009.68,
+  "text": "is another kind of perception.",
+  "who": 2
+ },
+ {
+  "start": 1009.68,
+  "end": 1011.36,
+  "text": "It's another kind of experience.",
+  "who": 2
+ },
+ {
+  "start": 1011.36,
+  "end": 1014.7999999999998,
+  "text": "The brain is generating the experience of self",
+  "who": 2
+ },
+ {
+  "start": 1016.25,
+  "end": 1018.4900000000001,
+  "text": "in the same way that it's generating",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 1018.4900000000001,
+  "end": 1021.6900000000002,
+  "text": "an experience of the world as well.",
+  "who": 2
+ },
+ {
+  "start": 1021.6900000000002,
+  "end": 1024.4100000000003,
+  "text": "They're both different kinds of perception.",
+  "who": 2
+ },
+ {
+  "start": 1025.79,
+  "end": 1028.75,
+  "text": "And this idea of perception being a best guess,",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 1029.84,
+  "end": 1032.6399999999999,
+  "text": "that's a claim about how the wiring works.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 1033.2,
+  "end": 1034.96,
+  "text": "It's a claim about what the brain's doing.",
+  "who": 2
+ },
+ {
+  "start": 1036.0,
+  "end": 1040.32,
+  "text": "It doesn't mean that there's a thing doing the guessing.",
+  "who": 2
+ },
+ {
+  "start": 1040.32,
+  "end": 1042.64,
+  "text": "Now, that's all the stuff that goes on under the hood.",
+  "who": 2
+ },
+ {
+  "start": 1043.34,
+  "end": 1044.22,
+  "text": "We're not aware.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 1044.24,
+  "end": 1047.12,
+  "text": "I'm not aware of what my neurons are doing at all.",
+  "who": 2
+ },
+ {
+  "start": 1047.12,
+  "end": 1050.4,
+  "text": "I don't have any awareness of the electrical signals",
+  "who": 2
+ },
+ {
+  "start": 1050.4,
+  "end": 1052.48,
+  "text": "flowing around the circuits of my brain.",
+  "who": 2
+ },
+ {
+  "start": 1053.33,
+  "end": 1055.8900000000003,
+  "text": "The result of that is my awareness of the world",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 1055.8900000000003,
+  "end": 1057.8100000000002,
+  "text": "and of being myself.",
+  "who": 2
+ },
+ {
+  "start": 1057.8100000000002,
+  "end": 1060.3700000000003,
+  "text": "But what the circuits are doing is this process",
+  "who": 2
+ },
+ {
+  "start": 1060.96,
+  "end": 1065.44,
+  "text": "of taking in sensory information from the world and the body",
+  "who": 2
+ },
+ {
+  "start": 1065.44,
+  "end": 1067.3600000000001,
+  "text": "and trying to figure out what caused it",
+  "who": 2
+ },
+ {
+  "start": 1067.49,
+  "end": 1071.49,
+  "text": "and making a best guess about what caused that sensory data.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 1072.56,
+  "end": 1075.92,
+  "text": "And that is what we end up perceiving.",
+  "who": 2
+ },
+ {
+  "start": 1075.92,
+  "end": 1077.12,
+  "text": "That's what I think.",
+  "who": 2
+ },
+ {
+  "start": 1077.12,
+  "end": 1080.2399999999998,
+  "text": "I'm not the first person to make that kind of argument.",
+  "who": 2
+ },
+ {
+  "start": 1080.24,
+  "end": 1081.76,
+  "text": "And it's still just a hypothesis.",
+  "who": 2
+ },
+ {
+  "start": 1081.76,
+  "end": 1085.2,
+  "text": "This is not sort of the book of nature laid bare.",
+  "who": 2
+ },
+ {
+  "start": 1085.2,
+  "end": 1086.72,
+  "text": "It's still just an idea.",
+  "who": 2
+ },
+ {
+  "start": 1086.72,
+  "end": 1088.8,
+  "text": "But I think it's a very compelling idea",
+  "who": 2
+ },
+ {
+  "start": 1090.11,
+  "end": 1093.5766666666666,
+  "text": "to explain the relationship between what we perceive",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 1094.34,
+  "end": 1096.1000000000001,
+  "text": "and what's out there in the world",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 1096.1000000000001,
+  "end": 1098.1000000000004,
+  "text": "and what's in here in our bodies.",
+  "who": 2
+ },
+ {
+  "start": 1098.0,
+  "end": 1101.28,
+  "text": "I suppose the reason someone like me",
+  "who": "0"
+ },
+ {
+  "start": 1101.28,
+  "end": 1102.8799999999999,
+  "text": "thinks of the little mini me guy",
+  "who": "0"
+ },
+ {
+  "start": 1104.48,
+  "end": 1107.36,
+  "text": "is that you talk to yourself",
+  "who": "0"
+ },
+ {
+  "start": 1108.41,
+  "end": 1110.41,
+  "text": "and you have a dialogue with yourself",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 1110.41,
+  "end": 1113.05,
+  "text": "and it feels as if that person that you're talking to",
+  "who": "0"
+ },
+ {
+  "start": 1113.05,
+  "end": 1115.85,
+  "text": "is inside you, either in your head",
+  "who": "0"
+ },
+ {
+  "start": 1115.85,
+  "end": 1118.57,
+  "text": "or just floating around inside you.",
+  "who": "0"
+ },
+ {
+  "start": 1118.57,
+  "end": 1121.69,
+  "text": "You know, it's the real you.",
+  "who": "0"
+ },
+ {
+  "start": 1122.08,
+  "end": 1124.72,
+  "text": "It's the person you can be honest with.",
+  "who": "0"
+ },
+ {
+  "start": 1124.72,
+  "end": 1129.1200000000001,
+  "text": "It's the person you're not pretending for anyone with,",
+  "who": "0"
+ },
+ {
+  "start": 1128.54,
+  "end": 1129.6599999999999,
+  "text": "if that makes sense.",
+  "who": 0,
+  "matched": true
+ },
+ {
+  "start": 1130.79,
+  "end": 1133.35,
+  "text": "Yeah, and it's the person always giving you a hard time as well.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 1133.29,
+  "end": 1134.4099999999996,
+  "text": "Yeah, yeah, exactly.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 1134.4099999999996,
+  "end": 1136.7299999999998,
+  "text": "So often that person is a twat",
+  "who": "0"
+ },
+ {
+  "start": 1137.2,
+  "end": 1140.64,
+  "text": "and is telling you very unhelpful stuff.",
+  "who": "0"
+ },
+ {
+  "start": 1140.81,
+  "end": 1144.09,
+  "text": "And yeah, you're constantly dealing with that person.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 1144.09,
+  "end": 1146.8899999999999,
+  "text": "But it does feel like a person inside you",
+  "who": "0"
+ },
+ {
+  "start": 1146.8899999999999,
+  "end": 1151.53,
+  "text": "who is processing everything and who does control you.",
+  "who": "0"
+ },
+ {
+  "start": 1151.53,
+  "end": 1156.01,
+  "text": "And I suppose that's bound up with the idea of a soul,",
+  "who": "0"
+ },
+ {
+  "start": 1156.01,
+  "end": 1157.6899999999998,
+  "text": "this little version of you,",
+  "who": "0"
+ },
+ {
+  "start": 1157.6899999999998,
+  "end": 1159.2899999999995,
+  "text": "the true version of you inside.",
+  "who": "0"
+ },
+ {
+  "start": 1159.2899999999995,
+  "end": 1160.8899999999994,
+  "text": "I mean, even non religious people",
+  "who": "0"
+ },
+ {
+  "start": 1160.8899999999994,
+  "end": 1164.0099999999995,
+  "text": "have that idea of themselves.",
+  "who": "0"
+ },
+ {
+  "start": 1163.84,
+  "end": 1166.48,
+  "text": "Right, it's very intuitive.",
+  "who": 2
+ },
+ {
+  "start": 1167.3,
+  "end": 1168.74,
+  "text": "That's how things seem.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 1168.74,
+  "end": 1171.9399999999998,
+  "text": "It seems like there's this voice in the head,",
+  "who": 2
+ },
+ {
+  "start": 1171.9399999999998,
+  "end": 1174.4199999999998,
+  "text": "which is weird anyway, if you think about it,",
+  "who": 2
+ },
+ {
+  "start": 1174.4199999999998,
+  "end": 1176.34,
+  "text": "because sometimes we treat this voice in the head",
+  "who": 2
+ },
+ {
+  "start": 1176.75,
+  "end": 1178.75,
+  "text": "as somehow separate from ourselves.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 1178.96,
+  "end": 1180.64,
+  "text": "It's like it's talking to us",
+  "who": 2
+ },
+ {
+  "start": 1180.86,
+  "end": 1182.5399999999997,
+  "text": "and sometimes it is ourself.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 1182.5399999999997,
+  "end": 1185.5799999999997,
+  "text": "Sometimes, well, that is me that's doing the talking.",
+  "who": 2
+ },
+ {
+  "start": 1185.5799999999997,
+  "end": 1187.5799999999997,
+  "text": "So there's some ambiguity there.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 1187.5799999999997,
+  "end": 1188.6199999999997,
+  "text": "But it's certainly, you're right,",
+  "who": 2
+ },
+ {
+  "start": 1188.6199999999997,
+  "end": 1192.0599999999995,
+  "text": "it seems as though there is some essence of me",
+  "who": 2
+ },
+ {
+  "start": 1192.56,
+  "end": 1196.32,
+  "text": "that is stable, that floats around somewhere,",
+  "who": 2
+ },
+ {
+  "start": 1196.32,
+  "end": 1198.8799999999999,
+  "text": "whether it's in my head or a bit more generally in my body.",
+  "who": 2
+ },
+ {
+  "start": 1199.44,
+  "end": 1203.68,
+  "text": "And that is perhaps separable",
+  "who": 2
+ },
+ {
+  "start": 1203.68,
+  "end": 1206.64,
+  "text": "from the materiality of the body",
+  "who": 2
+ },
+ {
+  "start": 1206.64,
+  "end": 1209.4399999999998,
+  "text": "that it happens to be in right now.",
+  "who": 2
+ },
+ {
+  "start": 1209.44,
+  "end": 1212.4,
+  "text": "I don't know how culturally dependent",
+  "who": 2
+ },
+ {
+  "start": 1212.4,
+  "end": 1214.0,
+  "text": "these intuitions are.",
+  "who": 2
+ },
+ {
+  "start": 1214.0,
+  "end": 1215.3599999999997,
+  "text": "They might be quite dependent",
+  "who": 2
+ },
+ {
+  "start": 1215.36,
+  "end": 1217.12,
+  "text": "on where people have grown up",
+  "who": 2
+ },
+ {
+  "start": 1217.12,
+  "end": 1221.2799999999997,
+  "text": "and what surrounding cultural and religious beliefs there are.",
+  "who": 2
+ },
+ {
+  "start": 1222.59,
+  "end": 1223.6299999999997,
+  "text": "But in any case,",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 1225.02,
+  "end": 1228.4866666666667,
+  "text": "the way things seem to us in our everyday experience",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 1229.88,
+  "end": 1233.2133333333334,
+  "text": "is not a very good guide to how they actually are.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 1233.2133333333334,
+  "end": 1235.1333333333332,
+  "text": "And it's probably useful to experience",
+  "who": 2
+ },
+ {
+  "start": 1235.1333333333332,
+  "end": 1238.0933333333332,
+  "text": "the sense of self as being stable over time.",
+  "who": 2
+ },
+ {
+  "start": 1238.0933333333332,
+  "end": 1240.7333333333336,
+  "text": "It provides an organising principle for our behaviour.",
+  "who": 2
+ },
+ {
+  "start": 1240.7333333333336,
+  "end": 1242.7333333333338,
+  "text": "But it doesn't mean that that's actually what's going on.",
+  "who": 2
+ },
+ {
+  "start": 1242.7333333333338,
+  "end": 1244.1733333333334,
+  "text": "In fact, it isn't what's going on.",
+  "who": 2
+ },
+ {
+  "start": 1246.41,
+  "end": 1249.1299999999999,
+  "text": "I see, I find that hard to get my head round.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 1249.1299999999999,
+  "end": 1254.0100000000002,
+  "text": "Like, isn't the fact that most of us can agree",
+  "who": "0"
+ },
+ {
+  "start": 1254.0100000000002,
+  "end": 1257.2100000000003,
+  "text": "on what we are seeing in the world evidence",
+  "who": "0"
+ },
+ {
+  "start": 1257.2100000000003,
+  "end": 1261.0500000000002,
+  "text": "that there's a good chance that's what it looks like",
+  "who": "0"
+ },
+ {
+  "start": 1261.52,
+  "end": 1262.4533333333334,
+  "text": "or feels like?",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 1262.4533333333334,
+  "end": 1265.8933333333337,
+  "text": "Well, it's not a total fabrication",
+  "who": 2
+ },
+ {
+  "start": 1265.8933333333337,
+  "end": 1268.6933333333334,
+  "text": "in the sense that it could be anything.",
+  "who": 2
+ },
+ {
+  "start": 1268.6933333333334,
+  "end": 1273.2533333333336,
+  "text": "So I'm not saying, I don't think any body in my area",
+  "who": 2
+ },
+ {
+  "start": 1273.2533333333336,
+  "end": 1276.6933333333334,
+  "text": "would say that your perception is just completely",
+  "who": 2
+ },
+ {
+  "start": 1278.12,
+  "end": 1280.84,
+  "text": "unrelated to whatever's out there in the world.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 1280.84,
+  "end": 1283.0,
+  "text": "No, there's stuff out there and the stuff is real.",
+  "who": 2
+ },
+ {
+  "start": 1283.85,
+  "end": 1285.9833333333333,
+  "text": "I think we probably overestimate",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 1285.9833333333333,
+  "end": 1288.2233333333331,
+  "text": "how similar people's experiences are",
+  "who": 2
+ },
+ {
+  "start": 1288.2233333333331,
+  "end": 1291.6633333333334,
+  "text": "because we use language as this kind of common currency",
+  "who": 2
+ },
+ {
+  "start": 1291.6633333333334,
+  "end": 1292.7833333333333,
+  "text": "to describe experiences.",
+  "who": 2
+ },
+ {
+  "start": 1292.7833333333333,
+  "end": 1295.2633333333333,
+  "text": "So, if I see a bus going down the street,",
+  "who": 2
+ },
+ {
+  "start": 1295.2633333333333,
+  "end": 1297.9033333333332,
+  "text": "am I experienced of its colour and of its size",
+  "who": 2
+ },
+ {
+  "start": 1297.9033333333332,
+  "end": 1299.263333333333,
+  "text": "might be slightly different to yours?",
+  "who": 2
+ },
+ {
+  "start": 1300.32,
+  "end": 1302.2399999999998,
+  "text": "But there's definitely something there.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 1302.2399999999998,
+  "end": 1306.0,
+  "text": "The bus has a particular kind of surface",
+  "who": 2
+ },
+ {
+  "start": 1306.0,
+  "end": 1308.16,
+  "text": "that reflects light in a particular way",
+  "who": 2
+ },
+ {
+  "start": 1308.16,
+  "end": 1312.3999999999999,
+  "text": "that human brains will tend to, on encountering,",
+  "who": 2
+ },
+ {
+  "start": 1312.3999999999999,
+  "end": 1314.56,
+  "text": "generate an experience of redness.",
+  "who": 2
+ },
+ {
+  "start": 1314.8,
+  "end": 1316.56,
+  "text": "And if our brains are sufficiently similar,",
+  "who": 2
+ },
+ {
+  "start": 1316.56,
+  "end": 1318.56,
+  "text": "they'll generate the same kind of experience.",
+  "who": 2
+ },
+ {
+  "start": 1320.57,
+  "end": 1321.6900000000003,
+  "text": "But the bus is what it is.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 1321.6900000000003,
+  "end": 1323.9300000000003,
+  "text": "It's not red, it's not blue, it's not any colour.",
+  "who": 2
+ },
+ {
+  "start": 1323.9300000000003,
+  "end": 1327.8500000000006,
+  "text": "Colour is not a kind of thing that a bus can be.",
+  "who": 2
+ },
+ {
+  "start": 1328.69,
+  "end": 1330.2900000000002,
+  "text": "They look pretty red to me.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 1330.69,
+  "end": 1334.3566666666668,
+  "text": "But this is kind of getting into philosophy, I suppose.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 1334.3566666666668,
+  "end": 1338.916666666667,
+  "text": "And is that an area that crosses over with what you do a lot?",
+  "who": "0"
+ },
+ {
+  "start": 1338.916666666667,
+  "end": 1340.276666666667,
+  "text": "Do you read a lot of philosophy",
+  "who": "0"
+ },
+ {
+  "start": 1340.54,
+  "end": 1342.14,
+  "text": "and think about things in those terms?",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 1343.16,
+  "end": 1345.16,
+  "text": "Yes, it's impossible to avoid.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 1346.25,
+  "end": 1348.0900000000001,
+  "text": "And I mean, I wouldn't want to avoid it.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 1348.0900000000001,
+  "end": 1351.13,
+  "text": "Philosophy is just at the heart of all these issues,",
+  "who": 2
+ },
+ {
+  "start": 1351.13,
+  "end": 1354.9700000000003,
+  "text": "especially the philosophy of mind, the philosophy of perception.",
+  "who": 2
+ },
+ {
+  "start": 1354.9700000000003,
+  "end": 1356.4099999999999,
+  "text": "There's a philosophical tradition",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 1356.4099999999999,
+  "end": 1358.89,
+  "text": "which is associated with people like Immanuel Kant.",
+  "who": 2
+ },
+ {
+  "start": 1358.89,
+  "end": 1361.4500000000003,
+  "text": "And he would say that out there in the real world,",
+  "who": 2
+ },
+ {
+  "start": 1361.4500000000003,
+  "end": 1363.2900000000004,
+  "text": "we'll never have direct access",
+  "who": 2
+ },
+ {
+  "start": 1363.2900000000004,
+  "end": 1364.8900000000003,
+  "text": "to what's out there in the real world.",
+  "who": 2
+ },
+ {
+  "start": 1366.05,
+  "end": 1367.8100000000002,
+  "text": "Whatever it is, it's not the kind of thing",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 1368.72,
+  "end": 1370.24,
+  "text": "that you will ever know.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 1370.24,
+  "end": 1374.1599999999996,
+  "text": "We can only infer things about it through our senses",
+  "who": 2
+ },
+ {
+  "start": 1374.1599999999996,
+  "end": 1377.4399999999998,
+  "text": "and later on through making scientific measurements",
+  "who": 2
+ },
+ {
+  "start": 1377.4399999999998,
+  "end": 1379.92,
+  "text": "of one sort or another.",
+  "who": 2
+ },
+ {
+  "start": 1379.92,
+  "end": 1381.3600000000001,
+  "text": "But what's really out there,",
+  "who": 2
+ },
+ {
+  "start": 1381.3600000000001,
+  "end": 1384.6400000000003,
+  "text": "that's always hidden behind this sensory veil",
+  "who": 2
+ },
+ {
+  "start": 1384.96,
+  "end": 1389.44,
+  "text": "and we'll only ever experience kind of interpretations of it.",
+  "who": 2
+ },
+ {
+  "start": 1392.96,
+  "end": 1395.28,
+  "text": "Immanuel Kant believed in God, right?",
+  "who": "0"
+ },
+ {
+  "start": 1396.44,
+  "end": 1397.4800000000002,
+  "text": "I think he did, yes.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 1397.4800000000002,
+  "end": 1400.76,
+  "text": "I know sadly little about these people's personal histories.",
+  "who": 2
+ },
+ {
+  "start": 1400.76,
+  "end": 1402.44,
+  "text": "You probably know more than I do, mate.",
+  "who": "0"
+ },
+ {
+  "start": 1402.86,
+  "end": 1404.1266666666666,
+  "text": "But I think he did.",
+  "who": 0,
+  "matched": true
+ },
+ {
+  "start": 1404.24,
+  "end": 1408.64,
+  "text": "And then I think because he believed in God,",
+  "who": "0"
+ },
+ {
+  "start": 1408.64,
+  "end": 1411.5999999999997,
+  "text": "he probably believed in a soul, don't you reckon?",
+  "who": "0"
+ },
+ {
+  "start": 1412.67,
+  "end": 1415.6033333333335,
+  "text": "And I'm sorry to keep banging on about soul,",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 1415.6033333333335,
+  "end": 1418.4833333333338,
+  "text": "but I do think about it because I guess I'm interested",
+  "who": "0"
+ },
+ {
+  "start": 1418.4833333333338,
+  "end": 1422.8833333333334,
+  "text": "in that sense that there is an essential version",
+  "who": "0"
+ },
+ {
+  "start": 1422.8833333333334,
+  "end": 1425.3633333333337,
+  "text": "of yourself inside of you.",
+  "who": "0"
+ },
+ {
+  "start": 1425.3633333333337,
+  "end": 1428.483333333334,
+  "text": "And I'm interested in to what extent that's true or not.",
+  "who": "0"
+ },
+ {
+  "start": 1428.72,
+  "end": 1432.08,
+  "text": "And I was reading recently about the idea",
+  "who": "0"
+ },
+ {
+  "start": 1432.08,
+  "end": 1434.1599999999999,
+  "text": "of a kind of episodic self.",
+  "who": "0"
+ },
+ {
+  "start": 1434.16,
+  "end": 1437.68,
+  "text": "In other words, the idea that there's no one fixed",
+  "who": "0"
+ },
+ {
+  "start": 1438.92,
+  "end": 1440.3866666666668,
+  "text": "version of you inside.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 1441.86,
+  "end": 1443.9399999999998,
+  "text": "Even though most of us think of ourselves",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 1443.9399999999998,
+  "end": 1448.1799999999994,
+  "text": "as one essential being with us,",
+  "who": "0"
+ },
+ {
+  "start": 1448.1799999999994,
+  "end": 1450.5799999999995,
+  "text": "you know, that's that guy, it's Adam Buxton.",
+  "who": "0"
+ },
+ {
+  "start": 1450.5799999999995,
+  "end": 1453.2999999999997,
+  "text": "He's got a set of beliefs, sort of.",
+  "who": "0"
+ },
+ {
+  "start": 1453.2999999999997,
+  "end": 1454.9666666666662,
+  "text": "He says things like this.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 1454.9666666666662,
+  "end": 1457.126666666666,
+  "text": "He responds to the world this way.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 1457.19,
+  "end": 1459.39,
+  "text": "And despite variations over time,",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 1459.69,
+  "end": 1461.2100000000003,
+  "text": "not as funny as he used to be,",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 1461.2100000000003,
+  "end": 1463.21,
+  "text": "got a bit crankier as he's got older,",
+  "who": "0"
+ },
+ {
+  "start": 1463.21,
+  "end": 1466.6499999999996,
+  "text": "that's basically who you are throughout your life.",
+  "who": "0"
+ },
+ {
+  "start": 1466.6499999999996,
+  "end": 1469.5299999999995,
+  "text": "But the more episodic view of existing",
+  "who": "0"
+ },
+ {
+  "start": 1469.5299999999995,
+  "end": 1474.1699999999994,
+  "text": "is that you're actually just a rag bag of qualities",
+  "who": "0"
+ },
+ {
+  "start": 1474.1699999999994,
+  "end": 1478.2499999999993,
+  "text": "that shift over time and kind of come in and out of focus.",
+  "who": "0"
+ },
+ {
+  "start": 1480.02,
+  "end": 1481.1533333333334,
+  "text": "You're not fixed.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 1481.1533333333334,
+  "end": 1482.4733333333334,
+  "text": "I'm probably mangling that a bit,",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 1482.4733333333334,
+  "end": 1483.9933333333336,
+  "text": "but does that kind of make any sense?",
+  "who": "0"
+ },
+ {
+  "start": 1484.02,
+  "end": 1484.86,
+  "text": "Oh, it makes perfect.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 1484.86,
+  "end": 1486.3799999999997,
+  "text": "It makes perfect sense.",
+  "who": 2
+ },
+ {
+  "start": 1486.3799999999997,
+  "end": 1489.9799999999996,
+  "text": "That's exactly how I've come to think of the self.",
+  "who": 2
+ },
+ {
+  "start": 1489.9799999999996,
+  "end": 1494.7799999999995,
+  "text": "And I would associate that with a lot of the Eastern traditions",
+  "who": 2
+ },
+ {
+  "start": 1494.7799999999995,
+  "end": 1499.2599999999998,
+  "text": "of Buddhism and so on that talk about the impermanence of self",
+  "who": 2
+ },
+ {
+  "start": 1499.2599999999998,
+  "end": 1503.58,
+  "text": "and that there isn't an essence that persists from birth to death",
+  "who": 2
+ },
+ {
+  "start": 1503.58,
+  "end": 1508.3799999999999,
+  "text": "and that you hang on to that the self is continually changing.",
+  "who": 2
+ },
+ {
+  "start": 1508.3799999999999,
+  "end": 1513.3400000000001,
+  "text": "And there's, again, there's a lovely analogy from how we see.",
+  "who": 2
+ },
+ {
+  "start": 1514.97,
+  "end": 1518.4366666666667,
+  "text": "If I show you an image and if it's got a background,",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 1518.4366666666667,
+  "end": 1521.1566666666668,
+  "text": "like maybe it's a wall in the background,",
+  "who": 2
+ },
+ {
+  "start": 1521.1566666666668,
+  "end": 1525.716666666667,
+  "text": "a wall in the background and the wall slowly changes color,",
+  "who": 2
+ },
+ {
+  "start": 1525.716666666667,
+  "end": 1527.8766666666672,
+  "text": "very slowly, over a minute or something like that.",
+  "who": 2
+ },
+ {
+  "start": 1527.8766666666672,
+  "end": 1529.4766666666671,
+  "text": "And you're not focusing on the wall.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 1529.4766666666671,
+  "end": 1530.3566666666673,
+  "text": "I've asked you to, I don't know,",
+  "who": 2
+ },
+ {
+  "start": 1530.3566666666673,
+  "end": 1534.0366666666673,
+  "text": "count the number of toasters on a table or something silly like that.",
+  "who": 2
+ },
+ {
+  "start": 1534.0366666666673,
+  "end": 1536.3566666666675,
+  "text": "You won't notice the color changing at all",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 1536.3566666666675,
+  "end": 1537.5566666666675,
+  "text": "because it's changing slowly.",
+  "who": 2
+ },
+ {
+  "start": 1537.5566666666675,
+  "end": 1539.2366666666676,
+  "text": "This is called change blindness.",
+  "who": 2
+ },
+ {
+  "start": 1540.0,
+  "end": 1545.2,
+  "text": "Your perception is changing, but you're not perceiving the change.",
+  "who": 2
+ },
+ {
+  "start": 1545.2,
+  "end": 1550.24,
+  "text": "Other great inspirations for me, thinking again about when I was young,",
+  "who": 2
+ },
+ {
+  "start": 1550.24,
+  "end": 1551.28,
+  "text": "getting interested in all this stuff,",
+  "who": 2
+ },
+ {
+  "start": 1551.28,
+  "end": 1556.4800000000002,
+  "text": "was reading Oliver Sacks great book about the man who mistook his wife for a hat.",
+  "who": 2
+ },
+ {
+  "start": 1556.4800000000002,
+  "end": 1556.9600000000005,
+  "text": "Right.",
+  "who": 2
+ },
+ {
+  "start": 1558.71,
+  "end": 1560.71,
+  "text": "And in that book, as in many of his books,",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 1560.71,
+  "end": 1563.67,
+  "text": "he describes all these neurological case studies",
+  "who": 2
+ },
+ {
+  "start": 1563.67,
+  "end": 1568.71,
+  "text": "where people's experiences of the world and the self just fracture",
+  "who": 2
+ },
+ {
+  "start": 1569.72,
+  "end": 1572.4533333333334,
+  "text": "in ways which seem totally bizarre to us.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 1572.4533333333334,
+  "end": 1576.7733333333333,
+  "text": "It really reveals that what seems to be intrinsically unified,",
+  "who": 2
+ },
+ {
+  "start": 1576.7733333333333,
+  "end": 1577.893333333333,
+  "text": "how could it be otherwise?",
+  "who": 2
+ },
+ {
+  "start": 1577.893333333333,
+  "end": 1580.933333333333,
+  "text": "I'm me, and all of me is part of me, my memories,",
+  "who": 2
+ },
+ {
+  "start": 1580.933333333333,
+  "end": 1583.653333333333,
+  "text": "my experience of my body, my experience of free will,",
+  "who": 2
+ },
+ {
+  "start": 1583.653333333333,
+  "end": 1586.6933333333334,
+  "text": "all of these things are just, they have to be bound together.",
+  "who": 2
+ },
+ {
+  "start": 1586.6933333333334,
+  "end": 1588.3733333333334,
+  "text": "They have to be, but they don't.",
+  "who": 2
+ },
+ {
+  "start": 1588.3733333333334,
+  "end": 1590.7733333333335,
+  "text": "And we see this in neurology all the time now",
+  "who": 2
+ },
+ {
+  "start": 1590.7733333333335,
+  "end": 1595.5733333333333,
+  "text": "that people can lose part of themselves, but not all of themselves.",
+  "who": 2
+ },
+ {
+  "start": 1595.5733333333333,
+  "end": 1600.6933333333334,
+  "text": "So there's an observable truth to this idea that being a self",
+  "who": 2
+ },
+ {
+  "start": 1600.6933333333334,
+  "end": 1605.3333333333335,
+  "text": "is a bundle of perceptions, a bundle of experiences, and not a permanent essence.",
+  "who": 2
+ },
+ {
+  "start": 1605.3333333333335,
+  "end": 1605.9733333333334,
+  "text": "Yeah.",
+  "who": 0
+ },
+ {
+  "start": 1607.85,
+  "end": 1611.6899999999998,
+  "text": "Was there a particular case study in the Oliver Sacks book,",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 1611.6899999999998,
+  "end": 1613.4499999999998,
+  "text": "in the man who mistook his wife for a hat,",
+  "who": "0"
+ },
+ {
+  "start": 1613.4499999999998,
+  "end": 1616.01,
+  "text": "that made a big impression on you when you read it?",
+  "who": "0"
+ },
+ {
+  "start": 1616.52,
+  "end": 1619.56,
+  "text": "I sort of think of them all as a bundle now, all as a kind of collective,",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 1619.56,
+  "end": 1625.7999999999997,
+  "text": "but the condition that I think made me think the most about this stuff,",
+  "who": 2
+ },
+ {
+  "start": 1625.7999999999997,
+  "end": 1627.6399999999996,
+  "text": "and I know Oliver Sacks has written about it,",
+  "who": 2
+ },
+ {
+  "start": 1627.6399999999996,
+  "end": 1629.3999999999999,
+  "text": "I can't remember which book it was in,",
+  "who": 2
+ },
+ {
+  "start": 1629.3999999999999,
+  "end": 1632.52,
+  "text": "is this condition called Capgras syndrome.",
+  "who": 2
+ },
+ {
+  "start": 1633.22,
+  "end": 1633.7533333333333,
+  "text": "Capgras.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 1633.7533333333333,
+  "end": 1634.3933333333334,
+  "text": "Capgras.",
+  "who": null
+ },
+ {
+  "start": 1634.3933333333334,
+  "end": 1639.993333333333,
+  "text": "And this is a syndrome where people suddenly come to believe",
+  "who": 2
+ },
+ {
+  "start": 1641.83,
+  "end": 1645.1099999999997,
+  "text": "that people very close to them, like family members and so on,",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 1645.44,
+  "end": 1646.64,
+  "text": "are in fact imposters.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 1646.64,
+  "end": 1648.96,
+  "text": "They might think their wife or husband or sister,",
+  "who": 2
+ },
+ {
+  "start": 1648.96,
+  "end": 1652.9599999999998,
+  "text": "they come into the room and there's a lot of distress",
+  "who": 2
+ },
+ {
+  "start": 1652.9599999999998,
+  "end": 1655.6000000000001,
+  "text": "because the person suffering says, no, you're not really my brother.",
+  "who": 2
+ },
+ {
+  "start": 1655.6000000000001,
+  "end": 1656.88,
+  "text": "You're not, you're not my brother.",
+  "who": 2
+ },
+ {
+  "start": 1656.88,
+  "end": 1659.68,
+  "text": "You're not really my brother, you're not, you're an imposter.",
+  "who": 2
+ },
+ {
+  "start": 1659.68,
+  "end": 1662.6400000000003,
+  "text": "And they aren't, they are the person, they say they are.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 1663.04,
+  "end": 1667.68,
+  "text": "But whoever's suffering cannot shake this conviction",
+  "who": 2
+ },
+ {
+  "start": 1667.68,
+  "end": 1669.76,
+  "text": "that something devious is happening.",
+  "who": 2
+ },
+ {
+  "start": 1670.96,
+  "end": 1675.52,
+  "text": "And this seems really, really hard to get your head around, right?",
+  "who": 2
+ },
+ {
+  "start": 1675.52,
+  "end": 1678.88,
+  "text": "How could this person come to this very, very strange belief",
+  "who": 2
+ },
+ {
+  "start": 1678.88,
+  "end": 1681.6,
+  "text": "that they hold with such conviction?",
+  "who": 2
+ },
+ {
+  "start": 1682.24,
+  "end": 1684.32,
+  "text": "And there's a story about this,",
+  "who": 2
+ },
+ {
+  "start": 1684.32,
+  "end": 1686.4000000000003,
+  "text": "and I don't know how accurate this is.",
+  "who": 2
+ },
+ {
+  "start": 1686.4000000000003,
+  "end": 1689.2000000000003,
+  "text": "I think it's pretty accurate, but I don't know 100% sure,",
+  "who": 2
+ },
+ {
+  "start": 1689.2000000000003,
+  "end": 1692.4800000000002,
+  "text": "that there are two ways to explain a condition like that.",
+  "who": 2
+ },
+ {
+  "start": 1692.4800000000002,
+  "end": 1695.3600000000001,
+  "text": "There's a sort of Freudian psychoanalytic way",
+  "who": 2
+ },
+ {
+  "start": 1695.3600000000001,
+  "end": 1698.64,
+  "text": "that suddenly some repressed memory of some early episode",
+  "who": 2
+ },
+ {
+  "start": 1698.64,
+  "end": 1700.0800000000002,
+  "text": "has come bubbling to the surface,",
+  "who": 2
+ },
+ {
+  "start": 1700.0800000000002,
+  "end": 1703.5200000000004,
+  "text": "and that's causing the person to react in this very aversive way",
+  "who": 2
+ },
+ {
+  "start": 1703.7,
+  "end": 1705.7800000000002,
+  "text": "to the presence of their close family member.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 1706.46,
+  "end": 1707.9266666666667,
+  "text": "The other explanation,",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 1707.9266666666667,
+  "end": 1710.8866666666668,
+  "text": "which is a more grounded in the materiality of the brain,",
+  "who": 2
+ },
+ {
+  "start": 1710.8866666666668,
+  "end": 1712.8866666666668,
+  "text": "is that there's been for maybe some brain damage",
+  "who": 2
+ },
+ {
+  "start": 1712.8866666666668,
+  "end": 1715.1266666666666,
+  "text": "or some psychiatric condition a disconnection",
+  "who": 2
+ },
+ {
+  "start": 1715.94,
+  "end": 1719.14,
+  "text": "between the parts of the brain that deal with an emotional response",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 1719.68,
+  "end": 1723.2,
+  "text": "and the parts of the brain that deal with a visual response.",
+  "who": 2
+ },
+ {
+  "start": 1723.2,
+  "end": 1725.76,
+  "text": "So if you see someone who you're really close to,",
+  "who": 2
+ },
+ {
+  "start": 1725.76,
+  "end": 1727.76,
+  "text": "normally these two things happen in harmony.",
+  "who": 2
+ },
+ {
+  "start": 1727.76,
+  "end": 1732.64,
+  "text": "I see somebody I love and I feel that immediate emotion,",
+  "who": 2
+ },
+ {
+  "start": 1733.34,
+  "end": 1735.1000000000001,
+  "text": "and everything is hunky dory.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 1735.12,
+  "end": 1739.44,
+  "text": "But if I saw, let's say I see my mother or something like that,",
+  "who": 2
+ },
+ {
+  "start": 1739.44,
+  "end": 1742.4,
+  "text": "and there's no emotional connection,",
+  "who": 2
+ },
+ {
+  "start": 1742.4,
+  "end": 1744.7199999999998,
+  "text": "there's no emotional response because that's gone wrong,",
+  "who": 2
+ },
+ {
+  "start": 1745.36,
+  "end": 1749.52,
+  "text": "then my brain might reach the weird conclusion",
+  "who": 2
+ },
+ {
+  "start": 1749.52,
+  "end": 1751.92,
+  "text": "that that's not my mom, that's an imposter,",
+  "who": 2
+ },
+ {
+  "start": 1751.92,
+  "end": 1753.52,
+  "text": "and that's what I feel.",
+  "who": 2
+ },
+ {
+  "start": 1753.52,
+  "end": 1757.2800000000002,
+  "text": "And then I develop this belief to explain that feeling",
+  "who": 2
+ },
+ {
+  "start": 1757.2800000000002,
+  "end": 1759.68,
+  "text": "of a weird emotional dissonance and disconnect.",
+  "who": 2
+ },
+ {
+  "start": 1760.31,
+  "end": 1761.99,
+  "text": "And the way this was tested was beautiful.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 1761.99,
+  "end": 1763.51,
+  "text": "So well, if that's the case,",
+  "who": 2
+ },
+ {
+  "start": 1763.51,
+  "end": 1765.91,
+  "text": "then if you ask this person to go out of the room",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 1765.91,
+  "end": 1767.8300000000002,
+  "text": "and just, I don't know, make a phone call,",
+  "who": 2
+ },
+ {
+  "start": 1768.68,
+  "end": 1769.7999999999997,
+  "text": "then it should all be fine",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 1769.7999999999997,
+  "end": 1772.7599999999998,
+  "text": "because now it's auditory information coming in",
+  "who": 2
+ },
+ {
+  "start": 1772.7599999999998,
+  "end": 1774.7599999999998,
+  "text": "about the person, not visual information.",
+  "who": 2
+ },
+ {
+  "start": 1775.4,
+  "end": 1776.8000000000002,
+  "text": "So it should be okay.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 1777.83,
+  "end": 1780.1499999999999,
+  "text": "Whereas the psychoanalytic Freudian view would say,",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 1780.1499999999999,
+  "end": 1781.5900000000001,
+  "text": "well, no, it's still going to be really difficult.",
+  "who": 2
+ },
+ {
+  "start": 1781.5900000000001,
+  "end": 1783.4299999999998,
+  "text": "There's no reason why this repressed memory",
+  "who": 2
+ },
+ {
+  "start": 1783.4299999999998,
+  "end": 1786.6299999999999,
+  "text": "should only affect a visual encounter.",
+  "who": 2
+ },
+ {
+  "start": 1786.6299999999999,
+  "end": 1788.9499999999998,
+  "text": "And so this is what they tried",
+  "who": 2
+ },
+ {
+  "start": 1788.9499999999998,
+  "end": 1791.1899999999998,
+  "text": "and it turned out that Freud was wrong,",
+  "who": 2
+ },
+ {
+  "start": 1791.1899999999998,
+  "end": 1793.0299999999997,
+  "text": "that you go out of the room and it's all fine.",
+  "who": 2
+ },
+ {
+  "start": 1793.0299999999997,
+  "end": 1795.0299999999997,
+  "text": "And I love that simple intervention",
+  "who": 2
+ },
+ {
+  "start": 1795.0299999999997,
+  "end": 1799.5899999999997,
+  "text": "that basically totally changes the story you might tell",
+  "who": 2
+ },
+ {
+  "start": 1799.5899999999997,
+  "end": 1801.8299999999995,
+  "text": "about how the brain is generating",
+  "who": 2
+ },
+ {
+  "start": 1801.8299999999995,
+  "end": 1803.5099999999995,
+  "text": "that weird kind of experience.",
+  "who": 2
+ },
+ {
+  "start": 1804.05,
+  "end": 1805.7166666666667,
+  "text": "Yes, nice and methodical.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 1806.08,
+  "end": 1811.2,
+  "text": "That reminds me that case study though of dissociation,",
+  "who": "0"
+ },
+ {
+  "start": 1811.2,
+  "end": 1815.68,
+  "text": "which I think I experienced when I was at university",
+  "who": "0"
+ },
+ {
+  "start": 1816.83,
+  "end": 1819.8699999999997,
+  "text": "having taken magic mushrooms for the first time.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 1819.8699999999997,
+  "end": 1823.47,
+  "text": "And I wrote about this in my book, Ramble book,",
+  "who": "0"
+ },
+ {
+  "start": 1824.24,
+  "end": 1826.5066666666667,
+  "text": "and I think I even talked about it",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 1826.5066666666667,
+  "end": 1828.6666666666667,
+  "text": "on Nevermind the Buzzcocks back in the day.",
+  "who": "0"
+ },
+ {
+  "start": 1828.6666666666667,
+  "end": 1832.6666666666667,
+  "text": "Simon Amstel goaded me and I supplied him with a drug story.",
+  "who": "0"
+ },
+ {
+  "start": 1833.9,
+  "end": 1836.14,
+  "text": "Anyway, I was at college and me and some of the guys",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 1836.14,
+  "end": 1838.3799999999999,
+  "text": "decided that it was magic mushroom time.",
+  "who": "0"
+ },
+ {
+  "start": 1838.3799999999999,
+  "end": 1839.4199999999996,
+  "text": "It was my first time.",
+  "who": "0"
+ },
+ {
+  "start": 1839.4199999999996,
+  "end": 1840.7799999999993,
+  "text": "I didn't really know how many to take",
+  "who": "0"
+ },
+ {
+  "start": 1840.7799999999993,
+  "end": 1842.2999999999995,
+  "text": "and I think I took too many.",
+  "who": "0"
+ },
+ {
+  "start": 1842.2999999999995,
+  "end": 1844.9399999999994,
+  "text": "I think it might've been a bit too heroic a dose.",
+  "who": "0"
+ },
+ {
+  "start": 1846.89,
+  "end": 1849.0900000000001,
+  "text": "Anyway, it all seemed to go fine.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 1849.0900000000001,
+  "end": 1850.77,
+  "text": "And then when I thought it was over,",
+  "who": "0"
+ },
+ {
+  "start": 1850.77,
+  "end": 1852.1299999999999,
+  "text": "I went back up to my room",
+  "who": "0"
+ },
+ {
+  "start": 1852.1299999999999,
+  "end": 1855.65,
+  "text": "and I looked in the mirror and the person that I saw",
+  "who": "0"
+ },
+ {
+  "start": 1855.65,
+  "end": 1858.0500000000002,
+  "text": "in the mirror did not feel connected to me.",
+  "who": "0"
+ },
+ {
+  "start": 1859.31,
+  "end": 1861.8433333333332,
+  "text": "It felt as if I was looking at a clone",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 1862.76,
+  "end": 1864.6800000000003,
+  "text": "and it really, really freaked me out.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 1864.76,
+  "end": 1867.6266666666666,
+  "text": "I just thought, I'm not up for this at all.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 1867.6266666666666,
+  "end": 1868.7466666666667,
+  "text": "This is really bad.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 1868.7466666666667,
+  "end": 1872.5066666666664,
+  "text": "I was looking at photographs of family members",
+  "who": "0"
+ },
+ {
+  "start": 1872.5066666666664,
+  "end": 1874.0266666666662,
+  "text": "and it was weird because it was like",
+  "who": "0"
+ },
+ {
+  "start": 1874.0266666666662,
+  "end": 1876.8266666666664,
+  "text": "I could process it rationally.",
+  "who": "0"
+ },
+ {
+  "start": 1876.8266666666664,
+  "end": 1878.5066666666662,
+  "text": "I knew who all the people were.",
+  "who": "0"
+ },
+ {
+  "start": 1878.5066666666662,
+  "end": 1879.8666666666663,
+  "text": "I knew their names.",
+  "who": "0"
+ },
+ {
+  "start": 1879.8666666666663,
+  "end": 1883.9466666666663,
+  "text": "I sort of knew empirically what they meant to me emotionally,",
+  "who": "0"
+ },
+ {
+  "start": 1883.9466666666663,
+  "end": 1886.9866666666662,
+  "text": "but I didn't feel connected to them",
+  "who": "0"
+ },
+ {
+  "start": 1888.41,
+  "end": 1889.7699999999998,
+  "text": "in the way that I had before.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 1890.66,
+  "end": 1893.38,
+  "text": "Anyway, the feeling subsided the next day.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 1893.38,
+  "end": 1895.4600000000005,
+  "text": "I was very happy to discover.",
+  "who": "0"
+ },
+ {
+  "start": 1895.4600000000005,
+  "end": 1897.6200000000001,
+  "text": "But then years later when my dad was ill",
+  "who": "0"
+ },
+ {
+  "start": 1898.7,
+  "end": 1900.7799999999997,
+  "text": "and we were caring for him here,",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 1900.7799999999997,
+  "end": 1905.34,
+  "text": "he had cancer and he was taking a lot of pain medication",
+  "who": "0"
+ },
+ {
+  "start": 1907.25,
+  "end": 1908.5300000000002,
+  "text": "that included morphine.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 1908.5300000000002,
+  "end": 1911.4100000000008,
+  "text": "And he just started chugging the morphine at a certain point.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 1912.53,
+  "end": 1915.6633333333334,
+  "text": "And then he phones me up on my mobile and says,",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 1915.6633333333334,
+  "end": 1916.7833333333335,
+  "text": "come over here, Adam.",
+  "who": "0"
+ },
+ {
+  "start": 1916.7833333333335,
+  "end": 1918.3833333333337,
+  "text": "The strangest thing has just happened.",
+  "who": null
+ },
+ {
+  "start": 1918.0,
+  "end": 1919.04,
+  "text": "I was like, what's up?",
+  "who": 2
+ },
+ {
+  "start": 1919.04,
+  "end": 1921.04,
+  "text": "He said, I don't know who I am.",
+  "who": "0"
+ },
+ {
+  "start": 1922.48,
+  "end": 1925.44,
+  "text": "And so I was like, okay, here we go.",
+  "who": "0"
+ },
+ {
+  "start": 1925.44,
+  "end": 1926.48,
+  "text": "And I went over and talked to him",
+  "who": "0"
+ },
+ {
+  "start": 1926.48,
+  "end": 1928.56,
+  "text": "and I did the same sort of thing with him",
+  "who": "0"
+ },
+ {
+  "start": 1928.56,
+  "end": 1930.3200000000002,
+  "text": "and I showed him family albums and stuff.",
+  "who": "0"
+ },
+ {
+  "start": 1930.3200000000002,
+  "end": 1932.3200000000004,
+  "text": "And he was able to identify everyone.",
+  "who": "0"
+ },
+ {
+  "start": 1932.3200000000004,
+  "end": 1935.6000000000001,
+  "text": "And it just sounded so exactly like what had happened to me.",
+  "who": "0"
+ },
+ {
+  "start": 1938.15,
+  "end": 1940.5500000000002,
+  "text": "That I thought this is a drug thing.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 1940.5500000000002,
+  "end": 1944.7100000000003,
+  "text": "This is the cables have been knocked loose by the morphine.",
+  "who": "0"
+ },
+ {
+  "start": 1944.99,
+  "end": 1947.4699999999998,
+  "text": "And then later on, I read about people",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 1948.2,
+  "end": 1949.8666666666668,
+  "text": "describing similar things",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 1949.8666666666668,
+  "end": 1952.3466666666668,
+  "text": "and referring to them as dissociation.",
+  "who": "0"
+ },
+ {
+  "start": 1953.2,
+  "end": 1955.44,
+  "text": "Drugs definitely can do that to you,",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 1955.44,
+  "end": 1957.76,
+  "text": "whether they're psychedelic drugs or morphine as well.",
+  "who": 2
+ },
+ {
+  "start": 1957.76,
+  "end": 1959.6,
+  "text": "They can be very, very dissociative.",
+  "who": 2
+ },
+ {
+  "start": 1959.6,
+  "end": 1962.32,
+  "text": "Ketamine in particular is extremely powerful.",
+  "who": 2
+ },
+ {
+  "start": 1961.88,
+  "end": 1963.4800000000005,
+  "text": "So what's happening there though?",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 1963.38,
+  "end": 1965.5400000000002,
+  "text": "Well, that's a really good question.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 1965.5400000000002,
+  "end": 1968.3400000000004,
+  "text": "What's happening? I wish we knew.",
+  "who": 2
+ },
+ {
+  "start": 1968.3400000000004,
+  "end": 1969.3000000000004,
+  "text": "I wish I could tell you.",
+  "who": 2
+ },
+ {
+  "start": 1969.3000000000004,
+  "end": 1971.9400000000005,
+  "text": "I think it's really hard to know,",
+  "who": 2
+ },
+ {
+  "start": 1971.9400000000005,
+  "end": 1975.3000000000004,
+  "text": "partly because it's quite an amorphous thing.",
+  "who": 2
+ },
+ {
+  "start": 1975.3000000000004,
+  "end": 1977.4600000000005,
+  "text": "It's much harder to pin down the absence of something",
+  "who": 2
+ },
+ {
+  "start": 1977.4600000000005,
+  "end": 1980.1800000000005,
+  "text": "than the presence of something weird.",
+  "who": 2
+ },
+ {
+  "start": 1980.1800000000005,
+  "end": 1982.7400000000002,
+  "text": "But it might well come down to something",
+  "who": 2
+ },
+ {
+  "start": 1982.7400000000002,
+  "end": 1986.9000000000005,
+  "text": "like an emotional disconnect with your surroundings.",
+  "who": 2
+ },
+ {
+  "start": 1986.9000000000005,
+  "end": 1989.5400000000006,
+  "text": "Whether that's because it's been overloaded in some way",
+  "who": 2
+ },
+ {
+  "start": 1989.5400000000006,
+  "end": 1990.740000000001,
+  "text": "or whether it's just absent",
+  "who": 2
+ },
+ {
+  "start": 1990.740000000001,
+  "end": 1993.300000000001,
+  "text": "because of some other issue happening.",
+  "who": 2
+ },
+ {
+  "start": 1993.300000000001,
+  "end": 1996.820000000001,
+  "text": "But it could be, and this is speculation really,",
+  "who": 2
+ },
+ {
+  "start": 1996.820000000001,
+  "end": 1999.7000000000012,
+  "text": "it could be that dissociative experiences happen",
+  "who": 2
+ },
+ {
+  "start": 1999.7000000000012,
+  "end": 2002.2600000000011,
+  "text": "when our perceptions lose their emotional tone",
+  "who": 2
+ },
+ {
+  "start": 2002.2600000000011,
+  "end": 2003.0600000000009,
+  "text": "to some degree.",
+  "who": 2
+ },
+ {
+  "start": 2003.0600000000009,
+  "end": 2006.9000000000005,
+  "text": "Okay. And have you done experiments on people",
+  "who": "0"
+ },
+ {
+  "start": 2005.84,
+  "end": 2009.44,
+  "text": "who are under the influence of psychoactive chemicals?",
+  "who": "0"
+ },
+ {
+  "start": 2009.44,
+  "end": 2011.3600000000001,
+  "text": "So you can see what's happening in the brain?",
+  "who": "0"
+ },
+ {
+  "start": 2013.99,
+  "end": 2015.6699999999998,
+  "text": "Yeah, a little bit, a little bit.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 2015.6699999999998,
+  "end": 2019.5900000000001,
+  "text": "I mean, there's been this kind of renaissance",
+  "who": 2
+ },
+ {
+  "start": 2019.5900000000001,
+  "end": 2023.83,
+  "text": "of psychedelics in neuroscience over the last few decades.",
+  "who": 2
+ },
+ {
+  "start": 2023.83,
+  "end": 2025.6699999999998,
+  "text": "In science over the last few years.",
+  "who": 2
+ },
+ {
+  "start": 2025.6699999999998,
+  "end": 2029.5100000000002,
+  "text": "I mean, it's got this very weird history.",
+  "who": 2
+ },
+ {
+  "start": 2029.5100000000002,
+  "end": 2031.75,
+  "text": "And I think in some ways quite tragic history",
+  "who": 2
+ },
+ {
+  "start": 2031.75,
+  "end": 2035.67,
+  "text": "that back in the 1940s and 50s,",
+  "who": 2
+ },
+ {
+  "start": 2035.67,
+  "end": 2040.23,
+  "text": "there were quite a lot of groups in the US and elsewhere",
+  "who": 2
+ },
+ {
+  "start": 2040.23,
+  "end": 2043.6966666666667,
+  "text": "who were already investigating psychedelic compounds",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 2043.6966666666667,
+  "end": 2045.7766666666664,
+  "text": "like LSD and psilocybin,",
+  "who": 2
+ },
+ {
+  "start": 2045.7766666666664,
+  "end": 2048.416666666667,
+  "text": "which is the magic mushroom active ingredient,",
+  "who": 2
+ },
+ {
+  "start": 2048.416666666667,
+  "end": 2052.0966666666673,
+  "text": "for their possible benefits in medicine.",
+  "who": 2
+ },
+ {
+  "start": 2052.0966666666673,
+  "end": 2055.2166666666667,
+  "text": "The main treatments there were for things like addiction.",
+  "who": 2
+ },
+ {
+  "start": 2055.2166666666667,
+  "end": 2057.216666666667,
+  "text": "These studies were conducted a very long time ago,",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 2057.216666666667,
+  "end": 2059.9366666666674,
+  "text": "so they weren't necessarily the most rigorous,",
+  "who": 2
+ },
+ {
+  "start": 2059.9366666666674,
+  "end": 2061.8566666666675,
+  "text": "but there was certainly suggestive evidence",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 2061.8566666666675,
+  "end": 2065.4566666666674,
+  "text": "that psychedelics could quite quickly",
+  "who": 2
+ },
+ {
+  "start": 2065.4566666666674,
+  "end": 2066.9766666666674,
+  "text": "break the hold of addiction",
+  "who": 2
+ },
+ {
+  "start": 2066.9766666666674,
+  "end": 2069.856666666668,
+  "text": "on people to smoking, to alcohol, to gambling, so on.",
+  "who": 2
+ },
+ {
+  "start": 2070.56,
+  "end": 2074.32,
+  "text": "And from my perspective, psychedelics are interesting",
+  "who": 2
+ },
+ {
+  "start": 2074.32,
+  "end": 2077.44,
+  "text": "not only for their potential clinical benefit,",
+  "who": 2
+ },
+ {
+  "start": 2077.44,
+  "end": 2080.0800000000004,
+  "text": "which I think is hugely important,",
+  "who": 2
+ },
+ {
+  "start": 2080.0800000000004,
+  "end": 2081.3600000000006,
+  "text": "still to be demonstrated.",
+  "who": 2
+ },
+ {
+  "start": 2081.3600000000006,
+  "end": 2082.48,
+  "text": "It's still a lot of unknown.",
+  "who": 2
+ },
+ {
+  "start": 2082.48,
+  "end": 2083.52,
+  "text": "It's not a panacea.",
+  "who": 2
+ },
+ {
+  "start": 2083.52,
+  "end": 2085.68,
+  "text": "It's not a magic bullet by any means.",
+  "who": 2
+ },
+ {
+  "start": 2085.68,
+  "end": 2089.1999999999994,
+  "text": "But I think there's a lot of promise and potential there.",
+  "who": 2
+ },
+ {
+  "start": 2089.76,
+  "end": 2093.36,
+  "text": "But also from this very basic science approach of",
+  "who": 2
+ },
+ {
+  "start": 2094.09,
+  "end": 2096.41,
+  "text": "you take this drug, this simple compound,",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 2096.41,
+  "end": 2099.2899999999995,
+  "text": "we know at a very low level what happens in the brain.",
+  "who": 2
+ },
+ {
+  "start": 2099.2899999999995,
+  "end": 2101.6899999999996,
+  "text": "We know where it ends up in the brain and so on.",
+  "who": 2
+ },
+ {
+  "start": 2102.1,
+  "end": 2103.54,
+  "text": "And it changes your consciousness.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 2103.6,
+  "end": 2105.44,
+  "text": "I mean, you have a completely different",
+  "who": 2
+ },
+ {
+  "start": 2105.44,
+  "end": 2107.8400000000006,
+  "text": "conscious experience on psychedelics",
+  "who": 2
+ },
+ {
+  "start": 2107.8400000000006,
+  "end": 2111.4400000000005,
+  "text": "than you were doing beforehand.",
+  "who": 2
+ },
+ {
+  "start": 2111.58,
+  "end": 2114.3799999999997,
+  "text": "It's therefore a fantastically powerful tool",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 2115.06,
+  "end": 2117.86,
+  "text": "to study the brain basis of consciousness.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 2118.0,
+  "end": 2120.96,
+  "text": "And the main thing we found in a few studies",
+  "who": 2
+ },
+ {
+  "start": 2121.52,
+  "end": 2125.36,
+  "text": "is that the brain becomes just much more disorganized,",
+  "who": 2
+ },
+ {
+  "start": 2126.16,
+  "end": 2127.5200000000004,
+  "text": "which may not be very surprising.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 2127.5200000000004,
+  "end": 2128.7999999999997,
+  "text": "I mean, psychedelic experiences",
+  "who": 2
+ },
+ {
+  "start": 2128.7999999999997,
+  "end": 2130.7999999999997,
+  "text": "are often described as rather freewheeling",
+  "who": 2
+ },
+ {
+  "start": 2130.7999999999997,
+  "end": 2132.3199999999993,
+  "text": "and disorganized and a bit random,",
+  "who": 2
+ },
+ {
+  "start": 2132.3199999999993,
+  "end": 2134.08,
+  "text": "and that's part of their interest, right?",
+  "who": 2
+ },
+ {
+  "start": 2134.08,
+  "end": 2134.58,
+  "text": "Yeah.",
+  "who": 2
+ },
+ {
+  "start": 2134.58,
+  "end": 2136.58,
+  "text": "But that seems to be reflected",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 2136.96,
+  "end": 2137.92,
+  "text": "in some vague way.",
+  "who": 2
+ },
+ {
+  "start": 2137.92,
+  "end": 2140.7199999999993,
+  "text": "And I think there is a spiritual dimension to it.",
+  "who": 2
+ },
+ {
+  "start": 2140.72,
+  "end": 2142.8,
+  "text": "And people often describe these experiences",
+  "who": 2
+ },
+ {
+  "start": 2142.8,
+  "end": 2145.5199999999995,
+  "text": "as among the most meaningful of their lives.",
+  "who": 2
+ },
+ {
+  "start": 2146.2,
+  "end": 2148.3599999999997,
+  "text": "There's a beautiful book by Michael Pollan",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 2148.3599999999997,
+  "end": 2149.5599999999995,
+  "text": "called How to Change Your Mind,",
+  "who": 2
+ },
+ {
+  "start": 2149.5599999999995,
+  "end": 2152.1999999999994,
+  "text": "which I think really describes this beautifully.",
+  "who": 2
+ },
+ {
+  "start": 2152.1999999999994,
+  "end": 2153.6399999999994,
+  "text": "It's incredibly hard, I think,",
+  "who": 2
+ },
+ {
+  "start": 2153.6399999999994,
+  "end": 2155.8799999999997,
+  "text": "to write about psychedelic experiences",
+  "who": 2
+ },
+ {
+  "start": 2155.98,
+  "end": 2158.18,
+  "text": "without sounding completely naff.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 2158.96,
+  "end": 2161.68,
+  "text": "But Michael Pollan does it brilliantly in his book.",
+  "who": 2
+ },
+ {
+  "start": 2162.16,
+  "end": 2163.7999999999997,
+  "text": "And there is a spiritual dimension to it.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 2163.84,
+  "end": 2165.92,
+  "text": "But it's interesting how differently",
+  "who": 2
+ },
+ {
+  "start": 2165.92,
+  "end": 2167.5200000000004,
+  "text": "that dimension is interpreted.",
+  "who": 2
+ },
+ {
+  "start": 2167.5200000000004,
+  "end": 2171.440000000001,
+  "text": "So for me, the experience just amplified my conviction",
+  "who": 2
+ },
+ {
+  "start": 2171.440000000001,
+  "end": 2173.200000000001,
+  "text": "that consciousness comes from the brain",
+  "who": 2
+ },
+ {
+  "start": 2173.200000000001,
+  "end": 2174.1600000000008,
+  "text": "because I thought, oh, well,",
+  "who": 2
+ },
+ {
+  "start": 2174.85,
+  "end": 2177.8900000000003,
+  "text": "you can just change the brain in this very specific way",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 2177.8900000000003,
+  "end": 2180.05,
+  "text": "by changing the levels of serotonin",
+  "who": 2
+ },
+ {
+  "start": 2180.05,
+  "end": 2181.9700000000003,
+  "text": "in the washing around the brain",
+  "who": 2
+ },
+ {
+  "start": 2181.9700000000003,
+  "end": 2183.6499999999996,
+  "text": "and consciousness changes.",
+  "who": 2
+ },
+ {
+  "start": 2183.6499999999996,
+  "end": 2187.4100000000003,
+  "text": "This is confirming this materialist idea",
+  "who": 2
+ },
+ {
+  "start": 2187.4100000000003,
+  "end": 2188.850000000001,
+  "text": "that I come from that you change your brain",
+  "who": 2
+ },
+ {
+  "start": 2188.850000000001,
+  "end": 2190.05,
+  "text": "and your experience changes too.",
+  "who": 2
+ },
+ {
+  "start": 2190.05,
+  "end": 2190.8500000000004,
+  "text": "But for other people,",
+  "who": 2
+ },
+ {
+  "start": 2190.8500000000004,
+  "end": 2195.25,
+  "text": "they'll take a very different message from the experience.",
+  "who": 2
+ },
+ {
+  "start": 2195.16,
+  "end": 2197.3200000000006,
+  "text": "Right, that the drugs have sort of freed them",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 2197.36,
+  "end": 2202.56,
+  "text": "from the more robotic processes of consciousness",
+  "who": "0"
+ },
+ {
+  "start": 2202.56,
+  "end": 2204.56,
+  "text": "and they've transcended it somehow.",
+  "who": "0"
+ },
+ {
+  "start": 2204.17,
+  "end": 2204.890000000001,
+  "text": "That's right.",
+  "who": 0,
+  "matched": true
+ },
+ {
+  "start": 2205.48,
+  "end": 2206.68,
+  "text": "I think I'm with you, though,",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 2206.68,
+  "end": 2211.1599999999994,
+  "text": "but it scares me that we're so fragile and so vulnerable.",
+  "who": "0"
+ },
+ {
+  "start": 2211.1599999999994,
+  "end": 2214.5999999999995,
+  "text": "So taking psychedelics and going on drug trips",
+  "who": "0"
+ },
+ {
+  "start": 2214.96,
+  "end": 2217.76,
+  "text": "always alarmed me because I did feel that",
+  "who": "0"
+ },
+ {
+  "start": 2218.65,
+  "end": 2220.3166666666666,
+  "text": "consciousness was fragile",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 2221.36,
+  "end": 2224.32,
+  "text": "and it was possible to short circuit it.",
+  "who": "0"
+ },
+ {
+  "start": 2224.32,
+  "end": 2227.9999999999995,
+  "text": "And the idea that you might never have those cables repatched",
+  "who": "0"
+ },
+ {
+  "start": 2228.0,
+  "end": 2229.28,
+  "text": "was terrifying for me.",
+  "who": "0"
+ },
+ {
+  "start": 2230.0,
+  "end": 2232.72,
+  "text": "And I guess stories that my mum used to tell me",
+  "who": "0"
+ },
+ {
+  "start": 2232.72,
+  "end": 2235.44,
+  "text": "to try and put me off experimenting with drugs about",
+  "who": "0"
+ },
+ {
+  "start": 2236.0,
+  "end": 2238.96,
+  "text": "people who had taken acid and never come back",
+  "who": "0"
+ },
+ {
+  "start": 2238.96,
+  "end": 2244.08,
+  "text": "and had an emotional break or psychotic break",
+  "who": "0"
+ },
+ {
+  "start": 2244.08,
+  "end": 2248.6399999999994,
+  "text": "that was at the very least catalyzed or precipitated,",
+  "who": "0"
+ },
+ {
+  "start": 2249.31,
+  "end": 2251.6433333333334,
+  "text": "if not totally caused by the drugs.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 2251.81,
+  "end": 2255.076666666667,
+  "text": "Yeah, it's right to have these concerns, I think.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 2255.076666666667,
+  "end": 2258.756666666667,
+  "text": "I certainly wouldn't advocate widespread,",
+  "who": 2
+ },
+ {
+  "start": 2258.756666666667,
+  "end": 2260.9966666666674,
+  "text": "rampant use of these things.",
+  "who": 2
+ },
+ {
+  "start": 2260.9966666666674,
+  "end": 2262.996666666667,
+  "text": "I think they are extremely powerful,",
+  "who": 2
+ },
+ {
+  "start": 2262.996666666667,
+  "end": 2264.916666666667,
+  "text": "but they are also potentially",
+  "who": 2
+ },
+ {
+  "start": 2264.916666666667,
+  "end": 2266.4366666666674,
+  "text": "extremely interesting scientifically.",
+  "who": 2
+ },
+ {
+  "start": 2266.4366666666674,
+  "end": 2268.1166666666672,
+  "text": "And there's all the difference in the world, I think,",
+  "who": 2
+ },
+ {
+  "start": 2268.1166666666672,
+  "end": 2270.5966666666673,
+  "text": "between when you can have the opportunity",
+  "who": 2
+ },
+ {
+  "start": 2270.5966666666673,
+  "end": 2274.356666666668,
+  "text": "to study the effects of psychedelics in a well controlled,",
+  "who": 2
+ },
+ {
+  "start": 2274.356666666668,
+  "end": 2277.0766666666673,
+  "text": "very safe and comforting situation",
+  "who": 2
+ },
+ {
+  "start": 2277.76,
+  "end": 2281.44,
+  "text": "compared to other random occasions in your life",
+  "who": 2
+ },
+ {
+  "start": 2281.44,
+  "end": 2283.36,
+  "text": "where you might do these things.",
+  "who": 2
+ },
+ {
+  "start": 2283.36,
+  "end": 2284.48,
+  "text": "It's very different.",
+  "who": 2
+ },
+ {
+  "start": 2284.67,
+  "end": 2285.31,
+  "text": "Yeah, sure.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 2285.76,
+  "end": 2288.0,
+  "text": "Now, let's get back to the matrix,",
+  "who": "0"
+ },
+ {
+  "start": 2288.0,
+  "end": 2289.76,
+  "text": "which I mentioned earlier on.",
+  "who": "0"
+ },
+ {
+  "start": 2289.81,
+  "end": 2291.1433333333334,
+  "text": "And as I was saying,",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 2291.2,
+  "end": 2294.64,
+  "text": "a lot of people seem fascinated by this idea",
+  "who": "0"
+ },
+ {
+  "start": 2294.64,
+  "end": 2297.9199999999996,
+  "text": "that we are living in a simulation of some kind",
+  "who": "0"
+ },
+ {
+  "start": 2298.56,
+  "end": 2301.04,
+  "text": "and that our perception of the world",
+  "who": "0"
+ },
+ {
+  "start": 2301.04,
+  "end": 2303.2,
+  "text": "is a kind of managed hallucination.",
+  "who": "0"
+ },
+ {
+  "start": 2303.79,
+  "end": 2305.87,
+  "text": "Nick Bostrom, the Swedish philosopher,",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 2306.4,
+  "end": 2310.32,
+  "text": "talked about the simulation argument back in 2013.",
+  "who": "0"
+ },
+ {
+  "start": 2310.32,
+  "end": 2313.44,
+  "text": "He was saying, what makes something conscious",
+  "who": "0"
+ },
+ {
+  "start": 2313.44,
+  "end": 2316.4,
+  "text": "is not that it is built out of carbon atoms",
+  "who": "0"
+ },
+ {
+  "start": 2316.4,
+  "end": 2317.9199999999996,
+  "text": "like we are inside the brain,",
+  "who": "0"
+ },
+ {
+  "start": 2318.56,
+  "end": 2322.16,
+  "text": "but that it implements a certain kind of computation.",
+  "who": "0"
+ },
+ {
+  "start": 2323.05,
+  "end": 2325.7699999999995,
+  "text": "I mean, he reckons that the chances of us",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 2325.7699999999995,
+  "end": 2327.689999999999,
+  "text": "living in a simulation are low.",
+  "who": "0"
+ },
+ {
+  "start": 2328.27,
+  "end": 2331.5499999999997,
+  "text": "And his logic is that if there was an intelligence",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 2331.68,
+  "end": 2333.6,
+  "text": "that was sufficiently advanced",
+  "who": "0"
+ },
+ {
+  "start": 2333.6,
+  "end": 2335.9200000000005,
+  "text": "to create such a detailed simulation,",
+  "who": "0"
+ },
+ {
+  "start": 2336.56,
+  "end": 2338.96,
+  "text": "then there's not going to be the glitches",
+  "who": "0"
+ },
+ {
+  "start": 2338.96,
+  "end": 2342.4000000000005,
+  "text": "that certain people report as evidence of the simulation.",
+  "who": "0"
+ },
+ {
+  "start": 2342.4000000000005,
+  "end": 2343.6800000000007,
+  "text": "It's such a weird argument",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 2343.68,
+  "end": 2348.08,
+  "text": "that's built on so many kind of unknowable hypotheticals.",
+  "who": 2
+ },
+ {
+  "start": 2348.08,
+  "end": 2350.3999999999996,
+  "text": "So I think the argument, as I remember,",
+  "who": 2
+ },
+ {
+  "start": 2350.4,
+  "end": 2356.08,
+  "text": "it runs something like if we don't extinguish ourselves",
+  "who": 2
+ },
+ {
+  "start": 2356.08,
+  "end": 2359.04,
+  "text": "as a civilization through some virus",
+  "who": 2
+ },
+ {
+  "start": 2359.04,
+  "end": 2361.2,
+  "text": "or some nuclear catastrophe or something like that,",
+  "who": 2
+ },
+ {
+  "start": 2361.2,
+  "end": 2364.4000000000005,
+  "text": "then our descendants would have generated massive computers",
+  "who": 2
+ },
+ {
+  "start": 2365.04,
+  "end": 2367.6,
+  "text": "and some of those descendants",
+  "who": 2
+ },
+ {
+  "start": 2367.6,
+  "end": 2370.64,
+  "text": "would have decided to use some of this massive computational power",
+  "who": 2
+ },
+ {
+  "start": 2370.64,
+  "end": 2374.32,
+  "text": "to build simulations of all their ancestors.",
+  "who": 2
+ },
+ {
+  "start": 2374.88,
+  "end": 2378.64,
+  "text": "And so we might be living in one of those simulations.",
+  "who": 2
+ },
+ {
+  "start": 2378.64,
+  "end": 2382.0799999999995,
+  "text": "And because there's going to be many more simulations",
+  "who": 2
+ },
+ {
+  "start": 2382.08,
+  "end": 2384.0,
+  "text": "than the one base reality,",
+  "who": 2
+ },
+ {
+  "start": 2384.8,
+  "end": 2388.88,
+  "text": "then the chances are that if we're having experiences at all,",
+  "who": 2
+ },
+ {
+  "start": 2390.08,
+  "end": 2393.04,
+  "text": "we're having experiences within one of these simulations.",
+  "who": 2
+ },
+ {
+  "start": 2393.92,
+  "end": 2397.52,
+  "text": "It's a really fun thought experiment to go through,",
+  "who": 2
+ },
+ {
+  "start": 2397.52,
+  "end": 2399.7600000000007,
+  "text": "because it does relate to the matrix",
+  "who": 2
+ },
+ {
+  "start": 2399.7600000000007,
+  "end": 2401.2800000000007,
+  "text": "and to what we were talking about,",
+  "who": 2
+ },
+ {
+  "start": 2401.2800000000007,
+  "end": 2405.0400000000004,
+  "text": "about the relationship between what we perceive",
+  "who": 2
+ },
+ {
+  "start": 2405.0400000000004,
+  "end": 2406.5600000000004,
+  "text": "and what's really there.",
+  "who": 2
+ },
+ {
+  "start": 2406.5600000000004,
+  "end": 2409.28,
+  "text": "But the idea that we're living in a computer simulation,",
+  "who": 2
+ },
+ {
+  "start": 2410.29,
+  "end": 2410.8500000000004,
+  "text": "I don't know.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 2410.8500000000004,
+  "end": 2414.2100000000005,
+  "text": "I mean, it's hard to put any kinds of probabilities",
+  "who": 2
+ },
+ {
+  "start": 2414.2100000000005,
+  "end": 2418.5300000000007,
+  "text": "on these things about whether our super intelligent descendants",
+  "who": 2
+ },
+ {
+  "start": 2418.5300000000007,
+  "end": 2421.2500000000005,
+  "text": "will really be interested in developing",
+  "who": 2
+ },
+ {
+  "start": 2421.2500000000005,
+  "end": 2423.8100000000004,
+  "text": "computer simulations of us now.",
+  "who": 2
+ },
+ {
+  "start": 2424.99,
+  "end": 2425.71,
+  "text": "Maybe they will.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 2425.71,
+  "end": 2429.5499999999997,
+  "text": "Maybe only a tiny fraction of the potential civilizations",
+  "who": 2
+ },
+ {
+  "start": 2429.5499999999997,
+  "end": 2429.9499999999994,
+  "text": "need to do that.",
+  "who": 2
+ },
+ {
+  "start": 2429.9499999999994,
+  "end": 2430.4299999999994,
+  "text": "I don't know.",
+  "who": 2
+ },
+ {
+  "start": 2430.4299999999994,
+  "end": 2433.149999999999,
+  "text": "It just seems impossible to put any reasonable number to.",
+  "who": 2
+ },
+ {
+  "start": 2433.149999999999,
+  "end": 2435.789999999999,
+  "text": "But the main reason I'm suspicious of it",
+  "who": 2
+ },
+ {
+  "start": 2437.2,
+  "end": 2439.68,
+  "text": "is that, as you said a minute ago,",
+  "who": 2
+ },
+ {
+  "start": 2441.16,
+  "end": 2444.6799999999994,
+  "text": "it assumes that consciousness is something that can be simulated.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 2445.36,
+  "end": 2448.4000000000005,
+  "text": "I mean, the brain is just such a ridiculously complex object.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 2449.28,
+  "end": 2451.36,
+  "text": "You need some kind of metaphor to grasp it",
+  "who": 2
+ },
+ {
+  "start": 2451.36,
+  "end": 2453.0399999999995,
+  "text": "to make any kind of sense.",
+  "who": 2
+ },
+ {
+  "start": 2453.04,
+  "end": 2457.36,
+  "text": "But these metaphors, as useful as they are, can also be misleading.",
+  "who": 2
+ },
+ {
+  "start": 2457.36,
+  "end": 2459.9200000000005,
+  "text": "And the metaphor of the brain as a computer",
+  "who": 2
+ },
+ {
+  "start": 2459.9200000000005,
+  "end": 2462.7200000000003,
+  "text": "is very, very useful because it allows us to think",
+  "who": 2
+ },
+ {
+  "start": 2462.7200000000003,
+  "end": 2466.8000000000006,
+  "text": "of all kinds of complicated internal processes happening,",
+  "who": 2
+ },
+ {
+  "start": 2467.6,
+  "end": 2470.48,
+  "text": "mediating between light hitting the eye",
+  "who": 2
+ },
+ {
+  "start": 2470.48,
+  "end": 2471.52,
+  "text": "and what we end up doing,",
+  "who": 2
+ },
+ {
+  "start": 2471.52,
+  "end": 2473.68,
+  "text": "lots of complicated things that can happen.",
+  "who": 2
+ },
+ {
+  "start": 2474.43,
+  "end": 2477.149999999999,
+  "text": "But it's also misleading if taken too literally.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 2477.149999999999,
+  "end": 2480.749999999999,
+  "text": "Memory is not like storing a file on a computer.",
+  "who": 2
+ },
+ {
+  "start": 2480.749999999999,
+  "end": 2483.7899999999986,
+  "text": "And much more fundamentally, computers,",
+  "who": 2
+ },
+ {
+  "start": 2483.7899999999986,
+  "end": 2486.189999999999,
+  "text": "at least the sorts that we have at the moment,",
+  "who": 2
+ },
+ {
+  "start": 2486.189999999999,
+  "end": 2488.509999999999,
+  "text": "really do separate the hardware from the software.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 2488.509999999999,
+  "end": 2489.549999999999,
+  "text": "I mean, that's the point, right?",
+  "who": 2
+ },
+ {
+  "start": 2489.549999999999,
+  "end": 2492.349999999999,
+  "text": "You can have a computer and you can run a different program on it.",
+  "who": 2
+ },
+ {
+  "start": 2492.349999999999,
+  "end": 2493.709999999999,
+  "text": "You can run many programs on it.",
+  "who": 2
+ },
+ {
+  "start": 2493.709999999999,
+  "end": 2496.8299999999986,
+  "text": "You can build a computer in principle out of anything you want.",
+  "who": 2
+ },
+ {
+  "start": 2496.85,
+  "end": 2497.97,
+  "text": "Let me give you an example.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 2498.4,
+  "end": 2501.84,
+  "text": "We simulate weather systems all the time.",
+  "who": 2
+ },
+ {
+  "start": 2501.84,
+  "end": 2503.76,
+  "text": "I actually trust weather forecasts now.",
+  "who": 2
+ },
+ {
+  "start": 2503.76,
+  "end": 2504.96,
+  "text": "They actually seem to work.",
+  "who": 2
+ },
+ {
+  "start": 2505.52,
+  "end": 2508.0,
+  "text": "And this is because there are these massive simulations",
+  "who": 2
+ },
+ {
+  "start": 2508.0,
+  "end": 2511.76,
+  "text": "of the atmosphere running in supercomputers",
+  "who": 2
+ },
+ {
+  "start": 2511.76,
+  "end": 2513.04,
+  "text": "in various places in the world,",
+  "who": 2
+ },
+ {
+  "start": 2514.09,
+  "end": 2515.956666666667,
+  "text": "really detailed simulations.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 2516.34,
+  "end": 2521.206666666667,
+  "text": "But it never gets wet or windy inside a simulation of the weather system.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 2521.84,
+  "end": 2525.36,
+  "text": "We know that rain is not substrate independent.",
+  "who": 2
+ },
+ {
+  "start": 2525.36,
+  "end": 2526.72,
+  "text": "Rain requires water.",
+  "who": 2
+ },
+ {
+  "start": 2527.32,
+  "end": 2528.9200000000005,
+  "text": "It's not something you can simulate.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 2528.9200000000005,
+  "end": 2531.4000000000005,
+  "text": "A simulation of rain is a simulation of rain.",
+  "who": 2
+ },
+ {
+  "start": 2531.84,
+  "end": 2535.6,
+  "text": "But you can get computers to play go and chess.",
+  "who": 2
+ },
+ {
+  "start": 2536.86,
+  "end": 2539.726666666667,
+  "text": "And they are actually playing go and chess.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 2539.726666666667,
+  "end": 2541.8866666666668,
+  "text": "That is something that can be simulated.",
+  "who": 2
+ },
+ {
+  "start": 2541.8866666666668,
+  "end": 2542.686666666667,
+  "text": "It's the same thing.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 2542.686666666667,
+  "end": 2544.286666666667,
+  "text": "So which is consciousness?",
+  "who": 2
+ },
+ {
+  "start": 2544.286666666667,
+  "end": 2549.0866666666666,
+  "text": "Is it more like go or is it more like the weather?",
+  "who": 2
+ },
+ {
+  "start": 2549.0866666666666,
+  "end": 2550.206666666666,
+  "text": "And there is this assumption,",
+  "who": 2
+ },
+ {
+  "start": 2550.206666666666,
+  "end": 2552.5266666666666,
+  "text": "which is at the heart of the simulation argument,",
+  "who": 2
+ },
+ {
+  "start": 2552.5266666666666,
+  "end": 2553.406666666667,
+  "text": "that it's more like go,",
+  "who": 2
+ },
+ {
+  "start": 2553.406666666667,
+  "end": 2557.486666666667,
+  "text": "that a simulation of consciousness is equivalent to the real thing.",
+  "who": 2
+ },
+ {
+  "start": 2557.486666666667,
+  "end": 2558.606666666667,
+  "text": "And that might be true.",
+  "who": 2
+ },
+ {
+  "start": 2558.606666666667,
+  "end": 2560.3666666666663,
+  "text": "I'm not saying that I know that's wrong.",
+  "who": 2
+ },
+ {
+  "start": 2560.3666666666663,
+  "end": 2563.4066666666668,
+  "text": "I'm just saying that I'm not comfortable with making that assumption.",
+  "who": 2
+ },
+ {
+  "start": 2563.4066666666668,
+  "end": 2566.606666666667,
+  "text": "I just I don't see any good reason to believe that.",
+  "who": 2
+ },
+ {
+  "start": 2566.606666666667,
+  "end": 2567.726666666667,
+  "text": "As far as we know,",
+  "who": 2
+ },
+ {
+  "start": 2567.726666666667,
+  "end": 2572.2866666666673,
+  "text": "the only things that are conscious in the universe are biological systems.",
+  "who": 2
+ },
+ {
+  "start": 2572.2866666666673,
+  "end": 2574.046666666667,
+  "text": "Yeah, logically, it doesn't work for me.",
+  "who": 2
+ },
+ {
+  "start": 2574.046666666667,
+  "end": 2577.4066666666677,
+  "text": "And at a personal level, I just don't feel compelled by it either.",
+  "who": 2
+ },
+ {
+  "start": 2577.28,
+  "end": 2579.44,
+  "text": "I'm going to call it it's bullshit.",
+  "who": "0"
+ },
+ {
+  "start": 2579.49,
+  "end": 2580.93,
+  "text": "Come on, deal with the real world.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 2580.93,
+  "end": 2582.45,
+  "text": "There's enough to be dealing with out there",
+  "who": "0"
+ },
+ {
+  "start": 2582.45,
+  "end": 2584.77,
+  "text": "without worrying about the fucking matrix.",
+  "who": "0"
+ },
+ {
+  "start": 2585.44,
+  "end": 2590.4,
+  "text": "So I think I can assume that you aren't too worried",
+  "who": "0"
+ },
+ {
+  "start": 2590.4,
+  "end": 2594.0799999999995,
+  "text": "about the chances of robots becoming conscious anytime soon.",
+  "who": "0"
+ },
+ {
+  "start": 2594.85,
+  "end": 2596.8499999999995,
+  "text": "I'm a bit worried, but only a bit.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 2597.58,
+  "end": 2600.7000000000003,
+  "text": "It's not the kind of artificial intelligence of 2001.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 2600.8,
+  "end": 2603.76,
+  "text": "It's basically just really smart pattern recognition.",
+  "who": 2
+ },
+ {
+  "start": 2604.36,
+  "end": 2606.36,
+  "text": "But certainly, computers are getting more powerful",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 2606.88,
+  "end": 2608.16,
+  "text": "and doing more impressive things.",
+  "who": 2
+ },
+ {
+  "start": 2608.86,
+  "end": 2612.5266666666666,
+  "text": "And there's this idea that there will be some threshold",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 2612.56,
+  "end": 2615.84,
+  "text": "at which the lights come on for these AI systems.",
+  "who": 2
+ },
+ {
+  "start": 2615.84,
+  "end": 2618.4799999999996,
+  "text": "And they're not only intelligent, but they're also aware.",
+  "who": 2
+ },
+ {
+  "start": 2619.87,
+  "end": 2623.7900000000004,
+  "text": "And for some reason, this seems to often get bound up in the idea that,",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 2623.7900000000004,
+  "end": 2626.2700000000004,
+  "text": "firstly, this threshold will also be the threshold",
+  "who": 2
+ },
+ {
+  "start": 2626.2700000000004,
+  "end": 2630.5100000000007,
+  "text": "at which these AI systems reach a kind of human level intelligence,",
+  "who": 2
+ },
+ {
+  "start": 2630.5100000000007,
+  "end": 2631.6300000000006,
+  "text": "which just seems a bit weird.",
+  "who": 2
+ },
+ {
+  "start": 2631.6300000000006,
+  "end": 2634.7500000000014,
+  "text": "It's another example of us humans putting ourselves",
+  "who": 2
+ },
+ {
+  "start": 2634.7500000000014,
+  "end": 2637.3100000000013,
+  "text": "at the center of the universe and thinking we're super fantastic",
+  "who": 2
+ },
+ {
+  "start": 2637.3100000000013,
+  "end": 2640.110000000001,
+  "text": "and judging everything by our own benchmark.",
+  "who": 2
+ },
+ {
+  "start": 2640.16,
+  "end": 2646.0,
+  "text": "And that after these AI systems have gained superhuman intelligence",
+  "who": 2
+ },
+ {
+  "start": 2646.0,
+  "end": 2651.6800000000003,
+  "text": "and become conscious, that they will become threatening to us",
+  "who": 2
+ },
+ {
+  "start": 2651.6800000000003,
+  "end": 2654.72,
+  "text": "and do us all in in some way or another.",
+  "who": 2
+ },
+ {
+  "start": 2655.89,
+  "end": 2657.37,
+  "text": "Yeah, because that's what we're like.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 2657.37,
+  "end": 2660.8099999999995,
+  "text": "So when they become like us, they'll want to get rid of everything as well.",
+  "who": "0"
+ },
+ {
+  "start": 2660.68,
+  "end": 2664.44,
+  "text": "Yeah, but the first thing about this that comes to my mind is that",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 2664.44,
+  "end": 2667.72,
+  "text": "there's no reason to believe that consciousness will just come along",
+  "who": 2
+ },
+ {
+  "start": 2667.72,
+  "end": 2671.48,
+  "text": "for the ride as artificial systems get more and more intelligent.",
+  "who": 2
+ },
+ {
+  "start": 2672.25,
+  "end": 2675.37,
+  "text": "Consciousness is not the same thing as intelligence.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 2675.37,
+  "end": 2678.8099999999995,
+  "text": "Certainly, I think that many other animals that are not humans,",
+  "who": 2
+ },
+ {
+  "start": 2678.8099999999995,
+  "end": 2681.2899999999995,
+  "text": "not even primates, have conscious experiences.",
+  "who": 2
+ },
+ {
+  "start": 2681.2899999999995,
+  "end": 2682.49,
+  "text": "They have different ones.",
+  "who": 2
+ },
+ {
+  "start": 2682.49,
+  "end": 2686.2499999999995,
+  "text": "And in some sense, they might have simpler conscious experiences.",
+  "who": 2
+ },
+ {
+  "start": 2686.2499999999995,
+  "end": 2691.6099999999997,
+  "text": "They don't think about what they're going to do next month in the way that we do.",
+  "who": 2
+ },
+ {
+  "start": 2691.6099999999997,
+  "end": 2696.0899999999992,
+  "text": "They're very seldom doing the kinds of things that make us distinctively human.",
+  "who": 2
+ },
+ {
+  "start": 2696.94,
+  "end": 2698.5400000000004,
+  "text": "They're very seldom on TikTok.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 2697.76,
+  "end": 2702.32,
+  "text": "But it's still possible to be conscious without being all that smart.",
+  "who": 2
+ },
+ {
+  "start": 2702.32,
+  "end": 2707.9999999999995,
+  "text": "And consciousness intelligence certainly don't tightly correlate that you know,",
+  "who": 2
+ },
+ {
+  "start": 2708.0,
+  "end": 2710.96,
+  "text": "once you get intelligence, you're bound to have consciousness.",
+  "who": 2
+ },
+ {
+  "start": 2710.96,
+  "end": 2715.12,
+  "text": "So that doesn't work for me either.",
+  "who": 2
+ },
+ {
+  "start": 2715.12,
+  "end": 2717.76,
+  "text": "And then there's this whole idea, as we were just discussing,",
+  "who": 2
+ },
+ {
+  "start": 2717.76,
+  "end": 2720.3999999999996,
+  "text": "that it's really not clear to me that consciousness is something",
+  "who": 2
+ },
+ {
+  "start": 2720.4,
+  "end": 2724.72,
+  "text": "that could ever be generated by a nonbiological system.",
+  "who": 2
+ },
+ {
+  "start": 2724.72,
+  "end": 2726.72,
+  "text": "And there, my answer is it's not that it can't.",
+  "who": 2
+ },
+ {
+  "start": 2726.72,
+  "end": 2729.7599999999998,
+  "text": "It's just that I don't know and I don't think it's safe to assume",
+  "who": 2
+ },
+ {
+  "start": 2729.76,
+  "end": 2732.4,
+  "text": "it's safe to assume that it can.",
+  "who": 2
+ },
+ {
+  "start": 2733.45,
+  "end": 2736.4099999999994,
+  "text": "The real things to worry about for me are kind of twofold.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 2736.4099999999994,
+  "end": 2740.17,
+  "text": "The first one is that there's just a lot of unknowns here.",
+  "who": 2
+ },
+ {
+  "start": 2740.17,
+  "end": 2742.25,
+  "text": "There's a lot of, I don't know,",
+  "who": 2
+ },
+ {
+  "start": 2742.25,
+  "end": 2745.7700000000004,
+  "text": "maybe a computer of the kind we currently have is enough.",
+  "who": 2
+ },
+ {
+  "start": 2745.7700000000004,
+  "end": 2747.850000000001,
+  "text": "Maybe consciousness is something you can simulate",
+  "who": 2
+ },
+ {
+  "start": 2747.850000000001,
+  "end": 2750.2500000000005,
+  "text": "and maybe indeed in the next 20 years or so on.",
+  "who": 2
+ },
+ {
+  "start": 2750.97,
+  "end": 2751.6099999999997,
+  "text": "It will happen.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 2752.14,
+  "end": 2753.34,
+  "text": "It can't be ruled out.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 2753.34,
+  "end": 2755.26,
+  "text": "I think it's very unlikely, but it can't be ruled out.",
+  "who": 2
+ },
+ {
+  "start": 2755.26,
+  "end": 2759.420000000001,
+  "text": "And if it did happen, it would be ethically absolutely catastrophic.",
+  "who": 2
+ },
+ {
+  "start": 2759.420000000001,
+  "end": 2764.700000000001,
+  "text": "And the other worry, and I think this is a much more realistic situation.",
+  "who": 2
+ },
+ {
+  "start": 2764.700000000001,
+  "end": 2767.740000000001,
+  "text": "In fact, I think it's an inevitable situation",
+  "who": 2
+ },
+ {
+  "start": 2767.740000000001,
+  "end": 2772.3800000000015,
+  "text": "that has already been explored in great films like Alex Garland's Ex Machina,",
+  "who": 2
+ },
+ {
+  "start": 2772.3800000000015,
+  "end": 2777.420000000002,
+  "text": "is that we will have systems that give us the strong appearance",
+  "who": 2
+ },
+ {
+  "start": 2777.420000000002,
+  "end": 2780.0600000000018,
+  "text": "that they're conscious, that is so convincing",
+  "who": 2
+ },
+ {
+  "start": 2780.0600000000018,
+  "end": 2784.540000000002,
+  "text": "that it will be very hard for us to interpret them,",
+  "who": 2
+ },
+ {
+  "start": 2784.540000000002,
+  "end": 2785.900000000002,
+  "text": "perceive them in any other way.",
+  "who": 2
+ },
+ {
+  "start": 2785.900000000002,
+  "end": 2787.7400000000016,
+  "text": "And we're almost there already.",
+  "who": 2
+ },
+ {
+  "start": 2787.7400000000016,
+  "end": 2790.5400000000013,
+  "text": "We have these deep fakes, you know, these machine learning programs",
+  "who": 2
+ },
+ {
+  "start": 2790.5400000000013,
+  "end": 2796.060000000001,
+  "text": "that can animate a photo and make it say anything in a realistic way.",
+  "who": 2
+ },
+ {
+  "start": 2795.92,
+  "end": 2799.28,
+  "text": "Yeah. I saw my first deep fake ad on YouTube the other day.",
+  "who": "0"
+ },
+ {
+  "start": 2799.28,
+  "end": 2801.12,
+  "text": "It's scary.",
+  "who": 2
+ },
+ {
+  "start": 2801.1,
+  "end": 2802.833333333333,
+  "text": "Yeah. I mean, it was crap.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 2802.833333333333,
+  "end": 2804.433333333333,
+  "text": "I definitely knew that it was fake.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 2806.14,
+  "end": 2809.5,
+  "text": "But still, I could see that, okay, if they can do this now,",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 2809.5,
+  "end": 2811.6600000000003,
+  "text": "it'll probably get really, really good in 10 years.",
+  "who": "0"
+ },
+ {
+  "start": 2812.35,
+  "end": 2814.51,
+  "text": "Exactly. I mean, that's the thing.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 2814.51,
+  "end": 2818.43,
+  "text": "Something that's done quite badly now in this area,",
+  "who": 2
+ },
+ {
+  "start": 2818.43,
+  "end": 2820.9099999999994,
+  "text": "these are the things that are getting better exponentially.",
+  "who": 2
+ },
+ {
+  "start": 2820.8,
+  "end": 2829.84,
+  "text": "Yeah. Finally, Anil, I want to ask you about the end of consciousness, about death.",
+  "who": "0"
+ },
+ {
+  "start": 2830.83,
+  "end": 2835.6966666666667,
+  "text": "Has your work over the years made you more or less frightened of the end?",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 2836.68,
+  "end": 2838.36,
+  "text": "The honest answer is I don't know.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 2838.36,
+  "end": 2840.4400000000005,
+  "text": "I don't have a different version of myself",
+  "who": 2
+ },
+ {
+  "start": 2840.4400000000005,
+  "end": 2846.1200000000003,
+  "text": "that hasn't done what I've done to compare with.",
+  "who": 2
+ },
+ {
+  "start": 2846.1200000000003,
+  "end": 2850.2000000000007,
+  "text": "So I only have how I feel about it now",
+  "who": 2
+ },
+ {
+  "start": 2850.2000000000007,
+  "end": 2853.880000000001,
+  "text": "and some guesses about how that's been influenced.",
+  "who": 2
+ },
+ {
+  "start": 2853.880000000001,
+  "end": 2861.1600000000008,
+  "text": "And I think I've certainly thought about death a lot",
+  "who": 2
+ },
+ {
+  "start": 2861.1600000000008,
+  "end": 2863.000000000001,
+  "text": "and probably more than I would have done otherwise.",
+  "who": 2
+ },
+ {
+  "start": 2863.000000000001,
+  "end": 2864.840000000001,
+  "text": "If you think about consciousness a lot,",
+  "who": 2
+ },
+ {
+  "start": 2864.840000000001,
+  "end": 2870.6000000000017,
+  "text": "you can't avoid thinking about the absence of consciousness too, just in general,",
+  "who": 2
+ },
+ {
+  "start": 2870.6000000000017,
+  "end": 2874.280000000002,
+  "text": "but also when dealing with some of the cases that we've been talking about,",
+  "who": 2
+ },
+ {
+  "start": 2874.280000000002,
+  "end": 2876.600000000002,
+  "text": "people with severe brain damage and so on.",
+  "who": 2
+ },
+ {
+  "start": 2876.600000000002,
+  "end": 2880.9200000000023,
+  "text": "I do think about it from my position now in middle age",
+  "who": 2
+ },
+ {
+  "start": 2880.9200000000023,
+  "end": 2883.640000000002,
+  "text": "and hopefully still some distance from death.",
+  "who": 2
+ },
+ {
+  "start": 2883.640000000002,
+  "end": 2887.5600000000018,
+  "text": "I feel that I'm not massively afraid of it.",
+  "who": 2
+ },
+ {
+  "start": 2887.5600000000018,
+  "end": 2889.9600000000014,
+  "text": "I might still be laboring a little bit under the illusion that,",
+  "who": 2
+ },
+ {
+  "start": 2889.9600000000014,
+  "end": 2891.5600000000013,
+  "text": "yeah, I know it's going to happen.",
+  "who": 2
+ },
+ {
+  "start": 2891.5600000000013,
+  "end": 2893.0000000000014,
+  "text": "I know I'm going to stop existing,",
+  "who": 2
+ },
+ {
+  "start": 2893.0000000000014,
+  "end": 2896.2800000000016,
+  "text": "I know I'm going to stop existing, but not really, you know, not me.",
+  "who": 2
+ },
+ {
+  "start": 2896.96,
+  "end": 2898.4,
+  "text": "That's not really going to happen.",
+  "who": 2
+ },
+ {
+  "start": 2899.2,
+  "end": 2904.72,
+  "text": "So I'm not entirely sure that I've assimilated the prospect of mortality.",
+  "who": 2
+ },
+ {
+  "start": 2904.72,
+  "end": 2907.6,
+  "text": "I think it's a really challenging thing to do.",
+  "who": 2
+ },
+ {
+  "start": 2907.6,
+  "end": 2912.0800000000004,
+  "text": "But I do think that studying consciousness and thinking about the self",
+  "who": 2
+ },
+ {
+  "start": 2912.0800000000004,
+  "end": 2914.5600000000004,
+  "text": "and thinking about the impermanence of the self",
+  "who": 2
+ },
+ {
+  "start": 2915.94,
+  "end": 2918.5,
+  "text": "makes the prospect easier to contemplate",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 2918.5,
+  "end": 2922.02,
+  "text": "from the distance that I have to it at the moment.",
+  "who": 2
+ },
+ {
+  "start": 2922.02,
+  "end": 2923.2199999999993,
+  "text": "There's no essence of me.",
+  "who": 2
+ },
+ {
+  "start": 2924.48,
+  "end": 2929.04,
+  "text": "Then there's a title of a Julian Barnes novel, which I always come back to.",
+  "who": 2
+ },
+ {
+  "start": 2929.04,
+  "end": 2930.96,
+  "text": "It's called Nothing to be Frightened of.",
+  "who": 2
+ },
+ {
+  "start": 2931.69,
+  "end": 2933.4500000000003,
+  "text": "And of course, you can use that in two ways.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 2934.16,
+  "end": 2936.24,
+  "text": "There's nothing to be frightened of, but there's nothing.",
+  "who": 2
+ },
+ {
+  "start": 2936.24,
+  "end": 2939.84,
+  "text": "And that's really something to be very, very afraid of.",
+  "who": 2
+ },
+ {
+  "start": 2940.4,
+  "end": 2944.16,
+  "text": "And I try to put myself in a former category.",
+  "who": 2
+ },
+ {
+  "start": 2944.16,
+  "end": 2948.3199999999997,
+  "text": "And one of the events I talk about in the book,",
+  "who": 2
+ },
+ {
+  "start": 2948.32,
+  "end": 2952.88,
+  "text": "to the fact I open with it in the book, is about general anesthesia.",
+  "who": 2
+ },
+ {
+  "start": 2952.88,
+  "end": 2959.2799999999997,
+  "text": "General anesthesia is the closest any of us will come to death.",
+  "who": 2
+ },
+ {
+  "start": 2960.16,
+  "end": 2962.6399999999994,
+  "text": "And we all say, oh, I was in a car accident.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 2962.6399999999994,
+  "end": 2966.9599999999996,
+  "text": "I came very close to death or I was in a surfing and a shark swam nearby.",
+  "who": 2
+ },
+ {
+  "start": 2967.36,
+  "end": 2969.2,
+  "text": "No, you're not close to death at all.",
+  "who": 2
+ },
+ {
+  "start": 2969.2,
+  "end": 2972.08,
+  "text": "You might have died, but you weren't actually close to death.",
+  "who": 2
+ },
+ {
+  "start": 2972.08,
+  "end": 2974.3999999999996,
+  "text": "In general anesthesia, your consciousness has gone away",
+  "who": 2
+ },
+ {
+  "start": 2975.28,
+  "end": 2978.640000000001,
+  "text": "completely, much more so than in the deepest of sleeps.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 2978.640000000001,
+  "end": 2979.92,
+  "text": "You're just not there.",
+  "who": 2
+ },
+ {
+  "start": 2979.92,
+  "end": 2982.8,
+  "text": "And the thing I remember about general anesthesia is that",
+  "who": 2
+ },
+ {
+  "start": 2983.77,
+  "end": 2986.4366666666665,
+  "text": "the sense of time passing was also gone.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 2986.4366666666665,
+  "end": 2990.5166666666664,
+  "text": "If you go to sleep, and even if it's a really deep sleep",
+  "who": 2
+ },
+ {
+  "start": 2990.5166666666664,
+  "end": 2993.4766666666665,
+  "text": "and you don't remember having any dreams, when you wake up,",
+  "who": 2
+ },
+ {
+  "start": 2994.18,
+  "end": 2995.939999999999,
+  "text": "you're aware that some time has passed.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 2995.939999999999,
+  "end": 2997.7799999999997,
+  "text": "You don't know how long might be confusing,",
+  "who": 2
+ },
+ {
+  "start": 2998.71,
+  "end": 3000.39,
+  "text": "but there's a sense of time having passed.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 3000.87,
+  "end": 3003.1100000000006,
+  "text": "In general anesthesia, it isn't like that, right?",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 3003.1100000000006,
+  "end": 3005.5900000000006,
+  "text": "I don't know if you've had general anesthesia, Adam?",
+  "who": 2
+ },
+ {
+  "start": 3005.37,
+  "end": 3007.4366666666665,
+  "text": "Yeah, I have. Wisdom teeth out.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 3008.01,
+  "end": 3009.9300000000003,
+  "text": "Right. You're gone, right? And then you're back.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 3009.9300000000003,
+  "end": 3011.21,
+  "text": "No time passes at all.",
+  "who": 2
+ },
+ {
+  "start": 3011.01,
+  "end": 3012.21,
+  "text": "Yeah, it was cool.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 3012.21,
+  "end": 3013.09,
+  "text": "It's really cool.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 3012.8,
+  "end": 3016.8,
+  "text": "I mean, the third time I had it, I was really trying to pay attention to what was going on.",
+  "who": 2
+ },
+ {
+  "start": 3017.55,
+  "end": 3021.63,
+  "text": "And of course you can't because what's going on is that your ability to pay attention is abolished.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 3021.55,
+  "end": 3022.1899999999996,
+  "text": "Yes, exactly.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 3022.1899999999996,
+  "end": 3028.43,
+  "text": "The crazy thing of counting from 10 down to one and just feeling yourself evaporate as you count.",
+  "who": "0"
+ },
+ {
+  "start": 3028.43,
+  "end": 3031.4699999999993,
+  "text": "When you're on 10 and 9, you're sort of thinking,",
+  "who": "0"
+ },
+ {
+  "start": 3031.4699999999993,
+  "end": 3035.95,
+  "text": "oh, it's fine. I'll hang on. And then just suddenly off you go.",
+  "who": "0"
+ },
+ {
+  "start": 3035.28,
+  "end": 3037.84,
+  "text": "Yeah. And if you see it from a third person,",
+  "who": 2
+ },
+ {
+  "start": 3037.84,
+  "end": 3043.3600000000006,
+  "text": "so I've seen a few people go under anesthesia while I've been observing and it's amazing.",
+  "who": 2
+ },
+ {
+  "start": 3044.48,
+  "end": 3048.96,
+  "text": "They're people and then they are objects and then they're people again.",
+  "who": 2
+ },
+ {
+  "start": 3049.92,
+  "end": 3052.6800000000003,
+  "text": "And you just transform somebody into an object and they're not there.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 3052.6800000000003,
+  "end": 3056.44,
+  "text": "And from the first person, it's that complete absence of anything.",
+  "who": 2
+ },
+ {
+  "start": 3056.44,
+  "end": 3058.4400000000005,
+  "text": "And it's the absence of time having passed.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 3059.07,
+  "end": 3064.4033333333336,
+  "text": "And so that I think is really the closest we will get to a premonition of death.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 3064.4033333333336,
+  "end": 3066.803333333333,
+  "text": "It is not just the big sleep.",
+  "who": 2
+ },
+ {
+  "start": 3067.74,
+  "end": 3069.02,
+  "text": "You were just not there.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 3069.02,
+  "end": 3073.42,
+  "text": "It's like being not there in all the time that you weren't there before you were born.",
+  "who": 2
+ },
+ {
+  "start": 3073.42,
+  "end": 3075.4999999999995,
+  "text": "And we don't tend to worry so much about that.",
+  "who": 2
+ },
+ {
+  "start": 3075.4999999999995,
+  "end": 3081.899999999999,
+  "text": "We have this very asymmetric concern about mortality that we can joke and say,",
+  "who": 2
+ },
+ {
+  "start": 3081.899999999999,
+  "end": 3086.1399999999985,
+  "text": "I would love to have been around in Paris and the Enlightenment or something like that,",
+  "who": 2
+ },
+ {
+  "start": 3086.1399999999985,
+  "end": 3089.2599999999984,
+  "text": "or wherever your favorite historical period might have been.",
+  "who": 2
+ },
+ {
+  "start": 3089.46,
+  "end": 3093.7799999999993,
+  "text": "But we don't feel that kind of visceral sense of missing out that we feel about the future",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 3093.7799999999993,
+  "end": 3095.859999999999,
+  "text": "when we're not there either.",
+  "who": 2
+ },
+ {
+  "start": 3095.859999999999,
+  "end": 3097.3399999999992,
+  "text": "And there's some rationality to that.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 3097.3399999999992,
+  "end": 3098.8599999999997,
+  "text": "We can change what happens in the future.",
+  "who": 2
+ },
+ {
+  "start": 3098.8599999999997,
+  "end": 3102.78,
+  "text": "We can't, what happened in the past, we didn't have any effect on.",
+  "who": 2
+ },
+ {
+  "start": 3102.78,
+  "end": 3105.500000000001,
+  "text": "But the oblivion is still the same in both cases.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 3105.500000000001,
+  "end": 3107.82,
+  "text": "And it's the same oblivion as general anesthesia.",
+  "who": 2
+ },
+ {
+  "start": 3107.82,
+  "end": 3112.4599999999996,
+  "text": "And so just not existing for a while.",
+  "who": 2
+ },
+ {
+  "start": 3112.4599999999996,
+  "end": 3115.0200000000004,
+  "text": "And then looking back at that episode of not existing,",
+  "who": 2
+ },
+ {
+  "start": 3115.0200000000004,
+  "end": 3119.1000000000004,
+  "text": "where you think, well, okay, actually, that's okay.",
+  "who": 2
+ },
+ {
+  "start": 3119.1000000000004,
+  "end": 3120.62,
+  "text": "In fact, how could it be otherwise?",
+  "who": 2
+ },
+ {
+  "start": 3120.62,
+  "end": 3124.78,
+  "text": "The prospect of living forever is also quite aversive.",
+  "who": 2
+ },
+ {
+  "start": 3124.78,
+  "end": 3127.3399999999997,
+  "text": "I mean, if you really unpack what that would entail,",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 3127.3399999999997,
+  "end": 3131.66,
+  "text": "there's very few situations where that would suddenly seem to be",
+  "who": 2
+ },
+ {
+  "start": 3131.66,
+  "end": 3134.3799999999997,
+  "text": "a really, really unambiguously good idea.",
+  "who": 2
+ },
+ {
+  "start": 3134.3799999999997,
+  "end": 3138.2999999999993,
+  "text": "It's only appealing in contrast to our fear of death.",
+  "who": 2
+ },
+ {
+  "start": 3138.64,
+  "end": 3141.2,
+  "text": "That I think we think that it's a good thing.",
+  "who": 2
+ },
+ {
+  "start": 3141.33,
+  "end": 3145.09,
+  "text": "No, I think I'm much more worried, as many people actually are,",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 3145.09,
+  "end": 3146.6099999999997,
+  "text": "about the process.",
+  "who": 2
+ },
+ {
+  "start": 3146.33,
+  "end": 3147.463333333333,
+  "text": "Yes, the buildup.",
+  "who": 0,
+  "matched": true
+ },
+ {
+  "start": 3148.32,
+  "end": 3152.0,
+  "text": "The buildup, how that might feel, how that might affect others.",
+  "who": 2
+ },
+ {
+  "start": 3153.76,
+  "end": 3158.48,
+  "text": "And that sense of the gradual loss of who you are.",
+  "who": 2
+ },
+ {
+  "start": 3159.36,
+  "end": 3161.8933333333334,
+  "text": "But it can be a really profound thing.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 3161.92,
+  "end": 3166.24,
+  "text": "My father died eight years ago on Midsummer's Day on June the 21st.",
+  "who": 2
+ },
+ {
+  "start": 3166.24,
+  "end": 3167.2,
+  "text": "Then he died at home.",
+  "who": 2
+ },
+ {
+  "start": 3168.16,
+  "end": 3169.6,
+  "text": "I was there and my mother was there.",
+  "who": 2
+ },
+ {
+  "start": 3170.28,
+  "end": 3171.9600000000005,
+  "text": "He hadn't been ill very long.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 3171.9600000000005,
+  "end": 3173.9600000000005,
+  "text": "And of course, it was extremely sad.",
+  "who": 2
+ },
+ {
+  "start": 3173.9600000000005,
+  "end": 3175.7999999999997,
+  "text": "He was in his 80s.",
+  "who": 2
+ },
+ {
+  "start": 3175.7999999999997,
+  "end": 3177.480000000001,
+  "text": "It was extremely, extremely sad.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 3177.76,
+  "end": 3180.72,
+  "text": "But he did not seem to suffer that much.",
+  "who": 2
+ },
+ {
+  "start": 3180.72,
+  "end": 3183.9199999999996,
+  "text": "And the process handled well.",
+  "who": 2
+ },
+ {
+  "start": 3183.92,
+  "end": 3188.48,
+  "text": "We had these amazing Marie Curie nurses to sort of make sure",
+  "who": 2
+ },
+ {
+  "start": 3188.48,
+  "end": 3190.64,
+  "text": "that the material needs were taken care of.",
+  "who": 2
+ },
+ {
+  "start": 3192.39,
+  "end": 3195.5900000000006,
+  "text": "And that allowed us to sort of pay attention to the process.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 3195.5900000000006,
+  "end": 3202.95,
+  "text": "And him to be very present, it was very calm.",
+  "who": 2
+ },
+ {
+  "start": 3202.95,
+  "end": 3207.83,
+  "text": "And now I look back and I think he was lucky to avoid a lot of suffering.",
+  "who": 2
+ },
+ {
+  "start": 3207.83,
+  "end": 3211.59,
+  "text": "But I think me and my mother, we were also lucky.",
+  "who": 2
+ },
+ {
+  "start": 3211.59,
+  "end": 3215.1099999999997,
+  "text": "Because I can look back at that now and it's sad,",
+  "who": 2
+ },
+ {
+  "start": 3215.1099999999997,
+  "end": 3217.19,
+  "text": "but it doesn't feel like a traumatic memory.",
+  "who": 2
+ },
+ {
+  "start": 3217.19,
+  "end": 3220.7900000000004,
+  "text": "It feels like the circle of life coming to a close.",
+  "who": 2
+ },
+ {
+  "start": 3220.7900000000004,
+  "end": 3223.990000000001,
+  "text": "I think there are ways to end life well.",
+  "who": 2
+ },
+ {
+  "start": 3223.990000000001,
+  "end": 3227.590000000001,
+  "text": "Well, I'm certainly not keen to get there particularly quickly.",
+  "who": 2
+ },
+ {
+  "start": 3228.0,
+  "end": 3232.72,
+  "text": "But I do think that thinking about self and consciousness",
+  "who": 2
+ },
+ {
+  "start": 3233.7,
+  "end": 3235.433333333333,
+  "text": "can reduce the fear of it.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 3236.24,
+  "end": 3240.32,
+  "text": "Because ultimately, we're just a bundle of perceptions",
+  "who": 2
+ },
+ {
+  "start": 3240.32,
+  "end": 3242.9600000000005,
+  "text": "and that will dissolve into the air.",
+  "who": 2
+ },
+ {
+  "start": 3242.9600000000005,
+  "end": 3243.6000000000004,
+  "text": "And that's fine.",
+  "who": 2
+ },
+ {
+  "start": 3245.73,
+  "end": 3247.4900000000002,
+  "text": "Well, I'm glad that you had that experience.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 3247.92,
+  "end": 3251.36,
+  "text": "Obviously, I'm sorry that your pa passed away.",
+  "who": "0"
+ },
+ {
+  "start": 3251.36,
+  "end": 3253.9200000000005,
+  "text": "But I'm glad that you felt that way about it,",
+  "who": "0"
+ },
+ {
+  "start": 3253.9200000000005,
+  "end": 3256.0,
+  "text": "that it wasn't as bad as it could have been.",
+  "who": "0"
+ },
+ {
+  "start": 3256.0,
+  "end": 3257.5200000000004,
+  "text": "Yeah, I think it's really important.",
+  "who": "0"
+ },
+ {
+  "start": 3257.5200000000004,
+  "end": 3259.6800000000007,
+  "text": "I think that it's important to think about as well.",
+  "who": "0"
+ },
+ {
+  "start": 3260.28,
+  "end": 3262.6800000000003,
+  "text": "Yeah, I think it does help to think about it.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 3262.6800000000003,
+  "end": 3267.1600000000003,
+  "text": "And I think Western society has done a terrible job",
+  "who": 2
+ },
+ {
+  "start": 3267.1600000000003,
+  "end": 3268.76,
+  "text": "pushing death into the background.",
+  "who": 2
+ },
+ {
+  "start": 3269.52,
+  "end": 3270.4,
+  "text": "We don't want to look at it.",
+  "who": 2
+ },
+ {
+  "start": 3270.4,
+  "end": 3271.8399999999997,
+  "text": "It's not really there.",
+  "who": 2
+ },
+ {
+  "start": 3272.52,
+  "end": 3275.48,
+  "text": "Or if it's there, it's kind of there in the service of something else.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 3276.09,
+  "end": 3278.33,
+  "text": "And I really don't think that helps.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 3278.33,
+  "end": 3281.5300000000007,
+  "text": "Because we all do think about it anyway.",
+  "who": 2
+ },
+ {
+  "start": 3281.5300000000007,
+  "end": 3284.3300000000004,
+  "text": "And as the world is becoming more secular,",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 3284.96,
+  "end": 3287.84,
+  "text": "we don't have the kind of religious cruxes",
+  "who": 2
+ },
+ {
+  "start": 3287.84,
+  "end": 3290.3199999999997,
+  "text": "to just reassure us that everything is going to be all right.",
+  "who": 2
+ },
+ {
+  "start": 3290.32,
+  "end": 3292.96,
+  "text": "And when we die, don't worry, you'll go somewhere nice.",
+  "who": 2
+ },
+ {
+  "start": 3292.96,
+  "end": 3293.84,
+  "text": "But only if you've been good,",
+  "who": 2
+ },
+ {
+  "start": 3293.84,
+  "end": 3295.76,
+  "text": "you might go somewhere not so nice otherwise.",
+  "who": 2
+ },
+ {
+  "start": 3295.76,
+  "end": 3297.3600000000006,
+  "text": "But there's not a narrative.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 3297.3600000000006,
+  "end": 3299.9200000000005,
+  "text": "There's no cultural narrative for it anymore.",
+  "who": 2
+ },
+ {
+  "start": 3300.81,
+  "end": 3301.93,
+  "text": "And that is a problem.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 3301.93,
+  "end": 3303.0499999999993,
+  "text": "How do you replace that?",
+  "who": 2
+ },
+ {
+  "start": 3303.99,
+  "end": 3305.99,
+  "text": "And I don't think here science is a threat.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 3305.99,
+  "end": 3307.91,
+  "text": "And I don't think it's a replacement either.",
+  "who": 2
+ },
+ {
+  "start": 3307.91,
+  "end": 3310.869999999999,
+  "text": "But I do think it's a different perspective.",
+  "who": 2
+ },
+ {
+  "start": 3310.869999999999,
+  "end": 3314.469999999999,
+  "text": "And I think taking some of the insights that we gain",
+  "who": 2
+ },
+ {
+  "start": 3314.68,
+  "end": 3316.8399999999992,
+  "text": "from a scientific understanding of consciousness",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 3317.7,
+  "end": 3321.1666666666665,
+  "text": "can help guide us culturally to come to a new story.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 3322.32,
+  "end": 3323.6,
+  "text": "I don't know what that will be,",
+  "who": 2
+ },
+ {
+  "start": 3323.6,
+  "end": 3327.1999999999994,
+  "text": "whether it would adopt some elements of Eastern traditions",
+  "who": 2
+ },
+ {
+  "start": 3327.2,
+  "end": 3328.48,
+  "text": "and impermanence and so on.",
+  "who": 2
+ },
+ {
+  "start": 3329.73,
+  "end": 3332.2899999999995,
+  "text": "But I do think there's a glaring need for that",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 3332.08,
+  "end": 3341.68,
+  "text": "in the society in which we live these days.",
+  "who": 0
+ },
+ {
+  "start": 3341.36,
+  "end": 3342.56,
+  "text": "My name is Yandru.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 3343.28,
+  "end": 3347.28,
+  "text": "Welcome to Level 1 of Success Secrets of the Super Successful.",
+  "who": 0
+ },
+ {
+  "start": 3347.28,
+  "end": 3350.48,
+  "text": "Today I will tell you how to take the first step",
+  "who": "0"
+ },
+ {
+  "start": 3350.48,
+  "end": 3352.64,
+  "text": "on the sweet, sweet road to success.",
+  "who": "0"
+ },
+ {
+  "start": 3352.64,
+  "end": 3353.7599999999998,
+  "text": "Are you listening?",
+  "who": "0"
+ },
+ {
+  "start": 3353.7599999999998,
+  "end": 3354.826666666666,
+  "text": "I will tell you.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 3355.04,
+  "end": 3358.72,
+  "text": "You must build a professional looking website.",
+  "who": 0
+ },
+ {
+  "start": 3359.22,
+  "end": 3362.02,
+  "text": "To do this, you must visit Squarespace.com.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 3362.02,
+  "end": 3364.4200000000005,
+  "text": "Pick one of the great looking website templates",
+  "who": "0"
+ },
+ {
+  "start": 3364.4200000000005,
+  "end": 3366.34,
+  "text": "and as part of a free trial,",
+  "who": "0"
+ },
+ {
+  "start": 3366.34,
+  "end": 3369.62,
+  "text": "start adding your own content of success.",
+  "who": "0"
+ },
+ {
+  "start": 3368.85,
+  "end": 3370.1833333333334,
+  "text": "Type in great words.",
+  "who": 0,
+  "matched": true
+ },
+ {
+  "start": 3370.35,
+  "end": 3371.8699999999994,
+  "text": "Put in pictures and videos.",
+  "who": 0,
+  "matched": true
+ },
+ {
+  "start": 3373.52,
+  "end": 3376.08,
+  "text": "Sell products on an online store.",
+  "who": "0"
+ },
+ {
+  "start": 3376.08,
+  "end": 3378.3999999999996,
+  "text": "Add online booking for classes or sessions.",
+  "who": "0"
+ },
+ {
+  "start": 3379.28,
+  "end": 3381.76,
+  "text": "Collect email subscribers and send out newsletters",
+  "who": "0"
+ },
+ {
+  "start": 3381.76,
+  "end": 3382.88,
+  "text": "and email campaigns.",
+  "who": 2
+ },
+ {
+  "start": 3384.4,
+  "end": 3387.76,
+  "text": "You can do all of this and much more for a reasonable price",
+  "who": "0"
+ },
+ {
+  "start": 3387.61,
+  "end": 3388.61,
+  "text": "at Squarespace.",
+  "who": 0,
+  "matched": true
+ },
+ {
+  "start": 3388.8,
+  "end": 3392.96,
+  "text": "Visit Squarespace.com slash Buxton to start your free trial",
+  "who": "0"
+ },
+ {
+  "start": 3392.74,
+  "end": 3395.0600000000004,
+  "text": "and when you're ready to purchase your new website,",
+  "who": 0,
+  "matched": true
+ },
+ {
+  "start": 3395.28,
+  "end": 3399.52,
+  "text": "use the offer code BUXTON to save 10% of your first purchase",
+  "who": 0
+ },
+ {
+  "start": 3399.37,
+  "end": 3400.903333333333,
+  "text": "of a website or domain.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 3401.12,
+  "end": 3404.16,
+  "text": "Now you are ready to smell the path to success.",
+  "who": "0"
+ },
+ {
+  "start": 3405.12,
+  "end": 3405.76,
+  "text": "It's nice.",
+  "who": "0"
+ },
+ {
+  "start": 3406.11,
+  "end": 3406.71,
+  "text": "Continue.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 3407.52,
+  "end": 3419.04,
+  "text": "What is real?",
+  "who": 0
+ },
+ {
+  "start": 3418.9,
+  "end": 3420.633333333333,
+  "text": "Hey, welcome back Podcats.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 3420.8,
+  "end": 3424.4,
+  "text": "That was Anil Seth and I am extremely grateful to him",
+  "who": "0"
+ },
+ {
+  "start": 3425.49,
+  "end": 3427.57,
+  "text": "for making the time to chat to me.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 3429.54,
+  "end": 3432.806666666667,
+  "text": "His book Being You A New Science of Consciousness",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 3433.04,
+  "end": 3434.7999999999997,
+  "text": "is now available in paperback.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 3435.54,
+  "end": 3437.2999999999997,
+  "text": "There's a link in the description.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 3437.67,
+  "end": 3438.55,
+  "text": "I really recommend it.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 3438.56,
+  "end": 3440.4,
+  "text": "Lots of fascinating stuff.",
+  "who": "0"
+ },
+ {
+  "start": 3440.4,
+  "end": 3443.28,
+  "text": "If you've read Oliver Sacks book,",
+  "who": "0"
+ },
+ {
+  "start": 3443.96,
+  "end": 3445.7199999999993,
+  "text": "The Man Who Mistook His Wife for a Hat,",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 3445.7199999999993,
+  "end": 3448.1199999999994,
+  "text": "which Anil mentioned there in our conversation",
+  "who": "0"
+ },
+ {
+  "start": 3449.28,
+  "end": 3450.4,
+  "text": "and enjoyed that,",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 3450.4,
+  "end": 3454.32,
+  "text": "then I think you'll definitely enjoy Anil's book.",
+  "who": "0"
+ },
+ {
+  "start": 3455.91,
+  "end": 3458.043333333333,
+  "text": "What else do we have links wise?",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 3458.82,
+  "end": 3459.620000000001,
+  "text": "Checking notes.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 3460.2,
+  "end": 3462.5999999999995,
+  "text": "Well, there's a link to Anil's TED talk,",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 3462.5999999999995,
+  "end": 3466.039999999999,
+  "text": "How Your Brain Hallucinates Conscious Reality,",
+  "who": "0"
+ },
+ {
+  "start": 3466.78,
+  "end": 3470.1133333333337,
+  "text": "which has now been viewed nearly 14 million times.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 3470.91,
+  "end": 3472.0299999999997,
+  "text": "This is very interesting.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 3474.24,
+  "end": 3477.6,
+  "text": "There is a link to the article that I read",
+  "who": "0"
+ },
+ {
+  "start": 3477.6,
+  "end": 3480.48,
+  "text": "about the episodic view of human existence.",
+  "who": "0"
+ },
+ {
+  "start": 3481.52,
+  "end": 3483.04,
+  "text": "I didn't mention where I'd read it,",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 3483.44,
+  "end": 3487.68,
+  "text": "but it was in the, what's it called?",
+  "who": "0"
+ },
+ {
+  "start": 3487.68,
+  "end": 3488.48,
+  "text": "New Statesman.",
+  "who": "0"
+ },
+ {
+  "start": 3488.48,
+  "end": 3489.1200000000003,
+  "text": "That's the one.",
+  "who": "0"
+ },
+ {
+  "start": 3490.71,
+  "end": 3494.2300000000005,
+  "text": "It was an article called, The Paradox of the Atheist Soul,",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 3494.2300000000005,
+  "end": 3495.4300000000007,
+  "text": "written by John Gray,",
+  "who": "0"
+ },
+ {
+  "start": 3495.87,
+  "end": 3497.47,
+  "text": "that was actually a review, really,",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 3497.47,
+  "end": 3500.99,
+  "text": "of a book called, In Search of the Soul,",
+  "who": "0"
+ },
+ {
+  "start": 3501.28,
+  "end": 3503.6,
+  "text": "a philosophical essay by John Cottingham,",
+  "who": "0"
+ },
+ {
+  "start": 3505.59,
+  "end": 3507.6699999999996,
+  "text": "which I have not read, but looks interesting.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 3507.6699999999996,
+  "end": 3512.15,
+  "text": "There's also a link to an interview on YouTube with Nick Bostrom,",
+  "who": "0"
+ },
+ {
+  "start": 3512.72,
+  "end": 3516.32,
+  "text": "the Swedish philosopher I mentioned in the context of",
+  "who": "0"
+ },
+ {
+  "start": 3516.32,
+  "end": 3520.1599999999994,
+  "text": "whether we are living in a Matrix style simulation or not.",
+  "who": "0"
+ },
+ {
+  "start": 3520.16,
+  "end": 3523.76,
+  "text": "He talks about that on this YouTube interview",
+  "who": "0"
+ },
+ {
+  "start": 3523.76,
+  "end": 3525.04,
+  "text": "that I have linked to.",
+  "who": "0"
+ },
+ {
+  "start": 3526.53,
+  "end": 3530.1966666666667,
+  "text": "There's also a link to another book that Anil mentioned",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 3530.1966666666667,
+  "end": 3531.7966666666666,
+  "text": "when we were talking about psychedelics,",
+  "who": "0"
+ },
+ {
+  "start": 3531.7966666666666,
+  "end": 3534.676666666666,
+  "text": "How to Change Your Mind, by Michael Pollan.",
+  "who": "0"
+ },
+ {
+  "start": 3535.79,
+  "end": 3538.6566666666668,
+  "text": "And there is a link to Julian Barnes's book",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 3539.52,
+  "end": 3542.72,
+  "text": "that Anil also mentioned, Nothing to be Frightened of.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 3543.02,
+  "end": 3546.86,
+  "text": "I don't believe in God, but I miss him, says Julian Barnes.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 3546.86,
+  "end": 3550.5399999999995,
+  "text": "His book is, among many things, a family memoir,",
+  "who": "0"
+ },
+ {
+  "start": 3550.5399999999995,
+  "end": 3553.1799999999994,
+  "text": "an exchange with his philosopher brother,",
+  "who": "0"
+ },
+ {
+  "start": 3554.4,
+  "end": 3557.6,
+  "text": "a meditation on mortality and the fear of death,",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 3557.73,
+  "end": 3561.2633333333333,
+  "text": "a celebration of art, an argument with and about God,",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 3561.2633333333333,
+  "end": 3566.1433333333334,
+  "text": "and an homage to the French writer Jules Renard.",
+  "who": "0"
+ },
+ {
+  "start": 3566.48,
+  "end": 3569.28,
+  "text": "I started reading that, and it is good,",
+  "who": "0"
+ },
+ {
+  "start": 3569.28,
+  "end": 3573.0399999999995,
+  "text": "especially if you're worried about death,",
+  "who": "0"
+ },
+ {
+  "start": 3573.04,
+  "end": 3576.08,
+  "text": "worried about death, like many of us are,",
+  "who": "0"
+ },
+ {
+  "start": 3576.96,
+  "end": 3580.48,
+  "text": "or even perhaps if you've lost someone recently",
+  "who": "0"
+ },
+ {
+  "start": 3580.48,
+  "end": 3584.2399999999993,
+  "text": "and you're grieving, I would recommend it.",
+  "who": "0"
+ },
+ {
+  "start": 3585.42,
+  "end": 3587.4200000000005,
+  "text": "Well, there's also a link, of course,",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 3587.4200000000005,
+  "end": 3591.020000000001,
+  "text": "to the Perception Census at the top of the links",
+  "who": "0"
+ },
+ {
+  "start": 3591.020000000001,
+  "end": 3592.1400000000003,
+  "text": "there in the description.",
+  "who": "0"
+ },
+ {
+  "start": 3592.88,
+  "end": 3596.16,
+  "text": "And if you have the time, take part in that",
+  "who": "0"
+ },
+ {
+  "start": 3596.16,
+  "end": 3599.2800000000007,
+  "text": "and help Anil and his colleagues with their work.",
+  "who": "0"
+ },
+ {
+  "start": 3601.92,
+  "end": 3606.08,
+  "text": "the bells tolling for the queen out here.",
+  "who": "0"
+ },
+ {
+  "start": 3607.76,
+  "end": 3610.24,
+  "text": "I think the funeral is gonna be in about 10 days.",
+  "who": "0"
+ },
+ {
+  "start": 3612.56,
+  "end": 3615.76,
+  "text": "And then, on we go.",
+  "who": "0"
+ },
+ {
+  "start": 3619.8,
+  "end": 3623.4000000000005,
+  "text": "This podcast will be returning towards the end of September",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 3623.4000000000005,
+  "end": 3628.2000000000003,
+  "text": "when I'll start uploading new episodes a bit more regularly.",
+  "who": "0"
+ },
+ {
+  "start": 3628.2000000000003,
+  "end": 3630.92,
+  "text": "Up until Christmas. And don't forget as well",
+  "who": "0"
+ },
+ {
+  "start": 3630.92,
+  "end": 3635.3200000000006,
+  "text": "that another way of consuming the podcast",
+  "who": "0"
+ },
+ {
+  "start": 3635.3200000000006,
+  "end": 3639.240000000001,
+  "text": "in bite size chunks, if you wish to,",
+  "who": "0"
+ },
+ {
+  "start": 3639.240000000001,
+  "end": 3641.9600000000005,
+  "text": "as well as in full episode chunks,",
+  "who": "0"
+ },
+ {
+  "start": 3644.64,
+  "end": 3646.64,
+  "text": "is by going to my YouTube channel.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 3646.64,
+  "end": 3649.1199999999994,
+  "text": "Maybe what I will do, actually,",
+  "who": 0
+ },
+ {
+  "start": 3649.36,
+  "end": 3654.72,
+  "text": "is upload a video to my YouTube channel.",
+  "who": "0"
+ },
+ {
+  "start": 3654.72,
+  "end": 3661.1200000000003,
+  "text": "Upload a video of Rosie being sad on the sofa.",
+  "who": "0"
+ },
+ {
+  "start": 3661.92,
+  "end": 3662.9599999999996,
+  "text": "She doesn't look sad.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 3664.34,
+  "end": 3666.98,
+  "text": "She's just tired and she's dozing on the sofa",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 3667.04,
+  "end": 3670.8,
+  "text": "and I filmed her because it was very relaxing.",
+  "who": "0"
+ },
+ {
+  "start": 3672.04,
+  "end": 3674.76,
+  "text": "I just sat there with Rosie watching her doze",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 3674.8,
+  "end": 3676.16,
+  "text": "for 10 minutes or so.",
+  "who": "0"
+ },
+ {
+  "start": 3677.25,
+  "end": 3678.37,
+  "text": "And it was very peaceful.",
+  "who": 0,
+  "matched": true
+ },
+ {
+  "start": 3680.97,
+  "end": 3683.33,
+  "text": "So I thought, well, maybe I'll share that with the podcast.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 3683.33,
+  "end": 3685.8900000000003,
+  "text": "I mean, it's not gonna set YouTube on fire.",
+  "who": "0"
+ },
+ {
+  "start": 3690.6,
+  "end": 3692.2000000000003,
+  "text": "You know, it's not Joe Rogan.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 3694.16,
+  "end": 3696.88,
+  "text": "It's a sleeping doggy, or at least a dozing dog.",
+  "who": "0"
+ },
+ {
+  "start": 3698.32,
+  "end": 3699.586666666667,
+  "text": "But you never know.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 3701.16,
+  "end": 3702.8399999999997,
+  "text": "Might be good for the old mental health.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 3703.12,
+  "end": 3706.48,
+  "text": "And I filmed it in very high resolution,",
+  "who": "0"
+ },
+ {
+  "start": 3706.48,
+  "end": 3710.64,
+  "text": "so it'll be my highest resolution upload ever.",
+  "who": "0"
+ },
+ {
+  "start": 3710.95,
+  "end": 3712.31,
+  "text": "So we'll see how that goes.",
+  "who": 0,
+  "matched": true
+ },
+ {
+  "start": 3713.45,
+  "end": 3715.33,
+  "text": "I'll try and do that sometime in the next week.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 3717.3,
+  "end": 3719.620000000001,
+  "text": "Anyway, I think that's it for today, though.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 3719.620000000001,
+  "end": 3724.2600000000007,
+  "text": "And I should say thank you to Seamus Murphy Mitchell,",
+  "who": "0"
+ },
+ {
+  "start": 3724.2600000000007,
+  "end": 3727.460000000001,
+  "text": "as ever, for his invaluable production support.",
+  "who": "0"
+ },
+ {
+  "start": 3727.460000000001,
+  "end": 3728.900000000001,
+  "text": "Thank you, Seamus.",
+  "who": "0"
+ },
+ {
+  "start": 3728.900000000001,
+  "end": 3730.5800000000004,
+  "text": "Thank you to Becca Tyshynski",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 3730.5800000000004,
+  "end": 3733.5400000000004,
+  "text": "for her additional editing on this episode.",
+  "who": "0"
+ },
+ {
+  "start": 3733.77,
+  "end": 3734.81,
+  "text": "Thank you so much, Becca.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 3734.81,
+  "end": 3737.77,
+  "text": "Thanks to Helen Greene for her beautiful artwork.",
+  "who": "0"
+ },
+ {
+  "start": 3738.77,
+  "end": 3739.7299999999996,
+  "text": "Check out her website.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 3739.7299999999996,
+  "end": 3743.8099999999995,
+  "text": "There's a link to that in the description of the podcast as well.",
+  "who": "0"
+ },
+ {
+  "start": 3743.92,
+  "end": 3746.64,
+  "text": "See all the amazing illustrations she's done over the years",
+  "who": "0"
+ },
+ {
+  "start": 3747.54,
+  "end": 3748.5799999999995,
+  "text": "and continues to do.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 3750.48,
+  "end": 3751.52,
+  "text": "Bong!",
+  "who": "0"
+ },
+ {
+  "start": 3752.0,
+  "end": 3756.24,
+  "text": "And most of all, thank you for downloading this episode",
+  "who": "0"
+ },
+ {
+  "start": 3756.24,
+  "end": 3759.3600000000006,
+  "text": "and for continuing to return to the podcast.",
+  "who": "0"
+ },
+ {
+  "start": 3759.3600000000006,
+  "end": 3760.48,
+  "text": "I really appreciate it.",
+  "who": "0"
+ },
+ {
+  "start": 3764.31,
+  "end": 3765.5899999999992,
+  "text": "The sun's come out now.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 3765.5899999999992,
+  "end": 3770.3899999999994,
+  "text": "The sun's come out now and it's nice and warm for a little bit.",
+  "who": "0"
+ },
+ {
+  "start": 3770.3899999999994,
+  "end": 3772.3899999999994,
+  "text": "I'm going to get back before the heavens open",
+  "who": "0"
+ },
+ {
+  "start": 3772.83,
+  "end": 3774.99,
+  "text": "and I'll be back with you in a few weeks.",
+  "who": "0",
+  "matched": true
+ },
+ {
+  "start": 3775.84,
+  "end": 3781.52,
+  "text": "Until then, watch out, take care, keep it nice,",
+  "who": "0"
+ },
+ {
+  "start": 3782.24,
+  "end": 3786.56,
+  "text": "and remember, for what it's worth, I love you.",
+  "who": "0"
+ },
+ {
+  "start": 3786.56,
+  "end": 3796.56,
+  "text": "Bye!",
+  "who": 0
+ },
+ {
+  "start": 3817.45,
+  "end": 3818.7166666666667,
+  "text": "Like and subscribe.",
+  "who": 0,
+  "matched": true
+ },
+ {
+  "start": 3876.56,
+  "end": 3893.44,
+  "text": "you",
+  "who": 0
+ }
+]

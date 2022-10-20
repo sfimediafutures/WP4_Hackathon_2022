@@ -1,0 +1,12 @@
+{
+ "id": 3611366691,
+ "subtitles": [
+  {
+   "src": "/whisper//nrk/balladen_subs.json"
+  }
+ ],
+ "cast": "/whisper//nrk/balladen_people.json",
+ "audio": {
+  "src": "https://seer2.itek.norut.no/whisper//nrk/balladen.mp3"
+ }
+}

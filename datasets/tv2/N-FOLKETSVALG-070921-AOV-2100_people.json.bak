@@ -1,0 +1,17 @@
+{
+ "0": {
+  "name": 0,
+  "color": "#ffeeffA6",
+  "segments": [
+   {
+    "file": "/tmp/N-FOLKETSVALG-070921-AOV-2100_mono.wav",
+    "times": [
+     [
+      70.79,
+      77.29
+     ]
+    ]
+   }
+  ]
+ }
+}

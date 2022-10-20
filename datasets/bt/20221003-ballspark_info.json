@@ -1,0 +1,3009 @@
+[
+ {
+  "start": 3.76,
+  "end": 8.52,
+  "keywords": [
+   "Ballspar"
+  ],
+  "type": "MISC",
+  "score": 0.9990928173,
+  "card": {
+   "keywords": [
+    "Ballspar"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 45.0,
+  "end": 48.72,
+  "keywords": [
+   "B\u00e5rd finnet"
+  ],
+  "type": "PER",
+  "score": 0.9988030195,
+  "card": {
+   "keywords": [
+    "B\u00e5rd finnet"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 61.8,
+  "end": 66.6,
+  "keywords": [
+   "Anders Palmer"
+  ],
+  "type": "PER",
+  "score": 0.999674201,
+  "card": {
+   "keywords": [
+    "Anders Palmer"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Anders_Palm%C3%A9r"
+  }
+ },
+ {
+  "start": 61.8,
+  "end": 66.6,
+  "keywords": [
+   "Niklas Jensen Wasberg"
+  ],
+  "type": "PER",
+  "score": 0.9995986819,
+  "card": {
+   "keywords": [
+    "Niklas Jensen Wasberg"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 74.92,
+  "end": 78.24,
+  "keywords": [
+   "Wasberg"
+  ],
+  "type": "PER",
+  "score": 0.996630013,
+  "card": {
+   "keywords": [
+    "Niklas Jensen Wasberg"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 79.24,
+  "end": 82.6,
+  "keywords": [
+   "B\u00e5rd Finne"
+  ],
+  "type": "PER",
+  "score": 0.9997137785,
+  "card": {
+   "keywords": [
+    "B\u00e5rd finnet"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 97.24000000000001,
+  "end": 103.92000000000003,
+  "keywords": [
+   "Niklas"
+  ],
+  "type": "PER",
+  "score": 0.9998013377,
+  "card": {
+   "keywords": [
+    "Niklas Jensen Wasberg"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 105.64,
+  "end": 112.11999999999999,
+  "keywords": [
+   "Niklas Jensen Wasberg"
+  ],
+  "type": "PER",
+  "score": 0.9997481704,
+  "card": {
+   "keywords": [
+    "Niklas Jensen Wasberg"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 118.08,
+  "end": 122.67999999999999,
+  "keywords": [
+   "Norge"
+  ],
+  "type": "LOC",
+  "score": 0.9994419217,
+  "card": {
+   "keywords": [
+    "Norge"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Norge"
+  }
+ },
+ {
+  "start": 131.36,
+  "end": 134.16,
+  "keywords": [
+   "Phil Forden"
+  ],
+  "type": "PER",
+  "score": 0.9997442365,
+  "card": {
+   "keywords": [
+    "Phil Forden"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 140.92,
+  "end": 147.56000000000003,
+  "keywords": [
+   "Norge"
+  ],
+  "type": "LOC",
+  "score": 0.9994685054,
+  "card": {
+   "keywords": [
+    "Norge"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Norge"
+  }
+ },
+ {
+  "start": 152.48,
+  "end": 155.52,
+  "keywords": [
+   "Felix Hornbyr"
+  ],
+  "type": "PER",
+  "score": 0.9998444319,
+  "card": {
+   "keywords": [
+    "Felix Hornbyr"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 159.56,
+  "end": 162.84,
+  "keywords": [
+   "Hornland"
+  ],
+  "type": "PER",
+  "score": 0.9997207522,
+  "card": {
+   "keywords": [
+    "Hornland"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 159.56,
+  "end": 162.84,
+  "keywords": [
+   "Phil Forden"
+  ],
+  "type": "PER",
+  "score": 0.9996476173,
+  "card": {
+   "keywords": [
+    "Phil Forden"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 165.92,
+  "end": 169.32000000000002,
+  "keywords": [
+   "Thomas Rassanuskas"
+  ],
+  "type": "PER",
+  "score": 0.9998365641,
+  "card": {
+   "keywords": [
+    "Thomas Rassanuskas"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 171.04,
+  "end": 176.56,
+  "keywords": [
+   "Revaldo"
+  ],
+  "type": "PER",
+  "score": 0.9987033606,
+  "card": {
+   "keywords": [
+    "Revaldo"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 176.56,
+  "end": 182.04,
+  "keywords": [
+   "Balspark"
+  ],
+  "type": "LOC",
+  "score": 0.8631251454,
+  "card": {
+   "keywords": [
+    "Balspark"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Balspark"
+  }
+ },
+ {
+  "start": 176.56,
+  "end": 182.04,
+  "keywords": [
+   "Dodo"
+  ],
+  "type": "MISC",
+  "score": 0.5460851789,
+  "card": {
+   "keywords": [
+    "Dodo"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Dronte"
+  }
+ },
+ {
+  "start": 176.56,
+  "end": 182.04,
+  "keywords": [
+   "Erik Mjelde"
+  ],
+  "type": "PER",
+  "score": 0.9997082949,
+  "card": {
+   "keywords": [
+    "Erik Mjelde"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Erik_Mjelde"
+  }
+ },
+ {
+  "start": 176.56,
+  "end": 182.04,
+  "keywords": [
+   "Middelhavskhuset"
+  ],
+  "type": "MISC",
+  "score": 0.9091143608,
+  "card": {
+   "keywords": [
+    "Middelhavskhuset"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 186.92,
+  "end": 188.16,
+  "keywords": [
+   "Anders"
+  ],
+  "type": "PER",
+  "score": 0.9995897412,
+  "card": {
+   "keywords": [
+    "Anders Palmer"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Anders_Palm%C3%A9r"
+  }
+ },
+ {
+  "start": 214.28,
+  "end": 220.96,
+  "keywords": [
+   "Sp\u00f8y"
+  ],
+  "type": "PER",
+  "score": 0.9993308783,
+  "card": {
+   "keywords": [
+    "Sp\u00f8y"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 214.28,
+  "end": 220.96,
+  "keywords": [
+   "Sj\u00f8das Blink"
+  ],
+  "type": "ORG",
+  "score": 0.9988263249,
+  "card": {
+   "keywords": [
+    "Sj\u00f8das Blink"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 243.36,
+  "end": 245.76,
+  "keywords": [
+   "Kasper Sk\u00e5nes"
+  ],
+  "type": "PER",
+  "score": 0.9997524023,
+  "card": {
+   "keywords": [
+    "Kasper Sk\u00e5nes"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 249.72,
+  "end": 253.48,
+  "keywords": [
+   "B\u00e5rd Finna"
+  ],
+  "type": "PER",
+  "score": 0.9997726679,
+  "card": {
+   "keywords": [
+    "B\u00e5rd finnet"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 255.8,
+  "end": 260.56,
+  "keywords": [
+   "Erik"
+  ],
+  "type": "PER",
+  "score": 0.9994488358,
+  "card": {
+   "keywords": [
+    "Erik Mjelde"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Erik_Mjelde"
+  }
+ },
+ {
+  "start": 278.7200000000002,
+  "end": 284.60000000000014,
+  "keywords": [
+   "Blink"
+  ],
+  "type": "ORG",
+  "score": 0.7440545559,
+  "card": {
+   "keywords": [
+    "Sj\u00f8das Blink"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 287.52,
+  "end": 294.52,
+  "keywords": [
+   "Blink"
+  ],
+  "type": "ORG",
+  "score": 0.9994164705,
+  "card": {
+   "keywords": [
+    "Sj\u00f8das Blink"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 299.8,
+  "end": 302.64,
+  "keywords": [
+   "Sivart"
+  ],
+  "type": "PER",
+  "score": 0.9991633892,
+  "card": {
+   "keywords": [
+    "Sivart"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 322.72,
+  "end": 330.08,
+  "keywords": [
+   "Sivart Helten Nielsen"
+  ],
+  "type": "PER",
+  "score": 0.9997577667,
+  "card": {
+   "keywords": [
+    "Sivart"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 337.92,
+  "end": 345.6,
+  "keywords": [
+   "David Wolffe"
+  ],
+  "type": "PER",
+  "score": 0.9997472763,
+  "card": {
+   "keywords": [
+    "David Wolffe"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 337.92,
+  "end": 345.6,
+  "keywords": [
+   "Sivart Helten Nielsen"
+  ],
+  "type": "PER",
+  "score": 0.999696672,
+  "card": {
+   "keywords": [
+    "Sivart"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 350.72,
+  "end": 355.28,
+  "keywords": [
+   "Sivart"
+  ],
+  "type": "PER",
+  "score": 0.9997577071,
+  "card": {
+   "keywords": [
+    "Sivart"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 380.8,
+  "end": 383.44,
+  "keywords": [
+   "Sivart"
+  ],
+  "type": "PER",
+  "score": 0.999740541,
+  "card": {
+   "keywords": [
+    "Sivart"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 383.44,
+  "end": 392.32,
+  "keywords": [
+   "Brann"
+  ],
+  "type": "ORG",
+  "score": 0.999397397,
+  "card": {
+   "keywords": [
+    "Brann"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Brann"
+  }
+ },
+ {
+  "start": 396.32,
+  "end": 401.84,
+  "keywords": [
+   "Sivarts"
+  ],
+  "type": "PER",
+  "score": 0.9997524619,
+  "card": {
+   "keywords": [
+    "Sivart"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 421.12,
+  "end": 424.08,
+  "keywords": [
+   "Brann"
+  ],
+  "type": "ORG",
+  "score": 0.9996022582,
+  "card": {
+   "keywords": [
+    "Brann"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Brann"
+  }
+ },
+ {
+  "start": 421.12,
+  "end": 424.08,
+  "keywords": [
+   "Slopp"
+  ],
+  "type": "ORG",
+  "score": 0.9995821118,
+  "card": {
+   "keywords": [
+    "Slopp"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 450.56,
+  "end": 455.76,
+  "keywords": [
+   "Brann"
+  ],
+  "type": "ORG",
+  "score": 0.9995023012,
+  "card": {
+   "keywords": [
+    "Brann"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Brann"
+  }
+ },
+ {
+  "start": 450.56,
+  "end": 455.76,
+  "keywords": [
+   "Osane"
+  ],
+  "type": "ORG",
+  "score": 0.9989817739,
+  "card": {
+   "keywords": [
+    "Osane"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 465.04,
+  "end": 472.56,
+  "keywords": [
+   "B\u00e5rd Finnen"
+  ],
+  "type": "PER",
+  "score": 0.9997034073,
+  "card": {
+   "keywords": [
+    "B\u00e5rd finnet"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 477.36000000000007,
+  "end": 486.1600000000001,
+  "keywords": [
+   "Hegge B\u00f8y"
+  ],
+  "type": "PER",
+  "score": 0.9997845292,
+  "card": {
+   "keywords": [
+    "Hegge B\u00f8y"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 477.36000000000007,
+  "end": 486.1600000000001,
+  "keywords": [
+   "B\u00e5rd Finnen"
+  ],
+  "type": "PER",
+  "score": 0.9997413754,
+  "card": {
+   "keywords": [
+    "B\u00e5rd finnet"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 489.36,
+  "end": 495.76,
+  "keywords": [
+   "Blomberg"
+  ],
+  "type": "PER",
+  "score": 0.9997276664,
+  "card": {
+   "keywords": [
+    "Blomberg"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Blomberg"
+  }
+ },
+ {
+  "start": 489.36,
+  "end": 495.76,
+  "keywords": [
+   "Sk\u00e5nes"
+  ],
+  "type": "PER",
+  "score": 0.9992238283,
+  "card": {
+   "keywords": [
+    "Kasper Sk\u00e5nes"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 514.56,
+  "end": 519.6799999999998,
+  "keywords": [
+   "Finne"
+  ],
+  "type": "PER",
+  "score": 0.9991142154,
+  "card": {
+   "keywords": [
+    "Finne"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Finne"
+  }
+ },
+ {
+  "start": 521.68,
+  "end": 526.96,
+  "keywords": [
+   "Bergen"
+  ],
+  "type": "LOC",
+  "score": 0.9979658127,
+  "card": {
+   "keywords": [
+    "Bergen"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Bergen"
+  }
+ },
+ {
+  "start": 536.48,
+  "end": 543.8400000000001,
+  "keywords": [
+   "Hegge B\u00f8y"
+  ],
+  "type": "PER",
+  "score": 0.9997377396,
+  "card": {
+   "keywords": [
+    "Hegge B\u00f8y"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 543.84,
+  "end": 551.84,
+  "keywords": [
+   "Hegge B\u00f8y"
+  ],
+  "type": "PER",
+  "score": 0.9997794628,
+  "card": {
+   "keywords": [
+    "Hegge B\u00f8y"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 551.84,
+  "end": 556.64,
+  "keywords": [
+   "Dollo"
+  ],
+  "type": "PER",
+  "score": 0.9945163131,
+  "card": {
+   "keywords": [
+    "Dollo"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 551.84,
+  "end": 556.64,
+  "keywords": [
+   "Sk\u00e5nes Rekordet"
+  ],
+  "type": "MISC",
+  "score": 0.9950377941,
+  "card": {
+   "keywords": [
+    "Sk\u00e5nes Rekordet"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 556.64,
+  "end": 562.32,
+  "keywords": [
+   "Branden"
+  ],
+  "type": "PER",
+  "score": 0.9974842072,
+  "card": {
+   "keywords": [
+    "Branden"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 568.64,
+  "end": 575.4399999999999,
+  "keywords": [
+   "Branden"
+  ],
+  "type": "PER",
+  "score": 0.9969936609,
+  "card": {
+   "keywords": [
+    "Branden"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 568.64,
+  "end": 575.4399999999999,
+  "keywords": [
+   "Obusligeren"
+  ],
+  "type": "MISC",
+  "score": 0.9500476122,
+  "card": {
+   "keywords": [
+    "Obusligeren"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 577.44,
+  "end": 580.48,
+  "keywords": [
+   "Eirik Hornerland"
+  ],
+  "type": "PER",
+  "score": 0.9997088313,
+  "card": {
+   "keywords": [
+    "Eirik Hornerland"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 588.48,
+  "end": 596.72,
+  "keywords": [
+   "Hornerland"
+  ],
+  "type": "PER",
+  "score": 0.9997081161,
+  "card": {
+   "keywords": [
+    "Eirik Hornerland"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 611.36,
+  "end": 616.08,
+  "keywords": [
+   "Obusligeren"
+  ],
+  "type": "MISC",
+  "score": 0.9946942925,
+  "card": {
+   "keywords": [
+    "Obusligeren"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 621.84,
+  "end": 633.84,
+  "keywords": [
+   "Erik Mj\u00f8lle"
+  ],
+  "type": "PER",
+  "score": 0.9998335838,
+  "card": {
+   "keywords": [
+    "Erik Mjelde"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Erik_Mjelde"
+  }
+ },
+ {
+  "start": 621.84,
+  "end": 633.84,
+  "keywords": [
+   "B\u00e5rd Finne"
+  ],
+  "type": "PER",
+  "score": 0.9997655153,
+  "card": {
+   "keywords": [
+    "B\u00e5rd finnet"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 621.84,
+  "end": 633.84,
+  "keywords": [
+   "Niklas Forsberg"
+  ],
+  "type": "PER",
+  "score": 0.9997074008,
+  "card": {
+   "keywords": [
+    "Niklas Jensen Wasberg"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 633.84,
+  "end": 638.4,
+  "keywords": [
+   "B\u00e5rd Finne"
+  ],
+  "type": "PER",
+  "score": 0.9997729659,
+  "card": {
+   "keywords": [
+    "B\u00e5rd finnet"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 638.4,
+  "end": 651.76,
+  "keywords": [
+   "Niklas"
+  ],
+  "type": "PER",
+  "score": 0.9997562766,
+  "card": {
+   "keywords": [
+    "Niklas Jensen Wasberg"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 651.76,
+  "end": 665.2,
+  "keywords": [
+   "Fredrik B\u00f8rstinge"
+  ],
+  "type": "PER",
+  "score": 0.9997355938,
+  "card": {
+   "keywords": [
+    "Fredrik B\u00f8rstinge"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 651.76,
+  "end": 665.2,
+  "keywords": [
+   "Myre"
+  ],
+  "type": "PER",
+  "score": 0.9994909763,
+  "card": {
+   "keywords": [
+    "Myre"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Myre"
+  }
+ },
+ {
+  "start": 651.76,
+  "end": 665.2,
+  "keywords": [
+   "Forsberg"
+  ],
+  "type": "PER",
+  "score": 0.998912096,
+  "card": {
+   "keywords": [
+    "Forsberg"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Forsberg"
+  }
+ },
+ {
+  "start": 665.2,
+  "end": 674.16,
+  "keywords": [
+   "Niklas"
+  ],
+  "type": "PER",
+  "score": 0.9997549653,
+  "card": {
+   "keywords": [
+    "Niklas Jensen Wasberg"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 674.16,
+  "end": 677.68,
+  "keywords": [
+   "Niklas Forsberg"
+  ],
+  "type": "PER",
+  "score": 0.9998056889,
+  "card": {
+   "keywords": [
+    "Niklas Jensen Wasberg"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 677.68,
+  "end": 695.52,
+  "keywords": [
+   "Krone"
+  ],
+  "type": "PER",
+  "score": 0.751937747,
+  "card": {
+   "keywords": [
+    "Krone"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Krone"
+  }
+ },
+ {
+  "start": 677.68,
+  "end": 695.52,
+  "keywords": [
+   "Krone"
+  ],
+  "type": "ORG",
+  "score": 0.9807367325,
+  "card": {
+   "keywords": [
+    "Krone"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Krone"
+  }
+ },
+ {
+  "start": 677.68,
+  "end": 695.52,
+  "keywords": [
+   "Krone"
+  ],
+  "type": "PER",
+  "score": 0.8883923292,
+  "card": {
+   "keywords": [
+    "Krone"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Krone"
+  }
+ },
+ {
+  "start": 677.68,
+  "end": 695.52,
+  "keywords": [
+   "Niklas"
+  ],
+  "type": "PER",
+  "score": 0.9996286631,
+  "card": {
+   "keywords": [
+    "Niklas Jensen Wasberg"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 695.52,
+  "end": 701.04,
+  "keywords": [
+   "Niklas"
+  ],
+  "type": "PER",
+  "score": 0.9997637868,
+  "card": {
+   "keywords": [
+    "Niklas Jensen Wasberg"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 711.36,
+  "end": 719.6,
+  "keywords": [
+   "Niklas Forsberg"
+  ],
+  "type": "PER",
+  "score": 0.9997693896,
+  "card": {
+   "keywords": [
+    "Niklas Jensen Wasberg"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 750.16,
+  "end": 758.96,
+  "keywords": [
+   "Kastorsrygge"
+  ],
+  "type": "PER",
+  "score": 0.8099787235,
+  "card": {
+   "keywords": [
+    "Kastorsrygge"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 758.96,
+  "end": 764.88,
+  "keywords": [
+   "Blomberg"
+  ],
+  "type": "PER",
+  "score": 0.9996902943,
+  "card": {
+   "keywords": [
+    "Blomberg"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Blomberg"
+  }
+ },
+ {
+  "start": 775.68,
+  "end": 779.12,
+  "keywords": [
+   "Kasper Sk\u00e5nes"
+  ],
+  "type": "PER",
+  "score": 0.9997948408,
+  "card": {
+   "keywords": [
+    "Kasper Sk\u00e5nes"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 779.12,
+  "end": 782.96,
+  "keywords": [
+   "Andreas Skov"
+  ],
+  "type": "PER",
+  "score": 0.9998006821,
+  "card": {
+   "keywords": [
+    "Andreas Skov"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 789.12,
+  "end": 793.92,
+  "keywords": [
+   "Paulussen Knudsen"
+  ],
+  "type": "PER",
+  "score": 0.999304533,
+  "card": {
+   "keywords": [
+    "Paulussen Knudsen"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 805.12,
+  "end": 812.7200000000001,
+  "keywords": [
+   "Skov"
+  ],
+  "type": "PER",
+  "score": 0.9997463822,
+  "card": {
+   "keywords": [
+    "Andreas Skov"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 814.72,
+  "end": 819.92,
+  "keywords": [
+   "Skov"
+  ],
+  "type": "PER",
+  "score": 0.9994710088,
+  "card": {
+   "keywords": [
+    "Andreas Skov"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 819.92,
+  "end": 823.12,
+  "keywords": [
+   "Paulussen"
+  ],
+  "type": "PER",
+  "score": 0.9993643165,
+  "card": {
+   "keywords": [
+    "Paulussen Knudsen"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 827.92,
+  "end": 833.12,
+  "keywords": [
+   "Eliteserien 2023"
+  ],
+  "type": "MISC",
+  "score": 0.9941236973,
+  "card": {
+   "keywords": [
+    "Eliteserien 2023"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 833.12,
+  "end": 842.72,
+  "keywords": [
+   "Dyngeland"
+  ],
+  "type": "PER",
+  "score": 0.9983003736,
+  "card": {
+   "keywords": [
+    "Dyngeland"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Dyngeland"
+  }
+ },
+ {
+  "start": 869.52,
+  "end": 877.92,
+  "keywords": [
+   "Sk\u00e5vg\u00e5rds"
+  ],
+  "type": "PER",
+  "score": 0.9997391105,
+  "card": {
+   "keywords": [
+    "Sk\u00e5vg\u00e5rds"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 895.52,
+  "end": 899.12,
+  "keywords": [
+   "Ruben"
+  ],
+  "type": "PER",
+  "score": 0.9995711446,
+  "card": {
+   "keywords": [
+    "Ruben"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Ruben"
+  }
+ },
+ {
+  "start": 899.12,
+  "end": 902.32,
+  "keywords": [
+   "Sk\u00e5vg\u00e5rd"
+  ],
+  "type": "PER",
+  "score": 0.9996254444,
+  "card": {
+   "keywords": [
+    "Sk\u00e5vg\u00e5rds"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 902.32,
+  "end": 907.52,
+  "keywords": [
+   "Ruben Kristiansen"
+  ],
+  "type": "PER",
+  "score": 0.9997098446,
+  "card": {
+   "keywords": [
+    "Ruben"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Ruben"
+  }
+ },
+ {
+  "start": 910.72,
+  "end": 914.72,
+  "keywords": [
+   "Wolfe"
+  ],
+  "type": "PER",
+  "score": 0.9997072816,
+  "card": {
+   "keywords": [
+    "Wolfe"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 914.72,
+  "end": 917.12,
+  "keywords": [
+   "Wolfe"
+  ],
+  "type": "PER",
+  "score": 0.9995319843,
+  "card": {
+   "keywords": [
+    "Wolfe"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 917.12,
+  "end": 922.32,
+  "keywords": [
+   "Ruben Kristiansen"
+  ],
+  "type": "PER",
+  "score": 0.9997091293,
+  "card": {
+   "keywords": [
+    "Ruben"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Ruben"
+  }
+ },
+ {
+  "start": 922.32,
+  "end": 926.32,
+  "keywords": [
+   "Ruben Kristiansen"
+  ],
+  "type": "PER",
+  "score": 0.9997733235,
+  "card": {
+   "keywords": [
+    "Ruben"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Ruben"
+  }
+ },
+ {
+  "start": 935.12,
+  "end": 938.72,
+  "keywords": [
+   "Ruben Kristiansen"
+  ],
+  "type": "PER",
+  "score": 0.9995526075,
+  "card": {
+   "keywords": [
+    "Ruben"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Ruben"
+  }
+ },
+ {
+  "start": 959.12,
+  "end": 964.7200000000001,
+  "keywords": [
+   "Lillestr\u00f8m"
+  ],
+  "type": "ORG",
+  "score": 0.9992232323,
+  "card": {
+   "keywords": [
+    "Lillestr\u00f8m"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Lillestr%C3%B8m"
+  }
+ },
+ {
+  "start": 984.32,
+  "end": 987.5200000000001,
+  "keywords": [
+   "Bode"
+  ],
+  "type": "LOC",
+  "score": 0.9990653396,
+  "card": {
+   "keywords": [
+    "Bode"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Bode"
+  }
+ },
+ {
+  "start": 987.5200000000001,
+  "end": 994.7200000000003,
+  "keywords": [
+   "Mathias Rasmussen"
+  ],
+  "type": "PER",
+  "score": 0.999805212,
+  "card": {
+   "keywords": [
+    "Mathias Rasmussen"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Mathias_Rasmussen"
+  }
+ },
+ {
+  "start": 987.5200000000001,
+  "end": 994.7200000000003,
+  "keywords": [
+   "Eliteserien"
+  ],
+  "type": "ORG",
+  "score": 0.9977471232,
+  "card": {
+   "keywords": [
+    "Eliteserien"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Eliteserien"
+  }
+ },
+ {
+  "start": 994.7200000000003,
+  "end": 996.7200000000003,
+  "keywords": [
+   "Lillestr\u00f8m"
+  ],
+  "type": "LOC",
+  "score": 0.8929780126,
+  "card": {
+   "keywords": [
+    "Lillestr\u00f8m"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Lillestr\u00f8m"
+  }
+ },
+ {
+  "start": 996.7200000000003,
+  "end": 998.7200000000003,
+  "keywords": [
+   "Nymyndbrand"
+  ],
+  "type": "PER",
+  "score": 0.8753504753,
+  "card": {
+   "keywords": [
+    "Nymyndbrand"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1004.72,
+  "end": 1006.72,
+  "keywords": [
+   "Lillestr\u00f8m"
+  ],
+  "type": "ORG",
+  "score": 0.9975919724,
+  "card": {
+   "keywords": [
+    "Lillestr\u00f8m"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Lillestr%C3%B8m"
+  }
+ },
+ {
+  "start": 1012.32,
+  "end": 1017.12,
+  "keywords": [
+   "Robert Taylor"
+  ],
+  "type": "PER",
+  "score": 0.9998402596,
+  "card": {
+   "keywords": [
+    "Robert Taylor"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Robert_Taylor"
+  }
+ },
+ {
+  "start": 1012.32,
+  "end": 1017.12,
+  "keywords": [
+   "Miami"
+  ],
+  "type": "LOC",
+  "score": 0.9996808767,
+  "card": {
+   "keywords": [
+    "Miami"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Miami"
+  }
+ },
+ {
+  "start": 1032.72,
+  "end": 1036.32,
+  "keywords": [
+   "Mattias Rasmussen"
+  ],
+  "type": "PER",
+  "score": 0.9997255802,
+  "card": {
+   "keywords": [
+    "Mathias Rasmussen"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Mathias_Rasmussen"
+  }
+ },
+ {
+  "start": 1049.52,
+  "end": 1055.92,
+  "keywords": [
+   "Niklas"
+  ],
+  "type": "PER",
+  "score": 0.9994727969,
+  "card": {
+   "keywords": [
+    "Niklas Jensen Wasberg"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1077.92,
+  "end": 1086.72,
+  "keywords": [
+   "Felix Romyre"
+  ],
+  "type": "PER",
+  "score": 0.999776721,
+  "card": {
+   "keywords": [
+    "Felix Hornbyr"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1077.92,
+  "end": 1086.72,
+  "keywords": [
+   "Krasper Sk\u00e5nes"
+  ],
+  "type": "PER",
+  "score": 0.9993020892,
+  "card": {
+   "keywords": [
+    "Kasper Sk\u00e5nes"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1102.72,
+  "end": 1112.32,
+  "keywords": [
+   "Niklas Varsberg"
+  ],
+  "type": "PER",
+  "score": 0.9997366667,
+  "card": {
+   "keywords": [
+    "Niklas Jensen Wasberg"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1112.32,
+  "end": 1120.32,
+  "keywords": [
+   "H\u00e5land"
+  ],
+  "type": "PER",
+  "score": 0.999566853,
+  "card": {
+   "keywords": [
+    "H\u00e5land"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H%C3%A5land"
+  }
+ },
+ {
+  "start": 1112.32,
+  "end": 1120.32,
+  "keywords": [
+   "Markus H\u00e5land"
+  ],
+  "type": "PER",
+  "score": 0.9995827079,
+  "card": {
+   "keywords": [
+    "H\u00e5land"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H%C3%A5land"
+  }
+ },
+ {
+  "start": 1123.12,
+  "end": 1127.12,
+  "keywords": [
+   "Varsberg"
+  ],
+  "type": "LOC",
+  "score": 0.9926227331,
+  "card": {
+   "keywords": [
+    "Varsberg"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Varsberg"
+  }
+ },
+ {
+  "start": 1153.92,
+  "end": 1159.92,
+  "keywords": [
+   "M\u00e5ns"
+  ],
+  "type": "PER",
+  "score": 0.9997959733,
+  "card": {
+   "keywords": [
+    "M\u00e5ns"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Mons_(navn)"
+  }
+ },
+ {
+  "start": 1153.92,
+  "end": 1159.92,
+  "keywords": [
+   "R\u00f8mjellet"
+  ],
+  "type": "LOC",
+  "score": 0.9970692992,
+  "card": {
+   "keywords": [
+    "R\u00f8mjellet"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=R\u00f8mjellet"
+  }
+ },
+ {
+  "start": 1153.92,
+  "end": 1159.92,
+  "keywords": [
+   "Charlie Miller"
+  ],
+  "type": "PER",
+  "score": 0.9995110035,
+  "card": {
+   "keywords": [
+    "Charlie Miller"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Charlie_Miller"
+  }
+ },
+ {
+  "start": 1153.92,
+  "end": 1159.92,
+  "keywords": [
+   "Rangers"
+  ],
+  "type": "ORG",
+  "score": 0.9993699193,
+  "card": {
+   "keywords": [
+    "Rangers"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Rangers"
+  }
+ },
+ {
+  "start": 1159.92,
+  "end": 1163.92,
+  "keywords": [
+   "Charlie"
+  ],
+  "type": "PER",
+  "score": 0.9888886809,
+  "card": {
+   "keywords": [
+    "Charlie Miller"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Charlie_Miller"
+  }
+ },
+ {
+  "start": 1171.72,
+  "end": 1175.72,
+  "keywords": [
+   "Brand 2"
+  ],
+  "type": "MISC",
+  "score": 0.9983514547,
+  "card": {
+   "keywords": [
+    "Eliteserien 2023"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 1179.72,
+  "end": 1186.72,
+  "keywords": [
+   "Brand 2"
+  ],
+  "type": "MISC",
+  "score": 0.9468303919,
+  "card": {
+   "keywords": [
+    "Eliteserien 2023"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 1201.72,
+  "end": 1205.72,
+  "keywords": [
+   "\u00d8yne Heggeb\u00f8"
+  ],
+  "type": "PER",
+  "score": 0.9997625947,
+  "card": {
+   "keywords": [
+    "Hegge B\u00f8y"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1205.72,
+  "end": 1213.72,
+  "keywords": [
+   "Heggeb\u00f8"
+  ],
+  "type": "PER",
+  "score": 0.9994357228,
+  "card": {
+   "keywords": [
+    "Hegge B\u00f8y"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1221.72,
+  "end": 1228.72,
+  "keywords": [
+   "Brand"
+  ],
+  "type": "PER",
+  "score": 0.9998356104,
+  "card": {
+   "keywords": [
+    "Branden"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1221.72,
+  "end": 1228.72,
+  "keywords": [
+   "Heggeb\u00f8"
+  ],
+  "type": "PER",
+  "score": 0.9997932315,
+  "card": {
+   "keywords": [
+    "Hegge B\u00f8y"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1221.72,
+  "end": 1228.72,
+  "keywords": [
+   "Brand"
+  ],
+  "type": "PER",
+  "score": 0.9998414516,
+  "card": {
+   "keywords": [
+    "Branden"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1221.72,
+  "end": 1228.72,
+  "keywords": [
+   "Castro"
+  ],
+  "type": "PER",
+  "score": 0.9998304844,
+  "card": {
+   "keywords": [
+    "Castro"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Castro"
+  }
+ },
+ {
+  "start": 1221.72,
+  "end": 1228.72,
+  "keywords": [
+   "Varsberg"
+  ],
+  "type": "PER",
+  "score": 0.9997752309,
+  "card": {
+   "keywords": [
+    "Varsberg"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1221.72,
+  "end": 1228.72,
+  "keywords": [
+   "litserien p\u00e5 kantene"
+  ],
+  "type": "MISC",
+  "score": 0.9867768288,
+  "card": {
+   "keywords": [
+    "litserien p\u00e5 kantene"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 1236.72,
+  "end": 1245.72,
+  "keywords": [
+   "Varsberg"
+  ],
+  "type": "PER",
+  "score": 0.9983312488,
+  "card": {
+   "keywords": [
+    "Varsberg"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1236.72,
+  "end": 1245.72,
+  "keywords": [
+   "Brand"
+  ],
+  "type": "PER",
+  "score": 0.9995011091,
+  "card": {
+   "keywords": [
+    "Branden"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1248.72,
+  "end": 1252.72,
+  "keywords": [
+   "Erik Hornlandt"
+  ],
+  "type": "PER",
+  "score": 0.9998292923,
+  "card": {
+   "keywords": [
+    "Erik Mjelde"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Erik_Mjelde"
+  }
+ },
+ {
+  "start": 1261.72,
+  "end": 1266.72,
+  "keywords": [
+   "Erik Holm Johansen"
+  ],
+  "type": "PER",
+  "score": 0.999709785,
+  "card": {
+   "keywords": [
+    "Erik Mjelde"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Erik_Mjelde"
+  }
+ },
+ {
+  "start": 1275.72,
+  "end": 1278.72,
+  "keywords": [
+   "Brand"
+  ],
+  "type": "PER",
+  "score": 0.9980822802,
+  "card": {
+   "keywords": [
+    "Branden"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1281.72,
+  "end": 1286.72,
+  "keywords": [
+   "Brand"
+  ],
+  "type": "ORG",
+  "score": 0.9841570258,
+  "card": {
+   "keywords": [
+    "Brand"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Brand"
+  }
+ },
+ {
+  "start": 1298.72,
+  "end": 1302.72,
+  "keywords": [
+   "Brand"
+  ],
+  "type": "PER",
+  "score": 0.9994685054,
+  "card": {
+   "keywords": [
+    "Branden"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1318.72,
+  "end": 1321.72,
+  "keywords": [
+   "Niklas"
+  ],
+  "type": "PER",
+  "score": 0.9997828603,
+  "card": {
+   "keywords": [
+    "Niklas Jensen Wasberg"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1323.72,
+  "end": 1329.72,
+  "keywords": [
+   "Rasmussen"
+  ],
+  "type": "PER",
+  "score": 0.9997809529,
+  "card": {
+   "keywords": [
+    "Mathias Rasmussen"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Mathias_Rasmussen"
+  }
+ },
+ {
+  "start": 1323.72,
+  "end": 1329.72,
+  "keywords": [
+   "Asberg"
+  ],
+  "type": "PER",
+  "score": 0.9997449517,
+  "card": {
+   "keywords": [
+    "Asberg"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1345.72,
+  "end": 1348.72,
+  "keywords": [
+   "Dodo"
+  ],
+  "type": "PER",
+  "score": 0.9942955375,
+  "card": {
+   "keywords": [
+    "Dodo"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Dronte"
+  }
+ },
+ {
+  "start": 1345.72,
+  "end": 1348.72,
+  "keywords": [
+   "Brand 2"
+  ],
+  "type": "MISC",
+  "score": 0.9964537621,
+  "card": {
+   "keywords": [
+    "Eliteserien 2023"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 1366.72,
+  "end": 1371.72,
+  "keywords": [
+   "Vegard Leikvold Moberg"
+  ],
+  "type": "PER",
+  "score": 0.9996518493,
+  "card": {
+   "keywords": [
+    "Vegard Leikvold Moberg"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1378.72,
+  "end": 1383.72,
+  "keywords": [
+   "Elias"
+  ],
+  "type": "PER",
+  "score": 0.9994452596,
+  "card": {
+   "keywords": [
+    "Elias"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Elias"
+  }
+ },
+ {
+  "start": 1378.72,
+  "end": 1383.72,
+  "keywords": [
+   "Kvinge"
+  ],
+  "type": "PER",
+  "score": 0.9997606874,
+  "card": {
+   "keywords": [
+    "Kvinge"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Kvinge"
+  }
+ },
+ {
+  "start": 1385.72,
+  "end": 1390.72,
+  "keywords": [
+   "Moberg"
+  ],
+  "type": "PER",
+  "score": 0.9997705817,
+  "card": {
+   "keywords": [
+    "Vegard Leikvold Moberg"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1394.72,
+  "end": 1397.72,
+  "keywords": [
+   "Viking"
+  ],
+  "type": "ORG",
+  "score": 0.9987570047,
+  "card": {
+   "keywords": [
+    "Viking"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Viking"
+  }
+ },
+ {
+  "start": 1401.72,
+  "end": 1405.72,
+  "keywords": [
+   "Trengered"
+  ],
+  "type": "PER",
+  "score": 0.9988508224,
+  "card": {
+   "keywords": [
+    "Trengered"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1419.72,
+  "end": 1421.72,
+  "keywords": [
+   "Bergen"
+  ],
+  "type": "LOC",
+  "score": 0.9995056391,
+  "card": {
+   "keywords": [
+    "Bergen"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Bergen"
+  }
+ },
+ {
+  "start": 1425.72,
+  "end": 1428.72,
+  "keywords": [
+   "Brandstadion"
+  ],
+  "type": "LOC",
+  "score": 0.9934641719,
+  "card": {
+   "keywords": [
+    "Brandstadion"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Brandstadion"
+  }
+ },
+ {
+  "start": 1436.72,
+  "end": 1440.72,
+  "keywords": [
+   "Venstre Bekken"
+  ],
+  "type": "LOC",
+  "score": 0.9129289389,
+  "card": {
+   "keywords": [
+    "Venstre Bekken"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Venstre Bekken"
+  }
+ },
+ {
+  "start": 1436.72,
+  "end": 1440.72,
+  "keywords": [
+   "Brand"
+  ],
+  "type": "PER",
+  "score": 0.9982312322,
+  "card": {
+   "keywords": [
+    "Branden"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1444.72,
+  "end": 1450.72,
+  "keywords": [
+   "Trengered"
+  ],
+  "type": "PER",
+  "score": 0.9994743466,
+  "card": {
+   "keywords": [
+    "Trengered"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1450.72,
+  "end": 1455.72,
+  "keywords": [
+   "Marcus \u00c5ler"
+  ],
+  "type": "PER",
+  "score": 0.9997356534,
+  "card": {
+   "keywords": [
+    "Marcus \u00c5ler"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1455.72,
+  "end": 1458.72,
+  "keywords": [
+   "Torsvik"
+  ],
+  "type": "PER",
+  "score": 0.9997834563,
+  "card": {
+   "keywords": [
+    "Torsvik"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1461.72,
+  "end": 1469.72,
+  "keywords": [
+   "Marcus \u00c5ler"
+  ],
+  "type": "PER",
+  "score": 0.999786377,
+  "card": {
+   "keywords": [
+    "Marcus \u00c5ler"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1461.72,
+  "end": 1469.72,
+  "keywords": [
+   "Stemningen p\u00e5 Storst\u00e5"
+  ],
+  "type": "MISC",
+  "score": 0.9990165234,
+  "card": {
+   "keywords": [
+    "litserien p\u00e5 kantene"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 1485.72,
+  "end": 1487.72,
+  "keywords": [
+   "Brand 2"
+  ],
+  "type": "MISC",
+  "score": 0.990229845,
+  "card": {
+   "keywords": [
+    "Eliteserien 2023"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 1492.72,
+  "end": 1496.72,
+  "keywords": [
+   "Brod"
+  ],
+  "type": "ORG",
+  "score": 0.9968990088,
+  "card": {
+   "keywords": [
+    "Brod"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 1492.72,
+  "end": 1496.72,
+  "keywords": [
+   "Stord"
+  ],
+  "type": "ORG",
+  "score": 0.9992831349,
+  "card": {
+   "keywords": [
+    "Stord"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Stord"
+  }
+ },
+ {
+  "start": 1498.72,
+  "end": 1501.72,
+  "keywords": [
+   "Mjelder"
+  ],
+  "type": "PER",
+  "score": 0.7604181767,
+  "card": {
+   "keywords": [
+    "Erik Mjelde"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Erik_Mjelde"
+  }
+ },
+ {
+  "start": 1510.72,
+  "end": 1512.72,
+  "keywords": [
+   "Rosenborg"
+  ],
+  "type": "ORG",
+  "score": 0.9991672039,
+  "card": {
+   "keywords": [
+    "Rosenborg"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Rosenborg"
+  }
+ },
+ {
+  "start": 1543.72,
+  "end": 1549.72,
+  "keywords": [
+   "Sverige"
+  ],
+  "type": "LOC",
+  "score": 0.9996618032,
+  "card": {
+   "keywords": [
+    "Sverige"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Sverige"
+  }
+ },
+ {
+  "start": 1543.72,
+  "end": 1549.72,
+  "keywords": [
+   "Rosenborg"
+  ],
+  "type": "ORG",
+  "score": 0.9988186955,
+  "card": {
+   "keywords": [
+    "Rosenborg"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Rosenborg"
+  }
+ },
+ {
+  "start": 1552.72,
+  "end": 1556.72,
+  "keywords": [
+   "Brands"
+  ],
+  "type": "PER",
+  "score": 0.9997025132,
+  "card": {
+   "keywords": [
+    "Brands"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1569.72,
+  "end": 1573.72,
+  "keywords": [
+   "B\u00e5rd"
+  ],
+  "type": "PER",
+  "score": 0.9997703433,
+  "card": {
+   "keywords": [
+    "B\u00e5rd finnet"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1575.72,
+  "end": 1577.72,
+  "keywords": [
+   "Bj\u00f8rne"
+  ],
+  "type": "PER",
+  "score": 0.9995794892,
+  "card": {
+   "keywords": [
+    "Bj\u00f8rne"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1595.72,
+  "end": 1599.72,
+  "keywords": [
+   "Karl over Kn\u00f8ysg\u00e5rd"
+  ],
+  "type": "PER",
+  "score": 0.9973139763,
+  "card": {
+   "keywords": [
+    "Karl over Kn\u00f8ysg\u00e5rd"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1595.72,
+  "end": 1599.72,
+  "keywords": [
+   "Morgonstjern"
+  ],
+  "type": "MISC",
+  "score": 0.99949193,
+  "card": {
+   "keywords": [
+    "Morgonstjern"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 1626.72,
+  "end": 1628.72,
+  "keywords": [
+   "Fyllingstaden"
+  ],
+  "type": "LOC",
+  "score": 0.9996281862,
+  "card": {
+   "keywords": [
+    "Fyllingstaden"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Fyllingstaden"
+  }
+ },
+ {
+  "start": 1639.72,
+  "end": 1641.72,
+  "keywords": [
+   "Balsback Live"
+  ],
+  "type": "MISC",
+  "score": 0.9963597059,
+  "card": {
+   "keywords": [
+    "Balsback Live"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 1642.72,
+  "end": 1647.72,
+  "keywords": [
+   "Bete"
+  ],
+  "type": "MISC",
+  "score": 0.9905737042,
+  "card": {
+   "keywords": [
+    "Bete"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Beteslekta"
+  }
+ },
+ {
+  "start": 1654.72,
+  "end": 1656.72,
+  "keywords": [
+   "Erik Delbarco"
+  ],
+  "type": "PER",
+  "score": 0.9997979403,
+  "card": {
+   "keywords": [
+    "Erik Mjelde"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Erik_Mjelde"
+  }
+ },
+ {
+  "start": 1675.72,
+  "end": 1677.72,
+  "keywords": [
+   "Christian Kalvenes"
+  ],
+  "type": "PER",
+  "score": 0.9998028278,
+  "card": {
+   "keywords": [
+    "Christian Kalvenes"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Christian_Kalvenes"
+  }
+ },
+ {
+  "start": 1695.72,
+  "end": 1696.72,
+  "keywords": [
+   "Christian Kribbe"
+  ],
+  "type": "PER",
+  "score": 0.9995927215,
+  "card": {
+   "keywords": [
+    "Christian Kalvenes"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Christian_Kalvenes"
+  }
+ },
+ {
+  "start": 1703.72,
+  "end": 1710.72,
+  "keywords": [
+   "Christian Kribbes"
+  ],
+  "type": "PER",
+  "score": 0.9805169106,
+  "card": {
+   "keywords": [
+    "Christian Kalvenes"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Christian_Kalvenes"
+  }
+ },
+ {
+  "start": 1716.1200000000001,
+  "end": 1719.1200000000001,
+  "keywords": [
+   "Nordens"
+  ],
+  "type": "LOC",
+  "score": 0.9981574416,
+  "card": {
+   "keywords": [
+    "Nordens"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Nordens"
+  }
+ },
+ {
+  "start": 1725.72,
+  "end": 1729.72,
+  "keywords": [
+   "Christian"
+  ],
+  "type": "PER",
+  "score": 0.9998005033,
+  "card": {
+   "keywords": [
+    "Christian Kalvenes"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Christian_Kalvenes"
+  }
+ },
+ {
+  "start": 1725.72,
+  "end": 1729.72,
+  "keywords": [
+   "Eduardo"
+  ],
+  "type": "PER",
+  "score": 0.999694109,
+  "card": {
+   "keywords": [
+    "Eduardo"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Eduardo_da_Silva"
+  }
+ },
+ {
+  "start": 1739.72,
+  "end": 1742.72,
+  "keywords": [
+   "G\u00e5suden"
+  ],
+  "type": "PER",
+  "score": 0.9077983499,
+  "card": {
+   "keywords": [
+    "G\u00e5suden"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1739.72,
+  "end": 1742.72,
+  "keywords": [
+   "Kastrup"
+  ],
+  "type": "LOC",
+  "score": 0.9924141765,
+  "card": {
+   "keywords": [
+    "Kastrup"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Kastrup"
+  }
+ },
+ {
+  "start": 1748.72,
+  "end": 1751.72,
+  "keywords": [
+   "Christian"
+  ],
+  "type": "PER",
+  "score": 0.9998033643,
+  "card": {
+   "keywords": [
+    "Christian Kalvenes"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Christian_Kalvenes"
+  }
+ },
+ {
+  "start": 1761.72,
+  "end": 1764.72,
+  "keywords": [
+   "BTE"
+  ],
+  "type": "ORG",
+  "score": 0.9983987212,
+  "card": {
+   "keywords": [
+    "BTE"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 1761.72,
+  "end": 1764.72,
+  "keywords": [
+   "Lagerprotkastene"
+  ],
+  "type": "MISC",
+  "score": 0.9968543649,
+  "card": {
+   "keywords": [
+    "Lagerprotkastene"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 1779.72,
+  "end": 1783.72,
+  "keywords": [
+   "Christian Kalven"
+  ],
+  "type": "PER",
+  "score": 0.9998471737,
+  "card": {
+   "keywords": [
+    "Christian Kalvenes"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Christian_Kalvenes"
+  }
+ },
+ {
+  "start": 1791.72,
+  "end": 1795.72,
+  "keywords": [
+   "Mj\u00f8ndalen"
+  ],
+  "type": "ORG",
+  "score": 0.9660366178,
+  "card": {
+   "keywords": [
+    "Mj\u00f8ndalen"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Mj%C3%B8ndalen"
+  }
+ },
+ {
+  "start": 1795.72,
+  "end": 1801.72,
+  "keywords": [
+   "Christian"
+  ],
+  "type": "PER",
+  "score": 0.9998251796,
+  "card": {
+   "keywords": [
+    "Christian Kalvenes"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Christian_Kalvenes"
+  }
+ },
+ {
+  "start": 1810.72,
+  "end": 1813.72,
+  "keywords": [
+   "Vegard Hansen"
+  ],
+  "type": "PER",
+  "score": 0.9997936487,
+  "card": {
+   "keywords": [
+    "Vegard Leikvold Moberg"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1810.72,
+  "end": 1813.72,
+  "keywords": [
+   "Mj\u00f8ndalentrener"
+  ],
+  "type": "MISC",
+  "score": 0.999286592,
+  "card": {
+   "keywords": [
+    "Mj\u00f8ndalentrener"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 1813.72,
+  "end": 1817.72,
+  "keywords": [
+   "Brann"
+  ],
+  "type": "ORG",
+  "score": 0.9993721843,
+  "card": {
+   "keywords": [
+    "Brann"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Brann"
+  }
+ },
+ {
+  "start": 1837.72,
+  "end": 1842.72,
+  "keywords": [
+   "Brann"
+  ],
+  "type": "ORG",
+  "score": 0.998385191,
+  "card": {
+   "keywords": [
+    "Brann"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Brann"
+  }
+ },
+ {
+  "start": 1842.72,
+  "end": 1844.72,
+  "keywords": [
+   "Brann"
+  ],
+  "type": "ORG",
+  "score": 0.9995385408,
+  "card": {
+   "keywords": [
+    "Brann"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Brann"
+  }
+ },
+ {
+  "start": 1842.72,
+  "end": 1844.72,
+  "keywords": [
+   "B\u00e5rd"
+  ],
+  "type": "PER",
+  "score": 0.9867153764,
+  "card": {
+   "keywords": [
+    "B\u00e5rd finnet"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1842.72,
+  "end": 1844.72,
+  "keywords": [
+   "Glimt"
+  ],
+  "type": "ORG",
+  "score": 0.9990134239,
+  "card": {
+   "keywords": [
+    "Glimt"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Glimt"
+  }
+ },
+ {
+  "start": 1861.72,
+  "end": 1863.72,
+  "keywords": [
+   "\u00c5lesund viking"
+  ],
+  "type": "MISC",
+  "score": 0.9970952868,
+  "card": {
+   "keywords": [
+    "\u00c5lesund viking"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 1864.72,
+  "end": 1866.72,
+  "keywords": [
+   "Lasse Nielsen"
+  ],
+  "type": "PER",
+  "score": 0.9998219013,
+  "card": {
+   "keywords": [
+    "Lasse Nielsen"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Lasse_Nielsen"
+  }
+ },
+ {
+  "start": 1895.72,
+  "end": 1898.72,
+  "keywords": [
+   "Mj\u00f8ndalen"
+  ],
+  "type": "MISC",
+  "score": 0.720849514,
+  "card": {
+   "keywords": [
+    "Mj\u00f8ndalentrener"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 1895.72,
+  "end": 1898.72,
+  "keywords": [
+   "Brann"
+  ],
+  "type": "ORG",
+  "score": 0.9941061735,
+  "card": {
+   "keywords": [
+    "Brann"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Brann"
+  }
+ },
+ {
+  "start": 1913.72,
+  "end": 1915.72,
+  "keywords": [
+   "Brann"
+  ],
+  "type": "ORG",
+  "score": 0.999617219,
+  "card": {
+   "keywords": [
+    "Brann"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Brann"
+  }
+ },
+ {
+  "start": 1921.72,
+  "end": 1923.72,
+  "keywords": [
+   "Mattias Dinglarn"
+  ],
+  "type": "PER",
+  "score": 0.9995137453,
+  "card": {
+   "keywords": [
+    "Mattias Dinglarn"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1921.72,
+  "end": 1923.72,
+  "keywords": [
+   "Spillerb\u00f8rsen"
+  ],
+  "type": "MISC",
+  "score": 0.9985076785,
+  "card": {
+   "keywords": [
+    "Spillerb\u00f8rsen"
+   ],
+   "type": "MISC"
+  }
+ }
+]

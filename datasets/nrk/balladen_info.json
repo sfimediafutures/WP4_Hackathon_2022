@@ -1,0 +1,2317 @@
+[
+ {
+  "start": 3.68,
+  "end": 9.28,
+  "keywords": [
+   "H\u00e5kan"
+  ],
+  "type": "PER",
+  "score": 0.998621583,
+  "card": {
+   "keywords": [
+    "H\u00e5kan"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 20.2,
+  "end": 24.72,
+  "keywords": [
+   "H\u00e5kan"
+  ],
+  "type": "PER",
+  "score": 0.9997346997,
+  "card": {
+   "keywords": [
+    "H\u00e5kan"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 20.2,
+  "end": 24.72,
+  "keywords": [
+   "Hof"
+  ],
+  "type": "LOC",
+  "score": 0.9971603155,
+  "card": {
+   "keywords": [
+    "Hof"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Hof"
+  }
+ },
+ {
+  "start": 20.2,
+  "end": 24.72,
+  "keywords": [
+   "Soler"
+  ],
+  "type": "LOC",
+  "score": 0.5228708982,
+  "card": {
+   "keywords": [
+    "Soler"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Soler"
+  }
+ },
+ {
+  "start": 31.6,
+  "end": 35.8,
+  "keywords": [
+   "H\u00e5kon Banken"
+  ],
+  "type": "PER",
+  "score": 0.9997273088,
+  "card": {
+   "keywords": [
+    "H\u00e5kon Banken"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H%C3%A5kon_Banken"
+  }
+ },
+ {
+  "start": 42.8,
+  "end": 46.4,
+  "keywords": [
+   "Banken"
+  ],
+  "type": "PER",
+  "score": 0.9988007545,
+  "card": {
+   "keywords": [
+    "H\u00e5kon Banken"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H%C3%A5kon_Banken"
+  }
+ },
+ {
+  "start": 104.74,
+  "end": 109.20666666666666,
+  "keywords": [
+   "TV Hedmark"
+  ],
+  "type": "ORG",
+  "score": 0.9992735386,
+  "card": {
+   "keywords": [
+    "TV Hedmark"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 136.96,
+  "end": 141.24,
+  "keywords": [
+   "H\u00e5kon"
+  ],
+  "type": "PER",
+  "score": 0.9997213483,
+  "card": {
+   "keywords": [
+    "H\u00e5kon Banken"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H%C3%A5kon_Banken"
+  }
+ },
+ {
+  "start": 141.32,
+  "end": 146.44,
+  "keywords": [
+   "H\u00e5kon Banken"
+  ],
+  "type": "PER",
+  "score": 0.9996030331,
+  "card": {
+   "keywords": [
+    "H\u00e5kon Banken"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H%C3%A5kon_Banken"
+  }
+ },
+ {
+  "start": 167.32,
+  "end": 172.76,
+  "keywords": [
+   "Sverige"
+  ],
+  "type": "LOC",
+  "score": 0.9996783733,
+  "card": {
+   "keywords": [
+    "Sverige"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Sverige"
+  }
+ },
+ {
+  "start": 196.0,
+  "end": 200.28,
+  "keywords": [
+   "H\u00e5kon Banken"
+  ],
+  "type": "PER",
+  "score": 0.9997337461,
+  "card": {
+   "keywords": [
+    "H\u00e5kon Banken"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H%C3%A5kon_Banken"
+  }
+ },
+ {
+  "start": 206.95,
+  "end": 210.79,
+  "keywords": [
+   "H\u00e5kon Banken"
+  ],
+  "type": "PER",
+  "score": 0.9991490841,
+  "card": {
+   "keywords": [
+    "H\u00e5kon Banken"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H%C3%A5kon_Banken"
+  }
+ },
+ {
+  "start": 210.79,
+  "end": 215.11,
+  "keywords": [
+   "Oslo"
+  ],
+  "type": "LOC",
+  "score": 0.9997527003,
+  "card": {
+   "keywords": [
+    "Oslo"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Oslo"
+  }
+ },
+ {
+  "start": 228.27,
+  "end": 231.70999999999998,
+  "keywords": [
+   "H\u00e5kon Bankens"
+  ],
+  "type": "PER",
+  "score": 0.9995354414,
+  "card": {
+   "keywords": [
+    "H\u00e5kon Banken"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H%C3%A5kon_Banken"
+  }
+ },
+ {
+  "start": 284.28,
+  "end": 287.12,
+  "keywords": [
+   "H\u00e5kon Banken"
+  ],
+  "type": "LOC",
+  "score": 0.9588171244,
+  "card": {
+   "keywords": [
+    "H\u00e5kon Banken"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=H\u00e5kon Banken"
+  }
+ },
+ {
+  "start": 298.52,
+  "end": 301.32,
+  "keywords": [
+   "H\u00e5kon Banken"
+  ],
+  "type": "PER",
+  "score": 0.9996033907,
+  "card": {
+   "keywords": [
+    "H\u00e5kon Banken"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H%C3%A5kon_Banken"
+  }
+ },
+ {
+  "start": 305.2,
+  "end": 322.32,
+  "keywords": [
+   "H\u00e5kon Banken"
+  ],
+  "type": "PER",
+  "score": 0.9997106791,
+  "card": {
+   "keywords": [
+    "H\u00e5kon Banken"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H%C3%A5kon_Banken"
+  }
+ },
+ {
+  "start": 305.2,
+  "end": 322.32,
+  "keywords": [
+   "Joakim F\u00f8rs\u00e9n"
+  ],
+  "type": "PER",
+  "score": 0.9996900558,
+  "card": {
+   "keywords": [
+    "Joakim F\u00f8rs\u00e9n"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 322.32,
+  "end": 325.64000000000004,
+  "keywords": [
+   "Kongsvinger"
+  ],
+  "type": "LOC",
+  "score": 0.9996107221,
+  "card": {
+   "keywords": [
+    "Kongsvinger"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Kongsvinger"
+  }
+ },
+ {
+  "start": 322.32,
+  "end": 325.64000000000004,
+  "keywords": [
+   "Elverum"
+  ],
+  "type": "LOC",
+  "score": 0.9996391535,
+  "card": {
+   "keywords": [
+    "Elverum"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Elverum"
+  }
+ },
+ {
+  "start": 325.72,
+  "end": 328.64,
+  "keywords": [
+   "Finnskogen"
+  ],
+  "type": "LOC",
+  "score": 0.9996674061,
+  "card": {
+   "keywords": [
+    "Finnskogen"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Finnskogen"
+  }
+ },
+ {
+  "start": 325.72,
+  "end": 328.64,
+  "keywords": [
+   "Sverige"
+  ],
+  "type": "LOC",
+  "score": 0.999551475,
+  "card": {
+   "keywords": [
+    "Sverige"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Sverige"
+  }
+ },
+ {
+  "start": 330.72,
+  "end": 333.64,
+  "keywords": [
+   "Klinge"
+  ],
+  "type": "LOC",
+  "score": 0.9975861311,
+  "card": {
+   "keywords": [
+    "Klinge"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Klinge"
+  }
+ },
+ {
+  "start": 333.72,
+  "end": 336.24,
+  "keywords": [
+   "Oslo"
+  ],
+  "type": "LOC",
+  "score": 0.9996900558,
+  "card": {
+   "keywords": [
+    "Oslo"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Oslo"
+  }
+ },
+ {
+  "start": 338.92,
+  "end": 341.84,
+  "keywords": [
+   "Brandvall"
+  ],
+  "type": "LOC",
+  "score": 0.9913934469,
+  "card": {
+   "keywords": [
+    "Brandvall"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Brandvall"
+  }
+ },
+ {
+  "start": 338.92,
+  "end": 341.84,
+  "keywords": [
+   "Klinge"
+  ],
+  "type": "LOC",
+  "score": 0.9976342916,
+  "card": {
+   "keywords": [
+    "Klinge"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Klinge"
+  }
+ },
+ {
+  "start": 338.92,
+  "end": 341.84,
+  "keywords": [
+   "Klinge"
+  ],
+  "type": "LOC",
+  "score": 0.997402072,
+  "card": {
+   "keywords": [
+    "Klinge"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Klinge"
+  }
+ },
+ {
+  "start": 341.92,
+  "end": 344.84,
+  "keywords": [
+   "Klinge"
+  ],
+  "type": "LOC",
+  "score": 0.9580449462,
+  "card": {
+   "keywords": [
+    "Klinge"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Klinge"
+  }
+ },
+ {
+  "start": 344.92,
+  "end": 347.84,
+  "keywords": [
+   "Klinge"
+  ],
+  "type": "LOC",
+  "score": 0.9580449462,
+  "card": {
+   "keywords": [
+    "Klinge"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Klinge"
+  }
+ },
+ {
+  "start": 347.92,
+  "end": 350.84,
+  "keywords": [
+   "Klinge"
+  ],
+  "type": "LOC",
+  "score": 0.9580449462,
+  "card": {
+   "keywords": [
+    "Klinge"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Klinge"
+  }
+ },
+ {
+  "start": 369.5300000000001,
+  "end": 373.4500000000001,
+  "keywords": [
+   "H\u00e5konbanken"
+  ],
+  "type": "MISC",
+  "score": 0.8275079727,
+  "card": {
+   "keywords": [
+    "H\u00e5konbanken"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 377.44,
+  "end": 379.36,
+  "keywords": [
+   "H\u00e5konbanken"
+  ],
+  "type": "PER",
+  "score": 0.9875189662,
+  "card": {
+   "keywords": [
+    "H\u00e5kon Banken"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H%C3%A5kon_Banken"
+  }
+ },
+ {
+  "start": 391.35,
+  "end": 393.71000000000004,
+  "keywords": [
+   "H\u00e5kon Banken"
+  ],
+  "type": "PER",
+  "score": 0.9997275472,
+  "card": {
+   "keywords": [
+    "H\u00e5kon Banken"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H%C3%A5kon_Banken"
+  }
+ },
+ {
+  "start": 407.2,
+  "end": 409.84,
+  "keywords": [
+   "Joakim F\u00f8rsund"
+  ],
+  "type": "PER",
+  "score": 0.9997897744,
+  "card": {
+   "keywords": [
+    "Joakim F\u00f8rs\u00e9n"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 423.44,
+  "end": 425.88,
+  "keywords": [
+   "Aril Sundheng"
+  ],
+  "type": "PER",
+  "score": 0.9998390675,
+  "card": {
+   "keywords": [
+    "Aril Sundheng"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 423.44,
+  "end": 425.88,
+  "keywords": [
+   "H\u00e5kon Bankens"
+  ],
+  "type": "PER",
+  "score": 0.9996948242,
+  "card": {
+   "keywords": [
+    "H\u00e5kon Banken"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H%C3%A5kon_Banken"
+  }
+ },
+ {
+  "start": 430.0,
+  "end": 433.0,
+  "keywords": [
+   "Flisa"
+  ],
+  "type": "LOC",
+  "score": 0.9993166924,
+  "card": {
+   "keywords": [
+    "Flisa"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Flisa"
+  }
+ },
+ {
+  "start": 446.67999999999995,
+  "end": 449.48,
+  "keywords": [
+   "Amerika"
+  ],
+  "type": "LOC",
+  "score": 0.9991320968,
+  "card": {
+   "keywords": [
+    "Amerika"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Amerika"
+  }
+ },
+ {
+  "start": 450.99999999999994,
+  "end": 452.92,
+  "keywords": [
+   "Aril"
+  ],
+  "type": "PER",
+  "score": 0.9997517467,
+  "card": {
+   "keywords": [
+    "Aril Sundheng"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 450.99999999999994,
+  "end": 452.92,
+  "keywords": [
+   "Flisa"
+  ],
+  "type": "LOC",
+  "score": 0.9991349578,
+  "card": {
+   "keywords": [
+    "Flisa"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Flisa"
+  }
+ },
+ {
+  "start": 499.0,
+  "end": 502.1600000000001,
+  "keywords": [
+   "H\u00e5kon"
+  ],
+  "type": "PER",
+  "score": 0.9997053742,
+  "card": {
+   "keywords": [
+    "H\u00e5kon Banken"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H%C3%A5kon_Banken"
+  }
+ },
+ {
+  "start": 502.16,
+  "end": 504.56,
+  "keywords": [
+   "H\u00e5kon"
+  ],
+  "type": "PER",
+  "score": 0.99966681,
+  "card": {
+   "keywords": [
+    "H\u00e5kon Banken"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H%C3%A5kon_Banken"
+  }
+ },
+ {
+  "start": 516.88,
+  "end": 518.7999999999998,
+  "keywords": [
+   "H\u00e5kon"
+  ],
+  "type": "PER",
+  "score": 0.9997306466,
+  "card": {
+   "keywords": [
+    "H\u00e5kon Banken"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H%C3%A5kon_Banken"
+  }
+ },
+ {
+  "start": 518.8,
+  "end": 522.92,
+  "keywords": [
+   "Are"
+  ],
+  "type": "PER",
+  "score": 0.9997877479,
+  "card": {
+   "keywords": [
+    "Are"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Are"
+  }
+ },
+ {
+  "start": 535.24,
+  "end": 539.0,
+  "keywords": [
+   "H\u00e5kon"
+  ],
+  "type": "PER",
+  "score": 0.9997109771,
+  "card": {
+   "keywords": [
+    "H\u00e5kon Banken"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H%C3%A5kon_Banken"
+  }
+ },
+ {
+  "start": 545.0,
+  "end": 550.68,
+  "keywords": [
+   "H\u00e5kon"
+  ],
+  "type": "PER",
+  "score": 0.99981457,
+  "card": {
+   "keywords": [
+    "H\u00e5kon Banken"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H%C3%A5kon_Banken"
+  }
+ },
+ {
+  "start": 545.0,
+  "end": 550.68,
+  "keywords": [
+   "Are"
+  ],
+  "type": "PER",
+  "score": 0.9997242093,
+  "card": {
+   "keywords": [
+    "Are"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Are"
+  }
+ },
+ {
+  "start": 545.0,
+  "end": 550.68,
+  "keywords": [
+   "Hoff"
+  ],
+  "type": "LOC",
+  "score": 0.996989429,
+  "card": {
+   "keywords": [
+    "Hof"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Hof"
+  }
+ },
+ {
+  "start": 545.0,
+  "end": 550.68,
+  "keywords": [
+   "Soler"
+  ],
+  "type": "LOC",
+  "score": 0.9981226325,
+  "card": {
+   "keywords": [
+    "Soler"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Soler"
+  }
+ },
+ {
+  "start": 554.68,
+  "end": 556.68,
+  "keywords": [
+   "H\u00e5kon"
+  ],
+  "type": "PER",
+  "score": 0.9998194575,
+  "card": {
+   "keywords": [
+    "H\u00e5kon Banken"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H%C3%A5kon_Banken"
+  }
+ },
+ {
+  "start": 559.68,
+  "end": 562.68,
+  "keywords": [
+   "H\u00e5kon"
+  ],
+  "type": "PER",
+  "score": 0.9998604059,
+  "card": {
+   "keywords": [
+    "H\u00e5kon Banken"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H%C3%A5kon_Banken"
+  }
+ },
+ {
+  "start": 559.68,
+  "end": 562.68,
+  "keywords": [
+   "Peder"
+  ],
+  "type": "PER",
+  "score": 0.9997773767,
+  "card": {
+   "keywords": [
+    "Peder"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Peder"
+  }
+ },
+ {
+  "start": 564.88,
+  "end": 567.68,
+  "keywords": [
+   "Olaug"
+  ],
+  "type": "PER",
+  "score": 0.9985798597,
+  "card": {
+   "keywords": [
+    "Olaug"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Olaug"
+  }
+ },
+ {
+  "start": 567.68,
+  "end": 569.68,
+  "keywords": [
+   "Gud"
+  ],
+  "type": "MISC",
+  "score": 0.5278944373,
+  "card": {
+   "keywords": [
+    "Gud"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Gud"
+  }
+ },
+ {
+  "start": 569.68,
+  "end": 572.4799999999999,
+  "keywords": [
+   "Bedehuset"
+  ],
+  "type": "LOC",
+  "score": 0.9990685582,
+  "card": {
+   "keywords": [
+    "Bedehuset"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Bedehuset"
+  }
+ },
+ {
+  "start": 572.58,
+  "end": 574.98,
+  "keywords": [
+   "H\u00e5kon"
+  ],
+  "type": "PER",
+  "score": 0.9997743964,
+  "card": {
+   "keywords": [
+    "H\u00e5kon Banken"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H%C3%A5kon_Banken"
+  }
+ },
+ {
+  "start": 572.58,
+  "end": 574.98,
+  "keywords": [
+   "Philadelphia"
+  ],
+  "type": "LOC",
+  "score": 0.997643292,
+  "card": {
+   "keywords": [
+    "Philadelphia"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Philadelphia"
+  }
+ },
+ {
+  "start": 582.88,
+  "end": 585.88,
+  "keywords": [
+   "H\u00e5kon"
+  ],
+  "type": "PER",
+  "score": 0.9997926354,
+  "card": {
+   "keywords": [
+    "H\u00e5kon Banken"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H%C3%A5kon_Banken"
+  }
+ },
+ {
+  "start": 582.88,
+  "end": 585.88,
+  "keywords": [
+   "Philadelphia"
+  ],
+  "type": "LOC",
+  "score": 0.9754523039,
+  "card": {
+   "keywords": [
+    "Philadelphia"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Philadelphia"
+  }
+ },
+ {
+  "start": 593.88,
+  "end": 597.88,
+  "keywords": [
+   "H\u00e5kon"
+  ],
+  "type": "PER",
+  "score": 0.9996892214,
+  "card": {
+   "keywords": [
+    "H\u00e5kon Banken"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H%C3%A5kon_Banken"
+  }
+ },
+ {
+  "start": 593.88,
+  "end": 597.88,
+  "keywords": [
+   "Viki"
+  ],
+  "type": "LOC",
+  "score": 0.9990997314,
+  "card": {
+   "keywords": [
+    "Viki"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Viki"
+  }
+ },
+ {
+  "start": 606.88,
+  "end": 610.88,
+  "keywords": [
+   "Olaug"
+  ],
+  "type": "PER",
+  "score": 0.9997597337,
+  "card": {
+   "keywords": [
+    "Olaug"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Olaug"
+  }
+ },
+ {
+  "start": 618.88,
+  "end": 622.88,
+  "keywords": [
+   "Lene"
+  ],
+  "type": "PER",
+  "score": 0.9997903705,
+  "card": {
+   "keywords": [
+    "Lene"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Lene"
+  }
+ },
+ {
+  "start": 618.88,
+  "end": 622.88,
+  "keywords": [
+   "H\u00e5kon"
+  ],
+  "type": "PER",
+  "score": 0.9998512268,
+  "card": {
+   "keywords": [
+    "H\u00e5kon Banken"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H%C3%A5kon_Banken"
+  }
+ },
+ {
+  "start": 622.88,
+  "end": 627.88,
+  "keywords": [
+   "Olaug"
+  ],
+  "type": "PER",
+  "score": 0.9997963309,
+  "card": {
+   "keywords": [
+    "Olaug"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Olaug"
+  }
+ },
+ {
+  "start": 654.88,
+  "end": 658.88,
+  "keywords": [
+   "Olaug"
+  ],
+  "type": "PER",
+  "score": 0.9997459054,
+  "card": {
+   "keywords": [
+    "Olaug"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Olaug"
+  }
+ },
+ {
+  "start": 654.88,
+  "end": 658.88,
+  "keywords": [
+   "Peder"
+  ],
+  "type": "PER",
+  "score": 0.9998244643,
+  "card": {
+   "keywords": [
+    "Peder"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Peder"
+  }
+ },
+ {
+  "start": 661.88,
+  "end": 665.88,
+  "keywords": [
+   "H\u00e5kon"
+  ],
+  "type": "PER",
+  "score": 0.9997794032,
+  "card": {
+   "keywords": [
+    "H\u00e5kon Banken"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H%C3%A5kon_Banken"
+  }
+ },
+ {
+  "start": 692.37,
+  "end": 697.37,
+  "keywords": [
+   "Samfunnshuset"
+  ],
+  "type": "LOC",
+  "score": 0.9987980127,
+  "card": {
+   "keywords": [
+    "Samfunnshuset"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Samfunnshuset"
+  }
+ },
+ {
+  "start": 703.4899999999999,
+  "end": 705.4899999999999,
+  "keywords": [
+   "H\u00e5kon"
+  ],
+  "type": "PER",
+  "score": 0.9998372793,
+  "card": {
+   "keywords": [
+    "H\u00e5kon Banken"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H%C3%A5kon_Banken"
+  }
+ },
+ {
+  "start": 816.88,
+  "end": 821.88,
+  "keywords": [
+   "Sol\u00f8r"
+  ],
+  "type": "LOC",
+  "score": 0.9995687604,
+  "card": {
+   "keywords": [
+    "Sol\u00f8r"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Sol\u00f8r"
+  }
+ },
+ {
+  "start": 821.88,
+  "end": 823.88,
+  "keywords": [
+   "Sol\u00f8r"
+  ],
+  "type": "LOC",
+  "score": 0.9990125895,
+  "card": {
+   "keywords": [
+    "Sol\u00f8r"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Sol\u00f8r"
+  }
+ },
+ {
+  "start": 837.88,
+  "end": 839.88,
+  "keywords": [
+   "hoff"
+  ],
+  "type": "LOC",
+  "score": 0.8073032498,
+  "card": {
+   "keywords": [
+    "hoff"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=hoff"
+  }
+ },
+ {
+  "start": 839.88,
+  "end": 841.88,
+  "keywords": [
+   "Ragnhild"
+  ],
+  "type": "PER",
+  "score": 0.9996092916,
+  "card": {
+   "keywords": [
+    "Ragnhild"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Ragnhild"
+  }
+ },
+ {
+  "start": 844.97,
+  "end": 846.9699999999999,
+  "keywords": [
+   "Ragnhild"
+  ],
+  "type": "PER",
+  "score": 0.9996981621,
+  "card": {
+   "keywords": [
+    "Ragnhild"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Ragnhild"
+  }
+ },
+ {
+  "start": 844.97,
+  "end": 846.9699999999999,
+  "keywords": [
+   "H\u00e5kon"
+  ],
+  "type": "PER",
+  "score": 0.5347412229,
+  "card": {
+   "keywords": [
+    "H\u00e5kon Banken"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H%C3%A5kon_Banken"
+  }
+ },
+ {
+  "start": 914.88,
+  "end": 918.88,
+  "keywords": [
+   "H\u00e5kon"
+  ],
+  "type": "PER",
+  "score": 0.9997643828,
+  "card": {
+   "keywords": [
+    "H\u00e5kon Banken"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H%C3%A5kon_Banken"
+  }
+ },
+ {
+  "start": 937.36,
+  "end": 940.6933333333334,
+  "keywords": [
+   "H\u00e5kon"
+  ],
+  "type": "PER",
+  "score": 0.9789151549,
+  "card": {
+   "keywords": [
+    "H\u00e5kon Banken"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H%C3%A5kon_Banken"
+  }
+ },
+ {
+  "start": 955.88,
+  "end": 959.88,
+  "keywords": [
+   "H\u00e5kon"
+  ],
+  "type": "PER",
+  "score": 0.9998150468,
+  "card": {
+   "keywords": [
+    "H\u00e5kon Banken"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H%C3%A5kon_Banken"
+  }
+ },
+ {
+  "start": 961.1,
+  "end": 963.6333333333333,
+  "keywords": [
+   "H\u00e5kon"
+  ],
+  "type": "PER",
+  "score": 0.9993588328,
+  "card": {
+   "keywords": [
+    "H\u00e5kon Banken"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H%C3%A5kon_Banken"
+  }
+ },
+ {
+  "start": 975.0333333333334,
+  "end": 978.0333333333334,
+  "keywords": [
+   "H\u00e5kon"
+  ],
+  "type": "PER",
+  "score": 0.9997988343,
+  "card": {
+   "keywords": [
+    "H\u00e5kon Banken"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H%C3%A5kon_Banken"
+  }
+ },
+ {
+  "start": 1073.47,
+  "end": 1075.67,
+  "keywords": [
+   "H\u00e5kon"
+  ],
+  "type": "PER",
+  "score": 0.9996321201,
+  "card": {
+   "keywords": [
+    "H\u00e5kon Banken"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H%C3%A5kon_Banken"
+  }
+ },
+ {
+  "start": 1144.79,
+  "end": 1147.79,
+  "keywords": [
+   "H\u00e5kon Banken"
+  ],
+  "type": "PER",
+  "score": 0.9996182919,
+  "card": {
+   "keywords": [
+    "H\u00e5kon Banken"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H%C3%A5kon_Banken"
+  }
+ },
+ {
+  "start": 1147.79,
+  "end": 1150.7900000000002,
+  "keywords": [
+   "H\u00e5kon"
+  ],
+  "type": "PER",
+  "score": 0.9997252822,
+  "card": {
+   "keywords": [
+    "H\u00e5kon Banken"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H%C3%A5kon_Banken"
+  }
+ },
+ {
+  "start": 1153.99,
+  "end": 1155.99,
+  "keywords": [
+   "Bedehuset"
+  ],
+  "type": "LOC",
+  "score": 0.998591125,
+  "card": {
+   "keywords": [
+    "Bedehuset"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Bedehuset"
+  }
+ },
+ {
+  "start": 1155.99,
+  "end": 1157.9899999999998,
+  "keywords": [
+   "Atlantaren"
+  ],
+  "type": "LOC",
+  "score": 0.995326519,
+  "card": {
+   "keywords": [
+    "Atlantaren"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Atlantaren"
+  }
+ },
+ {
+  "start": 1157.9899999999998,
+  "end": 1159.9899999999998,
+  "keywords": [
+   "Santiago"
+  ],
+  "type": "LOC",
+  "score": 0.9993112087,
+  "card": {
+   "keywords": [
+    "Santiago"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Santiago"
+  }
+ },
+ {
+  "start": 1157.9899999999998,
+  "end": 1159.9899999999998,
+  "keywords": [
+   "Chile"
+  ],
+  "type": "LOC",
+  "score": 0.9996179342,
+  "card": {
+   "keywords": [
+    "Chile"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Chile"
+  }
+ },
+ {
+  "start": 1179.6,
+  "end": 1182.6,
+  "keywords": [
+   "Skogbrynet"
+  ],
+  "type": "LOC",
+  "score": 0.9983439445,
+  "card": {
+   "keywords": [
+    "Skogbrynet"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Skogbrynet"
+  }
+ },
+ {
+  "start": 1179.6,
+  "end": 1182.6,
+  "keywords": [
+   "Ridesentret"
+  ],
+  "type": "LOC",
+  "score": 0.986412406,
+  "card": {
+   "keywords": [
+    "Ridesentret"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Ridesentret"
+  }
+ },
+ {
+  "start": 1179.6,
+  "end": 1182.6,
+  "keywords": [
+   "Ellingsr\u00f8d"
+  ],
+  "type": "LOC",
+  "score": 0.9996002316,
+  "card": {
+   "keywords": [
+    "Ellingsr\u00f8d"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Ellingsr\u00f8d"
+  }
+ },
+ {
+  "start": 1179.6,
+  "end": 1182.6,
+  "keywords": [
+   "Oslo"
+  ],
+  "type": "LOC",
+  "score": 0.9996221066,
+  "card": {
+   "keywords": [
+    "Oslo"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Oslo"
+  }
+ },
+ {
+  "start": 1191.88,
+  "end": 1194.88,
+  "keywords": [
+   "S\u00f8ndagsk\u00e5len"
+  ],
+  "type": "MISC",
+  "score": 0.9977809787,
+  "card": {
+   "keywords": [
+    "S\u00f8ndagsk\u00e5len"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 1194.88,
+  "end": 1197.88,
+  "keywords": [
+   "H\u00e5kon"
+  ],
+  "type": "PER",
+  "score": 0.9997890592,
+  "card": {
+   "keywords": [
+    "H\u00e5kon Banken"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H%C3%A5kon_Banken"
+  }
+ },
+ {
+  "start": 1237.5466666666666,
+  "end": 1244.5466666666666,
+  "keywords": [
+   "H\u00e5kon"
+  ],
+  "type": "PER",
+  "score": 0.9997742772,
+  "card": {
+   "keywords": [
+    "H\u00e5kon Banken"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H%C3%A5kon_Banken"
+  }
+ },
+ {
+  "start": 1269.88,
+  "end": 1275.88,
+  "keywords": [
+   "H\u00e5kon"
+  ],
+  "type": "PER",
+  "score": 0.9997454286,
+  "card": {
+   "keywords": [
+    "H\u00e5kon Banken"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H%C3%A5kon_Banken"
+  }
+ },
+ {
+  "start": 1297.88,
+  "end": 1303.88,
+  "keywords": [
+   "H\u00e5kon"
+  ],
+  "type": "PER",
+  "score": 0.9997605681,
+  "card": {
+   "keywords": [
+    "H\u00e5kon Banken"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H%C3%A5kon_Banken"
+  }
+ },
+ {
+  "start": 1303.88,
+  "end": 1308.88,
+  "keywords": [
+   "H\u00e5kon"
+  ],
+  "type": "PER",
+  "score": 0.999820888,
+  "card": {
+   "keywords": [
+    "H\u00e5kon Banken"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H%C3%A5kon_Banken"
+  }
+ },
+ {
+  "start": 1333.88,
+  "end": 1336.88,
+  "keywords": [
+   "Carlos"
+  ],
+  "type": "PER",
+  "score": 0.9998621941,
+  "card": {
+   "keywords": [
+    "Carlos"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Carlos"
+  }
+ },
+ {
+  "start": 1333.88,
+  "end": 1336.88,
+  "keywords": [
+   "Sverige"
+  ],
+  "type": "LOC",
+  "score": 0.9812405705,
+  "card": {
+   "keywords": [
+    "Sverige"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Sverige"
+  }
+ },
+ {
+  "start": 1337.34,
+  "end": 1340.3400000000001,
+  "keywords": [
+   "H\u00e5kon"
+  ],
+  "type": "PER",
+  "score": 0.9998173118,
+  "card": {
+   "keywords": [
+    "H\u00e5kon Banken"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H%C3%A5kon_Banken"
+  }
+ },
+ {
+  "start": 1351.1,
+  "end": 1353.1799999999998,
+  "keywords": [
+   "H\u00e5kon"
+  ],
+  "type": "PER",
+  "score": 0.9998204112,
+  "card": {
+   "keywords": [
+    "H\u00e5kon Banken"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H%C3%A5kon_Banken"
+  }
+ },
+ {
+  "start": 1351.1,
+  "end": 1353.1799999999998,
+  "keywords": [
+   "Carlos"
+  ],
+  "type": "PER",
+  "score": 0.9996705055,
+  "card": {
+   "keywords": [
+    "Carlos"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Carlos"
+  }
+ },
+ {
+  "start": 1353.1799999999998,
+  "end": 1356.1799999999998,
+  "keywords": [
+   "Sementol"
+  ],
+  "type": "ORG",
+  "score": 0.9928047061,
+  "card": {
+   "keywords": [
+    "Sementol"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 1353.1799999999998,
+  "end": 1356.1799999999998,
+  "keywords": [
+   "Ateborg"
+  ],
+  "type": "LOC",
+  "score": 0.999525547,
+  "card": {
+   "keywords": [
+    "Ateborg"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Ateborg"
+  }
+ },
+ {
+  "start": 1366.88,
+  "end": 1369.88,
+  "keywords": [
+   "Ateborg"
+  ],
+  "type": "LOC",
+  "score": 0.9995354414,
+  "card": {
+   "keywords": [
+    "Ateborg"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Ateborg"
+  }
+ },
+ {
+  "start": 1382.47,
+  "end": 1384.4700000000003,
+  "keywords": [
+   "H\u00e5kon"
+  ],
+  "type": "PER",
+  "score": 0.9998052716,
+  "card": {
+   "keywords": [
+    "H\u00e5kon Banken"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H%C3%A5kon_Banken"
+  }
+ },
+ {
+  "start": 1389.4700000000003,
+  "end": 1391.4700000000003,
+  "keywords": [
+   "Norge"
+  ],
+  "type": "LOC",
+  "score": 0.9992370605,
+  "card": {
+   "keywords": [
+    "Norge"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Norge"
+  }
+ },
+ {
+  "start": 1435.3366666666666,
+  "end": 1437.3366666666666,
+  "keywords": [
+   "H\u00e5kon"
+  ],
+  "type": "PER",
+  "score": 0.9997323155,
+  "card": {
+   "keywords": [
+    "H\u00e5kon Banken"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H%C3%A5kon_Banken"
+  }
+ },
+ {
+  "start": 1527.88,
+  "end": 1529.88,
+  "keywords": [
+   "Karlos"
+  ],
+  "type": "PER",
+  "score": 0.9997757077,
+  "card": {
+   "keywords": [
+    "Karlos"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1527.88,
+  "end": 1529.88,
+  "keywords": [
+   "H\u00e5kon"
+  ],
+  "type": "PER",
+  "score": 0.9997865558,
+  "card": {
+   "keywords": [
+    "H\u00e5kon Banken"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H%C3%A5kon_Banken"
+  }
+ },
+ {
+  "start": 1527.88,
+  "end": 1529.88,
+  "keywords": [
+   "G\u00f6teborg"
+  ],
+  "type": "LOC",
+  "score": 0.9995362759,
+  "card": {
+   "keywords": [
+    "G\u00f6teborg"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=G\u00f6teborg"
+  }
+ },
+ {
+  "start": 1529.88,
+  "end": 1531.88,
+  "keywords": [
+   "Soler"
+  ],
+  "type": "ORG",
+  "score": 0.3760290742,
+  "card": {
+   "keywords": [
+    "Soler"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 1535.88,
+  "end": 1537.88,
+  "keywords": [
+   "Sverige"
+  ],
+  "type": "LOC",
+  "score": 0.9972389936,
+  "card": {
+   "keywords": [
+    "Sverige"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Sverige"
+  }
+ },
+ {
+  "start": 1557.88,
+  "end": 1559.88,
+  "keywords": [
+   "Fradelfia"
+  ],
+  "type": "LOC",
+  "score": 0.9992265701,
+  "card": {
+   "keywords": [
+    "Fradelfia"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Fradelfia"
+  }
+ },
+ {
+  "start": 1561.88,
+  "end": 1563.88,
+  "keywords": [
+   "Arel"
+  ],
+  "type": "PER",
+  "score": 0.9996807575,
+  "card": {
+   "keywords": [
+    "Are"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Are"
+  }
+ },
+ {
+  "start": 1561.88,
+  "end": 1563.88,
+  "keywords": [
+   "Morua"
+  ],
+  "type": "LOC",
+  "score": 0.9944810867,
+  "card": {
+   "keywords": [
+    "Morua"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Morua"
+  }
+ },
+ {
+  "start": 1595.88,
+  "end": 1597.88,
+  "keywords": [
+   "Barkas"
+  ],
+  "type": "MISC",
+  "score": 0.6239857674,
+  "card": {
+   "keywords": [
+    "Barkas"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 1712.5900000000001,
+  "end": 1714.5900000000001,
+  "keywords": [
+   "H\u00e5kon"
+  ],
+  "type": "PER",
+  "score": 0.9998081326,
+  "card": {
+   "keywords": [
+    "H\u00e5kon Banken"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H%C3%A5kon_Banken"
+  }
+ },
+ {
+  "start": 1874.9066666666668,
+  "end": 1876.9066666666668,
+  "keywords": [
+   "H\u00e5kon"
+  ],
+  "type": "PER",
+  "score": 0.9997869134,
+  "card": {
+   "keywords": [
+    "H\u00e5kon Banken"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H%C3%A5kon_Banken"
+  }
+ },
+ {
+  "start": 1880.9066666666668,
+  "end": 1882.9066666666668,
+  "keywords": [
+   "H\u00e5kon"
+  ],
+  "type": "PER",
+  "score": 0.9996826649,
+  "card": {
+   "keywords": [
+    "H\u00e5kon Banken"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H%C3%A5kon_Banken"
+  }
+ },
+ {
+  "start": 1884.9066666666668,
+  "end": 1886.9066666666668,
+  "keywords": [
+   "Hoff"
+  ],
+  "type": "LOC",
+  "score": 0.9991881251,
+  "card": {
+   "keywords": [
+    "Hof"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Hof"
+  }
+ },
+ {
+  "start": 1897.98,
+  "end": 1899.98,
+  "keywords": [
+   "H\u00e5kon Banken"
+  ],
+  "type": "PER",
+  "score": 0.9997202754,
+  "card": {
+   "keywords": [
+    "H\u00e5kon Banken"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H%C3%A5kon_Banken"
+  }
+ },
+ {
+  "start": 1903.98,
+  "end": 1905.98,
+  "keywords": [
+   "Aril"
+  ],
+  "type": "PER",
+  "score": 0.9996613264,
+  "card": {
+   "keywords": [
+    "Aril Sundheng"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1905.98,
+  "end": 1907.98,
+  "keywords": [
+   "Amazonen"
+  ],
+  "type": "MISC",
+  "score": 0.9991893172,
+  "card": {
+   "keywords": [
+    "Amazonen"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 1921.88,
+  "end": 1923.88,
+  "keywords": [
+   "Kongsunger"
+  ],
+  "type": "LOC",
+  "score": 0.9992032647,
+  "card": {
+   "keywords": [
+    "Kongsunger"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Kongsunger"
+  }
+ },
+ {
+  "start": 1966.44,
+  "end": 1968.44,
+  "keywords": [
+   "Kongsunger"
+  ],
+  "type": "MISC",
+  "score": 0.9735021591,
+  "card": {
+   "keywords": [
+    "Kongsunger"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 1983.9966666666667,
+  "end": 1985.996666666667,
+  "keywords": [
+   "Peder"
+  ],
+  "type": "PER",
+  "score": 0.9998183846,
+  "card": {
+   "keywords": [
+    "Peder"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Peder"
+  }
+ },
+ {
+  "start": 2055.89,
+  "end": 2057.8900000000003,
+  "keywords": [
+   "H\u00e5kon Banken"
+  ],
+  "type": "PER",
+  "score": 0.9996616244,
+  "card": {
+   "keywords": [
+    "H\u00e5kon Banken"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H%C3%A5kon_Banken"
+  }
+ },
+ {
+  "start": 2111.88,
+  "end": 2113.88,
+  "keywords": [
+   "Aril"
+  ],
+  "type": "PER",
+  "score": 0.9998051524,
+  "card": {
+   "keywords": [
+    "Aril Sundheng"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 2139.88,
+  "end": 2141.88,
+  "keywords": [
+   "Britt Marie"
+  ],
+  "type": "PER",
+  "score": 0.9990126491,
+  "card": {
+   "keywords": [
+    "Britt Marie"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 2169.88,
+  "end": 2171.88,
+  "keywords": [
+   "Britt Marie"
+  ],
+  "type": "MISC",
+  "score": 0.9648743868,
+  "card": {
+   "keywords": [
+    "Britt Marie"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 2181.88,
+  "end": 2183.88,
+  "keywords": [
+   "H\u00e5kon Banken"
+  ],
+  "type": "PER",
+  "score": 0.9997859597,
+  "card": {
+   "keywords": [
+    "H\u00e5kon Banken"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H%C3%A5kon_Banken"
+  }
+ },
+ {
+  "start": 2191.88,
+  "end": 2193.88,
+  "keywords": [
+   "Youtube"
+  ],
+  "type": "MISC",
+  "score": 0.9454408288,
+  "card": {
+   "keywords": [
+    "Youtube"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/YouTube"
+  }
+ },
+ {
+  "start": 2268.0199999999995,
+  "end": 2270.0199999999995,
+  "keywords": [
+   "Volvo Amazon"
+  ],
+  "type": "MISC",
+  "score": 0.9990179539,
+  "card": {
+   "keywords": [
+    "Amazonen"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 2268.0199999999995,
+  "end": 2270.0199999999995,
+  "keywords": [
+   "Kongsvinger"
+  ],
+  "type": "LOC",
+  "score": 0.9994961023,
+  "card": {
+   "keywords": [
+    "Kongsvinger"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Kongsvinger"
+  }
+ },
+ {
+  "start": 2276.06,
+  "end": 2278.0600000000004,
+  "keywords": [
+   "H\u00e5kon Banken"
+  ],
+  "type": "PER",
+  "score": 0.9998291731,
+  "card": {
+   "keywords": [
+    "H\u00e5kon Banken"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H%C3%A5kon_Banken"
+  }
+ },
+ {
+  "start": 2280.0600000000004,
+  "end": 2282.06,
+  "keywords": [
+   "H\u00e5kon Bankens"
+  ],
+  "type": "PER",
+  "score": 0.9996744394,
+  "card": {
+   "keywords": [
+    "H\u00e5kon Banken"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H%C3%A5kon_Banken"
+  }
+ },
+ {
+  "start": 2311.88,
+  "end": 2313.88,
+  "keywords": [
+   "H\u00e5kon Banken"
+  ],
+  "type": "PER",
+  "score": 0.9998291731,
+  "card": {
+   "keywords": [
+    "H\u00e5kon Banken"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H%C3%A5kon_Banken"
+  }
+ },
+ {
+  "start": 2319.88,
+  "end": 2321.88,
+  "keywords": [
+   "Volvo Amazon"
+  ],
+  "type": "MISC",
+  "score": 0.9990179539,
+  "card": {
+   "keywords": [
+    "Amazonen"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 2319.88,
+  "end": 2321.88,
+  "keywords": [
+   "Kongsvinger"
+  ],
+  "type": "LOC",
+  "score": 0.9994961023,
+  "card": {
+   "keywords": [
+    "Kongsvinger"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Kongsvinger"
+  }
+ },
+ {
+  "start": 2327.88,
+  "end": 2329.88,
+  "keywords": [
+   "H\u00e5kon Banken"
+  ],
+  "type": "PER",
+  "score": 0.9998291731,
+  "card": {
+   "keywords": [
+    "H\u00e5kon Banken"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H%C3%A5kon_Banken"
+  }
+ },
+ {
+  "start": 2331.88,
+  "end": 2333.88,
+  "keywords": [
+   "H\u00e5kon Banken"
+  ],
+  "type": "PER",
+  "score": 0.9998303652,
+  "card": {
+   "keywords": [
+    "H\u00e5kon Banken"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H%C3%A5kon_Banken"
+  }
+ },
+ {
+  "start": 2527.88,
+  "end": 2539.88,
+  "keywords": [
+   "NRK"
+  ],
+  "type": "ORG",
+  "score": 0.9974941015,
+  "card": {
+   "keywords": [
+    "NRK"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/NRK"
+  }
+ },
+ {
+  "start": 2527.88,
+  "end": 2539.88,
+  "keywords": [
+   "NRK"
+  ],
+  "type": "MISC",
+  "score": 0.9990037084,
+  "card": {
+   "keywords": [
+    "NRK"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/NRK"
+  }
+ },
+ {
+  "start": 2527.88,
+  "end": 2539.88,
+  "keywords": [
+   "NRK Radio"
+  ],
+  "type": "MISC",
+  "score": 0.9967978001,
+  "card": {
+   "keywords": [
+    "NRK"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/NRK"
+  }
+ }
+]

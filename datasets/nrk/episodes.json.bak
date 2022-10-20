@@ -1,0 +1,16 @@
+[
+ {
+  "id": 3403522727,
+  "title": "Lordagsraadet_20221008",
+  "published": 1665951372.8842816,
+  "manifest": "/whisper//nrk/lordagsraadet_20221008.json",
+  "description": "",
+  "enclosures": [
+   {
+    "url": "/whisper//nrk/lordagsraadet_20221008.mp3",
+    "mime_type": "audio/mpeg"
+   }
+  ],
+  "episode_art_url": "https://gfx.nrk.no/Kpn7Nz2VMIdbn0fVllF8CQ4gIvAN3ijgbXim2qMWTFig"
+ }
+]

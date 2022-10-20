@@ -1,0 +1,12 @@
+{
+ "id": 3069981883,
+ "subtitles": [
+  {
+   "src": "/whisper//tv2skole/Tonje_subs.json"
+  }
+ ],
+ "cast": "/whisper//tv2skole/Tonje_people.json",
+ "audio": {
+  "src": "https://seer2.itek.norut.no/whisper//tv2skole/Tonje.mp3"
+ }
+}

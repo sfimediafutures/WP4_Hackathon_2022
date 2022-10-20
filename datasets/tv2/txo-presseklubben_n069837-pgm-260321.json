@@ -1,0 +1,12 @@
+{
+ "id": 1745367596,
+ "subtitles": [
+  {
+   "src": "/whisper//tv2/txo-presseklubben_n069837-pgm-260321_subs.json"
+  }
+ ],
+ "cast": "/whisper//tv2/txo-presseklubben_n069837-pgm-260321_people.json",
+ "audio": {
+  "src": "https://seer2.itek.norut.no/whisper//tv2/txo-presseklubben_n069837-pgm-260321.mp3"
+ }
+}

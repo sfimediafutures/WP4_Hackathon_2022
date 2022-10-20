@@ -1,0 +1,854 @@
+[
+ {
+  "start": 0.0,
+  "end": 5.0,
+  "keywords": [
+   "Trygve Slagsvold"
+  ],
+  "type": "PER",
+  "score": 0.9998284578,
+  "card": {
+   "keywords": [
+    "Trygve Slagsvold"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 8.0,
+  "end": 13.0,
+  "keywords": [
+   "Erik Torsvedt"
+  ],
+  "type": "PER",
+  "score": 0.9998415709,
+  "card": {
+   "keywords": [
+    "Erik Torsvedt"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 8.0,
+  "end": 13.0,
+  "keywords": [
+   "Qatar VM"
+  ],
+  "type": "MISC",
+  "score": 0.9976657033,
+  "card": {
+   "keywords": [
+    "Qatar VM"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 13.0,
+  "end": 16.0,
+  "keywords": [
+   "Arslok"
+  ],
+  "type": "PER",
+  "score": 0.9993802309,
+  "card": {
+   "keywords": [
+    "Arslok"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 13.0,
+  "end": 16.0,
+  "keywords": [
+   "Otto"
+  ],
+  "type": "PER",
+  "score": 0.9996833801,
+  "card": {
+   "keywords": [
+    "Otto"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Otto"
+  }
+ },
+ {
+  "start": 27.0,
+  "end": 30.0,
+  "keywords": [
+   "Arslok"
+  ],
+  "type": "PER",
+  "score": 0.9916260242,
+  "card": {
+   "keywords": [
+    "Arslok"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 32.0,
+  "end": 36.0,
+  "keywords": [
+   "Trygve Slagsvold"
+  ],
+  "type": "PER",
+  "score": 0.9998520017,
+  "card": {
+   "keywords": [
+    "Trygve Slagsvold"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 36.0,
+  "end": 39.0,
+  "keywords": [
+   "Erna Solbergs"
+  ],
+  "type": "PER",
+  "score": 0.9995833635,
+  "card": {
+   "keywords": [
+    "Erna Solbergs"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 36.0,
+  "end": 39.0,
+  "keywords": [
+   "Gelo"
+  ],
+  "type": "LOC",
+  "score": 0.7651301622,
+  "card": {
+   "keywords": [
+    "Gelo"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Gelo"
+  }
+ },
+ {
+  "start": 64.0,
+  "end": 69.0,
+  "keywords": [
+   "AP"
+  ],
+  "type": "ORG",
+  "score": 0.9994520545,
+  "card": {
+   "keywords": [
+    "AP"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Arbeiderpartiet"
+  }
+ },
+ {
+  "start": 107.0,
+  "end": 112.0,
+  "keywords": [
+   "Rolf Jakobsen"
+  ],
+  "type": "PER",
+  "score": 0.9998127222,
+  "card": {
+   "keywords": [
+    "Rolf Jakobsen"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 128.0,
+  "end": 133.0,
+  "keywords": [
+   "Rolf Jakobsen"
+  ],
+  "type": "PER",
+  "score": 0.9997950792,
+  "card": {
+   "keywords": [
+    "Rolf Jakobsen"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 186.0,
+  "end": 190.0,
+  "keywords": [
+   "Om \u00e5 vokse nedover"
+  ],
+  "type": "MISC",
+  "score": 0.9975949526,
+  "card": {
+   "keywords": [
+    "Om \u00e5 vokse nedover"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 219.0,
+  "end": 223.0,
+  "keywords": [
+   "Norge"
+  ],
+  "type": "LOC",
+  "score": 0.9927479625,
+  "card": {
+   "keywords": [
+    "Norge"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Norge"
+  }
+ },
+ {
+  "start": 350.0,
+  "end": 354.0,
+  "keywords": [
+   "Erna Solberg"
+  ],
+  "type": "PER",
+  "score": 0.9996435642,
+  "card": {
+   "keywords": [
+    "Erna Solbergs"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 371.0,
+  "end": 374.0,
+  "keywords": [
+   "Instagram"
+  ],
+  "type": "MISC",
+  "score": 0.9990056157,
+  "card": {
+   "keywords": [
+    "Instagram"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Instagram"
+  }
+ },
+ {
+  "start": 371.0,
+  "end": 374.0,
+  "keywords": [
+   "Twitter"
+  ],
+  "type": "MISC",
+  "score": 0.9986402392,
+  "card": {
+   "keywords": [
+    "Twitter"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Twitter"
+  }
+ },
+ {
+  "start": 384.0,
+  "end": 394.0,
+  "keywords": [
+   "Bibelen"
+  ],
+  "type": "MISC",
+  "score": 0.9979009628,
+  "card": {
+   "keywords": [
+    "Bibelen"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Bibelen"
+  }
+ },
+ {
+  "start": 412.0,
+  "end": 414.0,
+  "keywords": [
+   "Jesus"
+  ],
+  "type": "PER",
+  "score": 0.9997841716,
+  "card": {
+   "keywords": [
+    "Jesus"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Jesus_Kristus"
+  }
+ },
+ {
+  "start": 506.0,
+  "end": 510.0,
+  "keywords": [
+   "Deilei Jorden"
+  ],
+  "type": "MISC",
+  "score": 0.9992834926,
+  "card": {
+   "keywords": [
+    "Deilei Jorden"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 546.0,
+  "end": 549.0,
+  "keywords": [
+   "Str\u00f8mstad"
+  ],
+  "type": "LOC",
+  "score": 0.999628067,
+  "card": {
+   "keywords": [
+    "Str\u00f8mstad"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Str\u00f8mstad"
+  }
+ },
+ {
+  "start": 546.0,
+  "end": 549.0,
+  "keywords": [
+   "Stockholm"
+  ],
+  "type": "LOC",
+  "score": 0.9997038245,
+  "card": {
+   "keywords": [
+    "Stockholm"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Stockholm"
+  }
+ },
+ {
+  "start": 551.0,
+  "end": 556.0,
+  "keywords": [
+   "Erna Solberg"
+  ],
+  "type": "PER",
+  "score": 0.9996902943,
+  "card": {
+   "keywords": [
+    "Erna Solbergs"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 551.0,
+  "end": 556.0,
+  "keywords": [
+   "Bj\u00f8rnar Skj\u00e6ran"
+  ],
+  "type": "PER",
+  "score": 0.9997323751,
+  "card": {
+   "keywords": [
+    "Bj\u00f8rnar Skj\u00e6ran"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Bj%C3%B8rnar_Skj%C3%A6ran"
+  }
+ },
+ {
+  "start": 556.0,
+  "end": 561.0,
+  "keywords": [
+   "Bj\u00f8rnar Skj\u00e6ran"
+  ],
+  "type": "PER",
+  "score": 0.9998065233,
+  "card": {
+   "keywords": [
+    "Bj\u00f8rnar Skj\u00e6ran"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Bj%C3%B8rnar_Skj%C3%A6ran"
+  }
+ },
+ {
+  "start": 561.0,
+  "end": 564.0,
+  "keywords": [
+   "Trygve"
+  ],
+  "type": "PER",
+  "score": 0.9996219873,
+  "card": {
+   "keywords": [
+    "Trygve Slagsvold"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 581.0,
+  "end": 584.0,
+  "keywords": [
+   "Arslak Eriksrud"
+  ],
+  "type": "PER",
+  "score": 0.9997770786,
+  "card": {
+   "keywords": [
+    "Erik Torsvedt"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 581.0,
+  "end": 584.0,
+  "keywords": [
+   "Furterbua"
+  ],
+  "type": "LOC",
+  "score": 0.99895823,
+  "card": {
+   "keywords": [
+    "Furterbua"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Furterbua"
+  }
+ },
+ {
+  "start": 596.72,
+  "end": 598.72,
+  "keywords": [
+   "Erik"
+  ],
+  "type": "PER",
+  "score": 0.9993614554,
+  "card": {
+   "keywords": [
+    "Erik Torsvedt"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 601.0,
+  "end": 604.0,
+  "keywords": [
+   "Qatar"
+  ],
+  "type": "LOC",
+  "score": 0.991560638,
+  "card": {
+   "keywords": [
+    "Qatar"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Qatar"
+  }
+ },
+ {
+  "start": 604.0,
+  "end": 607.0,
+  "keywords": [
+   "Christian Torstvedt"
+  ],
+  "type": "PER",
+  "score": 0.9997748733,
+  "card": {
+   "keywords": [
+    "Christian Torstvedt"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 764.6,
+  "end": 767.0666666666667,
+  "keywords": [
+   "Erik"
+  ],
+  "type": "PER",
+  "score": 0.9997716546,
+  "card": {
+   "keywords": [
+    "Erik Torsvedt"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 792.0,
+  "end": 795.0,
+  "keywords": [
+   "Qatar"
+  ],
+  "type": "LOC",
+  "score": 0.9994214773,
+  "card": {
+   "keywords": [
+    "Qatar"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Qatar"
+  }
+ },
+ {
+  "start": 808.0,
+  "end": 810.0,
+  "keywords": [
+   "Amnesty"
+  ],
+  "type": "ORG",
+  "score": 0.9993426204,
+  "card": {
+   "keywords": [
+    "Amnesty"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Amnesty_International"
+  }
+ },
+ {
+  "start": 822.0,
+  "end": 824.0,
+  "keywords": [
+   "Amnesty"
+  ],
+  "type": "ORG",
+  "score": 0.9994726777,
+  "card": {
+   "keywords": [
+    "Amnesty"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Amnesty_International"
+  }
+ },
+ {
+  "start": 826.0,
+  "end": 828.0,
+  "keywords": [
+   "FIFA"
+  ],
+  "type": "ORG",
+  "score": 0.9987828135,
+  "card": {
+   "keywords": [
+    "FIFA"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/FIFA"
+  }
+ },
+ {
+  "start": 828.0,
+  "end": 830.0,
+  "keywords": [
+   "Qatar"
+  ],
+  "type": "ORG",
+  "score": 0.9706939459,
+  "card": {
+   "keywords": [
+    "Qatar"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Qatar"
+  }
+ },
+ {
+  "start": 838.0,
+  "end": 840.0,
+  "keywords": [
+   "Holland"
+  ],
+  "type": "LOC",
+  "score": 0.9990265369,
+  "card": {
+   "keywords": [
+    "Holland"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Holland"
+  }
+ },
+ {
+  "start": 845.0,
+  "end": 848.0,
+  "keywords": [
+   "Qatar"
+  ],
+  "type": "LOC",
+  "score": 0.7673940063,
+  "card": {
+   "keywords": [
+    "Qatar"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Qatar"
+  }
+ },
+ {
+  "start": 849.9,
+  "end": 851.9000000000001,
+  "keywords": [
+   "Qatar"
+  ],
+  "type": "LOC",
+  "score": 0.7221052647,
+  "card": {
+   "keywords": [
+    "Qatar"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Qatar"
+  }
+ },
+ {
+  "start": 924.39,
+  "end": 926.3899999999999,
+  "keywords": [
+   "VM"
+  ],
+  "type": "MISC",
+  "score": 0.9681844711,
+  "card": {
+   "keywords": [
+    "Qatar VM"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 933.46,
+  "end": 935.86,
+  "keywords": [
+   "Erik"
+  ],
+  "type": "PER",
+  "score": 0.999790132,
+  "card": {
+   "keywords": [
+    "Erik Torsvedt"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 965.8833333333332,
+  "end": 967.8833333333332,
+  "keywords": [
+   "Tyskland"
+  ],
+  "type": "LOC",
+  "score": 0.9988691211,
+  "card": {
+   "keywords": [
+    "Tyskland"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Tyskland"
+  }
+ },
+ {
+  "start": 967.8833333333332,
+  "end": 969.8833333333332,
+  "keywords": [
+   "Franz Becken"
+  ],
+  "type": "PER",
+  "score": 0.9998325109,
+  "card": {
+   "keywords": [
+    "Franz Becken"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 975.0,
+  "end": 977.0,
+  "keywords": [
+   "Jonas Karlsj\u00f8ret"
+  ],
+  "type": "PER",
+  "score": 0.9995267391,
+  "card": {
+   "keywords": [
+    "Jonas Karlsj\u00f8ret"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 977.0,
+  "end": 979.0,
+  "keywords": [
+   "Norge"
+  ],
+  "type": "LOC",
+  "score": 0.9995268583,
+  "card": {
+   "keywords": [
+    "Norge"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Norge"
+  }
+ },
+ {
+  "start": 1001.0,
+  "end": 1003.0,
+  "keywords": [
+   "Arslak"
+  ],
+  "type": "PER",
+  "score": 0.9132425785,
+  "card": {
+   "keywords": [
+    "Arslak"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1001.0,
+  "end": 1003.0,
+  "keywords": [
+   "Trygve"
+  ],
+  "type": "PER",
+  "score": 0.9992355108,
+  "card": {
+   "keywords": [
+    "Trygve Slagsvold"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1035.0,
+  "end": 1037.04,
+  "keywords": [
+   "Erna Solberg"
+  ],
+  "type": "PER",
+  "score": 0.9997166395,
+  "card": {
+   "keywords": [
+    "Erna Solbergs"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1065.04,
+  "end": 1067.04,
+  "keywords": [
+   "Arbeiderpartiet"
+  ],
+  "type": "ORG",
+  "score": 0.9993237257,
+  "card": {
+   "keywords": [
+    "Arbeiderpartiet"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Arbeiderpartiet"
+  }
+ },
+ {
+  "start": 1067.04,
+  "end": 1069.04,
+  "keywords": [
+   "Jonas Karst\u00f8rre"
+  ],
+  "type": "PER",
+  "score": 0.9998717308,
+  "card": {
+   "keywords": [
+    "Jonas Karlsj\u00f8ret"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1157.5066666666667,
+  "end": 1159.5066666666667,
+  "keywords": [
+   "Erna"
+  ],
+  "type": "PER",
+  "score": 0.9997166991,
+  "card": {
+   "keywords": [
+    "Erna Solbergs"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1184.3866666666668,
+  "end": 1186.3866666666668,
+  "keywords": [
+   "EU"
+  ],
+  "type": "ORG",
+  "score": 0.9981725216,
+  "card": {
+   "keywords": [
+    "EU"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Den_europeiske_union"
+  }
+ },
+ {
+  "start": 1226.1033333333332,
+  "end": 1228.1033333333335,
+  "keywords": [
+   "Kina"
+  ],
+  "type": "LOC",
+  "score": 0.967248857,
+  "card": {
+   "keywords": [
+    "Kina"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Kina"
+  }
+ },
+ {
+  "start": 1273.0,
+  "end": 1275.0,
+  "keywords": [
+   "Erik"
+  ],
+  "type": "PER",
+  "score": 0.9997015595,
+  "card": {
+   "keywords": [
+    "Erik Torsvedt"
+   ],
+   "type": "PER"
+  }
+ }
+]

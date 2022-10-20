@@ -1,0 +1,12 @@
+{
+ "id": 2442933340,
+ "subtitles": [
+  {
+   "src": "/whisper//tv2/N-FOLKETSVALG-070921-AOV-2100_subs.json"
+  }
+ ],
+ "cast": "/whisper//tv2/N-FOLKETSVALG-070921-AOV-2100_people.json",
+ "audio": {
+  "src": "https://seer2.itek.norut.no/whisper//tv2/N-FOLKETSVALG-070921-AOV-2100.mp3"
+ }
+}

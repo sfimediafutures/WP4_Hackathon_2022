@@ -1,0 +1,169 @@
+[
+ {
+  "id": 405525877,
+  "title": "Gmn-Del5-150620_Sommertest",
+  "published": 1665656930.4478326,
+  "manifest": "/whisper//tv2/GMN-DEL5-150620_Sommertest.json",
+  "description": "",
+  "enclosures": [
+   {
+    "url": "/whisper//tv2/GMN-DEL5-150620_Sommertest.mp3",
+    "mime_type": "audio/mpeg"
+   }
+  ]
+ },
+ {
+  "id": 1944354219,
+  "title": "N-Norsketilstander-150421-Elt-Hk-Endelig",
+  "published": 1665664383.7156324,
+  "manifest": "/whisper//tv2/N-NORSKETILSTANDER-150421-ELT-HK-ENDELIG.json",
+  "description": "",
+  "enclosures": [
+   {
+    "url": "/whisper//tv2/N-NORSKETILSTANDER-150421-ELT-HK-ENDELIG.mp3",
+    "mime_type": "audio/mpeg"
+   }
+  ],
+  "episode_art_url": "https://sumo.cdn.tv2.no/imageapi/v3/img/608bcb49498e4191da534e3a-1648735246705?location=identity16x9&quality=50&width=1280&height=720"
+ },
+ {
+  "id": 2602555257,
+  "title": "N-Norsketilstander-160421-Mav-Nk",
+  "published": 1665666933.7784545,
+  "manifest": "/whisper//tv2/N-NORSKETILSTANDER-160421-MAV-NK.json",
+  "description": "",
+  "enclosures": [
+   {
+    "url": "/whisper//tv2/N-NORSKETILSTANDER-160421-MAV-NK.mp3",
+    "mime_type": "audio/mpeg"
+   }
+  ],
+  "episode_art_url": "https://sumo.cdn.tv2.no/imageapi/v3/img/608bcb49498e4191da534e3a-1648735246705?location=identity16x9&quality=50&width=1280&height=720"
+ },
+ {
+  "id": 1745367596,
+  "title": "Txo-Presseklubben_N069837-Pgm-260321",
+  "published": 1665731705.8279357,
+  "manifest": "/whisper//tv2/txo-presseklubben_n069837-pgm-260321.json",
+  "description": "",
+  "enclosures": [
+   {
+    "url": "/whisper//tv2/txo-presseklubben_n069837-pgm-260321.mp3",
+    "mime_type": "audio/mpeg"
+   }
+  ],
+  "episode_art_url": "/whisper/tv2/Presseklubben.jpeg"
+ },
+ {
+  "id": 2846672844,
+  "title": "Txo-Presseklubben_N069839-Pgm-090421",
+  "published": 1665733267.8564744,
+  "manifest": "/whisper//tv2/txo-presseklubben_n069839-pgm-090421.json",
+  "description": "",
+  "enclosures": [
+   {
+    "url": "/whisper//tv2/txo-presseklubben_n069839-pgm-090421.mp3",
+    "mime_type": "audio/mpeg"
+   }
+  ],
+  "episode_art_url": "/whisper/tv2/Presseklubben.jpeg"
+ },
+ {
+  "id": 3510035274,
+  "title": "N-Dyrtsas-060822-Eihor-1830#2",
+  "published": 1665737952.0662665,
+  "manifest": "/whisper//tv2/N-DYRTSAS-060822-EIHOR-1830#2.json",
+  "description": "",
+  "enclosures": [
+   {
+    "url": "/whisper//tv2/N-DYRTSAS-060822-EIHOR-1830#2.mp3",
+    "mime_type": "audio/mpeg"
+   }
+  ],
+  "episode_art_url": "https://www.cdn.tv2.no/images/13671777.jpg?imageId=13671777&width=1060&height=597"
+ },
+ {
+  "id": 3477880920,
+  "title": "N-Donetskflukt-170822-Kid-2100-2T",
+  "published": 1665738629.0345504,
+  "manifest": "/whisper//tv2/N-DONETSKFLUKT-170822-KID-2100-2T.json",
+  "description": "",
+  "enclosures": [
+   {
+    "url": "/whisper//tv2/N-DONETSKFLUKT-170822-KID-2100-2T.mp3",
+    "mime_type": "audio/mpeg"
+   }
+  ],
+  "episode_art_url": "https://www.cdn.tv2.no/images/13671777.jpg?imageId=13671777&width=1060&height=597"
+ },
+ {
+  "id": 2442933340,
+  "title": "N-Folketsvalg-070921-Aov-2100",
+  "published": 1665739078.6531436,
+  "manifest": "/whisper//tv2/N-FOLKETSVALG-070921-AOV-2100.json",
+  "description": "",
+  "enclosures": [
+   {
+    "url": "/whisper//tv2/N-FOLKETSVALG-070921-AOV-2100.mp3",
+    "mime_type": "audio/mpeg"
+   }
+  ],
+  "episode_art_url": "https://www.cdn.tv2.no/images/13671777.jpg?imageId=13671777&width=1060&height=597"
+ },
+ {
+  "id": 3212091540,
+  "title": "N-Partilederdebatt-Deichman-080921-Tka-Arkivkandidat",
+  "published": 1665743899.9878075,
+  "manifest": "/whisper//tv2/n-partilederdebatt-deichman-080921-tka-arkivkandidat.json",
+  "description": "",
+  "enclosures": [
+   {
+    "url": "/whisper//tv2/n-partilederdebatt-deichman-080921-tka-arkivkandidat.mp3",
+    "mime_type": "audio/mpeg"
+   }
+  ],
+  "episode_art_url": "https://sumo.cdn.tv2.no/imageapi/v3/img/611b9eea498e770b73c69525-1629360298749"
+ },
+ {
+  "id": 761364450,
+  "title": "N-Partilederutsporring-010915-Sv-300820-Saman-Arkivkandidat",
+  "published": 1665747630.6820827,
+  "manifest": "/whisper//tv2/n-partilederutsporring-010915-sv-300820-saman-arkivkandidat.json",
+  "description": "",
+  "enclosures": [
+   {
+    "url": "/whisper//tv2/n-partilederutsporring-010915-sv-300820-saman-arkivkandidat.mp3",
+    "mime_type": "audio/mpeg"
+   }
+  ],
+  "episode_art_url": "https://www.cdn.tv2.no/images/7363119.jpg?imageId=7363119&x=29.01023890785&y=11.903114186851&cropw=45.831301803998&croph=36.608996539792&width=997&height=562"
+ },
+ {
+  "id": 3815616687,
+  "title": "N-Partilederutsporring-050917-Frp-300820-Saman-Arkivkandidat",
+  "published": 1665749101.7268767,
+  "manifest": "/whisper//tv2/n-partilederutsporring-050917-frp-300820-saman-arkivkandidat.json",
+  "description": "",
+  "enclosures": [
+   {
+    "url": "/whisper//tv2/n-partilederutsporring-050917-frp-300820-saman-arkivkandidat.mp3",
+    "mime_type": "audio/mpeg"
+   }
+  ],
+  "episode_art_url": "https://www.cdn.tv2.no/images/7363119.jpg?imageId=7363119&x=29.01023890785&y=11.903114186851&cropw=45.831301803998&croph=36.608996539792&width=997&height=562"
+ },
+ {
+  "id": 3971045203,
+  "title": "N-Norsketilstander-Ep3-290421-Elt-Hk-3",
+  "published": 1666017089.5244756,
+  "manifest": "/whisper//tv2/N-NORSKETILSTANDER-EP3-290421-ELT-HK-3.json",
+  "description": "",
+  "enclosures": [
+   {
+    "url": "/whisper//tv2/N-NORSKETILSTANDER-EP3-290421-ELT-HK-3.mp3",
+    "mime_type": "audio/mpeg"
+   }
+  ],
+  "episode_art_url": "https://sumo.cdn.tv2.no/imageapi/v3/img/608bcb49498e4191da534e3a-1648735246705?location=identity16x9&quality=50&width=1280&height=720"
+ }
+]

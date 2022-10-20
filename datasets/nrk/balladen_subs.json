@@ -1,0 +1,5060 @@
+[
+ {
+  "start": 0.0,
+  "end": 1.2666666666666666,
+  "text": "En podkast fra NRK.",
+  "who": 4,
+  "matched": true
+ },
+ {
+  "start": 3.68,
+  "end": 9.28,
+  "text": "Velkommen skal du v\u00e6re, H\u00e5kan. Du f\u00e5r komme hit og sette deg.",
+  "who": 0
+ },
+ {
+  "start": 9.36,
+  "end": 12.8,
+  "text": "Du har kommet ut med en ny CD.",
+  "who": 0
+ },
+ {
+  "start": 12.88,
+  "end": 16.72,
+  "text": "Hvor mange produksjoner har det blitt gjennom tiden?",
+  "who": 0
+ },
+ {
+  "start": 16.8,
+  "end": 20.12,
+  "text": "Det er ikke helt sikkert, men 12 eller 13.",
+  "who": 0
+ },
+ {
+  "start": 20.2,
+  "end": 24.72,
+  "text": "For de som ikke vet det, s\u00e5 kom H\u00e5kan fra Hof i Soler.",
+  "who": 0
+ },
+ {
+  "start": 24.72,
+  "end": 30.120000000000005,
+  "text": "Der har du bodd i Almedia.",
+  "who": 0
+ },
+ {
+  "start": 31.6,
+  "end": 35.8,
+  "text": "Dette er et gammelt TV intervju med H\u00e5kon Banken.",
+  "who": 1
+ },
+ {
+  "start": 35.88,
+  "end": 39.56,
+  "text": "Han flakker med blikket med en kobboiatt p\u00e5 hodet.",
+  "who": 1
+ },
+ {
+  "start": 39.64,
+  "end": 42.72,
+  "text": "Han viser seg nesten aldri offentlig.",
+  "who": 1
+ },
+ {
+  "start": 42.8,
+  "end": 46.4,
+  "text": "Men Banken var en av v\u00e5re st\u00f8rste artister.",
+  "who": 1
+ },
+ {
+  "start": 46.48,
+  "end": 51.2,
+  "text": "Musikken spredet seg p\u00e5 bygda. Han solgte hundre tusen plater.",
+  "who": 1
+ },
+ {
+  "start": 51.2,
+  "end": 58.08,
+  "text": "Han satt rekorder p\u00e5 norsktoppen, og artister i andre land tog sangen med.",
+  "who": 1
+ },
+ {
+  "start": 57.45,
+  "end": 59.45,
+  "text": "Hvordan er det med opptredene?",
+  "who": 0,
+  "matched": true
+ },
+ {
+  "start": 60.72,
+  "end": 66.68,
+  "text": "Det er jeg d\u00e5rlig med. Jeg liker meg ikke p\u00e5 scenen.",
+  "who": 0
+ },
+ {
+  "start": 66.76,
+  "end": 72.36,
+  "text": "Det er ikke s\u00e5 mye publikum. Det er bare de som sitter ute i tusen hjem.",
+  "who": 0
+ },
+ {
+  "start": 72.44,
+  "end": 74.0,
+  "text": "Det er litt vernt der.",
+  "who": 0
+ },
+ {
+  "start": 74.08,
+  "end": 78.92,
+  "text": "Du liker \u00e5 skrive og synge om det sosiale?",
+  "who": 0
+ },
+ {
+  "start": 78.92,
+  "end": 81.92,
+  "text": "Ja.",
+  "who": 2
+ },
+ {
+  "start": 82.0,
+  "end": 86.0,
+  "text": "Hva gir det deg selv f\u00f8lelsesmessig?",
+  "who": 0
+ },
+ {
+  "start": 88.07,
+  "end": 89.00333333333333,
+  "text": "F\u00e5r du ut noe?",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 90.28,
+  "end": 93.08,
+  "text": "Jo, det hjelper selvf\u00f8lgelig.",
+  "who": 0
+ },
+ {
+  "start": 93.16,
+  "end": 98.6,
+  "text": "Skrive mye under depresjonsperioder. Det har hjulpet meg.",
+  "who": 0
+ },
+ {
+  "start": 98.68,
+  "end": 101.52,
+  "text": "Det \u00e5 skrive med utrolig.",
+  "who": 3
+ },
+ {
+  "start": 104.74,
+  "end": 109.20666666666666,
+  "text": "Det fins ingen andre TV intervjuer enn dette fra TV Hedmark i 1991.",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 109.20666666666666,
+  "end": 111.68666666666667,
+  "text": "H\u00e5kon Banken ville ikke p\u00e5 TV.",
+  "who": 1
+ },
+ {
+  "start": 111.68666666666667,
+  "end": 115.64666666666668,
+  "text": "Han ville ikke spille konserter. Han ville ikke verden rundt.",
+  "who": 1
+ },
+ {
+  "start": 115.64666666666668,
+  "end": 117.84666666666668,
+  "text": "Han ville ingensteder.",
+  "who": 1
+ },
+ {
+  "start": 117.84666666666668,
+  "end": 121.36666666666666,
+  "text": "H\u00e5kon Banken ville bare v\u00e6re hjemme.",
+  "who": 1
+ },
+ {
+  "start": 121.36666666666666,
+  "end": 125.56666666666668,
+  "text": "Med det samme vi kom ut med i den aller f\u00f8rste platen hans,",
+  "who": 4
+ },
+ {
+  "start": 123.08,
+  "end": 127.2,
+  "text": "s\u00e5 gikk den som vi aldri trodde var v\u00e5re egne \u00f8ynhalter.",
+  "who": 0
+ },
+ {
+  "start": 127.2,
+  "end": 131.72000000000003,
+  "text": "Det ringte folk hele tiden. Skulle han ta lov til det?",
+  "who": 0
+ },
+ {
+  "start": 131.8,
+  "end": 136.88,
+  "text": "Det var s\u00e5 ekte. Han sang p\u00e5 en m\u00e5te, s\u00e5 jeg forsto ham.",
+  "who": 0
+ },
+ {
+  "start": 136.96,
+  "end": 141.24,
+  "text": "Flere har frid til meg fordi jeg er datteren til H\u00e5kon.",
+  "who": 4
+ },
+ {
+  "start": 141.32,
+  "end": 146.44,
+  "text": "Han er p\u00e5 scenen igjen. Ingen mindre enn H\u00e5kon Banken!",
+  "who": 4
+ },
+ {
+  "start": 149.52,
+  "end": 153.72,
+  "text": "Og s\u00e5 husker jeg han kom ut p\u00e5 scenen.",
+  "who": 2
+ },
+ {
+  "start": 153.72,
+  "end": 159.2,
+  "text": "Med skinnjakke og hastighetssonaten og...",
+  "who": 4
+ },
+ {
+  "start": 163.43,
+  "end": 166.43,
+  "text": "Det var helt forferdelig. Han var kjempefull.",
+  "who": 4,
+  "matched": true
+ },
+ {
+  "start": 163.48,
+  "end": 167.24,
+  "text": "Han \u00f8nsket bare at dummedagen ikke skulle komme",
+  "who": 2
+ },
+ {
+  "start": 167.32,
+  "end": 172.76,
+  "text": "f\u00f8r han var 18 \u00e5r og fikk f\u00f8rekort og kunne reise til Sverige.",
+  "who": 5
+ },
+ {
+  "start": 172.84,
+  "end": 176.32,
+  "text": "Jeg skj\u00f8nte at han m\u00e5tte i fengsel.",
+  "who": 4
+ },
+ {
+  "start": 176.4,
+  "end": 179.2,
+  "text": "Ingen opptreten, ingen fjernsyn.",
+  "who": 2
+ },
+ {
+  "start": 179.2,
+  "end": 184.88,
+  "text": "I det hele tatt kunne han v\u00e6rt en dr\u00f8mmefygur som folk ikke visste om.",
+  "who": 0
+ },
+ {
+  "start": 196.0,
+  "end": 200.28,
+  "text": "Den aller f\u00f8rste gangen jeg h\u00f8rte om H\u00e5kon Banken var den uka han d\u00f8de.",
+  "who": 2
+ },
+ {
+  "start": 204.11,
+  "end": 206.95,
+  "text": "Ikke fordi det sto noe om d\u00f8dsfallet i avisen,",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 206.95,
+  "end": 210.79,
+  "text": "men H\u00e5kon Banken var et glemt navn for de aller fleste.",
+  "who": 1
+ },
+ {
+  "start": 210.79,
+  "end": 215.11,
+  "text": "Men fordi jeg f\u00e5r villet meg inn i en bar med noen kolleger midt i Oslo.",
+  "who": 1
+ },
+ {
+  "start": 215.11,
+  "end": 217.50999999999996,
+  "text": "En bar som holdt graveh\u00f8l for ham.",
+  "who": 1
+ },
+ {
+  "start": 217.50999999999996,
+  "end": 220.75,
+  "text": "Jeg merket med en gang jeg kom inn d\u00f8ra at stemningen var rar.",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 220.75,
+  "end": 223.63,
+  "text": "Musikken som str\u00f8mmer fra h\u00f8ytallerne var helt annerledes",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 223.63,
+  "end": 225.74999999999997,
+  "text": "enn den de normalt spilte p\u00e5 dette stedet.",
+  "who": 1
+ },
+ {
+  "start": 225.74999999999997,
+  "end": 228.27,
+  "text": "Det ligner svensk topp eller dansband.",
+  "who": 1
+ },
+ {
+  "start": 228.27,
+  "end": 231.70999999999998,
+  "text": "Dette var H\u00e5kon Bankens sanger, men de handler ikke bare om damer og forelskelse,",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 231.70999999999998,
+  "end": 234.82999999999996,
+  "text": "som dansbandl\u00e5ter ofte gj\u00f8r, men om angst og d\u00f8d ogs\u00e5.",
+  "who": 1
+ },
+ {
+  "start": 234.82999999999996,
+  "end": 237.34999999999997,
+  "text": "Og om innlegelse p\u00e5 psykiatriske sykehus.",
+  "who": 1
+ },
+ {
+  "start": 237.34999999999997,
+  "end": 240.74999999999994,
+  "text": "Og det var ganske \u00e5penbart at sangene handler om ham.",
+  "who": 1
+ },
+ {
+  "start": 284.28,
+  "end": 287.12,
+  "text": "Jeg ble nysgjerrig p\u00e5 H\u00e5kon Banken den kvelden i barna.",
+  "who": 1
+ },
+ {
+  "start": 287.12,
+  "end": 290.48000000000013,
+  "text": "Folk sa at han hadde solgt 700 000 plater gjennom 80 tallet,",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 290.64,
+  "end": 293.44,
+  "text": "men jeg hadde aldri h\u00f8rt om han, ikke f\u00f8r den dagen.",
+  "who": 1
+ },
+ {
+  "start": 293.44,
+  "end": 296.68000000000006,
+  "text": "Derfor pr\u00f8vde jeg \u00e5 lese meg opp p\u00e5 historien hans.",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 296.78,
+  "end": 298.46000000000004,
+  "text": "Men s\u00e5 var det ikke noen historie.",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 298.52,
+  "end": 301.32,
+  "text": "Historien om H\u00e5kon Banken fant oss ikke.",
+  "who": 1
+ },
+ {
+  "start": 301.32,
+  "end": 305.12,
+  "text": "Det var noen notiser her og der, men utover det, ingenting.",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 305.2,
+  "end": 322.32,
+  "text": "Dette er balladen om H\u00e5kon Banken. Jeg heter Joakim F\u00f8rs\u00e9n.",
+  "who": 2
+ },
+ {
+  "start": 322.32,
+  "end": 325.64000000000004,
+  "text": "Vi har passert Kongsvinger og kj\u00f8rer nordover i retning Elverum.",
+  "who": 2
+ },
+ {
+  "start": 325.72,
+  "end": 328.64,
+  "text": "P\u00e5 h\u00f8yre siden mot \u00f8st ligger Finnskogen og Sverige,",
+  "who": 2
+ },
+ {
+  "start": 328.72,
+  "end": 330.64,
+  "text": "og p\u00e5 venstre flyter Glomma.",
+  "who": 2
+ },
+ {
+  "start": 330.72,
+  "end": 333.64,
+  "text": "Det er flate \u00e5kere og Klinge med bj\u00f8rk p\u00e5 begge sider av veien,",
+  "who": 2
+ },
+ {
+  "start": 333.72,
+  "end": 336.24,
+  "text": "men selv om jeg bare har kj\u00f8rt en dr\u00f8yt time ut av Oslo,",
+  "who": 2
+ },
+ {
+  "start": 336.32,
+  "end": 338.84,
+  "text": "kjenner jeg ikke navnet p\u00e5 noen av disse stedene.",
+  "who": 1
+ },
+ {
+  "start": 338.92,
+  "end": 341.84,
+  "text": "Brandvall, Klinge med bj\u00f8rk og Klinge med bj\u00f8rk.",
+  "who": 1
+ },
+ {
+  "start": 341.92,
+  "end": 344.84,
+  "text": "Det er et sted der det er flate \u00e5kere og Klinge med bj\u00f8rk.",
+  "who": 1
+ },
+ {
+  "start": 344.92,
+  "end": 347.84,
+  "text": "Det er et sted der det er flate \u00e5kere og Klinge med bj\u00f8rk.",
+  "who": 1
+ },
+ {
+  "start": 347.92,
+  "end": 350.84,
+  "text": "Det er et sted der det er flate \u00e5kere og Klinge med bj\u00f8rk.",
+  "who": 1
+ },
+ {
+  "start": 350.84,
+  "end": 355.36000000000007,
+  "text": "Brandvall, Kjura,rinner, Namno, Arneb\u00e6r.",
+  "who": 1
+ },
+ {
+  "start": 355.44,
+  "end": 357.12,
+  "text": "Dette er H\u00e5konbankens Verden",
+  "who": 1
+ },
+ {
+  "start": 357.2,
+  "end": 361.24,
+  "text": "og p\u00e5 denne f\u00f8rste turen hitt veit jeg nesten ingenting om den.",
+  "who": 1
+ },
+ {
+  "start": 361.73,
+  "end": 363.93,
+  "text": "Men snart skal folk begynne \u00e5 fortelle",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 363.93,
+  "end": 365.61,
+  "text": "om Beatles tilstand i Sverige",
+  "who": 1
+ },
+ {
+  "start": 365.61,
+  "end": 367.81000000000006,
+  "text": "og om den danske p\u00f8lsemakeren som tok med seg",
+  "who": 1
+ },
+ {
+  "start": 367.81000000000006,
+  "end": 369.5300000000001,
+  "text": "H\u00e5konbankens sanger til Amerika.",
+  "who": 1
+ },
+ {
+  "start": 369.5300000000001,
+  "end": 373.4500000000001,
+  "text": "Snart skal de fortelle hvorfor H\u00e5konbanken bare ble borte",
+  "who": 1
+ },
+ {
+  "start": 373.4500000000001,
+  "end": 375.17000000000013,
+  "text": "da han var p\u00e5 sitt mest popul\u00e6re.",
+  "who": 1
+ },
+ {
+  "start": 375.17000000000013,
+  "end": 377.2900000000001,
+  "text": "De skal fortelle om ulykken og om donnen",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 377.44,
+  "end": 379.36,
+  "text": "og om den ukjente mannen H\u00e5konbanken m\u00f8tte",
+  "who": 1
+ },
+ {
+  "start": 379.36,
+  "end": 381.91999999999996,
+  "text": "som var innlagt p\u00e5 psykiatrisk sykehus.",
+  "who": 1
+ },
+ {
+  "start": 381.99,
+  "end": 384.62999999999994,
+  "text": "Alt dette og veldig mye mer skal folk fortelle meg om,",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 384.62999999999994,
+  "end": 388.10999999999996,
+  "text": "men n\u00e5, n\u00e5r jeg er p\u00e5 vei innover i disse tynt befolket grensomr\u00e5dene",
+  "who": 1
+ },
+ {
+  "start": 388.10999999999996,
+  "end": 389.46999999999997,
+  "text": "for aller f\u00f8rste gang,",
+  "who": 1
+ },
+ {
+  "start": 389.46999999999997,
+  "end": 391.35,
+  "text": "vet jeg bare en ting.",
+  "who": 1
+ },
+ {
+  "start": 391.35,
+  "end": 393.71000000000004,
+  "text": "Hvis jeg skal f\u00e5 svar p\u00e5 hvem H\u00e5kon Banken var,",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 393.64,
+  "end": 394.92,
+  "text": "s\u00e5 m\u00e5 jeg leite her.",
+  "who": 4
+ },
+ {
+  "start": 406.2,
+  "end": 406.59999999999997,
+  "text": "Hallo?",
+  "who": 3,
+  "matched": true
+ },
+ {
+  "start": 407.2,
+  "end": 409.84,
+  "text": "Ja, hei, det er Joakim F\u00f8rsund som ringer.",
+  "who": 1
+ },
+ {
+  "start": 409.84,
+  "end": 411.16,
+  "text": "Eh, goddagen.",
+  "who": 3
+ },
+ {
+  "start": 411.16,
+  "end": 411.7600000000001,
+  "text": "Goddagen.",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 411.89,
+  "end": 414.60999999999996,
+  "text": "Havde du tid til \u00e5 snakke litt med meg i dag?",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 414.72,
+  "end": 416.44,
+  "text": "Ja, det skulle g\u00e5 bra det.",
+  "who": 3,
+  "matched": true
+ },
+ {
+  "start": 416.44,
+  "end": 417.32000000000005,
+  "text": "I dag g\u00e5r det bra.",
+  "who": 3
+ },
+ {
+  "start": 417.28,
+  "end": 419.8,
+  "text": "S\u00e5 jeg tror kanskje jeg er utenfor hos deg n\u00e5, ja?",
+  "who": 1
+ },
+ {
+  "start": 419.8,
+  "end": 420.6,
+  "text": "\u00c5h, \u00e5h.",
+  "who": 3
+ },
+ {
+  "start": 420.6,
+  "end": 422.16,
+  "text": "Det er p\u00e5 hverandre mennesker n\u00e5.",
+  "who": 4
+ },
+ {
+  "start": 422.16,
+  "end": 423.44,
+  "text": "Ok, men...",
+  "who": 4
+ },
+ {
+  "start": 423.44,
+  "end": 425.88,
+  "text": "Aril Sundheng var H\u00e5kon Bankens n\u00e6rmeste nabo,",
+  "who": 1
+ },
+ {
+  "start": 425.88,
+  "end": 427.36,
+  "text": "gjennom hele oppveksten.",
+  "who": 1
+ },
+ {
+  "start": 427.36,
+  "end": 430.0,
+  "text": "Og n\u00e5 bor han alene i en liten r\u00f8d omsorgsbolig",
+  "who": 1
+ },
+ {
+  "start": 430.0,
+  "end": 433.0,
+  "text": "p\u00e5 her slettet mellom kiwi og r\u00e5dhuset p\u00e5 Flisa.",
+  "who": 1
+ },
+ {
+  "start": 433.0,
+  "end": 434.8399999999999,
+  "text": "Det var ikke her han hadde tenkt \u00e5 bli gammel.",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 434.8399999999999,
+  "end": 436.11999999999995,
+  "text": "Det var i Amerika.",
+  "who": 1
+ },
+ {
+  "start": 436.11999999999995,
+  "end": 439.04,
+  "text": "Han slo seg opp som oppfinner der borte da han var midt i 40 \u00e5r.",
+  "who": 1
+ },
+ {
+  "start": 439.04,
+  "end": 441.15999999999997,
+  "text": "Han tenkte gode penger og kj\u00f8rte digre biler,",
+  "who": 1
+ },
+ {
+  "start": 441.15999999999997,
+  "end": 444.28,
+  "text": "men s\u00e5 ble den amerikanske dr\u00f8mmen hans et mareritt.",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 444.28,
+  "end": 446.67999999999995,
+  "text": "Han datt ned fra en oljetank og holdt p\u00e5 \u00e5 d\u00f8.",
+  "who": 1
+ },
+ {
+  "start": 446.67999999999995,
+  "end": 449.48,
+  "text": "Og Amerika visste seg ikke noe blivende sted",
+  "who": 1
+ },
+ {
+  "start": 449.48,
+  "end": 450.99999999999994,
+  "text": "n\u00e5r du er land fra livet ned.",
+  "who": 1
+ },
+ {
+  "start": 450.99999999999994,
+  "end": 452.92,
+  "text": "Og derfor reiste Aril hjem til Flisa.",
+  "who": 1
+ },
+ {
+  "start": 452.76,
+  "end": 455.36,
+  "text": "Ja, n\u00e5 skal jeg kj\u00f8re ut med...",
+  "who": 3
+ },
+ {
+  "start": 455.36,
+  "end": 456.08,
+  "text": "Jeg sitter i en s\u00f8lv...",
+  "who": 4
+ },
+ {
+  "start": 456.08,
+  "end": 457.48,
+  "text": "Det er en rullestol her, s\u00e5nn.",
+  "who": 3
+ },
+ {
+  "start": 457.48,
+  "end": 458.76,
+  "text": "Ja, nattopp.",
+  "who": 1
+ },
+ {
+  "start": 458.76,
+  "end": 460.24,
+  "text": "N\u00e5 ser jeg deg, du kommer.",
+  "who": 3
+ },
+ {
+  "start": 460.24,
+  "end": 461.8,
+  "text": "Ja, n\u00e5 ser jeg deg ogs\u00e5.",
+  "who": 0
+ },
+ {
+  "start": 461.8,
+  "end": 463.04,
+  "text": "Ja, ok.",
+  "who": 3
+ },
+ {
+  "start": 463.04,
+  "end": 466.4,
+  "text": "Ok, fint.",
+  "who": 2
+ },
+ {
+  "start": 466.4,
+  "end": 468.12,
+  "text": "Ja.",
+  "who": 2
+ },
+ {
+  "start": 468.12,
+  "end": 469.12,
+  "text": "Ganske fin her.",
+  "who": 1
+ },
+ {
+  "start": 469.12,
+  "end": 470.68,
+  "text": "Ja, ja, det er det.",
+  "who": 3
+ },
+ {
+  "start": 470.68,
+  "end": 473.6,
+  "text": "Hvis du kan si s\u00e5nn, en, to, tre.",
+  "who": 1
+ },
+ {
+  "start": 473.6,
+  "end": 474.88,
+  "text": "En, to, tre.",
+  "who": 3
+ },
+ {
+  "start": 474.88,
+  "end": 475.52,
+  "text": "Ja, skal vi se.",
+  "who": 1
+ },
+ {
+  "start": 475.52,
+  "end": 477.4,
+  "text": "Det fjerde skal du se.",
+  "who": 3
+ },
+ {
+  "start": 477.4,
+  "end": 479.48,
+  "text": "Jeg tror for et stykke denne her,",
+  "who": 1
+ },
+ {
+  "start": 479.48,
+  "end": 482.03999999999996,
+  "text": "jeg skj\u00f8nner ikke hvorfor den lyden din er litt s\u00e5nn...",
+  "who": 1
+ },
+ {
+  "start": 482.04,
+  "end": 484.4,
+  "text": "Rar, ja, men det er fordi det gir jo ikke normal.",
+  "who": 3
+ },
+ {
+  "start": 484.4,
+  "end": 484.84,
+  "text": "Helt \u00e6rlig.",
+  "who": 1
+ },
+ {
+  "start": 484.84,
+  "end": 486.32,
+  "text": "Ja!",
+  "who": 3
+ },
+ {
+  "start": 486.32,
+  "end": 490.32,
+  "text": "Jeg har aldri h\u00f8rt normal, og det gir jeg s\u00e5 glad for.",
+  "who": 3
+ },
+ {
+  "start": 490.32,
+  "end": 493.04,
+  "text": "Men n\u00e5 klarte jeg \u00e5 f\u00e5 justere.",
+  "who": 1
+ },
+ {
+  "start": 492.88,
+  "end": 495.08,
+  "text": "Ja, ja, dette greier du jo vet du.",
+  "who": 3,
+  "matched": true
+ },
+ {
+  "start": 495.24,
+  "end": 497.88,
+  "text": "Ja.",
+  "who": 2
+ },
+ {
+  "start": 497.88,
+  "end": 499.0,
+  "text": "Ok.",
+  "who": 1
+ },
+ {
+  "start": 499.0,
+  "end": 502.1600000000001,
+  "text": "Kan ikke du fortelle meg hvorfor du kjenner H\u00e5kon?",
+  "who": 1
+ },
+ {
+  "start": 502.16,
+  "end": 504.56,
+  "text": "Vi vekste jo opp sammen, H\u00e5kon og jeg.",
+  "who": 3
+ },
+ {
+  "start": 504.56,
+  "end": 509.92,
+  "text": "Det var et tunn, og det var en lekeplass.",
+  "who": 3
+ },
+ {
+  "start": 509.92,
+  "end": 513.4533333333334,
+  "text": "Stor lekeplass, og s\u00e5 var det da huset rundt omkring.",
+  "who": 3,
+  "matched": true
+ },
+ {
+  "start": 514.16,
+  "end": 516.88,
+  "text": "Og det var jo slik at huset v\u00e5rt p\u00e5 ene siden,",
+  "who": 3
+ },
+ {
+  "start": 516.88,
+  "end": 518.7999999999998,
+  "text": "s\u00e5 var det det som H\u00e5kon bodde p\u00e5,",
+  "who": 3
+ },
+ {
+  "start": 518.8,
+  "end": 522.92,
+  "text": "og Are syr han liksom, s\u00e5 vi var jo sammen stort sett hver dag.",
+  "who": 3
+ },
+ {
+  "start": 522.92,
+  "end": 526.1999999999999,
+  "text": "Og da lekte vi med i den der parken der.",
+  "who": 3
+ },
+ {
+  "start": 526.23,
+  "end": 528.5633333333334,
+  "text": "Foreldrene mine og foreldres H\u00e5kon,",
+  "who": 3,
+  "matched": true
+ },
+ {
+  "start": 529.2,
+  "end": 531.0,
+  "text": "de gikk jo ganske greit og hverens.",
+  "who": 3
+ },
+ {
+  "start": 531.0,
+  "end": 535.24,
+  "text": "Selv om en far var jo slik anti religi\u00f8s,",
+  "who": 3
+ },
+ {
+  "start": 535.24,
+  "end": 539.0,
+  "text": "og en far av H\u00e5kon, han var jo motsatte.",
+  "who": 3
+ },
+ {
+  "start": 539.0,
+  "end": 545.0,
+  "text": "Han vekste jo opp i, jeg kan si det, dypt religi\u00f8st hem, det m\u00e5 man si, ja.",
+  "who": 3
+ },
+ {
+  "start": 545.0,
+  "end": 550.68,
+  "text": "Akkurat som H\u00e5kon, vokste Are lopp i den lille bygda Hoff i Soler.",
+  "who": 1
+ },
+ {
+  "start": 550.68,
+  "end": 554.68,
+  "text": "Han og familien bodde i etasjen over moras fris\u00f8rsalong utover hovedveien,",
+  "who": 1
+ },
+ {
+  "start": 554.68,
+  "end": 556.68,
+  "text": "mens H\u00e5kon bodde i huset rett p\u00e5 baksiden,",
+  "who": 1
+ },
+ {
+  "start": 556.68,
+  "end": 559.68,
+  "text": "ved lekeplassen under en klinge bj\u00f8rketr\u00e6r.",
+  "who": 1
+ },
+ {
+  "start": 559.68,
+  "end": 562.68,
+  "text": "Faren til H\u00e5kon, Peder, var forstander og s\u00f8ndagsskolel\u00e6rer",
+  "who": 1
+ },
+ {
+  "start": 562.68,
+  "end": 564.88,
+  "text": "i den lokale pinsemennigheten Philadelphia,",
+  "who": 1
+ },
+ {
+  "start": 564.88,
+  "end": 567.68,
+  "text": "hvor morra Olaug var aktiv der hun ogs\u00e5.",
+  "who": 1
+ },
+ {
+  "start": 567.68,
+  "end": 569.68,
+  "text": "De mente hun hadde f\u00e5tt n\u00e5degave av Gud,",
+  "who": 1
+ },
+ {
+  "start": 569.68,
+  "end": 572.4799999999999,
+  "text": "og ofte talt hun i tunger p\u00e5 Bedehuset.",
+  "who": 1
+ },
+ {
+  "start": 572.58,
+  "end": 574.98,
+  "text": "H\u00e5kon var p\u00e5 Philadelphia hver eneste s\u00f8ndag,",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 574.98,
+  "end": 577.9800000000001,
+  "text": "og fordi han hadde l\u00e6rt \u00e5 spille gitar og fiolin da han var barn,",
+  "who": 1
+ },
+ {
+  "start": 577.9800000000001,
+  "end": 580.9800000000001,
+  "text": "m\u00e5tte han spille og synge p\u00e5 scenen ogs\u00e5.",
+  "who": 1
+ },
+ {
+  "start": 582.88,
+  "end": 585.88,
+  "text": "I hvert fall en gang husker jeg hva med H\u00e5kon p\u00e5 m\u00f8te p\u00e5 Philadelphia.",
+  "who": 3
+ },
+ {
+  "start": 585.88,
+  "end": 587.88,
+  "text": "Og du var med? Ja.",
+  "who": 0
+ },
+ {
+  "start": 588.36,
+  "end": 591.36,
+  "text": "Han dro oss med da, for han ville vi skulle bli med dit da,",
+  "who": 3,
+  "matched": true
+ },
+ {
+  "start": 591.36,
+  "end": 593.36,
+  "text": "s\u00e5 alts\u00e5 at det foregikk.",
+  "who": 5
+ },
+ {
+  "start": 593.88,
+  "end": 597.88,
+  "text": "H\u00e5kon han hadde alt med nede i Viki, s\u00e5 han kom med mye rart.",
+  "who": 3
+ },
+ {
+  "start": 597.88,
+  "end": 603.88,
+  "text": "Og vi satt der og s\u00e5 begynner vi med, det var like b\u00f8nnem\u00f8te da vet du,",
+  "who": 3
+ },
+ {
+  "start": 603.88,
+  "end": 606.88,
+  "text": "s\u00e5 begynner vi med \u00e5 ba,",
+  "who": 3
+ },
+ {
+  "start": 606.88,
+  "end": 610.88,
+  "text": "og s\u00e5 var det Olaug oppe og pratet i tunger.",
+  "who": 3
+ },
+ {
+  "start": 610.88,
+  "end": 612.88,
+  "text": "Og dette var jo noe spesielt for oss.",
+  "who": 3
+ },
+ {
+  "start": 612.88,
+  "end": 614.88,
+  "text": "Alts\u00e5 morra til H\u00e5kon? Ja.",
+  "who": 1
+ },
+ {
+  "start": 616.88,
+  "end": 618.88,
+  "text": "Men sammen var vi ferdige da,",
+  "who": 3
+ },
+ {
+  "start": 618.88,
+  "end": 622.88,
+  "text": "s\u00e5 liksom Lene og H\u00e5kon s\u00e5 bort og s\u00e5 sa han etter,",
+  "who": 3
+ },
+ {
+  "start": 622.88,
+  "end": 627.88,
+  "text": "\u00e5 jeg visste ikke at Olaug hadde g\u00e5tt p\u00e5 det spr\u00e5kkurset da.",
+  "who": 3
+ },
+ {
+  "start": 627.88,
+  "end": 633.88,
+  "text": "Og vi hadde problem med h\u00f8dl\u00f8s ut av liet vet du.",
+  "who": 3
+ },
+ {
+  "start": 633.9,
+  "end": 636.2333333333333,
+  "text": "Han m\u00e5tte v\u00e6re med p\u00e5 de m\u00f8tene da.",
+  "who": 3,
+  "matched": true
+ },
+ {
+  "start": 636.88,
+  "end": 638.88,
+  "text": "Hvordan prega det han da?",
+  "who": 1
+ },
+ {
+  "start": 638.88,
+  "end": 640.88,
+  "text": "Han sleit med det.",
+  "who": 3
+ },
+ {
+  "start": 640.88,
+  "end": 644.88,
+  "text": "Jeg tror jo personlig at det var litt for t\u00f8ft for ham da,",
+  "who": 3
+ },
+ {
+  "start": 644.88,
+  "end": 647.88,
+  "text": "i denne aldersgruppen der.",
+  "who": 3
+ },
+ {
+  "start": 647.88,
+  "end": 648.88,
+  "text": "Hva mener du med t\u00f8ft?",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 648.88,
+  "end": 652.88,
+  "text": "Ja, alts\u00e5 han ble jo litt nerv\u00f8s kanskje,",
+  "who": 3
+ },
+ {
+  "start": 652.88,
+  "end": 654.88,
+  "text": "og litt redd,",
+  "who": 3
+ },
+ {
+  "start": 654.88,
+  "end": 658.88,
+  "text": "og s\u00e5 var det, ikke for at jeg ser noe g\u00e6rlig med Olaug og Peder,",
+  "who": 3
+ },
+ {
+  "start": 658.88,
+  "end": 661.88,
+  "text": "for de var jo, vi hadde jo s\u00e5 bra forhold til dem,",
+  "who": 3
+ },
+ {
+  "start": 661.88,
+  "end": 665.88,
+  "text": "men de styrten H\u00e5kon til han var 17 \u00e5r da,",
+  "who": 3
+ },
+ {
+  "start": 665.88,
+  "end": 668.88,
+  "text": "da fikk han ut til \u00e5 lepe til \u00e5 g\u00e5 p\u00e5 kino,",
+  "who": 3
+ },
+ {
+  "start": 668.88,
+  "end": 671.88,
+  "text": "for det var synd, mye slikke ting.",
+  "who": 3
+ },
+ {
+  "start": 671.88,
+  "end": 673.88,
+  "text": "Jeg husker spesielt en gang,",
+  "who": 3
+ },
+ {
+  "start": 674.37,
+  "end": 676.37,
+  "text": "for det var ikke s\u00e5 ofte kino,",
+  "who": 3,
+  "matched": true
+ },
+ {
+  "start": 676.37,
+  "end": 680.37,
+  "text": "men da var det Hoft Samfunnshus,",
+  "who": 3
+ },
+ {
+  "start": 680.37,
+  "end": 682.37,
+  "text": "der skulle de ha da en film,",
+  "who": 3
+ },
+ {
+  "start": 682.37,
+  "end": 684.37,
+  "text": "og det var ikke en ungdomsfilm,",
+  "who": 3
+ },
+ {
+  "start": 684.37,
+  "end": 689.37,
+  "text": "og vi var da sammen p\u00e5 lekeplassen,",
+  "who": 3
+ },
+ {
+  "start": 689.37,
+  "end": 690.37,
+  "text": "alle sammen,",
+  "who": 3
+ },
+ {
+  "start": 690.37,
+  "end": 692.37,
+  "text": "og s\u00e5 var det noen som sa til,",
+  "who": 3
+ },
+ {
+  "start": 692.37,
+  "end": 697.37,
+  "text": "n\u00e5 skal det v\u00e6re en fin ungdomsfilm p\u00e5 Samfunnshuset.",
+  "who": 3
+ },
+ {
+  "start": 697.89,
+  "end": 700.49,
+  "text": "Og da fant vi liksom ut alle sammen at,",
+  "who": 3,
+  "matched": true
+ },
+ {
+  "start": 700.49,
+  "end": 703.4899999999999,
+  "text": "\u00e5 ja, det kan man jo alltid g\u00e5 p\u00e5,",
+  "who": 3
+ },
+ {
+  "start": 703.4899999999999,
+  "end": 705.4899999999999,
+  "text": "og selvf\u00f8lgelig var H\u00e5kon med p\u00e5 det,",
+  "who": 3
+ },
+ {
+  "start": 705.4899999999999,
+  "end": 708.4899999999999,
+  "text": "men vi m\u00e5tte jo h\u00f8re med foreldrene v\u00e5re,",
+  "who": 3
+ },
+ {
+  "start": 708.4899999999999,
+  "end": 712.4899999999999,
+  "text": "og da var vi egentlig klare for \u00e5,",
+  "who": 3
+ },
+ {
+  "start": 712.4899999999999,
+  "end": 714.4899999999999,
+  "text": "for \u00e5 g\u00e5,",
+  "who": 3
+ },
+ {
+  "start": 714.4899999999999,
+  "end": 717.4899999999999,
+  "text": "men den H\u00e5kon,",
+  "who": 3
+ },
+ {
+  "start": 717.4899999999999,
+  "end": 723.4899999999999,
+  "text": "han kom g\u00e5ende ned mot den lekeplassen,",
+  "who": 3
+ },
+ {
+  "start": 723.4899999999999,
+  "end": 725.4899999999999,
+  "text": "husker jeg,",
+  "who": 3
+ },
+ {
+  "start": 725.4899999999999,
+  "end": 727.4899999999999,
+  "text": "og da sa han at han ikke fikk lavt",
+  "who": 3,
+  "matched": true
+ },
+ {
+  "start": 727.4899999999999,
+  "end": 728.4899999999999,
+  "text": "\u00e5 v\u00e6re med p\u00e5 den kinoen.",
+  "who": 3
+ },
+ {
+  "start": 728.4899999999999,
+  "end": 729.4899999999999,
+  "text": "Hvordan var han?",
+  "who": 1
+ },
+ {
+  "start": 729.4899999999999,
+  "end": 731.4899999999999,
+  "text": "Da var det g\u00e6sj\u00f8tt at han,",
+  "who": 3
+ },
+ {
+  "start": 731.4899999999999,
+  "end": 734.4899999999999,
+  "text": "jeg husker han grein litt s\u00e5nn.",
+  "who": 3
+ },
+ {
+  "start": 734.4899999999999,
+  "end": 737.4899999999999,
+  "text": "Og slik hadde den H\u00e5kon",
+  "who": 3
+ },
+ {
+  "start": 737.4899999999999,
+  "end": 740.4899999999999,
+  "text": "hele oppveksten egentlig.",
+  "who": 3
+ },
+ {
+  "start": 740.4899999999999,
+  "end": 743.4899999999999,
+  "text": "Han f\u00f8lte at han var litt mellom barken og ven,",
+  "who": 3
+ },
+ {
+  "start": 743.4899999999999,
+  "end": 746.4899999999999,
+  "text": "for han ville jo v\u00e6re med andre gutta",
+  "who": 3
+ },
+ {
+  "start": 746.4899999999999,
+  "end": 750.4899999999999,
+  "text": "som ikke var st\u00e6rke til \u00e5 lese,",
+  "who": 3
+ },
+ {
+  "start": 750.4899999999999,
+  "end": 754.4899999999999,
+  "text": "og han f\u00f8lte da at han var innestengt",
+  "who": 3
+ },
+ {
+  "start": 753.88,
+  "end": 774.88,
+  "text": "og fikk ikke ut venga sine.",
+  "who": 2
+ },
+ {
+  "start": 774.88,
+  "end": 777.8133333333333,
+  "text": "H\u00e5kon Banken startet sin musikalske karriere",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 777.88,
+  "end": 778.88,
+  "text": "p\u00e5 Bedehuset.",
+  "who": 1
+ },
+ {
+  "start": 778.88,
+  "end": 780.88,
+  "text": "Helt fra han var liten stod han foran menigheten",
+  "who": 1
+ },
+ {
+  "start": 780.88,
+  "end": 782.88,
+  "text": "og spilte fiolin og gitar og sang,",
+  "who": 1
+ },
+ {
+  "start": 782.88,
+  "end": 784.88,
+  "text": "men som oftest stod han ikke der alene,",
+  "who": 1
+ },
+ {
+  "start": 784.88,
+  "end": 785.88,
+  "text": "men sammen med den fire \u00e5r",
+  "who": 1
+ },
+ {
+  "start": 785.88,
+  "end": 787.88,
+  "text": "eldre s\u00f8stra sin, Ragnhild.",
+  "who": 1
+ },
+ {
+  "start": 787.88,
+  "end": 789.88,
+  "text": "Det er henne jeg er p\u00e5 vei til n\u00e5.",
+  "who": 1
+ },
+ {
+  "start": 790.43,
+  "end": 792.43,
+  "text": "Jeg kj\u00f8rer s\u00f8rover langs svenskegrensa,",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 792.43,
+  "end": 793.43,
+  "text": "inn i \u00d8stfold og over brua",
+  "who": 0
+ },
+ {
+  "start": 793.43,
+  "end": 795.43,
+  "text": "fra Fredrikstad til Kroker\u00f8y.",
+  "who": 1
+ },
+ {
+  "start": 795.57,
+  "end": 797.57,
+  "text": "Der stopper jeg p\u00e5 en liten h\u00f8yde",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 796.88,
+  "end": 805.88,
+  "text": "foran et lavt gr\u00e5tt hus.",
+  "who": 2
+ },
+ {
+  "start": 805.88,
+  "end": 806.88,
+  "text": "Hei hei, velkommen hit.",
+  "who": 4
+ },
+ {
+  "start": 806.88,
+  "end": 808.88,
+  "text": "Tusen takk.",
+  "who": 4
+ },
+ {
+  "start": 809.16,
+  "end": 810.0933333333332,
+  "text": "Du fant veien?",
+  "who": 3,
+  "matched": true
+ },
+ {
+  "start": 810.16,
+  "end": 811.16,
+  "text": "Ja, det gikk bra.",
+  "who": 4,
+  "matched": true
+ },
+ {
+  "start": 811.16,
+  "end": 815.16,
+  "text": "Jeg har kokk kaffe og noe biter hvis du vil ha.",
+  "who": 4
+ },
+ {
+  "start": 814.75,
+  "end": 816.7500000000001,
+  "text": "Ragnhild Sk\u00e5ren Banken st\u00e5r i d\u00f8ra.",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 816.88,
+  "end": 821.88,
+  "text": "Hun flytta hit fra Sol\u00f8r da hun var ten\u00e5ring.",
+  "who": 1
+ },
+ {
+  "start": 821.88,
+  "end": 823.88,
+  "text": "Jeg er i fra Sol\u00f8r vet du.",
+  "who": 4
+ },
+ {
+  "start": 823.88,
+  "end": 826.88,
+  "text": "B\u00e5de mora mi og bestemora der stod",
+  "who": 4
+ },
+ {
+  "start": 826.88,
+  "end": 835.88,
+  "text": "kaffen varm da folk kom bort i gata.",
+  "who": 4
+ },
+ {
+  "start": 835.54,
+  "end": 837.5400000000001,
+  "text": "P\u00e5 veggen i gangen henger et flyfoto",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 837.88,
+  "end": 839.88,
+  "text": "av det hvite huset under bj\u00f8rketr\u00e6ren i hoff",
+  "who": 1
+ },
+ {
+  "start": 839.88,
+  "end": 841.88,
+  "text": "og p\u00e5 bordet har Ragnhild satt fram snitter",
+  "who": 1
+ },
+ {
+  "start": 841.88,
+  "end": 844.88,
+  "text": "om akroner og en bunke med gamle album.",
+  "who": 1
+ },
+ {
+  "start": 844.97,
+  "end": 846.9699999999999,
+  "text": "Bildene er i svartvitt og Ragnhild og H\u00e5kon",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 846.88,
+  "end": 852.88,
+  "text": "er barn p\u00e5 dem alle sammen.",
+  "who": 2
+ },
+ {
+  "start": 852.88,
+  "end": 855.88,
+  "text": "Det er f\u00f8rste bildet jeg vet",
+  "who": 4
+ },
+ {
+  "start": 855.88,
+  "end": 856.88,
+  "text": "at vi har i H\u00e5kon",
+  "who": 4
+ },
+ {
+  "start": 856.88,
+  "end": 857.88,
+  "text": "der de er fire m\u00e5neder.",
+  "who": 4
+ },
+ {
+  "start": 857.88,
+  "end": 859.88,
+  "text": "Det er moren min.",
+  "who": 4
+ },
+ {
+  "start": 859.88,
+  "end": 860.88,
+  "text": "Eller v\u00e5r.",
+  "who": 4
+ },
+ {
+  "start": 860.88,
+  "end": 862.88,
+  "text": "Og det er farmor.",
+  "who": 4
+ },
+ {
+  "start": 862.88,
+  "end": 865.88,
+  "text": "Ja, det er faren min og jeg.",
+  "who": 4
+ },
+ {
+  "start": 865.1,
+  "end": 866.1,
+  "text": "Med hver deres gitar?",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 866.88,
+  "end": 869.88,
+  "text": "Ja, ja.",
+  "who": 4
+ },
+ {
+  "start": 870.12,
+  "end": 872.12,
+  "text": "Pappa og alle s\u00f8skene hans sang",
+  "who": 4,
+  "matched": true
+ },
+ {
+  "start": 872.12,
+  "end": 874.12,
+  "text": "og spilte gitar.",
+  "who": 4
+ },
+ {
+  "start": 874.12,
+  "end": 876.3866666666667,
+  "text": "Og Bertha, alts\u00e5 farmor og greier.",
+  "who": 4,
+  "matched": true
+ },
+ {
+  "start": 877.88,
+  "end": 882.88,
+  "text": "Han fikk sin egen lille gitar da han var ni \u00e5r.",
+  "who": 4
+ },
+ {
+  "start": 882.99,
+  "end": 884.11,
+  "text": "Kan du ikke si et par ord om",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 884.11,
+  "end": 887.11,
+  "text": "moren og faren din?",
+  "who": 1
+ },
+ {
+  "start": 886.88,
+  "end": 889.88,
+  "text": "Mamma, hun var hjemmetskvinne.",
+  "who": 4
+ },
+ {
+  "start": 889.88,
+  "end": 891.88,
+  "text": "Veldig snill.",
+  "who": 4
+ },
+ {
+  "start": 891.88,
+  "end": 893.88,
+  "text": "Hjalp alle hun kunne.",
+  "who": 4
+ },
+ {
+  "start": 893.88,
+  "end": 897.88,
+  "text": "Og faren min var da s\u00f8ndagsskolel\u00e6rer.",
+  "who": 4
+ },
+ {
+  "start": 898.41,
+  "end": 901.41,
+  "text": "S\u00e5 da var vi jo p\u00e5 s\u00f8ndagsskolen hver s\u00f8ndag.",
+  "who": 4,
+  "matched": true
+ },
+ {
+  "start": 903.88,
+  "end": 905.88,
+  "text": "Hva gjorde dere der?",
+  "who": 1
+ },
+ {
+  "start": 905.88,
+  "end": 907.88,
+  "text": "Ja, vi fikk jo h\u00f8re bibelhistorie",
+  "who": 4,
+  "matched": true
+ },
+ {
+  "start": 907.88,
+  "end": 910.88,
+  "text": "f\u00f8rst og fremst.",
+  "who": 4
+ },
+ {
+  "start": 910.88,
+  "end": 914.88,
+  "text": "Og s\u00e5 var det jo mye s\u00f8ndagsskolesanger.",
+  "who": 4
+ },
+ {
+  "start": 914.88,
+  "end": 918.88,
+  "text": "Og s\u00e5 der H\u00e5kon og jeg ble jo...",
+  "who": 4
+ },
+ {
+  "start": 918.88,
+  "end": 927.88,
+  "text": "Ja, vi var jo en av ungene der.",
+  "who": 2
+ },
+ {
+  "start": 928.23,
+  "end": 930.2300000000001,
+  "text": "Vi har jo f\u00e5tt en veldig streng oppdragelse",
+  "who": 4,
+  "matched": true
+ },
+ {
+  "start": 930.2300000000001,
+  "end": 932.2300000000001,
+  "text": "som m\u00e5 jo sitte pent og stille.",
+  "who": 4
+ },
+ {
+  "start": 932.2300000000001,
+  "end": 934.2300000000001,
+  "text": "S\u00e5 det var jo ikke at vi liksom fikk",
+  "who": 4
+ },
+ {
+  "start": 934.2300000000001,
+  "end": 937.2300000000001,
+  "text": "gj\u00f8re som vi ville og greier.",
+  "who": 4
+ },
+ {
+  "start": 937.36,
+  "end": 940.6933333333334,
+  "text": "Hvordan takler du H\u00e5kon det at det var strengt da?",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 941.88,
+  "end": 944.88,
+  "text": "Ja, b\u00e5de han og jeg synes spesielt",
+  "who": 4
+ },
+ {
+  "start": 944.88,
+  "end": 946.88,
+  "text": "pappa var veldig streng.",
+  "who": 4
+ },
+ {
+  "start": 947.46,
+  "end": 950.4600000000002,
+  "text": "Jeg vet ikke om jeg var redd, men i hvert fall",
+  "who": 4,
+  "matched": true
+ },
+ {
+  "start": 950.4600000000002,
+  "end": 952.4600000000002,
+  "text": "han var streng alts\u00e5.",
+  "who": 4
+ },
+ {
+  "start": 952.4600000000002,
+  "end": 954.4600000000003,
+  "text": "Og hvis jeg ikke satt pent p\u00e5 s\u00f8ndagsskolen",
+  "who": 4,
+  "matched": true
+ },
+ {
+  "start": 954.4600000000003,
+  "end": 956.4600000000002,
+  "text": "s\u00e5 likte den jo ikke det.",
+  "who": 4
+ },
+ {
+  "start": 955.88,
+  "end": 959.88,
+  "text": "Hva slags forhold hadde H\u00e5kon til faren sin?",
+  "who": 1
+ },
+ {
+  "start": 961.1,
+  "end": 963.6333333333333,
+  "text": "Han sto jo med mamma mye n\u00e6rmere H\u00e5kon",
+  "who": 4,
+  "matched": true
+ },
+ {
+  "start": 963.6333333333333,
+  "end": 965.6333333333333,
+  "text": "enn han gjorde pappa.",
+  "who": 4
+ },
+ {
+  "start": 965.6333333333333,
+  "end": 967.6333333333333,
+  "text": "Han gjorde det.",
+  "who": 4
+ },
+ {
+  "start": 967.6333333333333,
+  "end": 971.6333333333333,
+  "text": "Men pappa han var en intelligent mann.",
+  "who": 4
+ },
+ {
+  "start": 971.6333333333333,
+  "end": 973.0333333333333,
+  "text": "Han var en klok mann.",
+  "who": 4,
+  "matched": true
+ },
+ {
+  "start": 973.0333333333333,
+  "end": 975.0333333333334,
+  "text": "Alle s\u00e5 jo veldig opp til ham.",
+  "who": 4
+ },
+ {
+  "start": 975.0333333333334,
+  "end": 978.0333333333334,
+  "text": "Det tror jeg H\u00e5kon gjorde opp, ja.",
+  "who": 4
+ },
+ {
+  "start": 982.83,
+  "end": 984.3633333333333,
+  "text": "Vi var en klasse p\u00e5 20,",
+  "who": 4,
+  "matched": true
+ },
+ {
+  "start": 984.88,
+  "end": 986.88,
+  "text": "og da var jo en til og jeg",
+  "who": 4
+ },
+ {
+  "start": 986.88,
+  "end": 989.88,
+  "text": "som ikke var d\u00f8pt som barn da.",
+  "who": 4
+ },
+ {
+  "start": 989.88,
+  "end": 991.48,
+  "text": "S\u00e5 det var jo et skille.",
+  "who": 4,
+  "matched": true
+ },
+ {
+  "start": 991.88,
+  "end": 994.88,
+  "text": "Jeg er blitt kaldt pinsepipa av gutta",
+  "who": 4
+ },
+ {
+  "start": 994.88,
+  "end": 996.88,
+  "text": "i klassen og s\u00e5nn,",
+  "who": 4
+ },
+ {
+  "start": 996.88,
+  "end": 999.0800000000002,
+  "text": "men jeg bryr meg ikke noe om det.",
+  "who": 4,
+  "matched": true
+ },
+ {
+  "start": 999.62,
+  "end": 1001.3533333333334,
+  "text": "Men jeg tror at han var...",
+  "who": 4,
+  "matched": true
+ },
+ {
+  "start": 1003.88,
+  "end": 1005.88,
+  "text": "Alts\u00e5 vi er veldig forskjellige av natur.",
+  "who": 4
+ },
+ {
+  "start": 1005.88,
+  "end": 1009.88,
+  "text": "Han var mer s\u00e5rbar enn jeg er og var.",
+  "who": 4
+ },
+ {
+  "start": 1009.88,
+  "end": 1011.88,
+  "text": "Hvordan ga det seg utslaget?",
+  "who": 1
+ },
+ {
+  "start": 1011.46,
+  "end": 1013.4600000000002,
+  "text": "Ja, jeg tror at han kanskje tok seg mer n\u00e6r",
+  "who": 4,
+  "matched": true
+ },
+ {
+  "start": 1013.88,
+  "end": 1015.88,
+  "text": "av ting som ble sagt inn og s\u00e5nn.",
+  "who": 4
+ },
+ {
+  "start": 1018.88,
+  "end": 1023.88,
+  "text": "Jeg valgte jo selv \u00e5 bli d\u00f8pt av 13 \u00e5r",
+  "who": 4
+ },
+ {
+  "start": 1023.88,
+  "end": 1027.88,
+  "text": "og fortsette i det milj\u00f8et.",
+  "who": 4
+ },
+ {
+  "start": 1027.88,
+  "end": 1029.88,
+  "text": "Men hvis du p\u00e5 en m\u00e5te",
+  "who": 4
+ },
+ {
+  "start": 1029.88,
+  "end": 1032.88,
+  "text": "ikke tar det i et bestemt standpunkt,",
+  "who": 4
+ },
+ {
+  "start": 1033.77,
+  "end": 1035.9033333333334,
+  "text": "s\u00e5 er det klart at det kan virke",
+  "who": 4,
+  "matched": true
+ },
+ {
+  "start": 1036.88,
+  "end": 1039.88,
+  "text": "veldig trangt og vanskelig.",
+  "who": 4
+ },
+ {
+  "start": 1040.01,
+  "end": 1041.5433333333333,
+  "text": "Snakker du om H\u00e5kon n\u00e5?",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 1043.88,
+  "end": 1047.88,
+  "text": "Ja, jeg har ikke snakket s\u00e5 mye med han om det.",
+  "who": 4
+ },
+ {
+  "start": 1048.23,
+  "end": 1049.9633333333334,
+  "text": "Men det er klart at han...",
+  "who": 4,
+  "matched": true
+ },
+ {
+  "start": 1051.88,
+  "end": 1054.88,
+  "text": "Ja, han m\u00e5tte etter hvert...",
+  "who": 4
+ },
+ {
+  "start": 1054.88,
+  "end": 1056.88,
+  "text": "S\u00e5 ville han sikkert leve mer",
+  "who": 4
+ },
+ {
+  "start": 1056.88,
+  "end": 1059.88,
+  "text": "et s\u00e5nt liv som en del av kameratene.",
+  "who": 4
+ },
+ {
+  "start": 1060.29,
+  "end": 1062.49,
+  "text": "Han begynte \u00e5 r\u00f8yke ganske tidlig",
+  "who": 4,
+  "matched": true
+ },
+ {
+  "start": 1062.88,
+  "end": 1065.88,
+  "text": "og han var jo ikke noe avholdsmann etter hvert,",
+  "who": 4
+ },
+ {
+  "start": 1065.88,
+  "end": 1068.88,
+  "text": "s\u00e5nn som foreldrene mine og jeg er.",
+  "who": 4
+ },
+ {
+  "start": 1073.47,
+  "end": 1075.67,
+  "text": "Men jeg tror jo fortsatt at H\u00e5kon",
+  "who": 4,
+  "matched": true
+ },
+ {
+  "start": 1076.88,
+  "end": 1079.88,
+  "text": "har hatt barnetroa si.",
+  "who": 4
+ },
+ {
+  "start": 1079.88,
+  "end": 1082.88,
+  "text": "Har du noen gang sett han opptre?",
+  "who": 1
+ },
+ {
+  "start": 1083.88,
+  "end": 1086.88,
+  "text": "Nei, jeg vet ikke om jeg har h\u00f8rt noe mer",
+  "who": 4
+ },
+ {
+  "start": 1086.88,
+  "end": 1089.88,
+  "text": "i familiesammenhengere.",
+  "who": 4
+ },
+ {
+  "start": 1091.05,
+  "end": 1091.9166666666665,
+  "text": "Hvorfor ikke?",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 1092.88,
+  "end": 1095.88,
+  "text": "Nei, men da han opptrottet",
+  "who": 4
+ },
+ {
+  "start": 1095.88,
+  "end": 1097.7466666666667,
+  "text": "i forskjellige sammenhenger,",
+  "who": 4,
+  "matched": true
+ },
+ {
+  "start": 1097.88,
+  "end": 1100.88,
+  "text": "s\u00e5 var det jo ofte et milj\u00f8",
+  "who": 2
+ },
+ {
+  "start": 1100.88,
+  "end": 1103.88,
+  "text": "som ikke jeg var vant til \u00e5 opptre i.",
+  "who": 4
+ },
+ {
+  "start": 1103.88,
+  "end": 1106.88,
+  "text": "Eller v\u00e6re i, med kanskje en del drikking og s\u00e5nn.",
+  "who": 4
+ },
+ {
+  "start": 1106.88,
+  "end": 1109.88,
+  "text": "Og det har i grunn bydd meg imot",
+  "who": 4
+ },
+ {
+  "start": 1109.88,
+  "end": 1111.88,
+  "text": "hele livet, det har det ogs\u00e5.",
+  "who": 4
+ },
+ {
+  "start": 1111.88,
+  "end": 1113.88,
+  "text": "Men var dere litt stolte av ham da?",
+  "who": 4
+ },
+ {
+  "start": 1113.88,
+  "end": 1115.88,
+  "text": "Jo, det er jeg.",
+  "who": 4
+ },
+ {
+  "start": 1115.88,
+  "end": 1118.88,
+  "text": "F\u00f8rst og fremst var jeg glad for det var",
+  "who": 4
+ },
+ {
+  "start": 1118.88,
+  "end": 1121.88,
+  "text": "broren min, ikke fordi han sang sanger.",
+  "who": 4
+ },
+ {
+  "start": 1141.79,
+  "end": 1144.79,
+  "text": "Det er ikke mange spor etter dansbandartisten",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 1144.79,
+  "end": 1147.79,
+  "text": "H\u00e5kon Banken n\u00e5r vi leter i barndommen hans.",
+  "who": 1
+ },
+ {
+  "start": 1147.79,
+  "end": 1150.7900000000002,
+  "text": "Fortellingene om den unge H\u00e5kon handler mest om",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 1150.7900000000002,
+  "end": 1152.79,
+  "text": "\u00e5 ikke f\u00f8le seg hjemme med noe sted,",
+  "who": 1
+ },
+ {
+  "start": 1152.79,
+  "end": 1153.99,
+  "text": "og m\u00e5 lengte vekk.",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 1153.99,
+  "end": 1155.99,
+  "text": "Men han hadde en venn p\u00e5 Bedehuset,",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 1155.99,
+  "end": 1157.9899999999998,
+  "text": "en ung gutt som hadde kommet over Atlantaren",
+  "who": 1
+ },
+ {
+  "start": 1157.9899999999998,
+  "end": 1159.9899999999998,
+  "text": "sammen med morra si fra Santiago i Chile.",
+  "who": 1
+ },
+ {
+  "start": 1159.9899999999998,
+  "end": 1161.9899999999998,
+  "text": "Carlos het han.",
+  "who": 5
+ },
+ {
+  "start": 1163.91,
+  "end": 1166.7766666666666,
+  "text": "Men jeg kj\u00f8rte gjennom blokken og s\u00e5nn ned.",
+  "who": 0,
+  "matched": true
+ },
+ {
+  "start": 1166.88,
+  "end": 1168.88,
+  "text": "S\u00e5 du kommer over fra du n\u00e5?",
+  "who": 5
+ },
+ {
+  "start": 1168.88,
+  "end": 1170.88,
+  "text": "Ja, jeg kom ned gjennom steven.",
+  "who": 1
+ },
+ {
+  "start": 1170.88,
+  "end": 1173.88,
+  "text": "Var det sykkelsstil?",
+  "who": 2
+ },
+ {
+  "start": 1173.88,
+  "end": 1176.88,
+  "text": "Nei, det er vel bilvegg hvis du har kj\u00f8rt her.",
+  "who": 5
+ },
+ {
+  "start": 1177.6,
+  "end": 1179.6,
+  "text": "Carlos bor i en rekkehusleilighet mellom",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 1179.6,
+  "end": 1182.6,
+  "text": "Skogbrynet og Ridesentret p\u00e5 Ellingsr\u00f8d i Oslo.",
+  "who": 1
+ },
+ {
+  "start": 1182.6,
+  "end": 1185.6,
+  "text": "Han har s\u00f8ramerikanske landskapsmalerier p\u00e5 veggene,",
+  "who": 1
+ },
+ {
+  "start": 1185.6,
+  "end": 1187.6,
+  "text": "et isbj\u00f8rnskinn fra Svalbard p\u00e5 gulvet,",
+  "who": 1
+ },
+ {
+  "start": 1187.6,
+  "end": 1191.6,
+  "text": "og p\u00e5 bordet er det dekket med waffler, kake og engelsk konfekt.",
+  "who": 1
+ },
+ {
+  "start": 1191.88,
+  "end": 1194.88,
+  "text": "Jeg tipper jeg var ca to \u00e5r n\u00e5r jeg startet p\u00e5 S\u00f8ndagsk\u00e5len,",
+  "who": 5
+ },
+ {
+  "start": 1194.88,
+  "end": 1197.88,
+  "text": "og H\u00e5kon da var jo ett \u00e5r eldre enn meg.",
+  "who": 5
+ },
+ {
+  "start": 1197.88,
+  "end": 1202.88,
+  "text": "Kan du si litt om hvordan dere barna opplevde \u00e5 v\u00e6re en del av den menigheten?",
+  "who": 1
+ },
+ {
+  "start": 1204.68,
+  "end": 1206.5466666666666,
+  "text": "Det man kanskje husker mest,",
+  "who": 5,
+  "matched": true
+ },
+ {
+  "start": 1206.5466666666666,
+  "end": 1212.5466666666666,
+  "text": "det var disse vekkelsesm\u00f8tene som det var p\u00e5 sommeren da,",
+  "who": 5
+ },
+ {
+  "start": 1212.5466666666666,
+  "end": 1214.5466666666666,
+  "text": "n\u00e5r vi hadde teltm\u00f8ter.",
+  "who": 5
+ },
+ {
+  "start": 1214.5466666666666,
+  "end": 1216.5466666666666,
+  "text": "Det var et ganske stort telt da,",
+  "who": 5,
+  "matched": true
+ },
+ {
+  "start": 1216.5466666666666,
+  "end": 1219.5466666666666,
+  "text": "hvor det vel kunne v\u00e6re flere hundre innenfor,",
+  "who": 5
+ },
+ {
+  "start": 1219.5466666666666,
+  "end": 1223.5466666666666,
+  "text": "og der kunne det ogs\u00e5 v\u00e6re andre som var der for \u00e5 drive mobbing,",
+  "who": 5
+ },
+ {
+  "start": 1223.5466666666666,
+  "end": 1229.5466666666666,
+  "text": "eller ungdommene kunne st\u00e5 ute for \u00e5 kaste stein p\u00e5 teltet.",
+  "who": 5
+ },
+ {
+  "start": 1229.5466666666666,
+  "end": 1231.5466666666666,
+  "text": "S\u00e5 det kom folk til m\u00f8tene for \u00e5 mobbe?",
+  "who": 1
+ },
+ {
+  "start": 1231.5466666666666,
+  "end": 1235.5466666666666,
+  "text": "Ja, ungdommene kom p\u00e5 mopeder og kunne ruse med mopeden da.",
+  "who": 5
+ },
+ {
+  "start": 1235.5466666666666,
+  "end": 1237.5466666666666,
+  "text": "Det var jo for \u00e5 forstyrre.",
+  "who": 5
+ },
+ {
+  "start": 1237.5466666666666,
+  "end": 1244.5466666666666,
+  "text": "S\u00e5 hadde vel b\u00e5de H\u00e5kon og vi som tilh\u00f8rte menigheten da,",
+  "who": 5
+ },
+ {
+  "start": 1244.5466666666666,
+  "end": 1247.5466666666666,
+  "text": "vi likte jo ikke dette selvf\u00f8lgelig,",
+  "who": 5
+ },
+ {
+  "start": 1247.9,
+  "end": 1252.0333333333335,
+  "text": "at vi skulle bli trakassert eller mobbet for det vi trodde p\u00e5.",
+  "who": 5,
+  "matched": true
+ },
+ {
+  "start": 1252.62,
+  "end": 1254.2866666666666,
+  "text": "Synes dere det var flaut,",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 1254.2866666666666,
+  "end": 1257.2866666666669,
+  "text": "at det sto og jevnaldret utenfor og mobba dere?",
+  "who": 1
+ },
+ {
+  "start": 1256.88,
+  "end": 1262.88,
+  "text": "Det tror jeg ogs\u00e5 at vi nok kunne oppleve alts\u00e5.",
+  "who": 5
+ },
+ {
+  "start": 1258.12,
+  "end": 1258.9866666666665,
+  "text": "Det tror jeg.",
+  "who": 4,
+  "matched": true
+ },
+ {
+  "start": 1269.88,
+  "end": 1275.88,
+  "text": "Forskjellen var jo da at H\u00e5kon ble opptatt mye strengere enn meg,",
+  "who": 5
+ },
+ {
+  "start": 1275.88,
+  "end": 1282.88,
+  "text": "og han fikk rett og slett ikke lov til \u00e5 delta,",
+  "who": 5
+ },
+ {
+  "start": 1282.88,
+  "end": 1287.88,
+  "text": "hverken p\u00e5 fotball, g\u00e5 p\u00e5 ski eller hoppe p\u00e5 ski,",
+  "who": 5
+ },
+ {
+  "start": 1287.88,
+  "end": 1291.88,
+  "text": "i motskytten til meg da, som fikk lov til det.",
+  "who": 5
+ },
+ {
+  "start": 1291.88,
+  "end": 1294.88,
+  "text": "Og da fikk jo jeg liksom v\u00e6re med i,",
+  "who": 5
+ },
+ {
+  "start": 1294.88,
+  "end": 1297.88,
+  "text": "ja, var en av gutta.",
+  "who": 5
+ },
+ {
+  "start": 1297.88,
+  "end": 1303.88,
+  "text": "H\u00e5kon han ble p\u00e5 en m\u00e5te ikke en av gutta i mange sammenheng da.",
+  "who": 5
+ },
+ {
+  "start": 1303.88,
+  "end": 1308.88,
+  "text": "Og det var sikkert ogs\u00e5 veldig vanskelig for H\u00e5kon da,",
+  "who": 5
+ },
+ {
+  "start": 1308.88,
+  "end": 1310.88,
+  "text": "at han f\u00f8lte seg utenfor.",
+  "who": 5
+ },
+ {
+  "start": 1315.14,
+  "end": 1318.1400000000003,
+  "text": "Det var jo en dr\u00f8m \u00e5 komme vekk, det m\u00e5 vi si.",
+  "who": 5,
+  "matched": true
+ },
+ {
+  "start": 1317.88,
+  "end": 1318.88,
+  "text": "Hva mener du?",
+  "who": 1
+ },
+ {
+  "start": 1319.22,
+  "end": 1323.1533333333334,
+  "text": "Nei, det var jo ganske trangt og smalt der vi var oppvokst,",
+  "who": 5,
+  "matched": true
+ },
+ {
+  "start": 1324.22,
+  "end": 1326.7533333333333,
+  "text": "s\u00e5 dr\u00f8mmen var jo egentlig \u00e5 komme ut.",
+  "who": 5,
+  "matched": true
+ },
+ {
+  "start": 1327.27,
+  "end": 1329.6033333333332,
+  "text": "Og den anledningen, den fikk vi da.",
+  "who": 5,
+  "matched": true
+ },
+ {
+  "start": 1333.88,
+  "end": 1336.88,
+  "text": "Dr\u00f8mmen Carlos snakker om, er dr\u00f8mmen om Sverige.",
+  "who": 1
+ },
+ {
+  "start": 1337.34,
+  "end": 1340.3400000000001,
+  "text": "Han og H\u00e5kon hadde kj\u00f8rt over grensa noen ganger p\u00e5 moped",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 1340.3400000000001,
+  "end": 1343.3400000000001,
+  "text": "gjennom de dype skogene og over de lange slettene.",
+  "who": 1
+ },
+ {
+  "start": 1343.3400000000001,
+  "end": 1345.3400000000004,
+  "text": "De hadde kj\u00f8pt snus og spist korv og mos,",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 1345.3400000000004,
+  "end": 1347.3400000000001,
+  "text": "de hadde satt seg i parker og glant p\u00e5 svenske ungdommer",
+  "who": 1
+ },
+ {
+  "start": 1347.3400000000001,
+  "end": 1349.3400000000001,
+  "text": "og dr\u00f8mt om \u00e5 bo der en gang.",
+  "who": 1
+ },
+ {
+  "start": 1349.3400000000001,
+  "end": 1350.806666666667,
+  "text": "Og n\u00e5 skulle det skje.",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 1351.1,
+  "end": 1353.1799999999998,
+  "text": "H\u00e5kon og Carlos fikk jobb som blikkenslagerl\u00e6rlinger",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 1353.1799999999998,
+  "end": 1356.1799999999998,
+  "text": "p\u00e5 en fabrik som het Sementol i Ateborg,",
+  "who": 1
+ },
+ {
+  "start": 1356.1799999999998,
+  "end": 1358.1799999999998,
+  "text": "og de leide seg inn i en gammel togvogn for hjeml\u00f8se",
+  "who": 1
+ },
+ {
+  "start": 1358.1799999999998,
+  "end": 1360.1799999999998,
+  "text": "ned i havna.",
+  "who": 1
+ },
+ {
+  "start": 1364.75,
+  "end": 1366.75,
+  "text": "Det jeg kan huske hvordan det toget l\u00e5,",
+  "who": 5,
+  "matched": true
+ },
+ {
+  "start": 1366.88,
+  "end": 1369.88,
+  "text": "det l\u00e5 ned i havna i Ateborg.",
+  "who": 5
+ },
+ {
+  "start": 1370.38,
+  "end": 1371.98,
+  "text": "Og det var for hjeml\u00f8se.",
+  "who": 5,
+  "matched": true
+ },
+ {
+  "start": 1373.34,
+  "end": 1376.0733333333333,
+  "text": "For de som kom der og skulle overnatting,",
+  "who": 5,
+  "matched": true
+ },
+ {
+  "start": 1376.0733333333333,
+  "end": 1380.0733333333333,
+  "text": "det var jo det uteliggere, og der var det br\u00e5k og slaksm\u00e5l.",
+  "who": 5
+ },
+ {
+  "start": 1380.34,
+  "end": 1382.3400000000001,
+  "text": "Men hva mener du, bodde dere der?",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 1382.47,
+  "end": 1384.4700000000003,
+  "text": "Der bodde jeg og H\u00e5kon de f\u00f8rste ukene.",
+  "who": 5,
+  "matched": true
+ },
+ {
+  "start": 1384.4700000000003,
+  "end": 1387.4700000000003,
+  "text": "Vi fikk egen s\u00e5nn sovekupp\u00e9,",
+  "who": 5
+ },
+ {
+  "start": 1387.4700000000003,
+  "end": 1389.4700000000003,
+  "text": "som Jan H\u00e5kon bodde i.",
+  "who": 5
+ },
+ {
+  "start": 1389.4700000000003,
+  "end": 1391.4700000000003,
+  "text": "Vi kom rett fra Norge og dit da.",
+  "who": 5,
+  "matched": true
+ },
+ {
+  "start": 1391.4700000000003,
+  "end": 1394.4700000000003,
+  "text": "Men det var ikke noe farlig, men vi hadde det",
+  "who": 5
+ },
+ {
+  "start": 1394.4700000000003,
+  "end": 1396.4700000000003,
+  "text": "temmelig artig, kan det si,",
+  "who": 5
+ },
+ {
+  "start": 1396.4700000000003,
+  "end": 1398.4700000000003,
+  "text": "n\u00e5r vi satt i vinduet og s\u00e5 p\u00e5",
+  "who": 5
+ },
+ {
+  "start": 1398.4700000000003,
+  "end": 1400.4700000000003,
+  "text": "disse som kom.",
+  "who": 5
+ },
+ {
+  "start": 1400.4700000000003,
+  "end": 1402.4700000000003,
+  "text": "P\u00e5 den tiden s\u00e5 var det,",
+  "who": 5
+ },
+ {
+  "start": 1402.4700000000003,
+  "end": 1405.4700000000003,
+  "text": "i 66 s\u00e5 var det jo mye b\u00e5ter",
+  "who": 5
+ },
+ {
+  "start": 1405.4700000000003,
+  "end": 1407.4700000000003,
+  "text": "som gikk p\u00e5 G\u00f8teborg.",
+  "who": 5
+ },
+ {
+  "start": 1407.4700000000003,
+  "end": 1409.47,
+  "text": "S\u00e5 der ble det omsatt mye sprit da.",
+  "who": 5,
+  "matched": true
+ },
+ {
+  "start": 1409.47,
+  "end": 1411.4700000000003,
+  "text": "S\u00e5 da kj\u00f8pte vi sprit av dem da.",
+  "who": 5
+ },
+ {
+  "start": 1411.4700000000003,
+  "end": 1414.4700000000003,
+  "text": "Vi kj\u00f8pte s\u00e5nne halvflasker.",
+  "who": 5
+ },
+ {
+  "start": 1414.4700000000003,
+  "end": 1417.4700000000003,
+  "text": "P\u00e5 dagtiden, vi satt og pratet med dem,",
+  "who": 5
+ },
+ {
+  "start": 1417.4700000000003,
+  "end": 1420.4700000000003,
+  "text": "og fikk h\u00f8re ferdig historier",
+  "who": 5
+ },
+ {
+  "start": 1420.4700000000003,
+  "end": 1422.4700000000003,
+  "text": "hvordan de hadde det.",
+  "who": 5
+ },
+ {
+  "start": 1422.4700000000003,
+  "end": 1424.4700000000003,
+  "text": "Ja, det var sj\u00f8menn dette her,",
+  "who": 5
+ },
+ {
+  "start": 1424.4700000000003,
+  "end": 1426.4700000000003,
+  "text": "om vi finner da.",
+  "who": 2
+ },
+ {
+  "start": 1426.4700000000003,
+  "end": 1430.4700000000003,
+  "text": "S\u00e5 var det \u00e5 drikke og bli modige,",
+  "who": 5
+ },
+ {
+  "start": 1430.4700000000003,
+  "end": 1433.3366666666666,
+  "text": "og rusle rundt p\u00e5 stan, som vi sa da og da.",
+  "who": 5,
+  "matched": true
+ },
+ {
+  "start": 1433.3366666666666,
+  "end": 1435.3366666666666,
+  "text": "Der vil jeg nok si at",
+  "who": 5
+ },
+ {
+  "start": 1435.3366666666666,
+  "end": 1437.3366666666666,
+  "text": "H\u00e5kon var nesten modigere enn meg da,",
+  "who": 5
+ },
+ {
+  "start": 1437.3366666666666,
+  "end": 1439.3366666666666,
+  "text": "n\u00e5r vi hadde noe innebords.",
+  "who": 5
+ },
+ {
+  "start": 1439.3366666666666,
+  "end": 1441.3366666666666,
+  "text": "Da kunne han holdt p\u00e5 \u00e5 si,",
+  "who": 5
+ },
+ {
+  "start": 1441.3366666666666,
+  "end": 1443.3366666666666,
+  "text": "gj\u00f8re hva som helst.",
+  "who": 5
+ },
+ {
+  "start": 1442.88,
+  "end": 1445.88,
+  "text": "Snakket Thorsten \u00e5 snakke med fremmede?",
+  "who": 1
+ },
+ {
+  "start": 1446.12,
+  "end": 1447.8533333333332,
+  "text": "Ja, n\u00e5r han hadde drikket,",
+  "who": 5,
+  "matched": true
+ },
+ {
+  "start": 1447.88,
+  "end": 1449.88,
+  "text": "s\u00e5 kunne vi snakke, og da tror jeg ogs\u00e5",
+  "who": 5
+ },
+ {
+  "start": 1449.88,
+  "end": 1451.88,
+  "text": "vi kunne snakke med noen jenter ogs\u00e5,",
+  "who": 5
+ },
+ {
+  "start": 1451.88,
+  "end": 1453.88,
+  "text": "og det gjorde vi aldri n\u00e5r vi ikke",
+  "who": 5
+ },
+ {
+  "start": 1453.88,
+  "end": 1455.88,
+  "text": "hadde drikket.",
+  "who": 5
+ },
+ {
+  "start": 1461.39,
+  "end": 1462.6566666666668,
+  "text": "Det er hver dag da,",
+  "who": 5,
+  "matched": true
+ },
+ {
+  "start": 1462.88,
+  "end": 1464.88,
+  "text": "n\u00e5r vi skulle p\u00e5 Sementhol,",
+  "who": 5
+ },
+ {
+  "start": 1465.52,
+  "end": 1467.72,
+  "text": "og der m\u00e5tte vi m\u00f8te hver morgen,",
+  "who": 5,
+  "matched": true
+ },
+ {
+  "start": 1467.88,
+  "end": 1469.88,
+  "text": "og da tok vi trikken,",
+  "who": 5
+ },
+ {
+  "start": 1469.88,
+  "end": 1471.88,
+  "text": "eller sp\u00e5rvangen,",
+  "who": 5
+ },
+ {
+  "start": 1471.88,
+  "end": 1473.88,
+  "text": "og de var ganske fulle,",
+  "who": 5
+ },
+ {
+  "start": 1473.88,
+  "end": 1475.88,
+  "text": "de trikkene.",
+  "who": 5
+ },
+ {
+  "start": 1475.88,
+  "end": 1477.2800000000002,
+  "text": "Og da vet jeg at det,",
+  "who": 5,
+  "matched": true
+ },
+ {
+  "start": 1477.88,
+  "end": 1479.88,
+  "text": "ja, han var rett og slett",
+  "who": 5
+ },
+ {
+  "start": 1479.88,
+  "end": 1481.88,
+  "text": "engstelig og nerv\u00f8s,",
+  "who": 5
+ },
+ {
+  "start": 1481.88,
+  "end": 1483.88,
+  "text": "for \u00e5 nesten g\u00e5 p\u00e5 trikken etter hvert.",
+  "who": 5
+ },
+ {
+  "start": 1483.88,
+  "end": 1485.88,
+  "text": "Hvorfor det?",
+  "who": 5
+ },
+ {
+  "start": 1485.88,
+  "end": 1487.88,
+  "text": "Han likte seg ikke i trengsel,",
+  "who": 5
+ },
+ {
+  "start": 1487.88,
+  "end": 1489.88,
+  "text": "og som han sa til meg,",
+  "who": 5
+ },
+ {
+  "start": 1489.88,
+  "end": 1491.88,
+  "text": "da jeg sp\u00f8rte hva er det for noe,",
+  "who": 5
+ },
+ {
+  "start": 1491.88,
+  "end": 1493.88,
+  "text": "liksom hvorfor reagerer du,",
+  "who": 5
+ },
+ {
+  "start": 1493.88,
+  "end": 1495.88,
+  "text": "da sier han at, nei, jeg f\u00f8ler at alle",
+  "who": 5
+ },
+ {
+  "start": 1495.88,
+  "end": 1497.88,
+  "text": "kan ha det hos ham.",
+  "who": 5
+ },
+ {
+  "start": 1497.88,
+  "end": 1499.88,
+  "text": "Nei, det er bare noe du innbyrjer deg.",
+  "who": 5
+ },
+ {
+  "start": 1501.88,
+  "end": 1503.88,
+  "text": "Men, nei, det ble en plageform,",
+  "who": 5
+ },
+ {
+  "start": 1503.88,
+  "end": 1505.88,
+  "text": "og derfor s\u00e5,",
+  "who": 5
+ },
+ {
+  "start": 1505.88,
+  "end": 1507.5466666666669,
+  "text": "ja, s\u00e5 ringte vi da hjem,",
+  "who": 5,
+  "matched": true
+ },
+ {
+  "start": 1507.88,
+  "end": 1509.88,
+  "text": "til Norge da, s\u00e5 fikk vi",
+  "who": 5
+ },
+ {
+  "start": 1509.88,
+  "end": 1511.88,
+  "text": "nedover cykler v\u00e5re da.",
+  "who": 5
+ },
+ {
+  "start": 1513.88,
+  "end": 1515.88,
+  "text": "Det var der jeg,",
+  "who": 5
+ },
+ {
+  "start": 1516.5,
+  "end": 1518.1,
+  "text": "p\u00e5 en m\u00e5te, inns\u00e5 at det",
+  "who": 5,
+  "matched": true
+ },
+ {
+  "start": 1517.88,
+  "end": 1527.88,
+  "text": "ikke var helt som det skulle v\u00e6re.",
+  "who": 2
+ },
+ {
+  "start": 1527.88,
+  "end": 1529.88,
+  "text": "Karlos og H\u00e5kon ble i G\u00f6teborg i ett \u00e5r,",
+  "who": 1
+ },
+ {
+  "start": 1529.88,
+  "end": 1531.88,
+  "text": "og kom hjem til Soler i 1967.",
+  "who": 1
+ },
+ {
+  "start": 1532.26,
+  "end": 1533.46,
+  "text": "Gjennom 60 tallet,",
+  "who": 5,
+  "matched": true
+ },
+ {
+  "start": 1533.88,
+  "end": 1535.88,
+  "text": "hadde det vokst fram en helt s\u00e6reggende kultur",
+  "who": 1
+ },
+ {
+  "start": 1535.88,
+  "end": 1537.88,
+  "text": "oppover langs glommene og i grensetraktene mot Sverige.",
+  "who": 1
+ },
+ {
+  "start": 1537.88,
+  "end": 1539.88,
+  "text": "Svenske ungdommer kom kj\u00f8rende gjennom",
+  "who": 1
+ },
+ {
+  "start": 1539.88,
+  "end": 1541.88,
+  "text": "skogene i amerikanske biler.",
+  "who": 1
+ },
+ {
+  "start": 1541.88,
+  "end": 1543.88,
+  "text": "De hadde snusende lepper og bagasjerommet fullt av \u00f8l.",
+  "who": 1
+ },
+ {
+  "start": 1543.88,
+  "end": 1545.88,
+  "text": "De dundret opp og ned kaffegata p\u00e5",
+  "who": 1
+ },
+ {
+  "start": 1545.88,
+  "end": 1547.88,
+  "text": "Flisa med Sven Ingvars p\u00e5 bilstereon.",
+  "who": 1
+ },
+ {
+  "start": 1547.88,
+  "end": 1549.88,
+  "text": "De spilte konserter p\u00e5 danselokalene,",
+  "who": 1
+ },
+ {
+  "start": 1549.88,
+  "end": 1551.88,
+  "text": "de sjekka damer og de sl\u00e5ss.",
+  "who": 1
+ },
+ {
+  "start": 1552.15,
+  "end": 1553.8166666666668,
+  "text": "BDU skutten H\u00e5kon Banken,",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 1553.88,
+  "end": 1555.88,
+  "text": "hadde aldri gjort annet enn \u00e5 st\u00e5 i veikanten",
+  "who": 1
+ },
+ {
+  "start": 1555.88,
+  "end": 1557.88,
+  "text": "og glane lengselsfullt etter disse raggerne.",
+  "who": 1
+ },
+ {
+  "start": 1557.88,
+  "end": 1559.88,
+  "text": "Men han ventet ikke tilbake til Fradelfia,",
+  "who": 1
+ },
+ {
+  "start": 1559.88,
+  "end": 1561.88,
+  "text": "da han kom hjem fra G\u00f6teborg.",
+  "who": 1
+ },
+ {
+  "start": 1561.88,
+  "end": 1563.88,
+  "text": "Han ble med Arel og de andre kompisene p\u00e5 Morua i stedet.",
+  "who": 1
+ },
+ {
+  "start": 1567.91,
+  "end": 1569.1100000000001,
+  "text": "Kan du fortelle om",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 1569.88,
+  "end": 1571.88,
+  "text": "om hjemkomsten hans?",
+  "who": 1
+ },
+ {
+  "start": 1571.88,
+  "end": 1573.88,
+  "text": "Hva slags person han var da han kom hjem?",
+  "who": 1
+ },
+ {
+  "start": 1573.88,
+  "end": 1575.88,
+  "text": "Vi hadde innmari mye moro.",
+  "who": 3
+ },
+ {
+  "start": 1579.88,
+  "end": 1581.88,
+  "text": "Vi hadde kj\u00f8pt en festbuss sammen.",
+  "who": 3
+ },
+ {
+  "start": 1583.7,
+  "end": 1585.3666666666668,
+  "text": "Da hadde vi v\u00e6rt i 18 \u00e5r.",
+  "who": 3,
+  "matched": true
+ },
+ {
+  "start": 1585.7,
+  "end": 1587.1666666666667,
+  "text": "En buss rett og slett?",
+  "who": 5,
+  "matched": true
+ },
+ {
+  "start": 1587.88,
+  "end": 1589.88,
+  "text": "Ja, en minibuss.",
+  "who": 3
+ },
+ {
+  "start": 1589.88,
+  "end": 1591.88,
+  "text": "Som bare kj\u00f8rte p\u00e5 fest.",
+  "who": 3
+ },
+ {
+  "start": 1591.88,
+  "end": 1593.88,
+  "text": "Og hadde edre og sjaffer hele tiden.",
+  "who": 3
+ },
+ {
+  "start": 1595.88,
+  "end": 1597.88,
+  "text": "Det var en buss som hette Barkas.",
+  "who": 4
+ },
+ {
+  "start": 1597.88,
+  "end": 1599.88,
+  "text": "Han var avgj\u00f8rs i Klovaka.",
+  "who": 3
+ },
+ {
+  "start": 1600.28,
+  "end": 1600.9466666666667,
+  "text": "To takter.",
+  "who": 5,
+  "matched": true
+ },
+ {
+  "start": 1601.88,
+  "end": 1603.88,
+  "text": "Det var noe alvorlig greier.",
+  "who": 3
+ },
+ {
+  "start": 1605.88,
+  "end": 1607.88,
+  "text": "Baken laget vi en soffa rundt.",
+  "who": 3
+ },
+ {
+  "start": 1609.88,
+  "end": 1611.88,
+  "text": "Og s\u00e5 var det et \u00f8lbord,",
+  "who": 3
+ },
+ {
+  "start": 1611.88,
+  "end": 1613.88,
+  "text": "som vi kalte det.",
+  "who": 3
+ },
+ {
+  "start": 1615.88,
+  "end": 1617.88,
+  "text": "Det laget vi et bord med herlig,",
+  "who": 3
+ },
+ {
+  "start": 1617.88,
+  "end": 1619.88,
+  "text": "slik at flesken skulle komme ned.",
+  "who": 3
+ },
+ {
+  "start": 1619.88,
+  "end": 1621.88,
+  "text": "At det stod der, som ikke spilte ut.",
+  "who": 3
+ },
+ {
+  "start": 1623.88,
+  "end": 1625.88,
+  "text": "Og s\u00e5 satte vi og sang og spilte noe.",
+  "who": 3
+ },
+ {
+  "start": 1625.88,
+  "end": 1627.88,
+  "text": "Da hadde vi gitaren der.",
+  "who": 3
+ },
+ {
+  "start": 1627.88,
+  "end": 1629.88,
+  "text": "I et skap der hadde vi fullt i sanger.",
+  "who": 3
+ },
+ {
+  "start": 1629.88,
+  "end": 1631.88,
+  "text": "Blant annet hadde vi skrive...",
+  "who": 3
+ },
+ {
+  "start": 1631.88,
+  "end": 1633.88,
+  "text": "Hva s\u00e5 sangerne?",
+  "who": 1
+ },
+ {
+  "start": 1633.88,
+  "end": 1635.88,
+  "text": "De er litt over kanten.",
+  "who": 4
+ },
+ {
+  "start": 1635.88,
+  "end": 1637.88,
+  "text": "For grov uten \u00e5 nevne.",
+  "who": 3
+ },
+ {
+  "start": 1639.88,
+  "end": 1641.88,
+  "text": "Men vi var jo med og sang.",
+  "who": 3
+ },
+ {
+  "start": 1641.88,
+  "end": 1643.88,
+  "text": "De meldige.",
+  "who": 3
+ },
+ {
+  "start": 1643.88,
+  "end": 1645.88,
+  "text": "Det var fine sanger,",
+  "who": 3
+ },
+ {
+  "start": 1645.88,
+  "end": 1647.88,
+  "text": "men det var bare at det var litt p\u00e5 kanten.",
+  "who": 3
+ },
+ {
+  "start": 1647.88,
+  "end": 1649.88,
+  "text": "Litt p\u00e5 g\u00e6rne siden.",
+  "who": 2
+ },
+ {
+  "start": 1651.88,
+  "end": 1653.88,
+  "text": "Det gikk mye p\u00e5 \u00f8l.",
+  "who": 3
+ },
+ {
+  "start": 1653.88,
+  "end": 1655.88,
+  "text": "Svensk eksport\u00f8l.",
+  "who": 3
+ },
+ {
+  "start": 1655.88,
+  "end": 1659.88,
+  "text": "Det var jo liksom kremende.",
+  "who": 3
+ },
+ {
+  "start": 1659.88,
+  "end": 1661.88,
+  "text": "Vi begynte \u00e5 drikke,",
+  "who": 3
+ },
+ {
+  "start": 1661.88,
+  "end": 1663.88,
+  "text": "og s\u00e5 var det en skikkelig hum\u00f8r.",
+  "who": 3
+ },
+ {
+  "start": 1663.88,
+  "end": 1665.88,
+  "text": "Han sa s\u00e5 mye rart.",
+  "who": 3
+ },
+ {
+  "start": 1665.88,
+  "end": 1667.4133333333336,
+  "text": "Men s\u00e5 tippet det over.",
+  "who": 3,
+  "matched": true
+ },
+ {
+  "start": 1667.88,
+  "end": 1669.88,
+  "text": "Han fikk for mye.",
+  "who": 3
+ },
+ {
+  "start": 1669.88,
+  "end": 1671.3466666666668,
+  "text": "Han var oppe i v\u00e5rder,",
+  "who": 3,
+  "matched": true
+ },
+ {
+  "start": 1671.88,
+  "end": 1673.88,
+  "text": "og da hadde han f\u00e5tt dr\u00f8kke litt for mye.",
+  "who": 3
+ },
+ {
+  "start": 1673.88,
+  "end": 1675.88,
+  "text": "Kom i t\u00e5ta p\u00e5 en,",
+  "who": 3
+ },
+ {
+  "start": 1675.88,
+  "end": 1677.88,
+  "text": "det vi kalte for tater,",
+  "who": 3
+ },
+ {
+  "start": 1677.88,
+  "end": 1679.88,
+  "text": "i gamle dager.",
+  "who": 3
+ },
+ {
+  "start": 1682.25,
+  "end": 1684.1833333333334,
+  "text": "H\u00e5kon hadde tygget tellefart,",
+  "who": 3,
+  "matched": true
+ },
+ {
+  "start": 1684.1833333333334,
+  "end": 1686.1833333333334,
+  "text": "og smeltet taten.",
+  "who": 3
+ },
+ {
+  "start": 1686.1833333333334,
+  "end": 1688.1833333333334,
+  "text": "S\u00e5 han gikk over bordet,",
+  "who": 3
+ },
+ {
+  "start": 1688.1833333333334,
+  "end": 1690.1833333333334,
+  "text": "og var tengeringen i krok.",
+  "who": 3
+ },
+ {
+  "start": 1691.88,
+  "end": 1693.88,
+  "text": "Da kom jo politiet dit,",
+  "who": 3
+ },
+ {
+  "start": 1693.88,
+  "end": 1695.88,
+  "text": "og jeg tror sjukvillkommet.",
+  "who": 3
+ },
+ {
+  "start": 1697.88,
+  "end": 1699.88,
+  "text": "H\u00e5kon han gikk,",
+  "who": 3
+ },
+ {
+  "start": 1699.88,
+  "end": 1701.88,
+  "text": "for han skulle pr\u00f8ve \u00e5 finne ut hva som hadde gjort det der.",
+  "who": 3
+ },
+ {
+  "start": 1701.88,
+  "end": 1703.88,
+  "text": "S\u00e5 han gikk opp til politikubben,",
+  "who": 3
+ },
+ {
+  "start": 1703.88,
+  "end": 1705.88,
+  "text": "og lurte p\u00e5 om han kunne f\u00e5 hjelp p\u00e5 dem.",
+  "who": 3
+ },
+ {
+  "start": 1705.88,
+  "end": 1707.88,
+  "text": "Og finne han.",
+  "who": 3
+ },
+ {
+  "start": 1708.59,
+  "end": 1710.5900000000001,
+  "text": "Han visste ikke om at han hadde gjort det selv.",
+  "who": 3,
+  "matched": true
+ },
+ {
+  "start": 1710.5900000000001,
+  "end": 1712.5900000000001,
+  "text": "Han hadde gjort det selv.",
+  "who": 3
+ },
+ {
+  "start": 1712.5900000000001,
+  "end": 1714.5900000000001,
+  "text": "Og H\u00e5kon visste ikke at han hadde gjort det selv?",
+  "who": 3
+ },
+ {
+  "start": 1714.5900000000001,
+  "end": 1716.5900000000001,
+  "text": "Nei, han hadde dr\u00f8kke.",
+  "who": 3
+ },
+ {
+  "start": 1716.5900000000001,
+  "end": 1718.5233333333333,
+  "text": "Vi sa han drakk litt for mye,",
+  "who": 3,
+  "matched": true
+ },
+ {
+  "start": 1718.5233333333333,
+  "end": 1720.5233333333335,
+  "text": "det hadde v\u00e6rt mye til \u00e5 ta bort det.",
+  "who": 3
+ },
+ {
+  "start": 1720.5233333333335,
+  "end": 1722.5233333333335,
+  "text": "For han brukte \u00e5 sperre p\u00e5 p\u00e5 sender,",
+  "who": 3
+ },
+ {
+  "start": 1722.5233333333335,
+  "end": 1724.5233333333335,
+  "text": "s\u00e5nn at han gjorde noe g\u00e6rlig i nett.",
+  "who": 3
+ },
+ {
+  "start": 1723.88,
+  "end": 1725.88,
+  "text": "Han var nerv\u00f8s da?",
+  "who": 1
+ },
+ {
+  "start": 1725.88,
+  "end": 1727.88,
+  "text": "\u00c5 ja. Etter det,",
+  "who": 3
+ },
+ {
+  "start": 1727.88,
+  "end": 1729.88,
+  "text": "da var han livredd ogs\u00e5.",
+  "who": 3
+ },
+ {
+  "start": 1729.88,
+  "end": 1731.88,
+  "text": "\u00c5h, wow.",
+  "who": 3
+ },
+ {
+  "start": 1734.27,
+  "end": 1735.87,
+  "text": "Var foreldrene til H\u00e5kon",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 1735.88,
+  "end": 1737.88,
+  "text": "mye \u00e5 bekymre for han?",
+  "who": 1
+ },
+ {
+  "start": 1737.88,
+  "end": 1739.88,
+  "text": "De likte ikke den bussen vi hadde.",
+  "who": 3
+ },
+ {
+  "start": 1739.9,
+  "end": 1741.1000000000001,
+  "text": "For det visste de,",
+  "who": 3,
+  "matched": true
+ },
+ {
+  "start": 1741.88,
+  "end": 1743.88,
+  "text": "at det foregikk ting som var synd.",
+  "who": 3
+ },
+ {
+  "start": 1743.88,
+  "end": 1745.88,
+  "text": "Og jeg husker at",
+  "who": 3
+ },
+ {
+  "start": 1745.88,
+  "end": 1747.88,
+  "text": "b\u00f8rstem\u00e5let, B\u00f8rte,",
+  "who": 3
+ },
+ {
+  "start": 1748.78,
+  "end": 1749.9133333333334,
+  "text": "hun bodde ogs\u00e5 da",
+  "who": 3,
+  "matched": true
+ },
+ {
+  "start": 1749.9133333333334,
+  "end": 1751.9133333333334,
+  "text": "i det huset der.",
+  "who": 3
+ },
+ {
+  "start": 1751.9133333333334,
+  "end": 1753.9133333333334,
+  "text": "Og hun er jo skikkelig",
+  "who": 3
+ },
+ {
+  "start": 1753.9133333333334,
+  "end": 1755.9133333333334,
+  "text": "redlig ogs\u00e5.",
+  "who": 3
+ },
+ {
+  "start": 1755.9133333333334,
+  "end": 1757.7800000000002,
+  "text": "Og jeg husker da vi kom til,",
+  "who": 3,
+  "matched": true
+ },
+ {
+  "start": 1757.88,
+  "end": 1759.88,
+  "text": "noen ganger, for festeskikk,",
+  "who": 3
+ },
+ {
+  "start": 1759.88,
+  "end": 1761.88,
+  "text": "og egentlig l\u00e5 over der,",
+  "who": 3
+ },
+ {
+  "start": 1761.88,
+  "end": 1763.88,
+  "text": "og da h\u00f8rte vi,",
+  "who": 3
+ },
+ {
+  "start": 1763.88,
+  "end": 1765.88,
+  "text": "for jeg husker H\u00e5kon sa,",
+  "who": 3
+ },
+ {
+  "start": 1765.88,
+  "end": 1767.88,
+  "text": "h\u00f8r p\u00e5 han ogs\u00e5 han,",
+  "who": 3
+ },
+ {
+  "start": 1767.88,
+  "end": 1769.88,
+  "text": "og drevet og ba om",
+  "who": 0
+ },
+ {
+  "start": 1769.88,
+  "end": 1771.88,
+  "text": "at H\u00e5kon og jeg ikke skulle",
+  "who": 3
+ },
+ {
+  "start": 1771.88,
+  "end": 1773.88,
+  "text": "komme ut i synden.",
+  "who": 3
+ },
+ {
+  "start": 1773.88,
+  "end": 1775.88,
+  "text": "\u00c5 ja.",
+  "who": 3
+ },
+ {
+  "start": 1776.07,
+  "end": 1777.8033333333333,
+  "text": "S\u00e5 hun ba for at ikke dere",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 1777.88,
+  "end": 1779.88,
+  "text": "skulle bli straffet av Gud?",
+  "who": 1
+ },
+ {
+  "start": 1779.88,
+  "end": 1781.88,
+  "text": "Ja, ba for oss.",
+  "who": 3
+ },
+ {
+  "start": 1781.88,
+  "end": 1783.546666666667,
+  "text": "Det kom jo hver dag ogs\u00e5,",
+  "who": 3,
+  "matched": true
+ },
+ {
+  "start": 1783.88,
+  "end": 1785.88,
+  "text": "for det var liksom ikke skikkelig",
+  "who": 3
+ },
+ {
+  "start": 1785.88,
+  "end": 1799.88,
+  "text": "for oss.",
+  "who": 2
+ },
+ {
+  "start": 1798.72,
+  "end": 1800.3866666666668,
+  "text": "N\u00e5r s\u00e5 du de f\u00f8rste spore",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 1801.88,
+  "end": 1803.88,
+  "text": "av de psykiske problemene hans?",
+  "who": 1
+ },
+ {
+  "start": 1805.64,
+  "end": 1806.3066666666668,
+  "text": "Jeg hadde,",
+  "who": 3,
+  "matched": true
+ },
+ {
+  "start": 1806.3066666666668,
+  "end": 1808.3066666666668,
+  "text": "eller jeg anta for litt,",
+  "who": 3
+ },
+ {
+  "start": 1808.3066666666668,
+  "end": 1810.3066666666668,
+  "text": "da da den tid",
+  "who": 3
+ },
+ {
+  "start": 1809.88,
+  "end": 1811.88,
+  "text": "av det som,",
+  "who": 2
+ },
+ {
+  "start": 1811.88,
+  "end": 1813.88,
+  "text": "ja som vi var ute og drakk litt,",
+  "who": 3
+ },
+ {
+  "start": 1813.88,
+  "end": 1815.88,
+  "text": "og at han varte,",
+  "who": 3
+ },
+ {
+  "start": 1818.32,
+  "end": 1820.3199999999997,
+  "text": "han sleit litt med det her med",
+  "who": 3,
+  "matched": true
+ },
+ {
+  "start": 1820.3199999999997,
+  "end": 1822.3199999999997,
+  "text": "\u00e5 huske og varte redd for at han",
+  "who": 3
+ },
+ {
+  "start": 1822.3199999999997,
+  "end": 1824.3199999999997,
+  "text": "hadde gjort noe g\u00e6l jo,",
+  "who": 3
+ },
+ {
+  "start": 1824.3199999999997,
+  "end": 1826.3199999999997,
+  "text": "at noen kunne komme etter noe.",
+  "who": 3
+ },
+ {
+  "start": 1827.88,
+  "end": 1829.88,
+  "text": "Ja, det er ikke helt",
+  "who": 3
+ },
+ {
+  "start": 1830.53,
+  "end": 1831.0633333333333,
+  "text": "n\u00f8ye for",
+  "who": 3,
+  "matched": true
+ },
+ {
+  "start": 1831.88,
+  "end": 1833.88,
+  "text": "folk, alts\u00e5.",
+  "who": 2
+ },
+ {
+  "start": 1833.88,
+  "end": 1835.88,
+  "text": "Og da hent jo at",
+  "who": 3
+ },
+ {
+  "start": 1837.29,
+  "end": 1837.8233333333333,
+  "text": "han satt",
+  "who": 3,
+  "matched": true
+ },
+ {
+  "start": 1837.88,
+  "end": 1839.88,
+  "text": "i stua",
+  "who": 3
+ },
+ {
+  "start": 1839.88,
+  "end": 1841.88,
+  "text": "hjemme hos foreldrene mine,",
+  "who": 3
+ },
+ {
+  "start": 1841.88,
+  "end": 1843.88,
+  "text": "og det viset",
+  "who": 3
+ },
+ {
+  "start": 1843.88,
+  "end": 1845.88,
+  "text": "at det kanskje drakk kapp for seg,",
+  "who": 3
+ },
+ {
+  "start": 1845.88,
+  "end": 1847.0800000000002,
+  "text": "og s\u00e5 kom det noen",
+  "who": 3,
+  "matched": true
+ },
+ {
+  "start": 1847.88,
+  "end": 1849.88,
+  "text": "der resten s\u00e5 p\u00e5 gikk.",
+  "who": 3
+ },
+ {
+  "start": 1849.88,
+  "end": 1851.88,
+  "text": "Hvorfor det?",
+  "who": 3
+ },
+ {
+  "start": 1851.88,
+  "end": 1853.88,
+  "text": "Nei, han var,",
+  "who": 3
+ },
+ {
+  "start": 1853.88,
+  "end": 1855.88,
+  "text": "han var rett og slett redd, alts\u00e5.",
+  "who": 3,
+  "matched": true
+ },
+ {
+  "start": 1855.88,
+  "end": 1857.88,
+  "text": "Dette liksom",
+  "who": 3
+ },
+ {
+  "start": 1857.88,
+  "end": 1859.88,
+  "text": "hong over han hele tiden.",
+  "who": 2
+ },
+ {
+  "start": 1869.24,
+  "end": 1870.9066666666668,
+  "text": "Aril og resten av gjengen",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 1870.9066666666668,
+  "end": 1872.9066666666668,
+  "text": "som kj\u00f8rte bekymringsl\u00f8st rundt i Solh\u00f8r",
+  "who": 1
+ },
+ {
+  "start": 1872.9066666666668,
+  "end": 1874.9066666666668,
+  "text": "p\u00e5 slutten av 60tallet, skj\u00f8nte jo at",
+  "who": 1
+ },
+ {
+  "start": 1874.9066666666668,
+  "end": 1876.9066666666668,
+  "text": "H\u00e5kon sleit fra tid til annen, med fylleangst",
+  "who": 1
+ },
+ {
+  "start": 1876.9066666666668,
+  "end": 1878.9066666666668,
+  "text": "og andre ting. Men det var ikke s\u00e5nn",
+  "who": 1
+ },
+ {
+  "start": 1878.9066666666668,
+  "end": 1880.9066666666668,
+  "text": "at de var bekymra.",
+  "who": 1
+ },
+ {
+  "start": 1880.9066666666668,
+  "end": 1882.9066666666668,
+  "text": "H\u00e5kon tok str\u00f8g og brunt omkring, som t\u00f8mmerhogger",
+  "who": 1
+ },
+ {
+  "start": 1882.9066666666668,
+  "end": 1884.9066666666668,
+  "text": "i V\u00e6rmland, gr\u00f8ftegrave p\u00e5 Lillestr\u00f8m",
+  "who": 1
+ },
+ {
+  "start": 1884.9066666666668,
+  "end": 1886.9066666666668,
+  "text": "og bilopretter hjemme i garasjen i Hoff,",
+  "who": 1
+ },
+ {
+  "start": 1886.9066666666668,
+  "end": 1888.9066666666668,
+  "text": "og i helgene festet han.",
+  "who": 1
+ },
+ {
+  "start": 1888.98,
+  "end": 1890.78,
+  "text": "Han sa ingenting om hva han",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 1890.78,
+  "end": 1892.7799999999997,
+  "text": "tenkte p\u00e5, at livet f\u00f8ltes tyngre",
+  "who": 1
+ },
+ {
+  "start": 1892.7799999999997,
+  "end": 1894.7799999999997,
+  "text": "og tyngre \u00e5 b\u00e6re, og at han snart bare",
+  "who": 1
+ },
+ {
+  "start": 1894.7799999999997,
+  "end": 1896.7799999999997,
+  "text": "s\u00e5 en vei ut av det.",
+  "who": 2
+ },
+ {
+  "start": 1896.7799999999997,
+  "end": 1897.98,
+  "text": "S\u00e5, en sommerkveld",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 1897.98,
+  "end": 1899.98,
+  "text": "etter at H\u00e5kon Banken hadde passert 20,",
+  "who": 1
+ },
+ {
+  "start": 1899.98,
+  "end": 1901.98,
+  "text": "svelget han ned p\u00e5 et helt glas med",
+  "who": 1
+ },
+ {
+  "start": 1901.98,
+  "end": 1903.98,
+  "text": "broligende tabletter, tok med seg en pose med",
+  "who": 1
+ },
+ {
+  "start": 1903.98,
+  "end": 1905.98,
+  "text": "svenske \u00f8l og gikk bort til Aril, og spurte om",
+  "who": 1
+ },
+ {
+  "start": 1905.98,
+  "end": 1907.98,
+  "text": "ikke de to kunne ta Amazonen en tur",
+  "who": 1
+ },
+ {
+  "start": 1907.88,
+  "end": 1909.88,
+  "text": "s\u00f8r over langs Glomma.",
+  "who": 2
+ },
+ {
+  "start": 1915.88,
+  "end": 1917.88,
+  "text": "Han hadde en bl\u00e5, hvit Volvo",
+  "who": 3
+ },
+ {
+  "start": 1917.88,
+  "end": 1919.88,
+  "text": "Amazon, husker jeg.",
+  "who": 3
+ },
+ {
+  "start": 1919.88,
+  "end": 1921.88,
+  "text": "Og s\u00e5 fant det ut at",
+  "who": 3
+ },
+ {
+  "start": 1921.88,
+  "end": 1923.88,
+  "text": "vi skulle ta en tur til Kongsunger.",
+  "who": 3
+ },
+ {
+  "start": 1924.08,
+  "end": 1924.8799999999999,
+  "text": "Da hadde han",
+  "who": 3,
+  "matched": true
+ },
+ {
+  "start": 1925.88,
+  "end": 1927.88,
+  "text": "kj\u00f8pt inn \u00f8l,",
+  "who": 3
+ },
+ {
+  "start": 1929.81,
+  "end": 1931.4099999999999,
+  "text": "og jeg kj\u00f8rte spiltinger",
+  "who": 3,
+  "matched": true
+ },
+ {
+  "start": 1931.88,
+  "end": 1933.88,
+  "text": "for meg, s\u00e5 jeg sa det er greit.",
+  "who": 3
+ },
+ {
+  "start": 1933.88,
+  "end": 1935.88,
+  "text": "Og s\u00e5 begynte \u00e5 kj\u00f8re utover,",
+  "who": 3
+ },
+ {
+  "start": 1935.88,
+  "end": 1937.88,
+  "text": "og det gikk ikke s\u00e5 lange st\u00f8yna,",
+  "who": 3
+ },
+ {
+  "start": 1937.88,
+  "end": 1939.88,
+  "text": "s\u00e5 semnet han i bilen.",
+  "who": 3
+ },
+ {
+  "start": 1941.88,
+  "end": 1943.88,
+  "text": "Dette synes jeg var s\u00e5 rart,",
+  "who": 3
+ },
+ {
+  "start": 1943.88,
+  "end": 1945.88,
+  "text": "for han hadde jo bare, ja,",
+  "who": 3
+ },
+ {
+  "start": 1945.88,
+  "end": 1947.88,
+  "text": "skal jeg si, han kanskje dra",
+  "who": 2
+ },
+ {
+  "start": 1947.88,
+  "end": 1949.88,
+  "text": "to,",
+  "who": 2
+ },
+ {
+  "start": 1949.88,
+  "end": 1951.88,
+  "text": "tre til s\u00e5 sm\u00e5 pilsflasker,",
+  "who": 3
+ },
+ {
+  "start": 1952.44,
+  "end": 1954.44,
+  "text": "s\u00e5 det var det liksom ikke noe.",
+  "who": 3,
+  "matched": true
+ },
+ {
+  "start": 1954.44,
+  "end": 1956.44,
+  "text": "Og jeg pr\u00f8vde \u00e5 dytte p\u00e5 han,",
+  "who": 3
+ },
+ {
+  "start": 1956.44,
+  "end": 1958.44,
+  "text": "og H\u00e5kon sa jo, men,",
+  "who": 5
+ },
+ {
+  "start": 1958.44,
+  "end": 1960.44,
+  "text": "nei, det var d\u00e5rlig,",
+  "who": 3
+ },
+ {
+  "start": 1960.44,
+  "end": 1962.44,
+  "text": "og da tar vi bakom en lenger,",
+  "who": 3
+ },
+ {
+  "start": 1962.44,
+  "end": 1964.44,
+  "text": "og da sa han at",
+  "who": 3
+ },
+ {
+  "start": 1964.44,
+  "end": 1966.44,
+  "text": "da kan vi liksom kj\u00f8re tilbake,",
+  "who": 3
+ },
+ {
+  "start": 1966.44,
+  "end": 1968.44,
+  "text": "for vi har jo ikke noe rest til Kongsunger,",
+  "who": 3
+ },
+ {
+  "start": 1968.44,
+  "end": 1970.44,
+  "text": "f\u00f8r du visste du skulle sove.",
+  "who": 2
+ },
+ {
+  "start": 1971.88,
+  "end": 1973.88,
+  "text": "Og han sa ingenting,",
+  "who": 2
+ },
+ {
+  "start": 1973.88,
+  "end": 1975.88,
+  "text": "han bare sa av,",
+  "who": 3
+ },
+ {
+  "start": 1975.88,
+  "end": 1977.88,
+  "text": "og jeg kj\u00f8rte tilbake,",
+  "who": 3
+ },
+ {
+  "start": 1977.88,
+  "end": 1979.88,
+  "text": "og borte huselemmet,",
+  "who": 3
+ },
+ {
+  "start": 1979.88,
+  "end": 1981.88,
+  "text": "s\u00e5 pr\u00f8vde jeg \u00e5 vakke opp,",
+  "who": 3
+ },
+ {
+  "start": 1982.73,
+  "end": 1983.9966666666667,
+  "text": "s\u00e5 fl\u00f8yget jeg inn,",
+  "who": 3,
+  "matched": true
+ },
+ {
+  "start": 1983.9966666666667,
+  "end": 1985.996666666667,
+  "text": "men da var det ikke od\u00f8delig om Peder er hjemme,",
+  "who": 3
+ },
+ {
+  "start": 1985.996666666667,
+  "end": 1987.996666666667,
+  "text": "men da visste jeg hjertet n\u00f8kkelen var,",
+  "who": 3
+ },
+ {
+  "start": 1987.996666666667,
+  "end": 1989.996666666667,
+  "text": "s\u00e5 jeg l\u00e5ste opp d\u00e6ra,",
+  "who": 3
+ },
+ {
+  "start": 1989.996666666667,
+  "end": 1991.996666666667,
+  "text": "og fl\u00f8yget ut i bilen,",
+  "who": 3
+ },
+ {
+  "start": 1991.996666666667,
+  "end": 1993.996666666667,
+  "text": "og l\u00f8fte opp H\u00e5kon,",
+  "who": 3
+ },
+ {
+  "start": 1994.73,
+  "end": 1996.0633333333333,
+  "text": "og barn med meg inn,",
+  "who": 3,
+  "matched": true
+ },
+ {
+  "start": 1996.0633333333333,
+  "end": 1998.0633333333335,
+  "text": "og opp i",
+  "who": 3
+ },
+ {
+  "start": 1998.0633333333335,
+  "end": 2000.0633333333335,
+  "text": "et trepp som var",
+  "who": 3
+ },
+ {
+  "start": 2000.0633333333335,
+  "end": 2002.0633333333335,
+  "text": "en slik sving,",
+  "who": 3
+ },
+ {
+  "start": 2002.0633333333335,
+  "end": 2004.0633333333335,
+  "text": "i en gammeldags trepp,",
+  "who": 3
+ },
+ {
+  "start": 2004.0633333333335,
+  "end": 2005.5966666666666,
+  "text": "og det var ikke enkelt,",
+  "who": 3,
+  "matched": true
+ },
+ {
+  "start": 2005.88,
+  "end": 2007.88,
+  "text": "s\u00e5 jeg h\u00f8rte p\u00e5 misten i trappa der.",
+  "who": 2
+ },
+ {
+  "start": 2007.88,
+  "end": 2009.88,
+  "text": "Fekken oppi",
+  "who": 2
+ },
+ {
+  "start": 2009.88,
+  "end": 2011.88,
+  "text": "sengen,",
+  "who": 3
+ },
+ {
+  "start": 2011.88,
+  "end": 2013.0800000000004,
+  "text": "og pr\u00f8vde \u00e5 prate,",
+  "who": 3,
+  "matched": true
+ },
+ {
+  "start": 2013.88,
+  "end": 2015.88,
+  "text": "men det var ikke livssteng,",
+  "who": 3
+ },
+ {
+  "start": 2015.88,
+  "end": 2017.88,
+  "text": "og jeg ble livredd,",
+  "who": 3
+ },
+ {
+  "start": 2017.88,
+  "end": 2019.88,
+  "text": "og sprang bort av mor og far,",
+  "who": 3
+ },
+ {
+  "start": 2019.88,
+  "end": 2021.88,
+  "text": "vi var jo nabors,",
+  "who": 3
+ },
+ {
+  "start": 2021.88,
+  "end": 2022.5466666666666,
+  "text": "da kom de,",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 2028.53,
+  "end": 2029.1299999999999,
+  "text": "og s\u00e5 kom",
+  "who": 3,
+  "matched": true
+ },
+ {
+  "start": 2029.1299999999999,
+  "end": 2031.13,
+  "text": "en far skinne p\u00e5 pulsen,",
+  "who": 3
+ },
+ {
+  "start": 2031.13,
+  "end": 2033.13,
+  "text": "og s\u00e5 kom O.P. da,",
+  "who": 2
+ },
+ {
+  "start": 2033.13,
+  "end": 2035.13,
+  "text": "og helt forskrekket,",
+  "who": 3
+ },
+ {
+  "start": 2031.88,
+  "end": 2033.88,
+  "text": "doktoren var til kontakt,",
+  "who": 2
+ },
+ {
+  "start": 2033.88,
+  "end": 2035.88,
+  "text": "og de kom dit,",
+  "who": 3
+ },
+ {
+  "start": 2035.88,
+  "end": 2037.88,
+  "text": "og da viste det seg",
+  "who": 3
+ },
+ {
+  "start": 2037.88,
+  "end": 2039.88,
+  "text": "at han hadde en stikke overdose",
+  "who": 3
+ },
+ {
+  "start": 2039.88,
+  "end": 2041.88,
+  "text": "med tabletter.",
+  "who": 3
+ },
+ {
+  "start": 2041.88,
+  "end": 2043.88,
+  "text": "Han l\u00e5 i senga,",
+  "who": 2
+ },
+ {
+  "start": 2043.88,
+  "end": 2045.88,
+  "text": "vi sto ved siden av det,",
+  "who": 3
+ },
+ {
+  "start": 2045.88,
+  "end": 2047.88,
+  "text": "og doktoren,",
+  "who": 3
+ },
+ {
+  "start": 2047.88,
+  "end": 2049.88,
+  "text": "ja, han sjekket puls,",
+  "who": 3
+ },
+ {
+  "start": 2049.88,
+  "end": 2051.88,
+  "text": "og det var ikke s\u00e5 mye mer",
+  "who": 3
+ },
+ {
+  "start": 2051.88,
+  "end": 2053.88,
+  "text": "han kunne gj\u00f8re egentlig.",
+  "who": 2
+ },
+ {
+  "start": 2055.89,
+  "end": 2057.8900000000003,
+  "text": "Livet til H\u00e5kon Banken endte ikke der.",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 2057.8900000000003,
+  "end": 2059.8900000000003,
+  "text": "Han v\u00e5knet i senga si, morgenetter.",
+  "who": 1
+ },
+ {
+  "start": 2062.83,
+  "end": 2064.096666666667,
+  "text": "Og da gikk han bort",
+  "who": 3,
+  "matched": true
+ },
+ {
+  "start": 2064.096666666667,
+  "end": 2066.0966666666673,
+  "text": "den da neste morgen,",
+  "who": 3
+ },
+ {
+  "start": 2066.0966666666673,
+  "end": 2068.0966666666673,
+  "text": "det var jo s\u00f8ndag morgen,",
+  "who": 3
+ },
+ {
+  "start": 2068.0966666666673,
+  "end": 2070.0966666666673,
+  "text": "og da kom han ned",
+  "who": 3
+ },
+ {
+  "start": 2070.0966666666673,
+  "end": 2072.0966666666673,
+  "text": "fra soveromen sitt,",
+  "who": 3
+ },
+ {
+  "start": 2072.0966666666673,
+  "end": 2074.0966666666673,
+  "text": "og vi satte kj\u00f8kken borde,",
+  "who": 3
+ },
+ {
+  "start": 2074.0966666666673,
+  "end": 2076.0966666666673,
+  "text": "og legget server til mat,",
+  "who": 3
+ },
+ {
+  "start": 2076.0966666666673,
+  "end": 2078.0966666666673,
+  "text": "og da drev han,",
+  "who": 3
+ },
+ {
+  "start": 2078.0966666666673,
+  "end": 2080.0966666666673,
+  "text": "da fortalte han meg",
+  "who": 3
+ },
+ {
+  "start": 2080.0966666666673,
+  "end": 2082.0966666666673,
+  "text": "hva han hadde gjort,",
+  "who": 3
+ },
+ {
+  "start": 2082.0966666666673,
+  "end": 2084.0966666666673,
+  "text": "at han hadde tygge,",
+  "who": 3
+ },
+ {
+  "start": 2084.0966666666673,
+  "end": 2086.0966666666673,
+  "text": "tygge mange til dem.",
+  "who": 3
+ },
+ {
+  "start": 2086.0966666666673,
+  "end": 2088.0966666666673,
+  "text": "Mange piller? Ja.",
+  "who": 3
+ },
+ {
+  "start": 2088.0966666666673,
+  "end": 2090.0966666666673,
+  "text": "Og hadde liksom",
+  "who": 3
+ },
+ {
+  "start": 2090.0966666666673,
+  "end": 2092.0966666666673,
+  "text": "ment \u00e5 forlate denne jorden,",
+  "who": 3
+ },
+ {
+  "start": 2091.88,
+  "end": 2093.88,
+  "text": "med de sanger.",
+  "who": 2
+ },
+ {
+  "start": 2101.88,
+  "end": 2103.88,
+  "text": "H\u00e5kon Banken ble kj\u00f8rt til behandling",
+  "who": 1
+ },
+ {
+  "start": 2103.88,
+  "end": 2105.88,
+  "text": "p\u00e5 Sandh\u00f8ru Psykiatriske Psykus",
+  "who": 1
+ },
+ {
+  "start": 2105.88,
+  "end": 2107.88,
+  "text": "utenfor Hamar.",
+  "who": 1
+ },
+ {
+  "start": 2107.88,
+  "end": 2109.48,
+  "text": "Han ble der i noen uker,",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 2109.88,
+  "end": 2111.88,
+  "text": "og s\u00e5 flytta han hjem igjen til foreldrene sine.",
+  "who": 1
+ },
+ {
+  "start": 2111.88,
+  "end": 2113.88,
+  "text": "Han og Aril fortsatt \u00e5 kj\u00f8re festbussen",
+  "who": 1
+ },
+ {
+  "start": 2113.88,
+  "end": 2115.88,
+  "text": "rundt i Herlina,",
+  "who": 1
+ },
+ {
+  "start": 2115.88,
+  "end": 2117.88,
+  "text": "og det er n\u00e5 vi ser de f\u00f8rste lifsteinene",
+  "who": 1
+ },
+ {
+  "start": 2117.88,
+  "end": 2119.88,
+  "text": "fra artisten H\u00e5kon Banken",
+  "who": 1
+ },
+ {
+  "start": 2119.88,
+  "end": 2121.88,
+  "text": "p\u00e5 dette opptaket,",
+  "who": 1
+ },
+ {
+  "start": 2121.88,
+  "end": 2123.88,
+  "text": "med en kj\u00e6rlighetssang p\u00e5 svensk",
+  "who": 1
+ },
+ {
+  "start": 2123.88,
+  "end": 2125.88,
+  "text": "om en jente fra V\u00e6rmland,",
+  "who": 1
+ },
+ {
+  "start": 2125.88,
+  "end": 2127.88,
+  "text": "som het Britt Marie.",
+  "who": 2
+ },
+ {
+  "start": 2130.16,
+  "end": 2131.7599999999998,
+  "text": "Hvem var Britt Marie da?",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 2132.16,
+  "end": 2133.293333333333,
+  "text": "Jeg mener \u00e5 huske",
+  "who": 3,
+  "matched": true
+ },
+ {
+  "start": 2133.88,
+  "end": 2135.88,
+  "text": "at hun var fra Sverige,",
+  "who": 3
+ },
+ {
+  "start": 2136.08,
+  "end": 2137.213333333333,
+  "text": "og hun var sammen",
+  "who": 3,
+  "matched": true
+ },
+ {
+  "start": 2137.88,
+  "end": 2139.88,
+  "text": "med i stellen,",
+  "who": 3
+ },
+ {
+  "start": 2139.88,
+  "end": 2141.88,
+  "text": "og jeg mener det var Britt Marie.",
+  "who": 3
+ },
+ {
+  "start": 2141.88,
+  "end": 2143.88,
+  "text": "Hvis jeg husker herkerlig,",
+  "who": 3
+ },
+ {
+  "start": 2143.88,
+  "end": 2145.88,
+  "text": "s\u00e5 spurte hun henne",
+  "who": 3
+ },
+ {
+  "start": 2145.88,
+  "end": 2147.88,
+  "text": "selv p\u00e5 en kassett.",
+  "who": 3
+ },
+ {
+  "start": 2147.88,
+  "end": 2149.88,
+  "text": "Da var det vel fire spore kassett",
+  "who": 3
+ },
+ {
+  "start": 2149.88,
+  "end": 2151.88,
+  "text": "i den gangen der.",
+  "who": 3
+ },
+ {
+  "start": 2153.88,
+  "end": 2155.88,
+  "text": "Her som skjedde det,",
+  "who": 3
+ },
+ {
+  "start": 2155.88,
+  "end": 2157.88,
+  "text": "det vet jeg ikke,",
+  "who": 3
+ },
+ {
+  "start": 2157.88,
+  "end": 2159.88,
+  "text": "men den gikk litt rundt omkring,",
+  "who": 3
+ },
+ {
+  "start": 2159.88,
+  "end": 2161.88,
+  "text": "og folk syntes den var fin.",
+  "who": 3
+ },
+ {
+  "start": 2165.08,
+  "end": 2165.88,
+  "text": "H\u00e5kon Banken",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 2165.88,
+  "end": 2167.88,
+  "text": "hadde aldri gitt uttrykk for at han hadde",
+  "who": 1
+ },
+ {
+  "start": 2167.88,
+  "end": 2169.88,
+  "text": "noen ambisjoner om \u00e5 bli artist,",
+  "who": 1
+ },
+ {
+  "start": 2169.88,
+  "end": 2171.88,
+  "text": "og derfor er opptaket av sangen Britt Marie",
+  "who": 1
+ },
+ {
+  "start": 2171.88,
+  "end": 2173.88,
+  "text": "et aldri s\u00e5 lite mysterium.",
+  "who": 1
+ },
+ {
+  "start": 2173.88,
+  "end": 2175.6133333333337,
+  "text": "H\u00e5kons barneomsvenn, Aril,",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 2175.88,
+  "end": 2177.88,
+  "text": "kom den gangen p\u00e5 70tallet,",
+  "who": 1
+ },
+ {
+  "start": 2177.88,
+  "end": 2179.88,
+  "text": "og han hadde aldri visst hvor det kom fra.",
+  "who": 1
+ },
+ {
+  "start": 2179.88,
+  "end": 2181.6800000000003,
+  "text": "Men s\u00e5, etter nesten 50 \u00e5r,",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 2181.88,
+  "end": 2183.88,
+  "text": "like etter at H\u00e5kon Banken d\u00f8de i 2018,",
+  "who": 1
+ },
+ {
+  "start": 2183.88,
+  "end": 2185.88,
+  "text": "dukket det opp igjen p\u00e5 Youtube.",
+  "who": 1
+ },
+ {
+  "start": 2185.88,
+  "end": 2187.88,
+  "text": "Det sto ingenting om hvor opptaket",
+  "who": 1
+ },
+ {
+  "start": 2187.88,
+  "end": 2189.88,
+  "text": "kom fra, og ingenting om",
+  "who": 1
+ },
+ {
+  "start": 2189.88,
+  "end": 2191.88,
+  "text": "hvem som hadde lagt ut.",
+  "who": 1
+ },
+ {
+  "start": 2191.88,
+  "end": 2193.88,
+  "text": "Jeg skal bare vise at den ligger p\u00e5 Youtube,",
+  "who": 1
+ },
+ {
+  "start": 2193.88,
+  "end": 2195.88,
+  "text": "og se om det er det samme opptaket.",
+  "who": 3
+ },
+ {
+  "start": 2195.88,
+  "end": 2197.88,
+  "text": "\u00c5, ser du det? Den kassetten?",
+  "who": 1
+ },
+ {
+  "start": 2197.88,
+  "end": 2199.88,
+  "text": "Vi var helt borte da.",
+  "who": 3
+ },
+ {
+  "start": 2199.88,
+  "end": 2203.88,
+  "text": "Ok, skal du h\u00f8re?",
+  "who": 3
+ },
+ {
+  "start": 2206.81,
+  "end": 2207.6766666666667,
+  "text": "H\u00f8rer du noe?",
+  "who": 4,
+  "matched": true
+ },
+ {
+  "start": 2207.88,
+  "end": 2209.88,
+  "text": "Ja, det er han.",
+  "who": 2
+ },
+ {
+  "start": 2209.88,
+  "end": 2211.88,
+  "text": "Ja.",
+  "who": 2
+ },
+ {
+  "start": 2215.88,
+  "end": 2217.88,
+  "text": "Jeg husker det der.",
+  "who": 3
+ },
+ {
+  "start": 2217.88,
+  "end": 2225.88,
+  "text": "Jeg h\u00f8rte en tr\u00f8nn med hemmelsen.",
+  "who": 2
+ },
+ {
+  "start": 2232.53,
+  "end": 2234.5299999999997,
+  "text": "Har du funnet ut noen data p\u00e5 den?",
+  "who": 3,
+  "matched": true
+ },
+ {
+  "start": 2233.88,
+  "end": 2247.88,
+  "text": "1970.",
+  "who": 2
+ },
+ {
+  "start": 2260.02,
+  "end": 2262.0199999999995,
+  "text": "Dette er starten p\u00e5 den g\u00e5terf\u00f8lge",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 2262.0199999999995,
+  "end": 2264.0199999999995,
+  "text": "H\u00e5kon Bankens karriere.",
+  "who": 1
+ },
+ {
+  "start": 2264.0199999999995,
+  "end": 2266.019999999999,
+  "text": "En enkel sang om en sommerforelskelse",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 2266.019999999999,
+  "end": 2268.0199999999995,
+  "text": "spilte inn noen m\u00e5neder etter et selvmordsfors\u00f8k",
+  "who": 1
+ },
+ {
+  "start": 2268.0199999999995,
+  "end": 2270.0199999999995,
+  "text": "i en Volvo Amazon p\u00e5 vei mot Kongsvinger.",
+  "who": 1
+ },
+ {
+  "start": 2270.0199999999995,
+  "end": 2272.02,
+  "text": "Men hvor kom det fra dette opptaket,",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 2272.02,
+  "end": 2274.0199999999995,
+  "text": "og hvem spilte det inn?",
+  "who": 1
+ },
+ {
+  "start": 2274.0199999999995,
+  "end": 2276.06,
+  "text": "I neste del av denne historien skal jeg fortelle om",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 2276.06,
+  "end": 2278.0600000000004,
+  "text": "en mann H\u00e5kon Banken traff da han var innlagt",
+  "who": 1
+ },
+ {
+  "start": 2278.0600000000004,
+  "end": 2280.0600000000004,
+  "text": "p\u00e5 psykiatrisk sjukhus.",
+  "who": 1
+ },
+ {
+  "start": 2280.0600000000004,
+  "end": 2282.06,
+  "text": "En mann som forandret H\u00e5kon Bankens liv,",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 2281.88,
+  "end": 2309.88,
+  "text": "og en som forandret en sommerforelskelse.",
+  "who": 2
+ },
+ {
+  "start": 2309.88,
+  "end": 2311.88,
+  "text": "I neste del av denne historien skal jeg fortelle om",
+  "who": 1
+ },
+ {
+  "start": 2311.88,
+  "end": 2313.88,
+  "text": "en mann H\u00e5kon Banken traff da han var innlagt",
+  "who": 1
+ },
+ {
+  "start": 2313.88,
+  "end": 2315.88,
+  "text": "p\u00e5 psykiatrisk sjukhus.",
+  "who": 1
+ },
+ {
+  "start": 2315.88,
+  "end": 2317.88,
+  "text": "En mann som forandret en sommerforelskelse",
+  "who": 1
+ },
+ {
+  "start": 2317.88,
+  "end": 2319.88,
+  "text": "spilte inn noen m\u00e5neder etter et selvmordsforskjell",
+  "who": 1
+ },
+ {
+  "start": 2319.88,
+  "end": 2321.88,
+  "text": "i en Volvo Amazon p\u00e5 vei mot Kongsvinger.",
+  "who": 1
+ },
+ {
+  "start": 2321.88,
+  "end": 2323.88,
+  "text": "Men hvor kom det fra dette opptaket,",
+  "who": 1
+ },
+ {
+  "start": 2323.88,
+  "end": 2325.88,
+  "text": "og hvem spilte det inn?",
+  "who": 1
+ },
+ {
+  "start": 2325.88,
+  "end": 2327.88,
+  "text": "I neste del av denne historien skal jeg fortelle om",
+  "who": 1
+ },
+ {
+  "start": 2327.88,
+  "end": 2329.88,
+  "text": "en mann H\u00e5kon Banken traff da han var innlagt",
+  "who": 1
+ },
+ {
+  "start": 2329.88,
+  "end": 2331.88,
+  "text": "p\u00e5 psykiatrisk sjukhus.",
+  "who": 1
+ },
+ {
+  "start": 2331.88,
+  "end": 2333.88,
+  "text": "En mann H\u00e5kon Banken traff da han var innlagt",
+  "who": 1
+ },
+ {
+  "start": 2333.88,
+  "end": 2335.88,
+  "text": "p\u00e5 psykiatrisk sjukhus.",
+  "who": 2
+ },
+ {
+  "start": 2335.88,
+  "end": 2337.88,
+  "text": "Men hvor kom det fra dette opptaket,",
+  "who": 4
+ },
+ {
+  "start": 2337.88,
+  "end": 2343.88,
+  "text": "Tror du verden ser p\u00e5 meg den dag jeg kommer hjem?",
+  "who": 0
+ },
+ {
+  "start": 2344.88,
+  "end": 2351.88,
+  "text": "Tror du allting vil v\u00e6re som det var?",
+  "who": 2
+ },
+ {
+  "start": 2352.88,
+  "end": 2360.88,
+  "text": "Eller tror du mine venner vil vende ryggen til?",
+  "who": 2
+ },
+ {
+  "start": 2360.88,
+  "end": 2367.88,
+  "text": "Sender en hilse til dem alle, er du snill?",
+  "who": 0
+ },
+ {
+  "start": 2368.88,
+  "end": 2377.88,
+  "text": "Dette blir min aller f\u00f8rste jul, langt borte fra mitt hjem",
+  "who": 0
+ },
+ {
+  "start": 2377.88,
+  "end": 2384.88,
+  "text": "og jeg h\u00e5per brevet kommer tids nok frem.",
+  "who": 2
+ },
+ {
+  "start": 2384.88,
+  "end": 2393.88,
+  "text": "Vi er fire pasienter som mot julet feiring g\u00e5r",
+  "who": 2
+ },
+ {
+  "start": 2393.88,
+  "end": 2402.88,
+  "text": "selv om det er m\u00f8rkt i v\u00e5r sinn, det kommer nok en v\u00e5r.",
+  "who": 0
+ },
+ {
+  "start": 2402.88,
+  "end": 2411.88,
+  "text": "Ja, hvordan tror du verden ser p\u00e5 meg den dag jeg kommer hjem?",
+  "who": 0
+ },
+ {
+  "start": 2411.88,
+  "end": 2419.88,
+  "text": "Tror du allting vil v\u00e6re som det var?",
+  "who": 2
+ },
+ {
+  "start": 2420.88,
+  "end": 2428.88,
+  "text": "Eller tror du mine venner vil vende ryggen til?",
+  "who": 0
+ },
+ {
+  "start": 2428.88,
+  "end": 2435.88,
+  "text": "Sender en hilse til dem alle, er du snill?",
+  "who": 0
+ },
+ {
+  "start": 2435.88,
+  "end": 2445.88,
+  "text": "Jeg har sendt en liten pakke og jeg h\u00e5per du blir glad",
+  "who": 2
+ },
+ {
+  "start": 2445.88,
+  "end": 2452.88,
+  "text": "men den st\u00f8rste gaven f\u00e5r du etter jul.",
+  "who": 0
+ },
+ {
+  "start": 2453.88,
+  "end": 2462.88,
+  "text": "Legen sa jeg kunne reise hjem for godt i januar.",
+  "who": 0
+ },
+ {
+  "start": 2462.88,
+  "end": 2471.88,
+  "text": "Tror du verden n\u00e5 vil stemple meg og si at jeg er glad?",
+  "who": 0
+ },
+ {
+  "start": 2472.88,
+  "end": 2481.88,
+  "text": "Ja, hvordan tror du verden ser p\u00e5 meg den dag jeg kommer hjem?",
+  "who": 2
+ },
+ {
+  "start": 2481.88,
+  "end": 2489.88,
+  "text": "Tror du allting vil v\u00e6re som det var?",
+  "who": 2
+ },
+ {
+  "start": 2489.88,
+  "end": 2497.88,
+  "text": "Eller tror du mine venner vil vende ryggen til?",
+  "who": 2
+ },
+ {
+  "start": 2497.88,
+  "end": 2520.88,
+  "text": "Sender en hilse til dem alle, er du snill?",
+  "who": 2
+ },
+ {
+  "start": 2527.88,
+  "end": 2539.88,
+  "text": "Du har h\u00f8rt en podcast fra NRK. H\u00f8r flere podcaster og din NRK kanal i appen NRK Radio.",
+  "who": 2
+ }
+]

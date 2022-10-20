@@ -1,0 +1,1754 @@
+[
+ {
+  "start": 20.0,
+  "end": 24.88,
+  "keywords": [
+   "Adam Buxton"
+  ],
+  "type": "PER",
+  "score": 0.99971807,
+  "card": {
+   "keywords": [
+    "Adam Buxton"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 39.12,
+  "end": 42.96,
+  "keywords": [
+   "Adam Buxton"
+  ],
+  "type": "PER",
+  "score": 0.9995753765,
+  "card": {
+   "keywords": [
+    "Adam Buxton"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 44.12,
+  "end": 47.31999999999999,
+  "keywords": [
+   "England"
+  ],
+  "type": "LOC",
+  "score": 0.9995445609,
+  "card": {
+   "keywords": [
+    "England"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=England"
+  }
+ },
+ {
+  "start": 44.12,
+  "end": 47.31999999999999,
+  "keywords": [
+   "Norfolk County"
+  ],
+  "type": "LOC",
+  "score": 0.9843803644,
+  "card": {
+   "keywords": [
+    "Norfolk County"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Norfolk County"
+  }
+ },
+ {
+  "start": 72.98999999999998,
+  "end": 78.75,
+  "keywords": [
+   "Rosie"
+  ],
+  "type": "PER",
+  "score": 0.9838864207,
+  "card": {
+   "keywords": [
+    "Rosie"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 100.24,
+  "end": 103.44000000000001,
+  "keywords": [
+   "Rosie"
+  ],
+  "type": "PER",
+  "score": 0.9991006851,
+  "card": {
+   "keywords": [
+    "Rosie"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 111.76,
+  "end": 117.36,
+  "keywords": [
+   "Rosie"
+  ],
+  "type": "PER",
+  "score": 0.9984758496,
+  "card": {
+   "keywords": [
+    "Rosie"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 153.29000000000002,
+  "end": 156.08999999999997,
+  "keywords": [
+   "the University of Sussex"
+  ],
+  "type": "ORG",
+  "score": 0.9951837063,
+  "card": {
+   "keywords": [
+    "the University of Sussex"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 153.29000000000002,
+  "end": 156.08999999999997,
+  "keywords": [
+   "Anil Seth"
+  ],
+  "type": "PER",
+  "score": 0.9987719059,
+  "card": {
+   "keywords": [
+    "Anil Seth"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 160.56,
+  "end": 164.76,
+  "keywords": [
+   "Anil Kumar Seth"
+  ],
+  "type": "PER",
+  "score": 0.9997323155,
+  "card": {
+   "keywords": [
+    "Anil Seth"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 160.56,
+  "end": 164.76,
+  "keywords": [
+   "Oxfordshire"
+  ],
+  "type": "LOC",
+  "score": 0.9994087219,
+  "card": {
+   "keywords": [
+    "Oxfordshire"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Oxfordshire"
+  }
+ },
+ {
+  "start": 160.56,
+  "end": 164.76,
+  "keywords": [
+   "UK"
+  ],
+  "type": "LOC",
+  "score": 0.9985771179,
+  "card": {
+   "keywords": [
+    "UK"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=UK"
+  }
+ },
+ {
+  "start": 164.76,
+  "end": 171.56,
+  "keywords": [
+   "Yorkshire"
+  ],
+  "type": "LOC",
+  "score": 0.9993416667,
+  "card": {
+   "keywords": [
+    "Yorkshire"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Yorkshire"
+  }
+ },
+ {
+  "start": 176.16,
+  "end": 179.20000000000002,
+  "keywords": [
+   "Cambridge"
+  ],
+  "type": "ORG",
+  "score": 0.5662093759,
+  "card": {
+   "keywords": [
+    "Cambridge"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Cambridge"
+  }
+ },
+ {
+  "start": 179.76,
+  "end": 183.76,
+  "keywords": [
+   "South Africa"
+  ],
+  "type": "LOC",
+  "score": 0.9953109026,
+  "card": {
+   "keywords": [
+    "South Africa"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=South Africa"
+  }
+ },
+ {
+  "start": 183.76,
+  "end": 190.96000000000004,
+  "keywords": [
+   "Sussex"
+  ],
+  "type": "LOC",
+  "score": 0.9972329736,
+  "card": {
+   "keywords": [
+    "Sussex"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Sussex"
+  }
+ },
+ {
+  "start": 200.8,
+  "end": 204.56,
+  "keywords": [
+   "the Neurosciences Institute in"
+  ],
+  "type": "ORG",
+  "score": 0.8782868385,
+  "card": {
+   "keywords": [
+    "the University of Sussex"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 200.8,
+  "end": 204.56,
+  "keywords": [
+   "San Diego"
+  ],
+  "type": "LOC",
+  "score": 0.7526582479,
+  "card": {
+   "keywords": [
+    "San Diego"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=San Diego"
+  }
+ },
+ {
+  "start": 200.8,
+  "end": 204.56,
+  "keywords": [
+   "California"
+  ],
+  "type": "LOC",
+  "score": 0.9982339144,
+  "card": {
+   "keywords": [
+    "California"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=California"
+  }
+ },
+ {
+  "start": 205.53,
+  "end": 210.46333333333334,
+  "keywords": [
+   "Sussex University"
+  ],
+  "type": "ORG",
+  "score": 0.9978591204,
+  "card": {
+   "keywords": [
+    "the University of Sussex"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 205.53,
+  "end": 210.46333333333334,
+  "keywords": [
+   "Anil"
+  ],
+  "type": "PER",
+  "score": 0.9950752854,
+  "card": {
+   "keywords": [
+    "Anil Seth"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 217.68,
+  "end": 222.16,
+  "keywords": [
+   "Being You, A New Science of Consciousness"
+  ],
+  "type": "MISC",
+  "score": 0.9987465143,
+  "card": {
+   "keywords": [
+    "Being You, A New Science of Consciousness"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 238.16,
+  "end": 245.28,
+  "keywords": [
+   "Anil"
+  ],
+  "type": "PER",
+  "score": 0.7420975566,
+  "card": {
+   "keywords": [
+    "Anil Seth"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 262.96000000000004,
+  "end": 265.6000000000001,
+  "keywords": [
+   "Anil"
+  ],
+  "type": "PER",
+  "score": 0.6055490971,
+  "card": {
+   "keywords": [
+    "Anil Seth"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 265.6000000000001,
+  "end": 272.0000000000001,
+  "keywords": [
+   "Jim Alkalili"
+  ],
+  "type": "PER",
+  "score": 0.9998240471,
+  "card": {
+   "keywords": [
+    "Jim Alkalili"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 265.6000000000001,
+  "end": 272.0000000000001,
+  "keywords": [
+   "Anil"
+  ],
+  "type": "PER",
+  "score": 0.9966716766,
+  "card": {
+   "keywords": [
+    "Anil Seth"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 276.1600000000001,
+  "end": 280.00000000000006,
+  "keywords": [
+   "Anil Seth"
+  ],
+  "type": "PER",
+  "score": 0.9923941493,
+  "card": {
+   "keywords": [
+    "Anil Seth"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 280.00000000000006,
+  "end": 283.60000000000014,
+  "keywords": [
+   "Alkalili"
+  ],
+  "type": "PER",
+  "score": 0.9991426468,
+  "card": {
+   "keywords": [
+    "Jim Alkalili"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 283.60000000000014,
+  "end": 289.1200000000001,
+  "keywords": [
+   "Anil"
+  ],
+  "type": "PER",
+  "score": 0.8693529963,
+  "card": {
+   "keywords": [
+    "Anil Seth"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 289.1200000000001,
+  "end": 293.44000000000017,
+  "keywords": [
+   "Norfolk"
+  ],
+  "type": "LOC",
+  "score": 0.9997007847,
+  "card": {
+   "keywords": [
+    "Norfolk County"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Norfolk County"
+  }
+ },
+ {
+  "start": 289.1200000000001,
+  "end": 293.44000000000017,
+  "keywords": [
+   "Anil"
+  ],
+  "type": "PER",
+  "score": 0.4824715853,
+  "card": {
+   "keywords": [
+    "Anil Seth"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 289.1200000000001,
+  "end": 293.44000000000017,
+  "keywords": [
+   "Sussex"
+  ],
+  "type": "LOC",
+  "score": 0.9996848106,
+  "card": {
+   "keywords": [
+    "Sussex"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Sussex"
+  }
+ },
+ {
+  "start": 331.1599999999999,
+  "end": 337.64,
+  "keywords": [
+   "Anil"
+  ],
+  "type": "PER",
+  "score": 0.999373734,
+  "card": {
+   "keywords": [
+    "Anil Seth"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 342.88,
+  "end": 345.68,
+  "keywords": [
+   "Anil"
+  ],
+  "type": "PER",
+  "score": 0.9981537461,
+  "card": {
+   "keywords": [
+    "Anil Seth"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 355.96,
+  "end": 360.96,
+  "keywords": [
+   "the Perception Census"
+  ],
+  "type": "MISC",
+  "score": 0.975777626,
+  "card": {
+   "keywords": [
+    "the Perception Census"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 373.39666666666665,
+  "end": 377.71666666666664,
+  "keywords": [
+   "Anil"
+  ],
+  "type": "PER",
+  "score": 0.9955595732,
+  "card": {
+   "keywords": [
+    "Anil Seth"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 396.35666666666657,
+  "end": 399.79666666666657,
+  "keywords": [
+   "Anil Seth"
+  ],
+  "type": "PER",
+  "score": 0.9986202717,
+  "card": {
+   "keywords": [
+    "Anil Seth"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 536.3399999999997,
+  "end": 540.7399999999996,
+  "keywords": [
+   "Oxfordshire"
+  ],
+  "type": "LOC",
+  "score": 0.9996738434,
+  "card": {
+   "keywords": [
+    "Oxfordshire"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Oxfordshire"
+  }
+ },
+ {
+  "start": 768.9100000000001,
+  "end": 774.9100000000002,
+  "keywords": [
+   "Tom Nagel"
+  ],
+  "type": "PER",
+  "score": 0.999771297,
+  "card": {
+   "keywords": [
+    "Tom Nagel"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 793.11,
+  "end": 797.11,
+  "keywords": [
+   "iPhone"
+  ],
+  "type": "MISC",
+  "score": 0.9918498993,
+  "card": {
+   "keywords": [
+    "iPhone"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/IPhone"
+  }
+ },
+ {
+  "start": 793.11,
+  "end": 797.11,
+  "keywords": [
+   "iPhone"
+  ],
+  "type": "MISC",
+  "score": 0.9965650439,
+  "card": {
+   "keywords": [
+    "iPhone"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/IPhone"
+  }
+ },
+ {
+  "start": 950.343333333333,
+  "end": 954.4233333333332,
+  "keywords": [
+   "Beano"
+  ],
+  "type": "LOC",
+  "score": 0.9961726069,
+  "card": {
+   "keywords": [
+    "Beano"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Beano"
+  }
+ },
+ {
+  "start": 950.343333333333,
+  "end": 954.4233333333332,
+  "keywords": [
+   "Beano"
+  ],
+  "type": "LOC",
+  "score": 0.9961726069,
+  "card": {
+   "keywords": [
+    "Beano"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Beano"
+  }
+ },
+ {
+  "start": 950.343333333333,
+  "end": 954.4233333333332,
+  "keywords": [
+   "Beano"
+  ],
+  "type": "LOC",
+  "score": 0.9961726069,
+  "card": {
+   "keywords": [
+    "Beano"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Beano"
+  }
+ },
+ {
+  "start": 950.343333333333,
+  "end": 954.4233333333332,
+  "keywords": [
+   "Beano"
+  ],
+  "type": "LOC",
+  "score": 0.9961726069,
+  "card": {
+   "keywords": [
+    "Beano"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Beano"
+  }
+ },
+ {
+  "start": 1356.4099999999999,
+  "end": 1358.89,
+  "keywords": [
+   "Immanuel Kant"
+  ],
+  "type": "PER",
+  "score": 0.9996730089,
+  "card": {
+   "keywords": [
+    "Immanuel Kant"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Immanuel_Kant"
+  }
+ },
+ {
+  "start": 1404.24,
+  "end": 1408.64,
+  "keywords": [
+   "God"
+  ],
+  "type": "MISC",
+  "score": 0.668297112,
+  "card": {
+   "keywords": [
+    "God"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 1448.1799999999994,
+  "end": 1450.5799999999995,
+  "keywords": [
+   "Adam Buxton"
+  ],
+  "type": "PER",
+  "score": 0.9996240139,
+  "card": {
+   "keywords": [
+    "Adam Buxton"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1494.7799999999995,
+  "end": 1499.2599999999998,
+  "keywords": [
+   "Buddhism"
+  ],
+  "type": "MISC",
+  "score": 0.9932558537,
+  "card": {
+   "keywords": [
+    "Buddhism"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 1551.28,
+  "end": 1556.4800000000002,
+  "keywords": [
+   "Oliver Sacks"
+  ],
+  "type": "PER",
+  "score": 0.9994958639,
+  "card": {
+   "keywords": [
+    "Oliver Sacks"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1607.85,
+  "end": 1611.6899999999998,
+  "keywords": [
+   "Oliver Sacks"
+  ],
+  "type": "PER",
+  "score": 0.9973003268,
+  "card": {
+   "keywords": [
+    "Oliver Sacks"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1625.7999999999997,
+  "end": 1627.6399999999996,
+  "keywords": [
+   "Oliver Sacks"
+  ],
+  "type": "PER",
+  "score": 0.9996732473,
+  "card": {
+   "keywords": [
+    "Oliver Sacks"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1625.7999999999997,
+  "end": 1627.6399999999996,
+  "keywords": [
+   "Oliver Sacks"
+  ],
+  "type": "PER",
+  "score": 0.9996732473,
+  "card": {
+   "keywords": [
+    "Oliver Sacks"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1788.9499999999998,
+  "end": 1791.1899999999998,
+  "keywords": [
+   "Freud"
+  ],
+  "type": "PER",
+  "score": 0.9997652173,
+  "card": {
+   "keywords": [
+    "Freud"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Freud"
+  }
+ },
+ {
+  "start": 1819.8699999999997,
+  "end": 1823.47,
+  "keywords": [
+   "Ramble book"
+  ],
+  "type": "MISC",
+  "score": 0.9983548522,
+  "card": {
+   "keywords": [
+    "Ramble book"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 1826.5066666666667,
+  "end": 1828.6666666666667,
+  "keywords": [
+   "the Buzzcocks"
+  ],
+  "type": "ORG",
+  "score": 0.5968770385,
+  "card": {
+   "keywords": [
+    "the University of Sussex"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 1828.6666666666667,
+  "end": 1832.6666666666667,
+  "keywords": [
+   "Simon Amstel"
+  ],
+  "type": "PER",
+  "score": 0.9997273684,
+  "card": {
+   "keywords": [
+    "Simon Amstel"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 2035.67,
+  "end": 2040.23,
+  "keywords": [
+   "US"
+  ],
+  "type": "LOC",
+  "score": 0.9973428845,
+  "card": {
+   "keywords": [
+    "US"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=US"
+  }
+ },
+ {
+  "start": 2146.2,
+  "end": 2148.3599999999997,
+  "keywords": [
+   "Michael Pollan"
+  ],
+  "type": "PER",
+  "score": 0.9996606112,
+  "card": {
+   "keywords": [
+    "Michael Pollan"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 2158.96,
+  "end": 2161.68,
+  "keywords": [
+   "Michael Pollan"
+  ],
+  "type": "PER",
+  "score": 0.9997550249,
+  "card": {
+   "keywords": [
+    "Michael Pollan"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 2158.96,
+  "end": 2161.68,
+  "keywords": [
+   "Michael Pollan"
+  ],
+  "type": "PER",
+  "score": 0.9997550249,
+  "card": {
+   "keywords": [
+    "Michael Pollan"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 2158.96,
+  "end": 2161.68,
+  "keywords": [
+   "Michael Pollan"
+  ],
+  "type": "PER",
+  "score": 0.9997550249,
+  "card": {
+   "keywords": [
+    "Michael Pollan"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 2158.96,
+  "end": 2161.68,
+  "keywords": [
+   "Michael Pollan"
+  ],
+  "type": "PER",
+  "score": 0.9997550249,
+  "card": {
+   "keywords": [
+    "Michael Pollan"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 2158.96,
+  "end": 2161.68,
+  "keywords": [
+   "Michael Pollan"
+  ],
+  "type": "PER",
+  "score": 0.9997550249,
+  "card": {
+   "keywords": [
+    "Michael Pollan"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 2767.740000000001,
+  "end": 2772.3800000000015,
+  "keywords": [
+   "Alex Garland"
+  ],
+  "type": "PER",
+  "score": 0.9997093678,
+  "card": {
+   "keywords": [
+    "Alex Garland"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 2767.740000000001,
+  "end": 2772.3800000000015,
+  "keywords": [
+   "Ex Machina"
+  ],
+  "type": "MISC",
+  "score": 0.9982481003,
+  "card": {
+   "keywords": [
+    "Ex Machina"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Ex_Machina"
+  }
+ },
+ {
+  "start": 2795.92,
+  "end": 2799.28,
+  "keywords": [
+   "YouTube"
+  ],
+  "type": "MISC",
+  "score": 0.9667551517,
+  "card": {
+   "keywords": [
+    "YouTube"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/YouTube"
+  }
+ },
+ {
+  "start": 2820.8,
+  "end": 2829.84,
+  "keywords": [
+   "Anil"
+  ],
+  "type": "PER",
+  "score": 0.9916365743,
+  "card": {
+   "keywords": [
+    "Anil Seth"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 2924.48,
+  "end": 2929.04,
+  "keywords": [
+   "Julian Barnes"
+  ],
+  "type": "PER",
+  "score": 0.9984480143,
+  "card": {
+   "keywords": [
+    "Julian Barnes"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Julian_Barnes"
+  }
+ },
+ {
+  "start": 2929.04,
+  "end": 2930.96,
+  "keywords": [
+   "Nothing to be Frightened of"
+  ],
+  "type": "MISC",
+  "score": 0.9991351962,
+  "card": {
+   "keywords": [
+    "Being You, A New Science of Consciousness"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 3003.1100000000006,
+  "end": 3005.5900000000006,
+  "keywords": [
+   "Adam"
+  ],
+  "type": "PER",
+  "score": 0.9984941483,
+  "card": {
+   "keywords": [
+    "Adam Buxton"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 3081.899999999999,
+  "end": 3086.1399999999985,
+  "keywords": [
+   "Paris"
+  ],
+  "type": "LOC",
+  "score": 0.9995251894,
+  "card": {
+   "keywords": [
+    "Paris"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Paris"
+  }
+ },
+ {
+  "start": 3081.899999999999,
+  "end": 3086.1399999999985,
+  "keywords": [
+   "the Enlightenment"
+  ],
+  "type": "MISC",
+  "score": 0.8021893501,
+  "card": {
+   "keywords": [
+    "the Perception Census"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 3161.92,
+  "end": 3166.24,
+  "keywords": [
+   "Midsummer's Day"
+  ],
+  "type": "MISC",
+  "score": 0.8772511482,
+  "card": {
+   "keywords": [
+    "Midsummer's Day"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 3183.92,
+  "end": 3188.48,
+  "keywords": [
+   "Marie Curie"
+  ],
+  "type": "PER",
+  "score": 0.8554979563,
+  "card": {
+   "keywords": [
+    "Marie Curie"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Marie_Curie"
+  }
+ },
+ {
+  "start": 3262.6800000000003,
+  "end": 3267.1600000000003,
+  "keywords": [
+   "Western"
+  ],
+  "type": "MISC",
+  "score": 0.4698339403,
+  "card": {
+   "keywords": [
+    "Western"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Western"
+  }
+ },
+ {
+  "start": 3359.22,
+  "end": 3362.02,
+  "keywords": [
+   "Squarespace"
+  ],
+  "type": "MISC",
+  "score": 0.9488081336,
+  "card": {
+   "keywords": [
+    "Squarespace"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 3359.22,
+  "end": 3362.02,
+  "keywords": [
+   ". com"
+  ],
+  "type": "MISC",
+  "score": 0.4650848508,
+  "card": {
+   "keywords": [
+    ". com"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 3388.8,
+  "end": 3392.96,
+  "keywords": [
+   "Squarespace. com"
+  ],
+  "type": "ORG",
+  "score": 0.8269405961,
+  "card": {
+   "keywords": [
+    "Squarespace. com"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 3388.8,
+  "end": 3392.96,
+  "keywords": [
+   "Buxton"
+  ],
+  "type": "PER",
+  "score": 0.9953616261,
+  "card": {
+   "keywords": [
+    "Adam Buxton"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 3395.28,
+  "end": 3399.52,
+  "keywords": [
+   "BUXTON"
+  ],
+  "type": "MISC",
+  "score": 0.4987199306,
+  "card": {
+   "keywords": [
+    "BUXTON"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Buxton"
+  }
+ },
+ {
+  "start": 3420.8,
+  "end": 3424.4,
+  "keywords": [
+   "Anil Seth"
+  ],
+  "type": "PER",
+  "score": 0.9978437424,
+  "card": {
+   "keywords": [
+    "Anil Seth"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 3429.54,
+  "end": 3432.806666666667,
+  "keywords": [
+   "Being You A New Science of Consciousness"
+  ],
+  "type": "MISC",
+  "score": 0.9990028739,
+  "card": {
+   "keywords": [
+    "Being You, A New Science of Consciousness"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 3443.96,
+  "end": 3445.7199999999993,
+  "keywords": [
+   "The Man Who Mistook His Wife for a Hat"
+  ],
+  "type": "MISC",
+  "score": 0.9987413883,
+  "card": {
+   "keywords": [
+    "The Man Who Mistook His Wife for a Hat"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/The_Man_Who_Mistook_His_Wife_for_a_Hat"
+  }
+ },
+ {
+  "start": 3445.7199999999993,
+  "end": 3448.1199999999994,
+  "keywords": [
+   "Anil"
+  ],
+  "type": "PER",
+  "score": 0.9968083501,
+  "card": {
+   "keywords": [
+    "Anil Seth"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 3450.4,
+  "end": 3454.32,
+  "keywords": [
+   "Anil"
+  ],
+  "type": "PER",
+  "score": 0.997983098,
+  "card": {
+   "keywords": [
+    "Anil Seth"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 3460.2,
+  "end": 3462.5999999999995,
+  "keywords": [
+   "Anil"
+  ],
+  "type": "PER",
+  "score": 0.9599508047,
+  "card": {
+   "keywords": [
+    "Anil Seth"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 3490.71,
+  "end": 3494.2300000000005,
+  "keywords": [
+   "The Paradox of the Atheist Soul"
+  ],
+  "type": "MISC",
+  "score": 0.9981182218,
+  "card": {
+   "keywords": [
+    "The Man Who Mistook His Wife for a Hat"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/The_Man_Who_Mistook_His_Wife_for_a_Hat"
+  }
+ },
+ {
+  "start": 3497.47,
+  "end": 3500.99,
+  "keywords": [
+   "In Search of the Soul"
+  ],
+  "type": "MISC",
+  "score": 0.9995643497,
+  "card": {
+   "keywords": [
+    "Being You, A New Science of Consciousness"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 3507.6699999999996,
+  "end": 3512.15,
+  "keywords": [
+   "YouTube"
+  ],
+  "type": "MISC",
+  "score": 0.9574870467,
+  "card": {
+   "keywords": [
+    "YouTube"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/YouTube"
+  }
+ },
+ {
+  "start": 3507.6699999999996,
+  "end": 3512.15,
+  "keywords": [
+   "Nick Bostrom"
+  ],
+  "type": "PER",
+  "score": 0.9997791052,
+  "card": {
+   "keywords": [
+    "Nick Bostrom"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Nick_Bostrom"
+  }
+ },
+ {
+  "start": 3512.72,
+  "end": 3516.32,
+  "keywords": [
+   "Swedish"
+  ],
+  "type": "MISC",
+  "score": 0.6167524457,
+  "card": {
+   "keywords": [
+    "Swedish"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Swedish_Medical_Center"
+  }
+ },
+ {
+  "start": 3512.72,
+  "end": 3516.32,
+  "keywords": [
+   "I"
+  ],
+  "type": "PER",
+  "score": 0.8474364281,
+  "card": {
+   "keywords": [
+    "Immanuel Kant"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Immanuel_Kant"
+  }
+ },
+ {
+  "start": 3516.32,
+  "end": 3520.1599999999994,
+  "keywords": [
+   "Matrix"
+  ],
+  "type": "MISC",
+  "score": 0.5196637511,
+  "card": {
+   "keywords": [
+    "Matrix"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/The_Matrix"
+  }
+ },
+ {
+  "start": 3520.16,
+  "end": 3523.76,
+  "keywords": [
+   "YouTube"
+  ],
+  "type": "MISC",
+  "score": 0.8028050065,
+  "card": {
+   "keywords": [
+    "YouTube"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/YouTube"
+  }
+ },
+ {
+  "start": 3526.53,
+  "end": 3530.1966666666667,
+  "keywords": [
+   "Anil"
+  ],
+  "type": "PER",
+  "score": 0.9916525483,
+  "card": {
+   "keywords": [
+    "Anil Seth"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 3531.7966666666666,
+  "end": 3534.676666666666,
+  "keywords": [
+   "How to Change Your Mind"
+  ],
+  "type": "MISC",
+  "score": 0.9991628528,
+  "card": {
+   "keywords": [
+    "How to Change Your Mind"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 3531.7966666666666,
+  "end": 3534.676666666666,
+  "keywords": [
+   "Michael Pollan"
+  ],
+  "type": "PER",
+  "score": 0.9993269444,
+  "card": {
+   "keywords": [
+    "Michael Pollan"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 3535.79,
+  "end": 3538.6566666666668,
+  "keywords": [
+   "Julian Barnes"
+  ],
+  "type": "PER",
+  "score": 0.9996394515,
+  "card": {
+   "keywords": [
+    "Julian Barnes"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Julian_Barnes"
+  }
+ },
+ {
+  "start": 3539.52,
+  "end": 3542.72,
+  "keywords": [
+   "Anil"
+  ],
+  "type": "PER",
+  "score": 0.9892899394,
+  "card": {
+   "keywords": [
+    "Anil Seth"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 3539.52,
+  "end": 3542.72,
+  "keywords": [
+   "Nothing to be Frightened of"
+  ],
+  "type": "MISC",
+  "score": 0.9972971082,
+  "card": {
+   "keywords": [
+    "How to Change Your Mind"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 3543.02,
+  "end": 3546.86,
+  "keywords": [
+   "God"
+  ],
+  "type": "MISC",
+  "score": 0.9699171782,
+  "card": {
+   "keywords": [
+    "God"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 3543.02,
+  "end": 3546.86,
+  "keywords": [
+   "Julian Barnes"
+  ],
+  "type": "PER",
+  "score": 0.9998190403,
+  "card": {
+   "keywords": [
+    "Julian Barnes"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Julian_Barnes"
+  }
+ },
+ {
+  "start": 3557.73,
+  "end": 3561.2633333333333,
+  "keywords": [
+   "God"
+  ],
+  "type": "MISC",
+  "score": 0.5695722103,
+  "card": {
+   "keywords": [
+    "God"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 3561.2633333333333,
+  "end": 3566.1433333333334,
+  "keywords": [
+   "French"
+  ],
+  "type": "MISC",
+  "score": 0.6434435844,
+  "card": {
+   "keywords": [
+    "French"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 3561.2633333333333,
+  "end": 3566.1433333333334,
+  "keywords": [
+   "Jules Renard"
+  ],
+  "type": "PER",
+  "score": 0.9995290637,
+  "card": {
+   "keywords": [
+    "Jules Renard"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 3596.16,
+  "end": 3599.2800000000007,
+  "keywords": [
+   "Anil"
+  ],
+  "type": "PER",
+  "score": 0.9994567037,
+  "card": {
+   "keywords": [
+    "Anil Seth"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 3644.64,
+  "end": 3646.64,
+  "keywords": [
+   "YouTube"
+  ],
+  "type": "MISC",
+  "score": 0.9975916147,
+  "card": {
+   "keywords": [
+    "YouTube"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/YouTube"
+  }
+ },
+ {
+  "start": 3649.36,
+  "end": 3654.72,
+  "keywords": [
+   "YouTube"
+  ],
+  "type": "MISC",
+  "score": 0.9959514141,
+  "card": {
+   "keywords": [
+    "YouTube"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/YouTube"
+  }
+ },
+ {
+  "start": 3654.72,
+  "end": 3661.1200000000003,
+  "keywords": [
+   "Rosie"
+  ],
+  "type": "PER",
+  "score": 0.9986265898,
+  "card": {
+   "keywords": [
+    "Rosie"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 3672.04,
+  "end": 3674.76,
+  "keywords": [
+   "Rosie"
+  ],
+  "type": "PER",
+  "score": 0.9983677268,
+  "card": {
+   "keywords": [
+    "Rosie"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 3683.33,
+  "end": 3685.8900000000003,
+  "keywords": [
+   "YouTube"
+  ],
+  "type": "ORG",
+  "score": 0.9270923734,
+  "card": {
+   "keywords": [
+    "YouTube"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/YouTube"
+  }
+ },
+ {
+  "start": 3719.620000000001,
+  "end": 3724.2600000000007,
+  "keywords": [
+   "Seamus Murphy Mitchell"
+  ],
+  "type": "PER",
+  "score": 0.9997697473,
+  "card": {
+   "keywords": [
+    "Seamus Murphy Mitchell"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 3734.81,
+  "end": 3737.77,
+  "keywords": [
+   "Helen Greene"
+  ],
+  "type": "PER",
+  "score": 0.9997512102,
+  "card": {
+   "keywords": [
+    "Helen Greene"
+   ],
+   "type": "PER"
+  }
+ }
+]

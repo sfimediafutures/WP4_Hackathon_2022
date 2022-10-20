@@ -1,0 +1,12 @@
+{
+ "id": 3783633970,
+ "subtitles": [
+  {
+   "src": "/whisper//tv2/GMN-DEL5-150620_Sommertest_subs.json"
+  }
+ ],
+ "cast": "/whisper//tv2/GMN-DEL5-150620_Sommertest_people.json",
+ "audio": {
+  "src": "https://seer2.itek.norut.no/whisper//tv2/GMN-DEL5-150620_Sommertest.mp3"
+ }
+}

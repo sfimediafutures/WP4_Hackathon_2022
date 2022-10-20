@@ -1,0 +1,201 @@
+[
+ {
+  "start": 6.0,
+  "end": 9.0,
+  "keywords": [
+   "Bolstad"
+  ],
+  "type": "PER",
+  "score": 0.5596657395,
+  "card": {
+   "keywords": [
+    "Bolstad"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Bolstad"
+  }
+ },
+ {
+  "start": 9.0,
+  "end": 13.0,
+  "keywords": [
+   "Gran Canaria"
+  ],
+  "type": "LOC",
+  "score": 0.9982841015,
+  "card": {
+   "keywords": [
+    "Gran Canaria"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Gran Canaria"
+  }
+ },
+ {
+  "start": 9.0,
+  "end": 13.0,
+  "keywords": [
+   "Sass"
+  ],
+  "type": "PER",
+  "score": 0.9945766926,
+  "card": {
+   "keywords": [
+    "Sass"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 13.0,
+  "end": 17.0,
+  "keywords": [
+   "Sass"
+  ],
+  "type": "ORG",
+  "score": 0.9981266856,
+  "card": {
+   "keywords": [
+    "Sass"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 21.0,
+  "end": 25.0,
+  "keywords": [
+   "Sass"
+  ],
+  "type": "PER",
+  "score": 0.9992222786,
+  "card": {
+   "keywords": [
+    "Sass"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 41.0,
+  "end": 46.0,
+  "keywords": [
+   "Sass"
+  ],
+  "type": "ORG",
+  "score": 0.9762229919,
+  "card": {
+   "keywords": [
+    "Sass"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 41.0,
+  "end": 46.0,
+  "keywords": [
+   "TV2"
+  ],
+  "type": "ORG",
+  "score": 0.9996763468,
+  "card": {
+   "keywords": [
+    "TV2"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/TV_2_Direkte"
+  }
+ },
+ {
+  "start": 51.0,
+  "end": 53.0,
+  "keywords": [
+   "Sass"
+  ],
+  "type": "PER",
+  "score": 0.9993313551,
+  "card": {
+   "keywords": [
+    "Sass"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 69.0,
+  "end": 73.0,
+  "keywords": [
+   "Tomas Iversen"
+  ],
+  "type": "PER",
+  "score": 0.9995554686,
+  "card": {
+   "keywords": [
+    "Tomas Iversen"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 84.66333333333334,
+  "end": 89.66333333333336,
+  "keywords": [
+   "Sass"
+  ],
+  "type": "ORG",
+  "score": 0.7111281157,
+  "card": {
+   "keywords": [
+    "Sass"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 93.0,
+  "end": 97.0,
+  "keywords": [
+   "Svein Bolstad"
+  ],
+  "type": "PER",
+  "score": 0.9998189211,
+  "card": {
+   "keywords": [
+    "Bolstad"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Bolstad"
+  }
+ },
+ {
+  "start": 93.0,
+  "end": 97.0,
+  "keywords": [
+   "Sass"
+  ],
+  "type": "ORG",
+  "score": 0.9991980195,
+  "card": {
+   "keywords": [
+    "Sass"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 97.0,
+  "end": 118.0,
+  "keywords": [
+   "Sass"
+  ],
+  "type": "PER",
+  "score": 0.999640584,
+  "card": {
+   "keywords": [
+    "Sass"
+   ],
+   "type": "PER"
+  }
+ }
+]

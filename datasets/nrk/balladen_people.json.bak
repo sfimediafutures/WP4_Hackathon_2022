@@ -1,0 +1,112 @@
+{
+ "0": {
+  "name": 0,
+  "color": "#ffeeffA6",
+  "segments": [
+   {
+    "file": "/tmp/balladen_mono.wav",
+    "times": [
+     [
+      74.45,
+      79.45
+     ]
+    ]
+   }
+  ]
+ },
+ "1": {
+  "name": 1,
+  "color": "#ffeeffA6",
+  "segments": [
+   {
+    "file": "/tmp/balladen_mono.wav",
+    "times": [
+     [
+      227.24,
+      234.24
+     ],
+     [
+      433.22,
+      440.22
+     ]
+    ]
+   }
+  ]
+ },
+ "2": {
+  "name": 2,
+  "color": "#ffeeffA6",
+  "segments": [
+   {
+    "file": "/tmp/balladen_mono.wav",
+    "times": [
+     [
+      273.77,
+      280.77
+     ],
+     [
+      314.24,
+      321.24
+     ]
+    ]
+   }
+  ]
+ },
+ "3": {
+  "name": 3,
+  "color": "#ffeeffA6",
+  "segments": [
+   {
+    "file": "/tmp/balladen_mono.wav",
+    "times": [
+     [
+      514.07,
+      521.07
+     ],
+     [
+      620.0,
+      627.0
+     ]
+    ]
+   }
+  ]
+ },
+ "4": {
+  "name": 4,
+  "color": "#ffeeffA6",
+  "segments": [
+   {
+    "file": "/tmp/balladen_mono.wav",
+    "times": [
+     [
+      928.73,
+      935.73
+     ],
+     [
+      1019.24,
+      1026.24
+     ]
+    ]
+   }
+  ]
+ },
+ "5": {
+  "name": 5,
+  "color": "#ffeeffA6",
+  "segments": [
+   {
+    "file": "/tmp/balladen_mono.wav",
+    "times": [
+     [
+      1205.18,
+      1212.18
+     ],
+     [
+      1288.88,
+      1293.88
+     ]
+    ]
+   }
+  ]
+ }
+}

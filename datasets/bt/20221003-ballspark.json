@@ -1,0 +1,13 @@
+{
+ "id": 3377549364,
+ "subtitles": [
+  {
+   "src": "/whisper//bt/20221003-ballspark_subs.json"
+  }
+ ],
+ "cast": "/whisper//bt/20221003-ballspark_people.json",
+ "audio": {
+  "src": "/whisper//bt/20221003-ballspark.mp3"
+ },
+ "info": "https://seer2.itek.norut.no/whisper/bt/20221003-ballspark_info.json"
+}

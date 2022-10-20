@@ -1,0 +1,2639 @@
+[
+ {
+  "start": 17.32,
+  "end": 20.48,
+  "keywords": [
+   "N\u00e5kon m\u00e5 g\u00e5"
+  ],
+  "type": "MISC",
+  "score": 0.9970138669,
+  "card": {
+   "keywords": [
+    "N\u00e5kon m\u00e5 g\u00e5"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 17.32,
+  "end": 20.48,
+  "keywords": [
+   "Bergenstidende"
+  ],
+  "type": "ORG",
+  "score": 0.7717471123,
+  "card": {
+   "keywords": [
+    "Bergenstidende"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 27.28,
+  "end": 30.12,
+  "keywords": [
+   "Jens Kjell"
+  ],
+  "type": "PER",
+  "score": 0.9978173375,
+  "card": {
+   "keywords": [
+    "Jens Kjell"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 89.68,
+  "end": 95.63999999999999,
+  "keywords": [
+   "Hulal"
+  ],
+  "type": "LOC",
+  "score": 0.9930441976,
+  "card": {
+   "keywords": [
+    "Hulal"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Hulal"
+  }
+ },
+ {
+  "start": 111.2,
+  "end": 116.36,
+  "keywords": [
+   "Ukraina"
+  ],
+  "type": "LOC",
+  "score": 0.9996626377,
+  "card": {
+   "keywords": [
+    "Ukraina"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Ukraina"
+  }
+ },
+ {
+  "start": 111.2,
+  "end": 116.36,
+  "keywords": [
+   "Europa"
+  ],
+  "type": "LOC",
+  "score": 0.999594748,
+  "card": {
+   "keywords": [
+    "Europa"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Europa"
+  }
+ },
+ {
+  "start": 130.68,
+  "end": 135.12,
+  "keywords": [
+   "Ukraina"
+  ],
+  "type": "LOC",
+  "score": 0.9994459748,
+  "card": {
+   "keywords": [
+    "Ukraina"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Ukraina"
+  }
+ },
+ {
+  "start": 138.24,
+  "end": 144.68,
+  "keywords": [
+   "Hans Mjelva"
+  ],
+  "type": "PER",
+  "score": 0.9998407364,
+  "card": {
+   "keywords": [
+    "Hans Mjelva"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 165.61333333333332,
+  "end": 173.77333333333334,
+  "keywords": [
+   "Herre"
+  ],
+  "type": "ORG",
+  "score": 0.6716415882,
+  "card": {
+   "keywords": [
+    "Herre"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Herre"
+  }
+ },
+ {
+  "start": 165.61333333333332,
+  "end": 173.77333333333334,
+  "keywords": [
+   "Vest"
+  ],
+  "type": "PER",
+  "score": 0.7561573982,
+  "card": {
+   "keywords": [
+    "Vest"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Vest"
+  }
+ },
+ {
+  "start": 173.24,
+  "end": 178.52,
+  "keywords": [
+   "Herre"
+  ],
+  "type": "MISC",
+  "score": 0.6934610009,
+  "card": {
+   "keywords": [
+    "Herre"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Herre"
+  }
+ },
+ {
+  "start": 173.24,
+  "end": 178.52,
+  "keywords": [
+   "Vest"
+  ],
+  "type": "PER",
+  "score": 0.9260986447,
+  "card": {
+   "keywords": [
+    "Vest"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Vest"
+  }
+ },
+ {
+  "start": 195.12,
+  "end": 200.32,
+  "keywords": [
+   "Stig Arell Pettersen"
+  ],
+  "type": "PER",
+  "score": 0.9997161031,
+  "card": {
+   "keywords": [
+    "Stig Arell Pettersen"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 195.12,
+  "end": 200.32,
+  "keywords": [
+   "Oslo"
+  ],
+  "type": "LOC",
+  "score": 0.9995730519,
+  "card": {
+   "keywords": [
+    "Oslo"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Oslo"
+  }
+ },
+ {
+  "start": 219.68,
+  "end": 224.48,
+  "keywords": [
+   "Stortinget"
+  ],
+  "type": "LOC",
+  "score": 0.917483449,
+  "card": {
+   "keywords": [
+    "Stortinget"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Stortinget"
+  }
+ },
+ {
+  "start": 219.68,
+  "end": 224.48,
+  "keywords": [
+   "Finansepartmanget"
+  ],
+  "type": "ORG",
+  "score": 0.9851762056,
+  "card": {
+   "keywords": [
+    "Finansepartmanget"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 233.08,
+  "end": 242.67999999999998,
+  "keywords": [
+   "Stortinget"
+  ],
+  "type": "LOC",
+  "score": 0.9987333417,
+  "card": {
+   "keywords": [
+    "Stortinget"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Stortinget"
+  }
+ },
+ {
+  "start": 233.08,
+  "end": 242.67999999999998,
+  "keywords": [
+   "Vandrehallen"
+  ],
+  "type": "LOC",
+  "score": 0.9991064668,
+  "card": {
+   "keywords": [
+    "Vandrehallen"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Vandrehallen"
+  }
+ },
+ {
+  "start": 242.68,
+  "end": 248.08,
+  "keywords": [
+   "Erna Solbergs"
+  ],
+  "type": "PER",
+  "score": 0.9996243715,
+  "card": {
+   "keywords": [
+    "Erna Solbergs"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 250.88,
+  "end": 258.48,
+  "keywords": [
+   "Vedum"
+  ],
+  "type": "PER",
+  "score": 0.9995829463,
+  "card": {
+   "keywords": [
+    "Vedum"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Vedum"
+  }
+ },
+ {
+  "start": 289.68,
+  "end": 296.87999999999994,
+  "keywords": [
+   "Vedum"
+  ],
+  "type": "PER",
+  "score": 0.9995099306,
+  "card": {
+   "keywords": [
+    "Vedum"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Vedum"
+  }
+ },
+ {
+  "start": 375.48,
+  "end": 388.28,
+  "keywords": [
+   "Stortingshallen"
+  ],
+  "type": "LOC",
+  "score": 0.9985571504,
+  "card": {
+   "keywords": [
+    "Stortingshallen"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Stortingshallen"
+  }
+ },
+ {
+  "start": 375.48,
+  "end": 388.28,
+  "keywords": [
+   "R\u00f8dt"
+  ],
+  "type": "ORG",
+  "score": 0.9995977283,
+  "card": {
+   "keywords": [
+    "R\u00f8dt"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/R%C3%B8dt"
+  }
+ },
+ {
+  "start": 395.88,
+  "end": 411.88,
+  "keywords": [
+   "Tina Bru"
+  ],
+  "type": "PER",
+  "score": 0.9998444319,
+  "card": {
+   "keywords": [
+    "Tina Bru"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Tina_Bru"
+  }
+ },
+ {
+  "start": 424.88,
+  "end": 446.88,
+  "keywords": [
+   "SV"
+  ],
+  "type": "ORG",
+  "score": 0.9994934797,
+  "card": {
+   "keywords": [
+    "SV"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Sosialistisk_Venstreparti"
+  }
+ },
+ {
+  "start": 446.88,
+  "end": 451.88,
+  "keywords": [
+   "SV"
+  ],
+  "type": "ORG",
+  "score": 0.9993000031,
+  "card": {
+   "keywords": [
+    "SV"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Sosialistisk_Venstreparti"
+  }
+ },
+ {
+  "start": 446.88,
+  "end": 451.88,
+  "keywords": [
+   "Stortinget"
+  ],
+  "type": "ORG",
+  "score": 0.9959571958,
+  "card": {
+   "keywords": [
+    "Stortinget"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Stortinget"
+  }
+ },
+ {
+  "start": 451.88,
+  "end": 458.88,
+  "keywords": [
+   "SV"
+  ],
+  "type": "ORG",
+  "score": 0.9995697141,
+  "card": {
+   "keywords": [
+    "SV"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Sosialistisk_Venstreparti"
+  }
+ },
+ {
+  "start": 458.88,
+  "end": 462.88,
+  "keywords": [
+   "SV"
+  ],
+  "type": "ORG",
+  "score": 0.9993956089,
+  "card": {
+   "keywords": [
+    "SV"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Sosialistisk_Venstreparti"
+  }
+ },
+ {
+  "start": 462.88,
+  "end": 473.88,
+  "keywords": [
+   "SVere"
+  ],
+  "type": "MISC",
+  "score": 0.9692971706,
+  "card": {
+   "keywords": [
+    "SVere"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 462.88,
+  "end": 473.88,
+  "keywords": [
+   "Vandrehallen"
+  ],
+  "type": "LOC",
+  "score": 0.9974646568,
+  "card": {
+   "keywords": [
+    "Vandrehallen"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Vandrehallen"
+  }
+ },
+ {
+  "start": 481.88,
+  "end": 497.88,
+  "keywords": [
+   "SV"
+  ],
+  "type": "ORG",
+  "score": 0.9994363189,
+  "card": {
+   "keywords": [
+    "SV"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Sosialistisk_Venstreparti"
+  }
+ },
+ {
+  "start": 521.88,
+  "end": 532.88,
+  "keywords": [
+   "SV"
+  ],
+  "type": "ORG",
+  "score": 0.9994875193,
+  "card": {
+   "keywords": [
+    "SV"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Sosialistisk_Venstreparti"
+  }
+ },
+ {
+  "start": 542.88,
+  "end": 549.88,
+  "keywords": [
+   "SV"
+  ],
+  "type": "ORG",
+  "score": 0.9995595813,
+  "card": {
+   "keywords": [
+    "SV"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Sosialistisk_Venstreparti"
+  }
+ },
+ {
+  "start": 549.88,
+  "end": 561.88,
+  "keywords": [
+   "SV"
+  ],
+  "type": "ORG",
+  "score": 0.999519825,
+  "card": {
+   "keywords": [
+    "SV"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Sosialistisk_Venstreparti"
+  }
+ },
+ {
+  "start": 568.88,
+  "end": 584.88,
+  "keywords": [
+   "SV"
+  ],
+  "type": "ORG",
+  "score": 0.9995057583,
+  "card": {
+   "keywords": [
+    "SV"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Sosialistisk_Venstreparti"
+  }
+ },
+ {
+  "start": 568.88,
+  "end": 584.88,
+  "keywords": [
+   "SV"
+  ],
+  "type": "ORG",
+  "score": 0.9996435642,
+  "card": {
+   "keywords": [
+    "SV"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Sosialistisk_Venstreparti"
+  }
+ },
+ {
+  "start": 594.88,
+  "end": 602.88,
+  "keywords": [
+   "Jens"
+  ],
+  "type": "PER",
+  "score": 0.9997898936,
+  "card": {
+   "keywords": [
+    "Jens Kjell"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 617.88,
+  "end": 631.88,
+  "keywords": [
+   "Bod\u00f8"
+  ],
+  "type": "LOC",
+  "score": 0.9996644258,
+  "card": {
+   "keywords": [
+    "Bod\u00f8"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Bod\u00f8"
+  }
+ },
+ {
+  "start": 631.88,
+  "end": 643.88,
+  "keywords": [
+   "Bod\u00f8"
+  ],
+  "type": "LOC",
+  "score": 0.9995057583,
+  "card": {
+   "keywords": [
+    "Bod\u00f8"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Bod\u00f8"
+  }
+ },
+ {
+  "start": 643.88,
+  "end": 659.88,
+  "keywords": [
+   "Erna Solberg"
+  ],
+  "type": "PER",
+  "score": 0.9996294975,
+  "card": {
+   "keywords": [
+    "Erna Solbergs"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 664.88,
+  "end": 678.88,
+  "keywords": [
+   "Hordfast"
+  ],
+  "type": "MISC",
+  "score": 0.9977129698,
+  "card": {
+   "keywords": [
+    "Hordfast"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Hordfast"
+  }
+ },
+ {
+  "start": 664.88,
+  "end": 678.88,
+  "keywords": [
+   "Arna"
+  ],
+  "type": "LOC",
+  "score": 0.9994593263,
+  "card": {
+   "keywords": [
+    "Arna"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Arna"
+  }
+ },
+ {
+  "start": 664.88,
+  "end": 678.88,
+  "keywords": [
+   "Voss"
+  ],
+  "type": "LOC",
+  "score": 0.9993253946,
+  "card": {
+   "keywords": [
+    "Voss"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Voss"
+  }
+ },
+ {
+  "start": 695.88,
+  "end": 697.88,
+  "keywords": [
+   "Erna Solberg"
+  ],
+  "type": "PER",
+  "score": 0.9997580051,
+  "card": {
+   "keywords": [
+    "Erna Solbergs"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 695.88,
+  "end": 697.88,
+  "keywords": [
+   "Hans"
+  ],
+  "type": "PER",
+  "score": 0.9996974468,
+  "card": {
+   "keywords": [
+    "Hans Mjelva"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 715.88,
+  "end": 718.88,
+  "keywords": [
+   "Vest"
+  ],
+  "type": "LOC",
+  "score": 0.9862724543,
+  "card": {
+   "keywords": [
+    "Vest"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Vest"
+  }
+ },
+ {
+  "start": 736.88,
+  "end": 740.88,
+  "keywords": [
+   "Holdfast"
+  ],
+  "type": "MISC",
+  "score": 0.9954457283,
+  "card": {
+   "keywords": [
+    "Holdfast"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 740.88,
+  "end": 748.88,
+  "keywords": [
+   "Holdfast"
+  ],
+  "type": "LOC",
+  "score": 0.8926992416,
+  "card": {
+   "keywords": [
+    "Holdfast"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Holdfast"
+  }
+ },
+ {
+  "start": 740.88,
+  "end": 748.88,
+  "keywords": [
+   "E16"
+  ],
+  "type": "LOC",
+  "score": 0.9876371622,
+  "card": {
+   "keywords": [
+    "E16"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=E16"
+  }
+ },
+ {
+  "start": 754.88,
+  "end": 760.88,
+  "keywords": [
+   "Statskippstunnel"
+  ],
+  "type": "MISC",
+  "score": 0.9728082418,
+  "card": {
+   "keywords": [
+    "Statskippstunnel"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 760.88,
+  "end": 770.88,
+  "keywords": [
+   "Statskippstunnel"
+  ],
+  "type": "LOC",
+  "score": 0.9974230528,
+  "card": {
+   "keywords": [
+    "Statskippstunnel"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Statskippstunnel"
+  }
+ },
+ {
+  "start": 774.88,
+  "end": 778.88,
+  "keywords": [
+   "Vestlandet"
+  ],
+  "type": "LOC",
+  "score": 0.9993228912,
+  "card": {
+   "keywords": [
+    "Vest"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Vest"
+  }
+ },
+ {
+  "start": 778.88,
+  "end": 787.88,
+  "keywords": [
+   "Bergens"
+  ],
+  "type": "LOC",
+  "score": 0.9753044248,
+  "card": {
+   "keywords": [
+    "Bergens"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Bergens"
+  }
+ },
+ {
+  "start": 778.88,
+  "end": 787.88,
+  "keywords": [
+   "E16"
+  ],
+  "type": "LOC",
+  "score": 0.9600875974,
+  "card": {
+   "keywords": [
+    "E16"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=E16"
+  }
+ },
+ {
+  "start": 787.88,
+  "end": 789.88,
+  "keywords": [
+   "E16"
+  ],
+  "type": "LOC",
+  "score": 0.9464042187,
+  "card": {
+   "keywords": [
+    "E16"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=E16"
+  }
+ },
+ {
+  "start": 787.88,
+  "end": 789.88,
+  "keywords": [
+   "Bergen"
+  ],
+  "type": "LOC",
+  "score": 0.9994803071,
+  "card": {
+   "keywords": [
+    "Bergens"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Bergens"
+  }
+ },
+ {
+  "start": 808.88,
+  "end": 815.88,
+  "keywords": [
+   "Oslo"
+  ],
+  "type": "LOC",
+  "score": 0.9997232556,
+  "card": {
+   "keywords": [
+    "Oslo"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Oslo"
+  }
+ },
+ {
+  "start": 808.88,
+  "end": 815.88,
+  "keywords": [
+   "Bergen"
+  ],
+  "type": "LOC",
+  "score": 0.9996846914,
+  "card": {
+   "keywords": [
+    "Bergens"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Bergens"
+  }
+ },
+ {
+  "start": 819.88,
+  "end": 824.88,
+  "keywords": [
+   "Arbeiderpartiet"
+  ],
+  "type": "ORG",
+  "score": 0.9997271895,
+  "card": {
+   "keywords": [
+    "Arbeiderpartiet"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Arbeiderpartiet"
+  }
+ },
+ {
+  "start": 819.88,
+  "end": 824.88,
+  "keywords": [
+   "Senterpartiet"
+  ],
+  "type": "ORG",
+  "score": 0.9997468591,
+  "card": {
+   "keywords": [
+    "Senterpartiet"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Senterpartiet"
+  }
+ },
+ {
+  "start": 836.88,
+  "end": 844.88,
+  "keywords": [
+   "Eigel Knudsen"
+  ],
+  "type": "PER",
+  "score": 0.9997644424,
+  "card": {
+   "keywords": [
+    "Eigel Knudsen"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 836.88,
+  "end": 844.88,
+  "keywords": [
+   "Arbeiderpartiet"
+  ],
+  "type": "ORG",
+  "score": 0.9997192025,
+  "card": {
+   "keywords": [
+    "Arbeiderpartiet"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Arbeiderpartiet"
+  }
+ },
+ {
+  "start": 836.88,
+  "end": 844.88,
+  "keywords": [
+   "Arbeiderpartiet"
+  ],
+  "type": "ORG",
+  "score": 0.9997436404,
+  "card": {
+   "keywords": [
+    "Arbeiderpartiet"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Arbeiderpartiet"
+  }
+ },
+ {
+  "start": 844.88,
+  "end": 856.88,
+  "keywords": [
+   "Bergen"
+  ],
+  "type": "LOC",
+  "score": 0.9995833039,
+  "card": {
+   "keywords": [
+    "Bergens"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Bergens"
+  }
+ },
+ {
+  "start": 844.88,
+  "end": 856.88,
+  "keywords": [
+   "Holland"
+  ],
+  "type": "LOC",
+  "score": 0.9994724393,
+  "card": {
+   "keywords": [
+    "Holland"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Holland"
+  }
+ },
+ {
+  "start": 844.88,
+  "end": 856.88,
+  "keywords": [
+   "Stortinget"
+  ],
+  "type": "ORG",
+  "score": 0.9951850772,
+  "card": {
+   "keywords": [
+    "Stortinget"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Stortinget"
+  }
+ },
+ {
+  "start": 844.88,
+  "end": 856.88,
+  "keywords": [
+   "Solberg"
+  ],
+  "type": "ORG",
+  "score": 0.7382801771,
+  "card": {
+   "keywords": [
+    "Solberg"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Solberg"
+  }
+ },
+ {
+  "start": 844.88,
+  "end": 856.88,
+  "keywords": [
+   "E16"
+  ],
+  "type": "LOC",
+  "score": 0.888340652,
+  "card": {
+   "keywords": [
+    "E16"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=E16"
+  }
+ },
+ {
+  "start": 856.88,
+  "end": 860.88,
+  "keywords": [
+   "Norges"
+  ],
+  "type": "LOC",
+  "score": 0.9888691902,
+  "card": {
+   "keywords": [
+    "Norges"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Norges"
+  }
+ },
+ {
+  "start": 873.88,
+  "end": 880.88,
+  "keywords": [
+   "Oslo"
+  ],
+  "type": "LOC",
+  "score": 0.9996237755,
+  "card": {
+   "keywords": [
+    "Oslo"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Oslo"
+  }
+ },
+ {
+  "start": 881.88,
+  "end": 890.88,
+  "keywords": [
+   "Bergen"
+  ],
+  "type": "LOC",
+  "score": 0.9996076226,
+  "card": {
+   "keywords": [
+    "Bergens"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Bergens"
+  }
+ },
+ {
+  "start": 881.88,
+  "end": 890.88,
+  "keywords": [
+   "V\u00e5s"
+  ],
+  "type": "LOC",
+  "score": 0.9991621971,
+  "card": {
+   "keywords": [
+    "V\u00e5s"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=V\u00e5s"
+  }
+ },
+ {
+  "start": 890.88,
+  "end": 900.88,
+  "keywords": [
+   "E16"
+  ],
+  "type": "LOC",
+  "score": 0.9979580641,
+  "card": {
+   "keywords": [
+    "E16"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=E16"
+  }
+ },
+ {
+  "start": 908.88,
+  "end": 915.88,
+  "keywords": [
+   "Sogne Fjordene"
+  ],
+  "type": "LOC",
+  "score": 0.9989962578,
+  "card": {
+   "keywords": [
+    "Sogne Fjordene"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Sogne Fjordene"
+  }
+ },
+ {
+  "start": 908.88,
+  "end": 915.88,
+  "keywords": [
+   "Nordland"
+  ],
+  "type": "LOC",
+  "score": 0.9996641874,
+  "card": {
+   "keywords": [
+    "Nordland"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Nordland"
+  }
+ },
+ {
+  "start": 915.88,
+  "end": 925.88,
+  "keywords": [
+   "Sogne Fjordene"
+  ],
+  "type": "LOC",
+  "score": 0.9981203079,
+  "card": {
+   "keywords": [
+    "Sogne Fjordene"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Sogne Fjordene"
+  }
+ },
+ {
+  "start": 915.88,
+  "end": 925.88,
+  "keywords": [
+   "Hans"
+  ],
+  "type": "PER",
+  "score": 0.9997463822,
+  "card": {
+   "keywords": [
+    "Hans Mjelva"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 932.88,
+  "end": 943.88,
+  "keywords": [
+   "NRK Sogne Fjordene"
+  ],
+  "type": "MISC",
+  "score": 0.9939230084,
+  "card": {
+   "keywords": [
+    "NRK Sogne Fjordene"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 954.88,
+  "end": 972.88,
+  "keywords": [
+   "Statskipsenellen"
+  ],
+  "type": "LOC",
+  "score": 0.8987880349,
+  "card": {
+   "keywords": [
+    "Statskipsenellen"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Statskipsenellen"
+  }
+ },
+ {
+  "start": 972.88,
+  "end": 980.88,
+  "keywords": [
+   "Bergens"
+  ],
+  "type": "PER",
+  "score": 0.9626254439,
+  "card": {
+   "keywords": [
+    "Bergens"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 984.88,
+  "end": 995.88,
+  "keywords": [
+   "Sogne Fjordene"
+  ],
+  "type": "MISC",
+  "score": 0.9166929126,
+  "card": {
+   "keywords": [
+    "NRK Sogne Fjordene"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 995.88,
+  "end": 999.88,
+  "keywords": [
+   "Hordland"
+  ],
+  "type": "LOC",
+  "score": 0.9997027516,
+  "card": {
+   "keywords": [
+    "Hordland"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Hordland"
+  }
+ },
+ {
+  "start": 1044.88,
+  "end": 1049.88,
+  "keywords": [
+   "Sogne Fjorden"
+  ],
+  "type": "LOC",
+  "score": 0.9953945279,
+  "card": {
+   "keywords": [
+    "Sogne Fjordene"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Sogne Fjordene"
+  }
+ },
+ {
+  "start": 1049.88,
+  "end": 1056.88,
+  "keywords": [
+   "Sogne Fjorden"
+  ],
+  "type": "LOC",
+  "score": 0.9990555048,
+  "card": {
+   "keywords": [
+    "Sogne Fjordene"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Sogne Fjordene"
+  }
+ },
+ {
+  "start": 1062.88,
+  "end": 1070.88,
+  "keywords": [
+   "M\u00e5l\u00f8y"
+  ],
+  "type": "LOC",
+  "score": 0.999068439,
+  "card": {
+   "keywords": [
+    "M\u00e5l\u00f8y"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=M\u00e5l\u00f8y"
+  }
+ },
+ {
+  "start": 1070.88,
+  "end": 1074.88,
+  "keywords": [
+   "Gard"
+  ],
+  "type": "PER",
+  "score": 0.9997506738,
+  "card": {
+   "keywords": [
+    "Gard"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Gard"
+  }
+ },
+ {
+  "start": 1084.88,
+  "end": 1092.88,
+  "keywords": [
+   "Sogne Fjordene"
+  ],
+  "type": "LOC",
+  "score": 0.9895352125,
+  "card": {
+   "keywords": [
+    "Sogne Fjordene"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Sogne Fjordene"
+  }
+ },
+ {
+  "start": 1103.88,
+  "end": 1110.88,
+  "keywords": [
+   "Dalsfjordene"
+  ],
+  "type": "LOC",
+  "score": 0.9984772801,
+  "card": {
+   "keywords": [
+    "Dalsfjordene"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Dalsfjordene"
+  }
+ },
+ {
+  "start": 1110.88,
+  "end": 1115.88,
+  "keywords": [
+   "Dalsfjord brua"
+  ],
+  "type": "LOC",
+  "score": 0.9501847029,
+  "card": {
+   "keywords": [
+    "Dalsfjordene"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Dalsfjordene"
+  }
+ },
+ {
+  "start": 1118.88,
+  "end": 1128.88,
+  "keywords": [
+   "Sogne"
+  ],
+  "type": "ORG",
+  "score": 0.6238952279,
+  "card": {
+   "keywords": [
+    "Sogne"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 1118.88,
+  "end": 1128.88,
+  "keywords": [
+   "Fjordene"
+  ],
+  "type": "MISC",
+  "score": 0.4854345918,
+  "card": {
+   "keywords": [
+    "NRK Sogne Fjordene"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 1146.88,
+  "end": 1150.88,
+  "keywords": [
+   "Bergen"
+  ],
+  "type": "LOC",
+  "score": 0.9974785447,
+  "card": {
+   "keywords": [
+    "Bergens"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Bergens"
+  }
+ },
+ {
+  "start": 1146.88,
+  "end": 1150.88,
+  "keywords": [
+   "Jens"
+  ],
+  "type": "PER",
+  "score": 0.9997490048,
+  "card": {
+   "keywords": [
+    "Jens Kjell"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1150.88,
+  "end": 1166.88,
+  "keywords": [
+   "Bergen"
+  ],
+  "type": "LOC",
+  "score": 0.9961820245,
+  "card": {
+   "keywords": [
+    "Bergens"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Bergens"
+  }
+ },
+ {
+  "start": 1150.88,
+  "end": 1166.88,
+  "keywords": [
+   "Bergen"
+  ],
+  "type": "LOC",
+  "score": 0.9987653494,
+  "card": {
+   "keywords": [
+    "Bergens"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Bergens"
+  }
+ },
+ {
+  "start": 1175.88,
+  "end": 1189.88,
+  "keywords": [
+   "Roger Wallamier"
+  ],
+  "type": "PER",
+  "score": 0.9997975826,
+  "card": {
+   "keywords": [
+    "Roger Wallamier"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1175.88,
+  "end": 1189.88,
+  "keywords": [
+   "Bergen"
+  ],
+  "type": "LOC",
+  "score": 0.9990895987,
+  "card": {
+   "keywords": [
+    "Bergens"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Bergens"
+  }
+ },
+ {
+  "start": 1175.88,
+  "end": 1189.88,
+  "keywords": [
+   "Arbeiderpartiet"
+  ],
+  "type": "ORG",
+  "score": 0.9996244907,
+  "card": {
+   "keywords": [
+    "Arbeiderpartiet"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Arbeiderpartiet"
+  }
+ },
+ {
+  "start": 1232.88,
+  "end": 1240.88,
+  "keywords": [
+   "Bergen kommune"
+  ],
+  "type": "ORG",
+  "score": 0.9932166338,
+  "card": {
+   "keywords": [
+    "Bergenstidende"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 1240.88,
+  "end": 1255.88,
+  "keywords": [
+   "Bergen kommune"
+  ],
+  "type": "ORG",
+  "score": 0.9891443849,
+  "card": {
+   "keywords": [
+    "Bergenstidende"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 1262.88,
+  "end": 1270.88,
+  "keywords": [
+   "Gerd"
+  ],
+  "type": "PER",
+  "score": 0.999668479,
+  "card": {
+   "keywords": [
+    "Gerd"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Gerd"
+  }
+ },
+ {
+  "start": 1270.88,
+  "end": 1286.88,
+  "keywords": [
+   "Katrine N\u00f8ttvedt"
+  ],
+  "type": "PER",
+  "score": 0.9982349873,
+  "card": {
+   "keywords": [
+    "Katrine N\u00f8ttvedt"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1341.88,
+  "end": 1356.88,
+  "keywords": [
+   "SV"
+  ],
+  "type": "ORG",
+  "score": 0.9996732473,
+  "card": {
+   "keywords": [
+    "SV"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Sosialistisk_Venstreparti"
+  }
+ },
+ {
+  "start": 1341.88,
+  "end": 1356.88,
+  "keywords": [
+   "Katrine N\u00f8ttvedt"
+  ],
+  "type": "PER",
+  "score": 0.9997910261,
+  "card": {
+   "keywords": [
+    "Katrine N\u00f8ttvedt"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1356.88,
+  "end": 1364.88,
+  "keywords": [
+   "FNB"
+  ],
+  "type": "ORG",
+  "score": 0.9995535016,
+  "card": {
+   "keywords": [
+    "FNB"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/FNB"
+  }
+ },
+ {
+  "start": 1356.88,
+  "end": 1364.88,
+  "keywords": [
+   "Roger Wallamer"
+  ],
+  "type": "PER",
+  "score": 0.9997968078,
+  "card": {
+   "keywords": [
+    "Roger Wallamier"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1364.88,
+  "end": 1378.88,
+  "keywords": [
+   "Roger Wallamer"
+  ],
+  "type": "PER",
+  "score": 0.9997597337,
+  "card": {
+   "keywords": [
+    "Roger Wallamier"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1378.88,
+  "end": 1396.88,
+  "keywords": [
+   "Hans"
+  ],
+  "type": "PER",
+  "score": 0.9998075366,
+  "card": {
+   "keywords": [
+    "Hans Mjelva"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1396.88,
+  "end": 1419.88,
+  "keywords": [
+   "Jannes"
+  ],
+  "type": "PER",
+  "score": 0.9961056113,
+  "card": {
+   "keywords": [
+    "Jannes"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1396.88,
+  "end": 1419.88,
+  "keywords": [
+   "Janne"
+  ],
+  "type": "PER",
+  "score": 0.9997455478,
+  "card": {
+   "keywords": [
+    "Jannes"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1419.88,
+  "end": 1433.88,
+  "keywords": [
+   "Bergen"
+  ],
+  "type": "LOC",
+  "score": 0.9990764856,
+  "card": {
+   "keywords": [
+    "Bergens"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Bergens"
+  }
+ },
+ {
+  "start": 1433.88,
+  "end": 1449.88,
+  "keywords": [
+   "Jannes"
+  ],
+  "type": "PER",
+  "score": 0.9993013144,
+  "card": {
+   "keywords": [
+    "Jannes"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1433.88,
+  "end": 1449.88,
+  "keywords": [
+   "Monica Medland"
+  ],
+  "type": "PER",
+  "score": 0.999689281,
+  "card": {
+   "keywords": [
+    "Monica Medland"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1449.88,
+  "end": 1466.88,
+  "keywords": [
+   "Bergen"
+  ],
+  "type": "LOC",
+  "score": 0.998623848,
+  "card": {
+   "keywords": [
+    "Bergens"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Bergens"
+  }
+ },
+ {
+  "start": 1540.88,
+  "end": 1555.88,
+  "keywords": [
+   "Roger Wallmer"
+  ],
+  "type": "PER",
+  "score": 0.9997854233,
+  "card": {
+   "keywords": [
+    "Roger Wallamier"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1584.88,
+  "end": 1590.88,
+  "keywords": [
+   "H\u00f8yre"
+  ],
+  "type": "ORG",
+  "score": 0.9997275472,
+  "card": {
+   "keywords": [
+    "H\u00f8yre"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/H%C3%B8yre"
+  }
+ },
+ {
+  "start": 1590.88,
+  "end": 1598.88,
+  "keywords": [
+   "Bergen"
+  ],
+  "type": "LOC",
+  "score": 0.9994835854,
+  "card": {
+   "keywords": [
+    "Bergens"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Bergens"
+  }
+ },
+ {
+  "start": 1606.88,
+  "end": 1624.88,
+  "keywords": [
+   "H\u00f8yre"
+  ],
+  "type": "ORG",
+  "score": 0.9997588992,
+  "card": {
+   "keywords": [
+    "H\u00f8yre"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/H%C3%B8yre"
+  }
+ },
+ {
+  "start": 1606.88,
+  "end": 1624.88,
+  "keywords": [
+   "R\u00f8dt"
+  ],
+  "type": "ORG",
+  "score": 0.9997221828,
+  "card": {
+   "keywords": [
+    "R\u00f8dt"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/R%C3%B8dt"
+  }
+ },
+ {
+  "start": 1606.88,
+  "end": 1624.88,
+  "keywords": [
+   "Senterpartiet"
+  ],
+  "type": "ORG",
+  "score": 0.9997590184,
+  "card": {
+   "keywords": [
+    "Senterpartiet"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Senterpartiet"
+  }
+ },
+ {
+  "start": 1606.88,
+  "end": 1624.88,
+  "keywords": [
+   "FNP"
+  ],
+  "type": "ORG",
+  "score": 0.999705255,
+  "card": {
+   "keywords": [
+    "FNP"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 1606.88,
+  "end": 1624.88,
+  "keywords": [
+   "KRF"
+  ],
+  "type": "ORG",
+  "score": 0.99967134,
+  "card": {
+   "keywords": [
+    "KRF"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Kristelig_Folkeparti"
+  }
+ },
+ {
+  "start": 1606.88,
+  "end": 1624.88,
+  "keywords": [
+   "Roger Walle"
+  ],
+  "type": "PER",
+  "score": 0.9997142553,
+  "card": {
+   "keywords": [
+    "Roger Wallamier"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1668.88,
+  "end": 1670.88,
+  "keywords": [
+   "Hans"
+  ],
+  "type": "PER",
+  "score": 0.9997585416,
+  "card": {
+   "keywords": [
+    "Hans Mjelva"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1716.88,
+  "end": 1732.88,
+  "keywords": [
+   "Barnevern"
+  ],
+  "type": "ORG",
+  "score": 0.9995433092,
+  "card": {
+   "keywords": [
+    "Barnevern"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Barnevern"
+  }
+ },
+ {
+  "start": 1745.88,
+  "end": 1757.88,
+  "keywords": [
+   "Roger Wallermer"
+  ],
+  "type": "PER",
+  "score": 0.9997710586,
+  "card": {
+   "keywords": [
+    "Roger Wallamier"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1789.88,
+  "end": 1808.88,
+  "keywords": [
+   "Roger Wallermers"
+  ],
+  "type": "PER",
+  "score": 0.9997785687,
+  "card": {
+   "keywords": [
+    "Roger Wallamier"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1808.88,
+  "end": 1824.88,
+  "keywords": [
+   "Jannesaken"
+  ],
+  "type": "MISC",
+  "score": 0.9890350699,
+  "card": {
+   "keywords": [
+    "Jannesaken"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 1808.88,
+  "end": 1824.88,
+  "keywords": [
+   "Bergen"
+  ],
+  "type": "LOC",
+  "score": 0.999140501,
+  "card": {
+   "keywords": [
+    "Bergens"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Bergens"
+  }
+ },
+ {
+  "start": 1808.88,
+  "end": 1824.88,
+  "keywords": [
+   "Monica Melan"
+  ],
+  "type": "PER",
+  "score": 0.9998162985,
+  "card": {
+   "keywords": [
+    "Monica Medland"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1824.88,
+  "end": 1833.88,
+  "keywords": [
+   "Wallermer"
+  ],
+  "type": "PER",
+  "score": 0.9997157454,
+  "card": {
+   "keywords": [
+    "Wallermer"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1824.88,
+  "end": 1833.88,
+  "keywords": [
+   "Vigelo"
+  ],
+  "type": "PER",
+  "score": 0.9997532964,
+  "card": {
+   "keywords": [
+    "Vigelo"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1911.91,
+  "end": 1920.9099999999999,
+  "keywords": [
+   "Bergens"
+  ],
+  "type": "MISC",
+  "score": 0.9827728271,
+  "card": {
+   "keywords": [
+    "Bergens"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 1943.88,
+  "end": 1948.88,
+  "keywords": [
+   "Vestlandet"
+  ],
+  "type": "LOC",
+  "score": 0.9994877577,
+  "card": {
+   "keywords": [
+    "Vest"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Vest"
+  }
+ },
+ {
+  "start": 1958.88,
+  "end": 1970.88,
+  "keywords": [
+   "Vestland"
+  ],
+  "type": "MISC",
+  "score": 0.9656888843,
+  "card": {
+   "keywords": [
+    "Vestland"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Vestland"
+  }
+ },
+ {
+  "start": 1970.88,
+  "end": 1980.88,
+  "keywords": [
+   "Magnus Wolsett"
+  ],
+  "type": "PER",
+  "score": 0.9996959567,
+  "card": {
+   "keywords": [
+    "Magnus Wolsett"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1970.88,
+  "end": 1980.88,
+  "keywords": [
+   "universitetet i Bergen"
+  ],
+  "type": "ORG",
+  "score": 0.8945250511,
+  "card": {
+   "keywords": [
+    "Bergenstidende"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 1990.88,
+  "end": 2003.88,
+  "keywords": [
+   "Frithjof Nansen"
+  ],
+  "type": "PER",
+  "score": 0.9997449517,
+  "card": {
+   "keywords": [
+    "Frithjof Nansen"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Fridtjof_Nansen"
+  }
+ },
+ {
+  "start": 1990.88,
+  "end": 2003.88,
+  "keywords": [
+   "Sandviksfjellet"
+  ],
+  "type": "LOC",
+  "score": 0.9994797111,
+  "card": {
+   "keywords": [
+    "Sandviksfjellet"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Sandviksfjellet"
+  }
+ },
+ {
+  "start": 2003.88,
+  "end": 2013.88,
+  "keywords": [
+   "Bergen"
+  ],
+  "type": "LOC",
+  "score": 0.9996646643,
+  "card": {
+   "keywords": [
+    "Bergens"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Bergens"
+  }
+ },
+ {
+  "start": 2003.88,
+  "end": 2013.88,
+  "keywords": [
+   "Nansen"
+  ],
+  "type": "PER",
+  "score": 0.998513639,
+  "card": {
+   "keywords": [
+    "Frithjof Nansen"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Fridtjof_Nansen"
+  }
+ },
+ {
+  "start": 2039.88,
+  "end": 2045.88,
+  "keywords": [
+   "N\u00f8rreges"
+  ],
+  "type": "LOC",
+  "score": 0.9700026512,
+  "card": {
+   "keywords": [
+    "N\u00f8rreges"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=N\u00f8rreges"
+  }
+ },
+ {
+  "start": 2039.88,
+  "end": 2045.88,
+  "keywords": [
+   "Mount Rushmore"
+  ],
+  "type": "LOC",
+  "score": 0.9912108183,
+  "card": {
+   "keywords": [
+    "Mount Rushmore"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Mount Rushmore"
+  }
+ },
+ {
+  "start": 2052.88,
+  "end": 2061.88,
+  "keywords": [
+   "Sandviken"
+  ],
+  "type": "LOC",
+  "score": 0.999591887,
+  "card": {
+   "keywords": [
+    "Sandviken"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Sandviken"
+  }
+ },
+ {
+  "start": 2074.88,
+  "end": 2091.88,
+  "keywords": [
+   "Sandviksfjellet"
+  ],
+  "type": "LOC",
+  "score": 0.9989922643,
+  "card": {
+   "keywords": [
+    "Sandviksfjellet"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Sandviksfjellet"
+  }
+ },
+ {
+  "start": 2091.88,
+  "end": 2101.88,
+  "keywords": [
+   "Bergenstiden"
+  ],
+  "type": "MISC",
+  "score": 0.9982913136,
+  "card": {
+   "keywords": [
+    "Bergens"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 2091.88,
+  "end": 2101.88,
+  "keywords": [
+   "Trond Morn"
+  ],
+  "type": "PER",
+  "score": 0.9997626543,
+  "card": {
+   "keywords": [
+    "Trond Morn"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 2115.88,
+  "end": 2121.88,
+  "keywords": [
+   "Trond Morn"
+  ],
+  "type": "PER",
+  "score": 0.9996094704,
+  "card": {
+   "keywords": [
+    "Trond Morn"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 2143.88,
+  "end": 2151.88,
+  "keywords": [
+   "Staceman"
+  ],
+  "type": "PER",
+  "score": 0.9953557253,
+  "card": {
+   "keywords": [
+    "Staceman"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 2143.88,
+  "end": 2151.88,
+  "keywords": [
+   "Melodi Grand Prix"
+  ],
+  "type": "MISC",
+  "score": 0.9991896152,
+  "card": {
+   "keywords": [
+    "Melodi Grand Prix"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Melodi_Grand_Prix"
+  }
+ },
+ {
+  "start": 2153.88,
+  "end": 2162.88,
+  "keywords": [
+   "Dagens Samfunn"
+  ],
+  "type": "ORG",
+  "score": 0.9991874099,
+  "card": {
+   "keywords": [
+    "Dagens Samfunn"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 2165.88,
+  "end": 2171.88,
+  "keywords": [
+   "\u00d8stlandet"
+  ],
+  "type": "LOC",
+  "score": 0.9988352656,
+  "card": {
+   "keywords": [
+    "\u00d8stlandet"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=\u00d8stlandet"
+  }
+ },
+ {
+  "start": 2189.88,
+  "end": 2200.88,
+  "keywords": [
+   "Pia Kjelta"
+  ],
+  "type": "PER",
+  "score": 0.9998270273,
+  "card": {
+   "keywords": [
+    "Pia Kjelta"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 2189.88,
+  "end": 2200.88,
+  "keywords": [
+   "Sn\u00f8ve Skardb\u00f8"
+  ],
+  "type": "PER",
+  "score": 0.9998167753,
+  "card": {
+   "keywords": [
+    "Sn\u00f8ve Skardb\u00f8"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 2189.88,
+  "end": 2200.88,
+  "keywords": [
+   "Vanessa Rudjor"
+  ],
+  "type": "PER",
+  "score": 0.9997909665,
+  "card": {
+   "keywords": [
+    "Vanessa Rudjor"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 2189.88,
+  "end": 2200.88,
+  "keywords": [
+   "Tor Odin"
+  ],
+  "type": "PER",
+  "score": 0.9998039603,
+  "card": {
+   "keywords": [
+    "Tor Odin"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 2200.88,
+  "end": 2205.88,
+  "keywords": [
+   "Tor Odin"
+  ],
+  "type": "PER",
+  "score": 0.9953508377,
+  "card": {
+   "keywords": [
+    "Tor Odin"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 2231.88,
+  "end": 2236.88,
+  "keywords": [
+   "Tor"
+  ],
+  "type": "PER",
+  "score": 0.9988675117,
+  "card": {
+   "keywords": [
+    "Tor Odin"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 2258.88,
+  "end": 2262.88,
+  "keywords": [
+   "Sofie Elise"
+  ],
+  "type": "PER",
+  "score": 0.9958690405,
+  "card": {
+   "keywords": [
+    "Sofie Elise"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 2270.88,
+  "end": 2274.88,
+  "keywords": [
+   "Sofie Elise"
+  ],
+  "type": "PER",
+  "score": 0.9985588789,
+  "card": {
+   "keywords": [
+    "Sofie Elise"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 2291.88,
+  "end": 2299.88,
+  "keywords": [
+   "Jens"
+  ],
+  "type": "PER",
+  "score": 0.999817431,
+  "card": {
+   "keywords": [
+    "Jens Kjell"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 2307.81,
+  "end": 2313.81,
+  "keywords": [
+   "Bergenstidene"
+  ],
+  "type": "MISC",
+  "score": 0.9988740087,
+  "card": {
+   "keywords": [
+    "Bergens"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 2333.88,
+  "end": 2341.88,
+  "keywords": [
+   "nmgk"
+  ],
+  "type": "ORG",
+  "score": 0.4807834029,
+  "card": {
+   "keywords": [
+    "nmgk"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 2333.88,
+  "end": 2341.88,
+  "keywords": [
+   "Facebookgruppen"
+  ],
+  "type": "MISC",
+  "score": 0.6844064593,
+  "card": {
+   "keywords": [
+    "Facebookgruppen"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 2361.88,
+  "end": 2365.88,
+  "keywords": [
+   "Sogne Fjordene"
+  ],
+  "type": "LOC",
+  "score": 0.9944013357,
+  "card": {
+   "keywords": [
+    "Sogne Fjordene"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Sogne Fjordene"
+  }
+ },
+ {
+  "start": 2372.88,
+  "end": 2378.88,
+  "keywords": [
+   "Bergensla"
+  ],
+  "type": "ORG",
+  "score": 0.6622647047,
+  "card": {
+   "keywords": [
+    "Bergensla"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 2372.88,
+  "end": 2378.88,
+  "keywords": [
+   "Bj\u00f8rn Torske"
+  ],
+  "type": "PER",
+  "score": 0.7773647308,
+  "card": {
+   "keywords": [
+    "Tor Odin"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 2372.88,
+  "end": 2378.88,
+  "keywords": [
+   "Henrik Svanevik"
+  ],
+  "type": "PER",
+  "score": 0.999771297,
+  "card": {
+   "keywords": [
+    "Henrik Svanevik"
+   ],
+   "type": "PER"
+  }
+ }
+]

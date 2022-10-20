@@ -1,0 +1,108 @@
+{
+ "0": {
+  "name": 0,
+  "color": "#d09c6ca6",
+  "segments": [
+   {
+    "file": "/tmp/GMN-DEL5-150620_Sommertest_mono.wav",
+    "times": [
+     [
+      66.23,
+      73.23
+     ],
+     [
+      136.25,
+      141.75
+     ]
+    ]
+   }
+  ]
+ },
+ "1": {
+  "name": 1,
+  "color": "#2d3743a6",
+  "segments": [
+   {
+    "file": "/tmp/GMN-DEL5-150620_Sommertest_mono.wav",
+    "times": [
+     [
+      403.04,
+      410.04
+     ]
+    ]
+   }
+  ]
+ },
+ "2": {
+  "name": 2,
+  "color": "#fcfcfca6",
+  "segments": [
+   {
+    "file": "/tmp/GMN-DEL5-150620_Sommertest_mono.wav",
+    "times": [
+     [
+      425.87,
+      432.87
+     ],
+     [
+      434.0,
+      441.0
+     ]
+    ]
+   }
+  ]
+ },
+ "3": {
+  "name": 3,
+  "color": "#7b95a4a6",
+  "segments": [
+   {
+    "file": "/tmp/GMN-DEL5-150620_Sommertest_mono.wav",
+    "times": [
+     [
+      468.95,
+      475.95
+     ],
+     [
+      479.51,
+      486.51
+     ]
+    ]
+   }
+  ]
+ },
+ "4": {
+  "name": 4,
+  "color": "#f74591a6",
+  "segments": [
+   {
+    "file": "/tmp/GMN-DEL5-150620_Sommertest_mono.wav",
+    "times": [
+     [
+      528.71,
+      535.71
+     ],
+     [
+      541.94,
+      547.44
+     ]
+    ]
+   }
+  ]
+ },
+ "extras": [
+  "#fd4a43a6",
+  "#2a44a5a6",
+  "#586055a6",
+  "#b3c92ca6",
+  "#52682ba6",
+  "#81284ea6",
+  "#ff97c8a6",
+  "#3d582da6",
+  "#8bb77ca6",
+  "#4f5b8da6",
+  "#d26a6ba6",
+  "#eaf493a6",
+  "#293a48a6"
+ ]
+}

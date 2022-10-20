@@ -1,0 +1,12 @@
+{
+ "id": 3212091540,
+ "subtitles": [
+  {
+   "src": "/whisper//tv2/n-partilederdebatt-deichman-080921-tka-arkivkandidat_subs.json"
+  }
+ ],
+ "cast": "/whisper//tv2/n-partilederdebatt-deichman-080921-tka-arkivkandidat_people.json",
+ "audio": {
+  "src": "https://seer2.itek.norut.no/whisper//tv2/n-partilederdebatt-deichman-080921-tka-arkivkandidat.mp3"
+ }
+}

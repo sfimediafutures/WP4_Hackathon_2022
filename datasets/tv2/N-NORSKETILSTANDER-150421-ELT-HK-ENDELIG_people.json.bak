@@ -1,0 +1,112 @@
+{
+ "0": {
+  "name": 0,
+  "color": "#469099a6",
+  "segments": [
+   {
+    "file": "/tmp/N-NORSKETILSTANDER-150421-ELT-HK-ENDELIG_mono.wav",
+    "times": [
+     [
+      76.97,
+      81.97
+     ],
+     [
+      372.77,
+      378.27
+     ]
+    ]
+   }
+  ]
+ },
+ "1": {
+  "name": 1,
+  "color": "#F8BC16a6",
+  "segments": [
+   {
+    "file": "/tmp/N-NORSKETILSTANDER-150421-ELT-HK-ENDELIG_mono.wav",
+    "times": [
+     [
+      115.76,
+      122.76
+     ]
+    ]
+   }
+  ]
+ },
+ "2": {
+  "name": 2,
+  "color": "#799192a6",
+  "segments": [
+   {
+    "file": "/tmp/N-NORSKETILSTANDER-150421-ELT-HK-ENDELIG_mono.wav",
+    "times": [
+     [
+      216.2,
+      221.7
+     ],
+     [
+      222.89,
+      229.89
+     ]
+    ]
+   }
+  ]
+ },
+ "3": {
+  "name": 3,
+  "color": "#FF7C74a6",
+  "segments": [
+   {
+    "file": "/tmp/N-NORSKETILSTANDER-150421-ELT-HK-ENDELIG_mono.wav",
+    "times": [
+     [
+      392.48,
+      399.48
+     ],
+     [
+      408.74,
+      414.74
+     ]
+    ]
+   }
+  ]
+ },
+ "4": {
+  "name": 4,
+  "color": "#CBEC8Ca6",
+  "segments": [
+   {
+    "file": "/tmp/N-NORSKETILSTANDER-150421-ELT-HK-ENDELIG_mono.wav",
+    "times": [
+     [
+      658.16,
+      663.16
+     ],
+     [
+      916.67,
+      923.67
+     ]
+    ]
+   }
+  ]
+ },
+ "5": {
+  "name": 5,
+  "color": "#A4AB0Aa6",
+  "segments": [
+   {
+    "file": "/tmp/N-NORSKETILSTANDER-150421-ELT-HK-ENDELIG_mono.wav",
+    "times": [
+     [
+      705.74,
+      712.74
+     ],
+     [
+      716.72,
+      723.72
+     ]
+    ]
+   }
+  ]
+ }
+}

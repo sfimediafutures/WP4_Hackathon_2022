@@ -1,0 +1,40 @@
+{
+ "0": {
+  "name": 0,
+  "color": "#ffeeffA6",
+  "segments": [
+   {
+    "file": "/tmp/n-partilederutsporring-050917-frp-300820-saman-arkivkandidat_mono.wav",
+    "times": [
+     [
+      10.73,
+      17.23
+     ],
+     [
+      1204.43,
+      1210.93
+     ]
+    ]
+   }
+  ]
+ },
+ "1": {
+  "name": 1,
+  "color": "#ffeeffA6",
+  "segments": [
+   {
+    "file": "/tmp/n-partilederutsporring-050917-frp-300820-saman-arkivkandidat_mono.wav",
+    "times": [
+     [
+      30.2,
+      36.7
+     ],
+     [
+      46.31,
+      52.31
+     ]
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "0": {
+  "name": 0,
+  "color": "#fefefea6",
+  "segments": [
+   {
+    "file": "/tmp/N-DYRTSAS-060822-EIHOR-1830#2_mono.wav",
+    "times": [
+     [
+      13.28,
+      19.78
+     ],
+     [
+      28.25,
+      33.25
+     ]
+    ]
+   }
+  ]
+ },
+ "1": {
+  "name": 1,
+  "color": "#57b351a6",
+  "segments": [
+   {
+    "file": "/tmp/N-DYRTSAS-060822-EIHOR-1830#2_mono.wav",
+    "times": [
+     [
+      46.73,
+      51.73
+     ],
+     [
+      93.5,
+      98.5
+     ]
+    ]
+   }
+  ]
+ },
+ "2": {
+  "name": 2,
+  "color": "#2865d1a6",
+  "segments": [
+   {
+    "file": "/tmp/N-DYRTSAS-060822-EIHOR-1830#2_mono.wav",
+    "times": [
+     [
+      82.43,
+      89.43
+     ]
+    ]
+   }
+  ]
+ },
+ "extras": [
+  "#f54f3aa6",
+  "#fdc92ba6",
+  "#99de9fa6",
+  "#fd746ea6",
+  "#75aadca6",
+  "#fae481a6",
+  "#fabbaca6",
+  "#fa7a41a6"
+ ]
+}

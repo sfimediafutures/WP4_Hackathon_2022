@@ -1,0 +1,30 @@
+[
+ {
+  "id": 745033982,
+  "title": "Alex_Sigge_545",
+  "published": 1665780080.6818855,
+  "manifest": "/whisper//podcast/alex_sigge_545.json",
+  "description": "",
+  "enclosures": [
+   {
+    "url": "/whisper//podcast/alex_sigge_545.mp3",
+    "mime_type": "audio/mpeg"
+   }
+  ],
+  "episode_art_url": "https://seer2.itek.norut.no/whisper/podcast/alex_sigge.jpg"
+ },
+ {
+  "id": 561955524,
+  "title": "Buxton_187",
+  "published": 1665781820.7704558,
+  "manifest": "/whisper//podcast/buxton_187.json",
+  "description": "",
+  "enclosures": [
+   {
+    "url": "/whisper//podcast/buxton_187.mp3",
+    "mime_type": "audio/mpeg"
+   }
+  ],
+  "episode_art_url": "https://assets.pippa.io/shows/61b9b44142e85655b098576d/show-cover.jpg"
+ }
+]

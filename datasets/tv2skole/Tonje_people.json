@@ -1,0 +1,40 @@
+{
+ "0": {
+  "name": 0,
+  "color": "#7B7E7Fa6",
+  "segments": [
+   {
+    "file": "/tmp/Tonje_mono.wav",
+    "times": [
+     [
+      19.01,
+      26.01
+     ],
+     [
+      92.57,
+      97.57
+     ]
+    ]
+   }
+  ]
+ },
+ "1": {
+  "name": 1,
+  "color": "#B8493Ea6",
+  "segments": [
+   {
+    "file": "/tmp/Tonje_mono.wav",
+    "times": [
+     [
+      154.01,
+      159.01
+     ],
+     [
+      221.6,
+      227.6
+     ]
+    ]
+   }
+  ]
+ }
+}

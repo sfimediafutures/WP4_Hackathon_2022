@@ -1,0 +1,12 @@
+{
+ "id": 3971045203,
+ "subtitles": [
+  {
+   "src": "/whisper//tv2/N-NORSKETILSTANDER-EP3-290421-ELT-HK-3_subs.json"
+  }
+ ],
+ "cast": "/whisper//tv2/N-NORSKETILSTANDER-EP3-290421-ELT-HK-3_people.json",
+ "audio": {
+  "src": "https://seer2.itek.norut.no/whisper//tv2/N-NORSKETILSTANDER-EP3-290421-ELT-HK-3.mp3"
+ }
+}

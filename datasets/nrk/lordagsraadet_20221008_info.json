@@ -1,0 +1,4792 @@
+[
+ {
+  "start": 20.4,
+  "end": 25.44,
+  "keywords": [
+   "L\u00f8rdagsr\u00e5det"
+  ],
+  "type": "LOC",
+  "score": 0.8713653684,
+  "card": {
+   "keywords": [
+    "L\u00f8rdagsr\u00e5det"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=L\u00f8rdagsr\u00e5det"
+  }
+ },
+ {
+  "start": 59.68,
+  "end": 66.52,
+  "keywords": [
+   "L\u00f8rdagsr\u00e5det"
+  ],
+  "type": "MISC",
+  "score": 0.7311815619,
+  "card": {
+   "keywords": [
+    "L\u00f8rdagsr\u00e5det"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/L%C3%B8rdagsr%C3%A5det"
+  }
+ },
+ {
+  "start": 59.68,
+  "end": 66.52,
+  "keywords": [
+   "Lea"
+  ],
+  "type": "PER",
+  "score": 0.9996608496,
+  "card": {
+   "keywords": [
+    "Lea"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Lea"
+  }
+ },
+ {
+  "start": 66.6,
+  "end": 71.84,
+  "keywords": [
+   "Lea"
+  ],
+  "type": "PER",
+  "score": 0.9997974038,
+  "card": {
+   "keywords": [
+    "Lea"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Lea"
+  }
+ },
+ {
+  "start": 71.92,
+  "end": 75.84,
+  "keywords": [
+   "Lea"
+  ],
+  "type": "PER",
+  "score": 0.999722898,
+  "card": {
+   "keywords": [
+    "Lea"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Lea"
+  }
+ },
+ {
+  "start": 78.92,
+  "end": 85.64,
+  "keywords": [
+   "Lea"
+  ],
+  "type": "PER",
+  "score": 0.9998511076,
+  "card": {
+   "keywords": [
+    "Lea"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Lea"
+  }
+ },
+ {
+  "start": 85.72,
+  "end": 90.88,
+  "keywords": [
+   "Otto"
+  ],
+  "type": "PER",
+  "score": 0.9997109771,
+  "card": {
+   "keywords": [
+    "Otto"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Otto"
+  }
+ },
+ {
+  "start": 99.2,
+  "end": 103.28,
+  "keywords": [
+   "L\u00f8rdagsr\u00e5det"
+  ],
+  "type": "MISC",
+  "score": 0.9991068244,
+  "card": {
+   "keywords": [
+    "L\u00f8rdagsr\u00e5det"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/L%C3%B8rdagsr%C3%A5det"
+  }
+ },
+ {
+  "start": 103.36,
+  "end": 108.12,
+  "keywords": [
+   "Silje Nordes"
+  ],
+  "type": "PER",
+  "score": 0.9997612834,
+  "card": {
+   "keywords": [
+    "Silje Nordes"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 123.48,
+  "end": 128.68,
+  "keywords": [
+   "Silje Nordes"
+  ],
+  "type": "PER",
+  "score": 0.9997704625,
+  "card": {
+   "keywords": [
+    "Silje Nordes"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 123.48,
+  "end": 128.68,
+  "keywords": [
+   "Lars Barum"
+  ],
+  "type": "PER",
+  "score": 0.9997246861,
+  "card": {
+   "keywords": [
+    "Lars Barum"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 123.48,
+  "end": 128.68,
+  "keywords": [
+   "Tinasje Williamson"
+  ],
+  "type": "PER",
+  "score": 0.9996775985,
+  "card": {
+   "keywords": [
+    "Tinasje Williamson"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 134.0,
+  "end": 139.88,
+  "keywords": [
+   "Ramon"
+  ],
+  "type": "PER",
+  "score": 0.9998045564,
+  "card": {
+   "keywords": [
+    "Ramon"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Ram%C3%B3n"
+  }
+ },
+ {
+  "start": 134.0,
+  "end": 139.88,
+  "keywords": [
+   "L\u00f8rdagsr\u00e5det"
+  ],
+  "type": "ORG",
+  "score": 0.9980908036,
+  "card": {
+   "keywords": [
+    "L\u00f8rdagsr\u00e5det"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/L%C3%B8rdagsr%C3%A5det"
+  }
+ },
+ {
+  "start": 139.97,
+  "end": 144.73,
+  "keywords": [
+   "NRK Radio"
+  ],
+  "type": "MISC",
+  "score": 0.9633749723,
+  "card": {
+   "keywords": [
+    "NRK Radio"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/NRK#NRKs_stasjoner_og_kanaler"
+  }
+ },
+ {
+  "start": 144.8,
+  "end": 150.88,
+  "keywords": [
+   "Silje Nordes"
+  ],
+  "type": "PER",
+  "score": 0.9998215437,
+  "card": {
+   "keywords": [
+    "Silje Nordes"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 144.8,
+  "end": 150.88,
+  "keywords": [
+   "Tinasje Williamson"
+  ],
+  "type": "PER",
+  "score": 0.9996765256,
+  "card": {
+   "keywords": [
+    "Tinasje Williamson"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 144.8,
+  "end": 150.88,
+  "keywords": [
+   "Lars Barum"
+  ],
+  "type": "PER",
+  "score": 0.9996627569,
+  "card": {
+   "keywords": [
+    "Lars Barum"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 150.96,
+  "end": 155.32,
+  "keywords": [
+   "Ramon"
+  ],
+  "type": "PER",
+  "score": 0.9996225834,
+  "card": {
+   "keywords": [
+    "Ramon"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Ram%C3%B3n"
+  }
+ },
+ {
+  "start": 171.12,
+  "end": 174.68,
+  "keywords": [
+   "Anne Linnmo"
+  ],
+  "type": "PER",
+  "score": 0.9997551441,
+  "card": {
+   "keywords": [
+    "Anne Linnmo"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 179.04,
+  "end": 185.96,
+  "keywords": [
+   "Erik Solbakken"
+  ],
+  "type": "PER",
+  "score": 0.9998368025,
+  "card": {
+   "keywords": [
+    "Erik Solbakken"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Erik_Solbakken"
+  }
+ },
+ {
+  "start": 179.04,
+  "end": 185.96,
+  "keywords": [
+   "Pernille S\u00f8rensen"
+  ],
+  "type": "PER",
+  "score": 0.9997739196,
+  "card": {
+   "keywords": [
+    "Pernille S\u00f8rensen"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Pernille_S%C3%B8rensen"
+  }
+ },
+ {
+  "start": 186.04,
+  "end": 190.52,
+  "keywords": [
+   "Erik"
+  ],
+  "type": "PER",
+  "score": 0.9998314381,
+  "card": {
+   "keywords": [
+    "Erik Solbakken"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Erik_Solbakken"
+  }
+ },
+ {
+  "start": 186.04,
+  "end": 190.52,
+  "keywords": [
+   "Erik"
+  ],
+  "type": "PER",
+  "score": 0.9998052716,
+  "card": {
+   "keywords": [
+    "Erik Solbakken"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Erik_Solbakken"
+  }
+ },
+ {
+  "start": 272.04,
+  "end": 276.24,
+  "keywords": [
+   "Oslo"
+  ],
+  "type": "LOC",
+  "score": 0.9997183681,
+  "card": {
+   "keywords": [
+    "Oslo"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Oslo"
+  }
+ },
+ {
+  "start": 381.64,
+  "end": 386.8,
+  "keywords": [
+   "Lars Berund"
+  ],
+  "type": "PER",
+  "score": 0.9998072386,
+  "card": {
+   "keywords": [
+    "Lars Barum"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 475.6,
+  "end": 480.16,
+  "keywords": [
+   "Narsje Williamson"
+  ],
+  "type": "PER",
+  "score": 0.9994719028,
+  "card": {
+   "keywords": [
+    "Tinasje Williamson"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 534.52,
+  "end": 537.84,
+  "keywords": [
+   "New York"
+  ],
+  "type": "LOC",
+  "score": 0.9992256165,
+  "card": {
+   "keywords": [
+    "New York"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=New York"
+  }
+ },
+ {
+  "start": 549.2,
+  "end": 553.24,
+  "keywords": [
+   "Jonas"
+  ],
+  "type": "PER",
+  "score": 0.9997336268,
+  "card": {
+   "keywords": [
+    "Jonas"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Jonas"
+  }
+ },
+ {
+  "start": 561.92,
+  "end": 564.72,
+  "keywords": [
+   "Jonas"
+  ],
+  "type": "PER",
+  "score": 0.9998366833,
+  "card": {
+   "keywords": [
+    "Jonas"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Jonas"
+  }
+ },
+ {
+  "start": 571.32,
+  "end": 576.4,
+  "keywords": [
+   "Jonas"
+  ],
+  "type": "PER",
+  "score": 0.9998188615,
+  "card": {
+   "keywords": [
+    "Jonas"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Jonas"
+  }
+ },
+ {
+  "start": 579.24,
+  "end": 582.16,
+  "keywords": [
+   "Jonas"
+  ],
+  "type": "PER",
+  "score": 0.9998492002,
+  "card": {
+   "keywords": [
+    "Jonas"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Jonas"
+  }
+ },
+ {
+  "start": 608.72,
+  "end": 617.96,
+  "keywords": [
+   "New York"
+  ],
+  "type": "LOC",
+  "score": 0.9992016554,
+  "card": {
+   "keywords": [
+    "New York"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=New York"
+  }
+ },
+ {
+  "start": 633.64,
+  "end": 639.88,
+  "keywords": [
+   "New York"
+  ],
+  "type": "LOC",
+  "score": 0.9990907311,
+  "card": {
+   "keywords": [
+    "New York"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=New York"
+  }
+ },
+ {
+  "start": 645.6,
+  "end": 649.04,
+  "keywords": [
+   "Bergen"
+  ],
+  "type": "LOC",
+  "score": 0.9995942712,
+  "card": {
+   "keywords": [
+    "Bergen"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Bergen"
+  }
+ },
+ {
+  "start": 649.12,
+  "end": 653.8,
+  "keywords": [
+   "Bergen"
+  ],
+  "type": "LOC",
+  "score": 0.999576509,
+  "card": {
+   "keywords": [
+    "Bergen"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Bergen"
+  }
+ },
+ {
+  "start": 673.32,
+  "end": 678.36,
+  "keywords": [
+   "Bergen"
+  ],
+  "type": "LOC",
+  "score": 0.9996127486,
+  "card": {
+   "keywords": [
+    "Bergen"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Bergen"
+  }
+ },
+ {
+  "start": 702.84,
+  "end": 706.48,
+  "keywords": [
+   "TikTok"
+  ],
+  "type": "MISC",
+  "score": 0.8297601342,
+  "card": {
+   "keywords": [
+    "TikTok"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/TikTok"
+  }
+ },
+ {
+  "start": 745.44,
+  "end": 748.16,
+  "keywords": [
+   "Lars"
+  ],
+  "type": "PER",
+  "score": 0.9998574257,
+  "card": {
+   "keywords": [
+    "Lars Barum"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 748.24,
+  "end": 750.72,
+  "keywords": [
+   "Lars"
+  ],
+  "type": "PER",
+  "score": 0.9997878671,
+  "card": {
+   "keywords": [
+    "Lars Barum"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 758.52,
+  "end": 762.72,
+  "keywords": [
+   "Tinasje"
+  ],
+  "type": "PER",
+  "score": 0.9978663325,
+  "card": {
+   "keywords": [
+    "Tinasje Williamson"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 758.52,
+  "end": 762.72,
+  "keywords": [
+   "Abid Raja"
+  ],
+  "type": "PER",
+  "score": 0.9997590184,
+  "card": {
+   "keywords": [
+    "Abid Raja"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Abid_Raja"
+  }
+ },
+ {
+  "start": 780.6,
+  "end": 783.48,
+  "keywords": [
+   "Abid Raja"
+  ],
+  "type": "PER",
+  "score": 0.9997098446,
+  "card": {
+   "keywords": [
+    "Abid Raja"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Abid_Raja"
+  }
+ },
+ {
+  "start": 800.24,
+  "end": 802.92,
+  "keywords": [
+   "Tinasje"
+  ],
+  "type": "PER",
+  "score": 0.9991464615,
+  "card": {
+   "keywords": [
+    "Tinasje Williamson"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 809.96,
+  "end": 812.76,
+  "keywords": [
+   "Oslo"
+  ],
+  "type": "LOC",
+  "score": 0.9996645451,
+  "card": {
+   "keywords": [
+    "Oslo"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Oslo"
+  }
+ },
+ {
+  "start": 809.96,
+  "end": 812.76,
+  "keywords": [
+   "Hammar\u00f8y"
+  ],
+  "type": "LOC",
+  "score": 0.9994128942,
+  "card": {
+   "keywords": [
+    "Hammar\u00f8y"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Hammar\u00f8y"
+  }
+ },
+ {
+  "start": 809.96,
+  "end": 812.76,
+  "keywords": [
+   "Nordland"
+  ],
+  "type": "LOC",
+  "score": 0.9995892644,
+  "card": {
+   "keywords": [
+    "Nordland"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Nordland"
+  }
+ },
+ {
+  "start": 812.84,
+  "end": 814.44,
+  "keywords": [
+   "Hunter"
+  ],
+  "type": "PER",
+  "score": 0.7708747387,
+  "card": {
+   "keywords": [
+    "Hunter"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Hunter"
+  }
+ },
+ {
+  "start": 868.72,
+  "end": 871.7866666666667,
+  "keywords": [
+   "Lea"
+  ],
+  "type": "PER",
+  "score": 0.9997902513,
+  "card": {
+   "keywords": [
+    "Lea"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Lea"
+  }
+ },
+ {
+  "start": 970.64,
+  "end": 973.36,
+  "keywords": [
+   "Lea"
+  ],
+  "type": "PER",
+  "score": 0.9998067021,
+  "card": {
+   "keywords": [
+    "Lea"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Lea"
+  }
+ },
+ {
+  "start": 1081.92,
+  "end": 1084.12,
+  "keywords": [
+   "Ronny"
+  ],
+  "type": "PER",
+  "score": 0.9998192191,
+  "card": {
+   "keywords": [
+    "Ronny"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Ronny"
+  }
+ },
+ {
+  "start": 1081.92,
+  "end": 1084.12,
+  "keywords": [
+   "Tuva"
+  ],
+  "type": "PER",
+  "score": 0.999712646,
+  "card": {
+   "keywords": [
+    "Tuva"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Tuva"
+  }
+ },
+ {
+  "start": 1086.96,
+  "end": 1089.6,
+  "keywords": [
+   "Tuva"
+  ],
+  "type": "PER",
+  "score": 0.9995828271,
+  "card": {
+   "keywords": [
+    "Tuva"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Tuva"
+  }
+ },
+ {
+  "start": 1231.48,
+  "end": 1237.0,
+  "keywords": [
+   "Kroatia"
+  ],
+  "type": "LOC",
+  "score": 0.999774754,
+  "card": {
+   "keywords": [
+    "Kroatia"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Kroatia"
+  }
+ },
+ {
+  "start": 1231.48,
+  "end": 1237.0,
+  "keywords": [
+   "Varanban"
+  ],
+  "type": "LOC",
+  "score": 0.9978797436,
+  "card": {
+   "keywords": [
+    "Varanban"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Varanban"
+  }
+ },
+ {
+  "start": 1293.08,
+  "end": 1296.6,
+  "keywords": [
+   "Tinasje"
+  ],
+  "type": "PER",
+  "score": 0.9970602393,
+  "card": {
+   "keywords": [
+    "Tinasje Williamson"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1293.08,
+  "end": 1296.6,
+  "keywords": [
+   "Odd Magnus"
+  ],
+  "type": "PER",
+  "score": 0.999561131,
+  "card": {
+   "keywords": [
+    "Odd Magnus"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1300.04,
+  "end": 1305.2399999999998,
+  "keywords": [
+   "Odd Magnus"
+  ],
+  "type": "PER",
+  "score": 0.999502182,
+  "card": {
+   "keywords": [
+    "Odd Magnus"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1311.68,
+  "end": 1319.36,
+  "keywords": [
+   "Instagramposter"
+  ],
+  "type": "MISC",
+  "score": 0.9534938335,
+  "card": {
+   "keywords": [
+    "Instagramposter"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 1324.44,
+  "end": 1328.44,
+  "keywords": [
+   "DAS"
+  ],
+  "type": "ORG",
+  "score": 0.7296916246,
+  "card": {
+   "keywords": [
+    "DAS"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 1413.72,
+  "end": 1417.28,
+  "keywords": [
+   "Kroatia"
+  ],
+  "type": "LOC",
+  "score": 0.9996423721,
+  "card": {
+   "keywords": [
+    "Kroatia"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Kroatia"
+  }
+ },
+ {
+  "start": 1413.72,
+  "end": 1417.28,
+  "keywords": [
+   "Kroatia"
+  ],
+  "type": "LOC",
+  "score": 0.9996157885,
+  "card": {
+   "keywords": [
+    "Kroatia"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Kroatia"
+  }
+ },
+ {
+  "start": 1419.72,
+  "end": 1422.84,
+  "keywords": [
+   "Garmodar"
+  ],
+  "type": "LOC",
+  "score": 0.6716201901,
+  "card": {
+   "keywords": [
+    "Garmodar"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Garmodar"
+  }
+ },
+ {
+  "start": 1537.28,
+  "end": 1542.32,
+  "keywords": [
+   "Lea"
+  ],
+  "type": "PER",
+  "score": 0.9997939467,
+  "card": {
+   "keywords": [
+    "Lea"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Lea"
+  }
+ },
+ {
+  "start": 1537.28,
+  "end": 1542.32,
+  "keywords": [
+   "Lea"
+  ],
+  "type": "PER",
+  "score": 0.9996007085,
+  "card": {
+   "keywords": [
+    "Lea"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Lea"
+  }
+ },
+ {
+  "start": 1557.76,
+  "end": 1560.68,
+  "keywords": [
+   "Lea"
+  ],
+  "type": "PER",
+  "score": 0.9998543262,
+  "card": {
+   "keywords": [
+    "Lea"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Lea"
+  }
+ },
+ {
+  "start": 1654.2,
+  "end": 1657.76,
+  "keywords": [
+   "Tid Norge"
+  ],
+  "type": "ORG",
+  "score": 0.9666771889,
+  "card": {
+   "keywords": [
+    "Tid Norge"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 1734.52,
+  "end": 1737.68,
+  "keywords": [
+   "Otto"
+  ],
+  "type": "PER",
+  "score": 0.9996102452,
+  "card": {
+   "keywords": [
+    "Otto"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Otto"
+  }
+ },
+ {
+  "start": 1734.52,
+  "end": 1737.68,
+  "keywords": [
+   "Otto"
+  ],
+  "type": "PER",
+  "score": 0.9997181296,
+  "card": {
+   "keywords": [
+    "Otto"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Otto"
+  }
+ },
+ {
+  "start": 1734.52,
+  "end": 1737.68,
+  "keywords": [
+   "Otto"
+  ],
+  "type": "PER",
+  "score": 0.9997181296,
+  "card": {
+   "keywords": [
+    "Otto"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Otto"
+  }
+ },
+ {
+  "start": 2010.16,
+  "end": 2013.48,
+  "keywords": [
+   "Sille"
+  ],
+  "type": "PER",
+  "score": 0.9996483326,
+  "card": {
+   "keywords": [
+    "Sille"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 2021.16,
+  "end": 2025.76,
+  "keywords": [
+   "Eie"
+  ],
+  "type": "PER",
+  "score": 0.9985995889,
+  "card": {
+   "keywords": [
+    "Eie"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 2048.28,
+  "end": 2051.2000000000007,
+  "keywords": [
+   "Oslo"
+  ],
+  "type": "LOC",
+  "score": 0.9997014403,
+  "card": {
+   "keywords": [
+    "Oslo"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Oslo"
+  }
+ },
+ {
+  "start": 2048.28,
+  "end": 2051.2000000000007,
+  "keywords": [
+   "Oslo"
+  ],
+  "type": "LOC",
+  "score": 0.9995290041,
+  "card": {
+   "keywords": [
+    "Oslo"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Oslo"
+  }
+ },
+ {
+  "start": 2123.84,
+  "end": 2127.32,
+  "keywords": [
+   "Otto"
+  ],
+  "type": "PER",
+  "score": 0.9996304512,
+  "card": {
+   "keywords": [
+    "Otto"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Otto"
+  }
+ },
+ {
+  "start": 2152.8599999999997,
+  "end": 2156.419999999999,
+  "keywords": [
+   "Inger"
+  ],
+  "type": "PER",
+  "score": 0.9996832609,
+  "card": {
+   "keywords": [
+    "Inger"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Inger"
+  }
+ },
+ {
+  "start": 2166.72,
+  "end": 2172.9600000000005,
+  "keywords": [
+   "Lillestr\u00f8m"
+  ],
+  "type": "LOC",
+  "score": 0.9993565679,
+  "card": {
+   "keywords": [
+    "Lillestr\u00f8m"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Lillestr\u00f8m"
+  }
+ },
+ {
+  "start": 2166.72,
+  "end": 2172.9600000000005,
+  "keywords": [
+   "Lillestr\u00f8m"
+  ],
+  "type": "LOC",
+  "score": 0.9994086027,
+  "card": {
+   "keywords": [
+    "Lillestr\u00f8m"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Lillestr\u00f8m"
+  }
+ },
+ {
+  "start": 2212.96,
+  "end": 2215.92,
+  "keywords": [
+   "Otto"
+  ],
+  "type": "PER",
+  "score": 0.9997201562,
+  "card": {
+   "keywords": [
+    "Otto"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Otto"
+  }
+ },
+ {
+  "start": 2246.4,
+  "end": 2249.12,
+  "keywords": [
+   "Otto"
+  ],
+  "type": "PER",
+  "score": 0.9997393489,
+  "card": {
+   "keywords": [
+    "Otto"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Otto"
+  }
+ },
+ {
+  "start": 2286.73,
+  "end": 2291.69,
+  "keywords": [
+   "Otto"
+  ],
+  "type": "PER",
+  "score": 0.9996525049,
+  "card": {
+   "keywords": [
+    "Otto"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Otto"
+  }
+ },
+ {
+  "start": 2315.36,
+  "end": 2318.44,
+  "keywords": [
+   "Otto"
+  ],
+  "type": "PER",
+  "score": 0.999522686,
+  "card": {
+   "keywords": [
+    "Otto"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Otto"
+  }
+ },
+ {
+  "start": 2359.04,
+  "end": 2365.28,
+  "keywords": [
+   "Sara"
+  ],
+  "type": "PER",
+  "score": 0.9998016953,
+  "card": {
+   "keywords": [
+    "Sara"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Sara"
+  }
+ },
+ {
+  "start": 2359.04,
+  "end": 2365.28,
+  "keywords": [
+   "lr. nrk. no"
+  ],
+  "type": "ORG",
+  "score": 0.8460075259,
+  "card": {
+   "keywords": [
+    "lr. nrk. no"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 2432.36,
+  "end": 2434.84,
+  "keywords": [
+   "Facebook"
+  ],
+  "type": "MISC",
+  "score": 0.9979147315,
+  "card": {
+   "keywords": [
+    "Facebook"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Facebook"
+  }
+ },
+ {
+  "start": 2445.88,
+  "end": 2450.32,
+  "keywords": [
+   "Sara"
+  ],
+  "type": "PER",
+  "score": 0.6018409729,
+  "card": {
+   "keywords": [
+    "Sara"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Sara"
+  }
+ },
+ {
+  "start": 2464.32,
+  "end": 2467.84,
+  "keywords": [
+   "Coca Cola Light Break"
+  ],
+  "type": "MISC",
+  "score": 0.9980128407,
+  "card": {
+   "keywords": [
+    "Coca Cola Light Break"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 2473.38,
+  "end": 2478.1000000000004,
+  "keywords": [
+   "Cola Light"
+  ],
+  "type": "MISC",
+  "score": 0.8490962982,
+  "card": {
+   "keywords": [
+    "Coca Cola Light Break"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 2487.56,
+  "end": 2490.96,
+  "keywords": [
+   "Cola Light"
+  ],
+  "type": "MISC",
+  "score": 0.9992893934,
+  "card": {
+   "keywords": [
+    "Coca Cola Light Break"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 2513.92,
+  "end": 2518.12,
+  "keywords": [
+   "Tineklassegjentene"
+  ],
+  "type": "MISC",
+  "score": 0.9340029955,
+  "card": {
+   "keywords": [
+    "Tineklassegjentene"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 2521.21,
+  "end": 2524.0099999999998,
+  "keywords": [
+   "Facebook"
+  ],
+  "type": "MISC",
+  "score": 0.9988430738,
+  "card": {
+   "keywords": [
+    "Facebook"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Facebook"
+  }
+ },
+ {
+  "start": 2584.28,
+  "end": 2588.56,
+  "keywords": [
+   "Norge"
+  ],
+  "type": "LOC",
+  "score": 0.9997373223,
+  "card": {
+   "keywords": [
+    "Norge"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Norge"
+  }
+ },
+ {
+  "start": 2591.2,
+  "end": 2595.76,
+  "keywords": [
+   "Berrum"
+  ],
+  "type": "PER",
+  "score": 0.9995439649,
+  "card": {
+   "keywords": [
+    "Berrum"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 2598.04,
+  "end": 2600.32,
+  "keywords": [
+   "Facebook"
+  ],
+  "type": "MISC",
+  "score": 0.9905247092,
+  "card": {
+   "keywords": [
+    "Facebook"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Facebook"
+  }
+ },
+ {
+  "start": 2605.2,
+  "end": 2607.52,
+  "keywords": [
+   "Berrum"
+  ],
+  "type": "PER",
+  "score": 0.9990246296,
+  "card": {
+   "keywords": [
+    "Berrum"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 2607.52,
+  "end": 2610.32,
+  "keywords": [
+   "Oslo"
+  ],
+  "type": "LOC",
+  "score": 0.9997158647,
+  "card": {
+   "keywords": [
+    "Oslo"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Oslo"
+  }
+ },
+ {
+  "start": 2687.24,
+  "end": 2690.76,
+  "keywords": [
+   "Sara"
+  ],
+  "type": "PER",
+  "score": 0.9997399449,
+  "card": {
+   "keywords": [
+    "Sara"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Sara"
+  }
+ },
+ {
+  "start": 2836.76,
+  "end": 2838.36,
+  "keywords": [
+   "Sara"
+  ],
+  "type": "PER",
+  "score": 0.9998189807,
+  "card": {
+   "keywords": [
+    "Sara"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Sara"
+  }
+ },
+ {
+  "start": 2845.28,
+  "end": 2849.44,
+  "keywords": [
+   "Silje"
+  ],
+  "type": "PER",
+  "score": 0.9997497201,
+  "card": {
+   "keywords": [
+    "Silje Nordes"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 2930.92,
+  "end": 2932.88,
+  "keywords": [
+   "Coca Cola Light"
+  ],
+  "type": "MISC",
+  "score": 0.9792330861,
+  "card": {
+   "keywords": [
+    "Coca Cola Light Break"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 2938.92,
+  "end": 2944.28,
+  "keywords": [
+   "McDonald's"
+  ],
+  "type": "ORG",
+  "score": 0.7414242625,
+  "card": {
+   "keywords": [
+    "McDonald's"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/McDonald%E2%80%99s"
+  }
+ },
+ {
+  "start": 2947.04,
+  "end": 2950.92,
+  "keywords": [
+   "Tinder"
+  ],
+  "type": "MISC",
+  "score": 0.9973977804,
+  "card": {
+   "keywords": [
+    "Tinder"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Tinder"
+  }
+ },
+ {
+  "start": 3017.68,
+  "end": 3021.52,
+  "keywords": [
+   "Lilo"
+  ],
+  "type": "PER",
+  "score": 0.9997194409,
+  "card": {
+   "keywords": [
+    "Lilo"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/LILO"
+  }
+ },
+ {
+  "start": 3017.68,
+  "end": 3021.52,
+  "keywords": [
+   "Stitch"
+  ],
+  "type": "PER",
+  "score": 0.9567110538,
+  "card": {
+   "keywords": [
+    "Stitch"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 3089.2,
+  "end": 3093.3599999999997,
+  "keywords": [
+   "Lilo"
+  ],
+  "type": "PER",
+  "score": 0.9994754195,
+  "card": {
+   "keywords": [
+    "Lilo"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/LILO"
+  }
+ },
+ {
+  "start": 3089.2,
+  "end": 3093.3599999999997,
+  "keywords": [
+   "Sambor Stitch"
+  ],
+  "type": "PER",
+  "score": 0.9959183931,
+  "card": {
+   "keywords": [
+    "Stitch"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 3093.44,
+  "end": 3096.84,
+  "keywords": [
+   "Lilo"
+  ],
+  "type": "PER",
+  "score": 0.9994484782,
+  "card": {
+   "keywords": [
+    "Lilo"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/LILO"
+  }
+ },
+ {
+  "start": 3099.8,
+  "end": 3105.36,
+  "keywords": [
+   "Sambor"
+  ],
+  "type": "PER",
+  "score": 0.9996138215,
+  "card": {
+   "keywords": [
+    "Sambor"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 3212.44,
+  "end": 3218.6,
+  "keywords": [
+   "Lilo"
+  ],
+  "type": "PER",
+  "score": 0.9996560812,
+  "card": {
+   "keywords": [
+    "Lilo"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/LILO"
+  }
+ },
+ {
+  "start": 3230.36,
+  "end": 3234.4,
+  "keywords": [
+   "Lilo"
+  ],
+  "type": "PER",
+  "score": 0.9997556806,
+  "card": {
+   "keywords": [
+    "Lilo"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/LILO"
+  }
+ },
+ {
+  "start": 3230.36,
+  "end": 3234.4,
+  "keywords": [
+   "Lars"
+  ],
+  "type": "PER",
+  "score": 0.9998655319,
+  "card": {
+   "keywords": [
+    "Lars Barum"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 3235.76,
+  "end": 3241.52,
+  "keywords": [
+   "Lilo"
+  ],
+  "type": "PER",
+  "score": 0.9997625947,
+  "card": {
+   "keywords": [
+    "Lilo"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/LILO"
+  }
+ },
+ {
+  "start": 3286.68,
+  "end": 3293.08,
+  "keywords": [
+   "Livia"
+  ],
+  "type": "PER",
+  "score": 0.9988652468,
+  "card": {
+   "keywords": [
+    "Livia"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Livia"
+  }
+ },
+ {
+  "start": 3309.88,
+  "end": 3314.8,
+  "keywords": [
+   "Stitch"
+  ],
+  "type": "PER",
+  "score": 0.9997087121,
+  "card": {
+   "keywords": [
+    "Stitch"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 3324.6,
+  "end": 3328.0,
+  "keywords": [
+   "DAS"
+  ],
+  "type": "ORG",
+  "score": 0.9287014008,
+  "card": {
+   "keywords": [
+    "DAS"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 3434.48,
+  "end": 3440.44,
+  "keywords": [
+   "Tinasje"
+  ],
+  "type": "PER",
+  "score": 0.999340117,
+  "card": {
+   "keywords": [
+    "Tinasje Williamson"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 3451.04,
+  "end": 3455.56,
+  "keywords": [
+   "Tinasje"
+  ],
+  "type": "PER",
+  "score": 0.9994544387,
+  "card": {
+   "keywords": [
+    "Tinasje Williamson"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 3474.24,
+  "end": 3478.28,
+  "keywords": [
+   "Sille"
+  ],
+  "type": "PER",
+  "score": 0.9997119308,
+  "card": {
+   "keywords": [
+    "Sille"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 3503.16,
+  "end": 3508.08,
+  "keywords": [
+   "Stitch"
+  ],
+  "type": "PER",
+  "score": 0.9995100498,
+  "card": {
+   "keywords": [
+    "Stitch"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 3503.16,
+  "end": 3508.08,
+  "keywords": [
+   "Stitch"
+  ],
+  "type": "PER",
+  "score": 0.9995100498,
+  "card": {
+   "keywords": [
+    "Stitch"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 3636.2,
+  "end": 3639.44,
+  "keywords": [
+   "Lillia"
+  ],
+  "type": "PER",
+  "score": 0.9996125102,
+  "card": {
+   "keywords": [
+    "Lillia"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 3666.04,
+  "end": 3670.8,
+  "keywords": [
+   "Stitch"
+  ],
+  "type": "PER",
+  "score": 0.999353826,
+  "card": {
+   "keywords": [
+    "Stitch"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 3862.32,
+  "end": 3868.0,
+  "keywords": [
+   "Lillo"
+  ],
+  "type": "PER",
+  "score": 0.9997817874,
+  "card": {
+   "keywords": [
+    "Lillo"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Lillo"
+  }
+ },
+ {
+  "start": 3872.68,
+  "end": 3875.32,
+  "keywords": [
+   "Odda"
+  ],
+  "type": "ORG",
+  "score": 0.7599391937,
+  "card": {
+   "keywords": [
+    "Odda"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Odda"
+  }
+ },
+ {
+  "start": 3920.84,
+  "end": 3923.52,
+  "keywords": [
+   "Rosa Elefant"
+  ],
+  "type": "PER",
+  "score": 0.9969798326,
+  "card": {
+   "keywords": [
+    "Rosa Elefant"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 3933.36,
+  "end": 3938.48,
+  "keywords": [
+   "Lillo"
+  ],
+  "type": "PER",
+  "score": 0.9998326302,
+  "card": {
+   "keywords": [
+    "Lillo"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Lillo"
+  }
+ },
+ {
+  "start": 3933.36,
+  "end": 3938.48,
+  "keywords": [
+   "Lars"
+  ],
+  "type": "PER",
+  "score": 0.9998707771,
+  "card": {
+   "keywords": [
+    "Lars Barum"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 3938.56,
+  "end": 3942.72,
+  "keywords": [
+   "stitsj"
+  ],
+  "type": "ORG",
+  "score": 0.7706833482,
+  "card": {
+   "keywords": [
+    "stitsj"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 3946.4,
+  "end": 3949.36,
+  "keywords": [
+   "Lillo"
+  ],
+  "type": "PER",
+  "score": 0.9996453524,
+  "card": {
+   "keywords": [
+    "Lillo"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Lillo"
+  }
+ },
+ {
+  "start": 3972.56,
+  "end": 3978.48,
+  "keywords": [
+   "Lillo"
+  ],
+  "type": "PER",
+  "score": 0.9994924068,
+  "card": {
+   "keywords": [
+    "Lillo"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Lillo"
+  }
+ },
+ {
+  "start": 3989.92,
+  "end": 3992.64,
+  "keywords": [
+   "Lars Berrum"
+  ],
+  "type": "PER",
+  "score": 0.9997813702,
+  "card": {
+   "keywords": [
+    "Lars Barum"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 3989.92,
+  "end": 3992.64,
+  "keywords": [
+   "Nasje Vildamsson"
+  ],
+  "type": "PER",
+  "score": 0.9995470643,
+  "card": {
+   "keywords": [
+    "Nasje Vildamsson"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 3989.92,
+  "end": 3992.64,
+  "keywords": [
+   "Sille Nordnes"
+  ],
+  "type": "PER",
+  "score": 0.999366641,
+  "card": {
+   "keywords": [
+    "Sille"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 3992.72,
+  "end": 3998.72,
+  "keywords": [
+   "Mark Zuckerberg"
+  ],
+  "type": "PER",
+  "score": 0.9997450113,
+  "card": {
+   "keywords": [
+    "Mark Zuckerberg"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Mark_Zuckerberg"
+  }
+ },
+ {
+  "start": 4022.8,
+  "end": 4027.04,
+  "keywords": [
+   "Facebook"
+  ],
+  "type": "MISC",
+  "score": 0.9994644523,
+  "card": {
+   "keywords": [
+    "Facebook"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Facebook"
+  }
+ },
+ {
+  "start": 4036.24,
+  "end": 4039.6000000000004,
+  "keywords": [
+   "Facebook"
+  ],
+  "type": "MISC",
+  "score": 0.9976990819,
+  "card": {
+   "keywords": [
+    "Facebook"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Facebook"
+  }
+ },
+ {
+  "start": 4047.35,
+  "end": 4050.7899999999995,
+  "keywords": [
+   "Facebookkonto"
+  ],
+  "type": "MISC",
+  "score": 0.9947388768,
+  "card": {
+   "keywords": [
+    "Facebook"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Facebook"
+  }
+ },
+ {
+  "start": 4061.12,
+  "end": 4064.96,
+  "keywords": [
+   "Mark Zuckerberg"
+  ],
+  "type": "PER",
+  "score": 0.9995715618,
+  "card": {
+   "keywords": [
+    "Mark Zuckerberg"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Mark_Zuckerberg"
+  }
+ },
+ {
+  "start": 4064.96,
+  "end": 4068.88,
+  "keywords": [
+   "Mark"
+  ],
+  "type": "PER",
+  "score": 0.9996718168,
+  "card": {
+   "keywords": [
+    "Mark Zuckerberg"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Mark_Zuckerberg"
+  }
+ },
+ {
+  "start": 4064.96,
+  "end": 4068.88,
+  "keywords": [
+   "Instagram"
+  ],
+  "type": "MISC",
+  "score": 0.9990266562,
+  "card": {
+   "keywords": [
+    "Instagramposter"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 4064.96,
+  "end": 4068.88,
+  "keywords": [
+   "Messenger"
+  ],
+  "type": "MISC",
+  "score": 0.998713851,
+  "card": {
+   "keywords": [
+    "Messenger"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Messenger"
+  }
+ },
+ {
+  "start": 4071.12,
+  "end": 4073.6,
+  "keywords": [
+   "Instagram"
+  ],
+  "type": "MISC",
+  "score": 0.9989632368,
+  "card": {
+   "keywords": [
+    "Instagramposter"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 4079.75,
+  "end": 4084.4166666666665,
+  "keywords": [
+   "Facebookprofil"
+  ],
+  "type": "MISC",
+  "score": 0.9990504384,
+  "card": {
+   "keywords": [
+    "Facebook"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Facebook"
+  }
+ },
+ {
+  "start": 4090.96,
+  "end": 4093.36,
+  "keywords": [
+   "Facebook"
+  ],
+  "type": "MISC",
+  "score": 0.9937955141,
+  "card": {
+   "keywords": [
+    "Facebook"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Facebook"
+  }
+ },
+ {
+  "start": 4099.28,
+  "end": 4104.88,
+  "keywords": [
+   "Facebook"
+  ],
+  "type": "MISC",
+  "score": 0.9981229901,
+  "card": {
+   "keywords": [
+    "Facebook"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Facebook"
+  }
+ },
+ {
+  "start": 4104.96,
+  "end": 4109.6,
+  "keywords": [
+   "Facebook"
+  ],
+  "type": "MISC",
+  "score": 0.9971845746,
+  "card": {
+   "keywords": [
+    "Facebook"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Facebook"
+  }
+ },
+ {
+  "start": 4104.96,
+  "end": 4109.6,
+  "keywords": [
+   "Messenger"
+  ],
+  "type": "MISC",
+  "score": 0.9989210367,
+  "card": {
+   "keywords": [
+    "Messenger"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Messenger"
+  }
+ },
+ {
+  "start": 4104.96,
+  "end": 4109.6,
+  "keywords": [
+   "Instagram"
+  ],
+  "type": "MISC",
+  "score": 0.9987953901,
+  "card": {
+   "keywords": [
+    "Instagramposter"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 4109.68,
+  "end": 4117.2,
+  "keywords": [
+   "Facebook"
+  ],
+  "type": "MISC",
+  "score": 0.991066277,
+  "card": {
+   "keywords": [
+    "Facebook"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Facebook"
+  }
+ },
+ {
+  "start": 4117.28,
+  "end": 4121.6,
+  "keywords": [
+   "Facebook"
+  ],
+  "type": "ORG",
+  "score": 0.7294869423,
+  "card": {
+   "keywords": [
+    "Facebook"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Facebook"
+  }
+ },
+ {
+  "start": 4123.68,
+  "end": 4128.48,
+  "keywords": [
+   "Facebook"
+  ],
+  "type": "MISC",
+  "score": 0.9985151887,
+  "card": {
+   "keywords": [
+    "Facebook"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Facebook"
+  }
+ },
+ {
+  "start": 4132.96,
+  "end": 4136.4,
+  "keywords": [
+   "Facebook"
+  ],
+  "type": "MISC",
+  "score": 0.9982278943,
+  "card": {
+   "keywords": [
+    "Facebook"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Facebook"
+  }
+ },
+ {
+  "start": 4150.16,
+  "end": 4156.16,
+  "keywords": [
+   "Mark"
+  ],
+  "type": "PER",
+  "score": 0.9997063279,
+  "card": {
+   "keywords": [
+    "Mark Zuckerberg"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Mark_Zuckerberg"
+  }
+ },
+ {
+  "start": 4170.64,
+  "end": 4174.48,
+  "keywords": [
+   "Facebook"
+  ],
+  "type": "MISC",
+  "score": 0.9970266223,
+  "card": {
+   "keywords": [
+    "Facebook"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Facebook"
+  }
+ },
+ {
+  "start": 4180.92,
+  "end": 4182.5199999999995,
+  "keywords": [
+   "LinkedIn"
+  ],
+  "type": "MISC",
+  "score": 0.9977807403,
+  "card": {
+   "keywords": [
+    "LinkedIn"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/LinkedIn"
+  }
+ },
+ {
+  "start": 4196.48,
+  "end": 4199.68,
+  "keywords": [
+   "LinkedIn"
+  ],
+  "type": "MISC",
+  "score": 0.9988536835,
+  "card": {
+   "keywords": [
+    "LinkedIn"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/LinkedIn"
+  }
+ },
+ {
+  "start": 4207.6,
+  "end": 4210.48,
+  "keywords": [
+   "LinkedIn"
+  ],
+  "type": "MISC",
+  "score": 0.9894804955,
+  "card": {
+   "keywords": [
+    "LinkedIn"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/LinkedIn"
+  }
+ },
+ {
+  "start": 4218.4,
+  "end": 4222.72,
+  "keywords": [
+   "Facebook"
+  ],
+  "type": "MISC",
+  "score": 0.9983402491,
+  "card": {
+   "keywords": [
+    "Facebook"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Facebook"
+  }
+ },
+ {
+  "start": 4222.8,
+  "end": 4227.2,
+  "keywords": [
+   "Facebook"
+  ],
+  "type": "MISC",
+  "score": 0.9974229336,
+  "card": {
+   "keywords": [
+    "Facebook"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Facebook"
+  }
+ },
+ {
+  "start": 4231.52,
+  "end": 4235.36,
+  "keywords": [
+   "Facebook"
+  ],
+  "type": "MISC",
+  "score": 0.9980934262,
+  "card": {
+   "keywords": [
+    "Facebook"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Facebook"
+  }
+ },
+ {
+  "start": 4268.96,
+  "end": 4272.0,
+  "keywords": [
+   "Facebook"
+  ],
+  "type": "MISC",
+  "score": 0.9992008805,
+  "card": {
+   "keywords": [
+    "Facebook"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Facebook"
+  }
+ },
+ {
+  "start": 4274.56,
+  "end": 4280.0,
+  "keywords": [
+   "Facebook"
+  ],
+  "type": "MISC",
+  "score": 0.9989961982,
+  "card": {
+   "keywords": [
+    "Facebook"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Facebook"
+  }
+ },
+ {
+  "start": 4282.56,
+  "end": 4286.88,
+  "keywords": [
+   "Mark"
+  ],
+  "type": "PER",
+  "score": 0.9997324347,
+  "card": {
+   "keywords": [
+    "Mark Zuckerberg"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Mark_Zuckerberg"
+  }
+ },
+ {
+  "start": 4282.56,
+  "end": 4286.88,
+  "keywords": [
+   "Facebook"
+  ],
+  "type": "MISC",
+  "score": 0.9810138345,
+  "card": {
+   "keywords": [
+    "Facebook"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Facebook"
+  }
+ },
+ {
+  "start": 4290.48,
+  "end": 4295.36,
+  "keywords": [
+   "Facebookfelle"
+  ],
+  "type": "MISC",
+  "score": 0.9817478061,
+  "card": {
+   "keywords": [
+    "Facebook"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Facebook"
+  }
+ },
+ {
+  "start": 4305.84,
+  "end": 4311.2,
+  "keywords": [
+   "Jonas"
+  ],
+  "type": "PER",
+  "score": 0.9998531342,
+  "card": {
+   "keywords": [
+    "Jonas"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Jonas"
+  }
+ },
+ {
+  "start": 4313.383333333333,
+  "end": 4319.063333333334,
+  "keywords": [
+   "Silly Nordnes"
+  ],
+  "type": "PER",
+  "score": 0.9997998476,
+  "card": {
+   "keywords": [
+    "Silly Nordnes"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 4313.383333333333,
+  "end": 4319.063333333334,
+  "keywords": [
+   "Facebook"
+  ],
+  "type": "MISC",
+  "score": 0.995438993,
+  "card": {
+   "keywords": [
+    "Facebook"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Facebook"
+  }
+ },
+ {
+  "start": 4326.08,
+  "end": 4329.4,
+  "keywords": [
+   "Facebook"
+  ],
+  "type": "MISC",
+  "score": 0.9986348748,
+  "card": {
+   "keywords": [
+    "Facebook"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Facebook"
+  }
+ },
+ {
+  "start": 4329.48,
+  "end": 4332.88,
+  "keywords": [
+   "Mark"
+  ],
+  "type": "PER",
+  "score": 0.9997506738,
+  "card": {
+   "keywords": [
+    "Mark Zuckerberg"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Mark_Zuckerberg"
+  }
+ },
+ {
+  "start": 4329.48,
+  "end": 4332.88,
+  "keywords": [
+   "Facebook"
+  ],
+  "type": "MISC",
+  "score": 0.9979962111,
+  "card": {
+   "keywords": [
+    "Facebook"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Facebook"
+  }
+ },
+ {
+  "start": 4335.2,
+  "end": 4337.92,
+  "keywords": [
+   "Instagram"
+  ],
+  "type": "MISC",
+  "score": 0.9984644651,
+  "card": {
+   "keywords": [
+    "Instagramposter"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 4335.2,
+  "end": 4337.92,
+  "keywords": [
+   "Messenger"
+  ],
+  "type": "MISC",
+  "score": 0.9972872734,
+  "card": {
+   "keywords": [
+    "Messenger"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Messenger"
+  }
+ },
+ {
+  "start": 4335.2,
+  "end": 4337.92,
+  "keywords": [
+   "Mark"
+  ],
+  "type": "PER",
+  "score": 0.9995251894,
+  "card": {
+   "keywords": [
+    "Mark Zuckerberg"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Mark_Zuckerberg"
+  }
+ },
+ {
+  "start": 4341.6,
+  "end": 4346.48,
+  "keywords": [
+   "Melton John"
+  ],
+  "type": "PER",
+  "score": 0.9984852672,
+  "card": {
+   "keywords": [
+    "Melton John"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 4341.6,
+  "end": 4346.48,
+  "keywords": [
+   "Britney Spears"
+  ],
+  "type": "PER",
+  "score": 0.9992396235,
+  "card": {
+   "keywords": [
+    "Britney Spears"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Britney_Spears"
+  }
+ },
+ {
+  "start": 4357.92,
+  "end": 4362.68,
+  "keywords": [
+   "Hold Me Closer"
+  ],
+  "type": "MISC",
+  "score": 0.9993286133,
+  "card": {
+   "keywords": [
+    "Messenger"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Messenger"
+  }
+ },
+ {
+  "start": 4372.08,
+  "end": 4376.28,
+  "keywords": [
+   "Marte"
+  ],
+  "type": "PER",
+  "score": 0.9997662902,
+  "card": {
+   "keywords": [
+    "Marte"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Marte"
+  }
+ },
+ {
+  "start": 4376.36,
+  "end": 4381.48,
+  "keywords": [
+   "Australia"
+  ],
+  "type": "LOC",
+  "score": 0.9995817542,
+  "card": {
+   "keywords": [
+    "Australia"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Australia"
+  }
+ },
+ {
+  "start": 4392.62,
+  "end": 4396.62,
+  "keywords": [
+   "Australia"
+  ],
+  "type": "LOC",
+  "score": 0.999599278,
+  "card": {
+   "keywords": [
+    "Australia"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Australia"
+  }
+ },
+ {
+  "start": 4397.6,
+  "end": 4402.96,
+  "keywords": [
+   "Norge"
+  ],
+  "type": "LOC",
+  "score": 0.9984146357,
+  "card": {
+   "keywords": [
+    "Norge"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Norge"
+  }
+ },
+ {
+  "start": 4441.04,
+  "end": 4445.28,
+  "keywords": [
+   "Marte"
+  ],
+  "type": "PER",
+  "score": 0.9997337461,
+  "card": {
+   "keywords": [
+    "Marte"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Marte"
+  }
+ },
+ {
+  "start": 4480.6,
+  "end": 4484.2,
+  "keywords": [
+   "Australia"
+  ],
+  "type": "LOC",
+  "score": 0.9991224408,
+  "card": {
+   "keywords": [
+    "Australia"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Australia"
+  }
+ },
+ {
+  "start": 4504.76,
+  "end": 4510.280000000001,
+  "keywords": [
+   "Oslo"
+  ],
+  "type": "LOC",
+  "score": 0.9997081161,
+  "card": {
+   "keywords": [
+    "Oslo"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Oslo"
+  }
+ },
+ {
+  "start": 4706.0,
+  "end": 4712.48,
+  "keywords": [
+   "Oslo"
+  ],
+  "type": "LOC",
+  "score": 0.999674201,
+  "card": {
+   "keywords": [
+    "Oslo"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Oslo"
+  }
+ },
+ {
+  "start": 4712.48,
+  "end": 4715.4,
+  "keywords": [
+   "Marte"
+  ],
+  "type": "PER",
+  "score": 0.9995931983,
+  "card": {
+   "keywords": [
+    "Marte"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Marte"
+  }
+ },
+ {
+  "start": 4724.36,
+  "end": 4727.72,
+  "keywords": [
+   "Sille Nordest"
+  ],
+  "type": "PER",
+  "score": 0.9997575283,
+  "card": {
+   "keywords": [
+    "Sille"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 4724.36,
+  "end": 4727.72,
+  "keywords": [
+   "Narsje Vildamsson"
+  ],
+  "type": "PER",
+  "score": 0.9997705221,
+  "card": {
+   "keywords": [
+    "Nasje Vildamsson"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 4724.36,
+  "end": 4727.72,
+  "keywords": [
+   "Lars Berh\u00f8m"
+  ],
+  "type": "PER",
+  "score": 0.9997481704,
+  "card": {
+   "keywords": [
+    "Lars Barum"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 4794.6,
+  "end": 4797.533333333333,
+  "keywords": [
+   "Jonas"
+  ],
+  "type": "PER",
+  "score": 0.9996751547,
+  "card": {
+   "keywords": [
+    "Jonas"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Jonas"
+  }
+ },
+ {
+  "start": 4813.56,
+  "end": 4821.44,
+  "keywords": [
+   "Ola"
+  ],
+  "type": "PER",
+  "score": 0.9997857213,
+  "card": {
+   "keywords": [
+    "Ola"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Ola"
+  }
+ },
+ {
+  "start": 4813.56,
+  "end": 4821.44,
+  "keywords": [
+   "Ola"
+  ],
+  "type": "PER",
+  "score": 0.9997857213,
+  "card": {
+   "keywords": [
+    "Ola"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Ola"
+  }
+ },
+ {
+  "start": 4964.44,
+  "end": 4968.12,
+  "keywords": [
+   "Marte"
+  ],
+  "type": "PER",
+  "score": 0.9995243549,
+  "card": {
+   "keywords": [
+    "Marte"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Marte"
+  }
+ },
+ {
+  "start": 4975.6,
+  "end": 4979.72,
+  "keywords": [
+   "Australien"
+  ],
+  "type": "LOC",
+  "score": 0.9995952249,
+  "card": {
+   "keywords": [
+    "Australien"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Australien"
+  }
+ },
+ {
+  "start": 5005.08,
+  "end": 5009.28,
+  "keywords": [
+   "Ola"
+  ],
+  "type": "PER",
+  "score": 0.9997300506,
+  "card": {
+   "keywords": [
+    "Ola"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Ola"
+  }
+ },
+ {
+  "start": 5011.32,
+  "end": 5013.4,
+  "keywords": [
+   "Marte"
+  ],
+  "type": "PER",
+  "score": 0.9995394945,
+  "card": {
+   "keywords": [
+    "Marte"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Marte"
+  }
+ },
+ {
+  "start": 5026.64,
+  "end": 5034.04,
+  "keywords": [
+   "Ola"
+  ],
+  "type": "PER",
+  "score": 0.9997221828,
+  "card": {
+   "keywords": [
+    "Ola"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Ola"
+  }
+ },
+ {
+  "start": 5099.0,
+  "end": 5101.72,
+  "keywords": [
+   "Alder"
+  ],
+  "type": "PER",
+  "score": 0.6439307332,
+  "card": {
+   "keywords": [
+    "Alder"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Alder"
+  }
+ },
+ {
+  "start": 5106.2,
+  "end": 5109.239999999999,
+  "keywords": [
+   "Marte"
+  ],
+  "type": "PER",
+  "score": 0.9997647405,
+  "card": {
+   "keywords": [
+    "Marte"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Marte"
+  }
+ },
+ {
+  "start": 5147.84,
+  "end": 5152.48,
+  "keywords": [
+   "Sinasje"
+  ],
+  "type": "PER",
+  "score": 0.9976527095,
+  "card": {
+   "keywords": [
+    "Sinasje"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 5158.96,
+  "end": 5162.76,
+  "keywords": [
+   "Ola"
+  ],
+  "type": "PER",
+  "score": 0.9998016953,
+  "card": {
+   "keywords": [
+    "Ola"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Ola"
+  }
+ },
+ {
+  "start": 5202.36,
+  "end": 5207.6,
+  "keywords": [
+   "DNT"
+  ],
+  "type": "ORG",
+  "score": 0.8857178688,
+  "card": {
+   "keywords": [
+    "DNT"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/DNT"
+  }
+ },
+ {
+  "start": 5254.92,
+  "end": 5258.48,
+  "keywords": [
+   "Tinder"
+  ],
+  "type": "MISC",
+  "score": 0.9990624785,
+  "card": {
+   "keywords": [
+    "Tinder"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Tinder"
+  }
+ },
+ {
+  "start": 5290.96,
+  "end": 5294.52,
+  "keywords": [
+   "Cecilie"
+  ],
+  "type": "PER",
+  "score": 0.9998236299,
+  "card": {
+   "keywords": [
+    "Cecilie"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Cecilie"
+  }
+ },
+ {
+  "start": 5384.64,
+  "end": 5389.96,
+  "keywords": [
+   "Norge"
+  ],
+  "type": "ORG",
+  "score": 0.9939590693,
+  "card": {
+   "keywords": [
+    "Tid Norge"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 5392.04,
+  "end": 5396.4,
+  "keywords": [
+   "Ruth"
+  ],
+  "type": "PER",
+  "score": 0.9997885823,
+  "card": {
+   "keywords": [
+    "Ruth"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Ruth"
+  }
+ },
+ {
+  "start": 5439.52,
+  "end": 5445.68,
+  "keywords": [
+   "Norge"
+  ],
+  "type": "LOC",
+  "score": 0.9994130135,
+  "card": {
+   "keywords": [
+    "Norge"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Norge"
+  }
+ },
+ {
+  "start": 5439.52,
+  "end": 5445.68,
+  "keywords": [
+   "Norge"
+  ],
+  "type": "LOC",
+  "score": 0.9994130135,
+  "card": {
+   "keywords": [
+    "Norge"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Norge"
+  }
+ },
+ {
+  "start": 5670.36,
+  "end": 5675.16,
+  "keywords": [
+   "Norge"
+  ],
+  "type": "LOC",
+  "score": 0.9996126294,
+  "card": {
+   "keywords": [
+    "Norge"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Norge"
+  }
+ },
+ {
+  "start": 5675.24,
+  "end": 5679.48,
+  "keywords": [
+   "Spreng"
+  ],
+  "type": "ORG",
+  "score": 0.9617992043,
+  "card": {
+   "keywords": [
+    "Spreng"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 5679.56,
+  "end": 5685.36,
+  "keywords": [
+   "Hakebrygge"
+  ],
+  "type": "LOC",
+  "score": 0.9993665814,
+  "card": {
+   "keywords": [
+    "Hakebrygge"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Hakebrygge"
+  }
+ },
+ {
+  "start": 5842.81,
+  "end": 5844.290000000001,
+  "keywords": [
+   "Lars"
+  ],
+  "type": "PER",
+  "score": 0.9998204112,
+  "card": {
+   "keywords": [
+    "Lars Barum"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 5859.04,
+  "end": 5865.0,
+  "keywords": [
+   "Cecilie"
+  ],
+  "type": "PER",
+  "score": 0.9996734858,
+  "card": {
+   "keywords": [
+    "Cecilie"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Cecilie"
+  }
+ },
+ {
+  "start": 5881.64,
+  "end": 5885.173333333335,
+  "keywords": [
+   "Ellen"
+  ],
+  "type": "PER",
+  "score": 0.9997305274,
+  "card": {
+   "keywords": [
+    "Ellen"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Ellen"
+  }
+ },
+ {
+  "start": 5885.64,
+  "end": 5889.12,
+  "keywords": [
+   "Ellen"
+  ],
+  "type": "PER",
+  "score": 0.9998390675,
+  "card": {
+   "keywords": [
+    "Ellen"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Ellen"
+  }
+ },
+ {
+  "start": 5885.64,
+  "end": 5889.12,
+  "keywords": [
+   "Lars"
+  ],
+  "type": "PER",
+  "score": 0.9998544455,
+  "card": {
+   "keywords": [
+    "Lars Barum"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 5885.64,
+  "end": 5889.12,
+  "keywords": [
+   "Narsje"
+  ],
+  "type": "PER",
+  "score": 0.9977534413,
+  "card": {
+   "keywords": [
+    "Narsje"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 5964.6,
+  "end": 5969.6,
+  "keywords": [
+   "Ellen"
+  ],
+  "type": "PER",
+  "score": 0.9998214841,
+  "card": {
+   "keywords": [
+    "Ellen"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Ellen"
+  }
+ },
+ {
+  "start": 5964.6,
+  "end": 5969.6,
+  "keywords": [
+   "Ellen"
+  ],
+  "type": "PER",
+  "score": 0.9998214841,
+  "card": {
+   "keywords": [
+    "Ellen"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Ellen"
+  }
+ },
+ {
+  "start": 6163.84,
+  "end": 6169.04,
+  "keywords": [
+   "Tinasje"
+  ],
+  "type": "PER",
+  "score": 0.9994716048,
+  "card": {
+   "keywords": [
+    "Tinasje Williamson"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 6248.48,
+  "end": 6256.04,
+  "keywords": [
+   "Lars"
+  ],
+  "type": "PER",
+  "score": 0.9998537302,
+  "card": {
+   "keywords": [
+    "Lars Barum"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 6279.68,
+  "end": 6284.72,
+  "keywords": [
+   "Ellen"
+  ],
+  "type": "PER",
+  "score": 0.9998059869,
+  "card": {
+   "keywords": [
+    "Ellen"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Ellen"
+  }
+ },
+ {
+  "start": 6309.48,
+  "end": 6314.76,
+  "keywords": [
+   "Ellen"
+  ],
+  "type": "PER",
+  "score": 0.9997561574,
+  "card": {
+   "keywords": [
+    "Ellen"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Ellen"
+  }
+ },
+ {
+  "start": 6314.84,
+  "end": 6319.24,
+  "keywords": [
+   "Ellen"
+  ],
+  "type": "PER",
+  "score": 0.9998221993,
+  "card": {
+   "keywords": [
+    "Ellen"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Ellen"
+  }
+ },
+ {
+  "start": 6314.84,
+  "end": 6319.24,
+  "keywords": [
+   "Ellen"
+  ],
+  "type": "PER",
+  "score": 0.9998221993,
+  "card": {
+   "keywords": [
+    "Ellen"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Ellen"
+  }
+ },
+ {
+  "start": 6456.0,
+  "end": 6460.52,
+  "keywords": [
+   "Ellen"
+  ],
+  "type": "PER",
+  "score": 0.9998098016,
+  "card": {
+   "keywords": [
+    "Ellen"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Ellen"
+  }
+ },
+ {
+  "start": 6508.04,
+  "end": 6511.8,
+  "keywords": [
+   "Ellen"
+  ],
+  "type": "PER",
+  "score": 0.9997976422,
+  "card": {
+   "keywords": [
+    "Ellen"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Ellen"
+  }
+ },
+ {
+  "start": 6532.48,
+  "end": 6535.64,
+  "keywords": [
+   "Ellen"
+  ],
+  "type": "PER",
+  "score": 0.9998173118,
+  "card": {
+   "keywords": [
+    "Ellen"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Ellen"
+  }
+ },
+ {
+  "start": 6600.08,
+  "end": 6604.92,
+  "keywords": [
+   "Podemi"
+  ],
+  "type": "ORG",
+  "score": 0.9693548679,
+  "card": {
+   "keywords": [
+    "Podemi"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 6600.08,
+  "end": 6604.92,
+  "keywords": [
+   "Podema"
+  ],
+  "type": "MISC",
+  "score": 0.8669891953,
+  "card": {
+   "keywords": [
+    "Podema"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 6633.52,
+  "end": 6638.64,
+  "keywords": [
+   "Ellen"
+  ],
+  "type": "PER",
+  "score": 0.9998210073,
+  "card": {
+   "keywords": [
+    "Ellen"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Ellen"
+  }
+ },
+ {
+  "start": 6663.56,
+  "end": 6669.08,
+  "keywords": [
+   "Hardangevidda"
+  ],
+  "type": "LOC",
+  "score": 0.9987463951,
+  "card": {
+   "keywords": [
+    "Hardangevidda"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Hardangevidda"
+  }
+ },
+ {
+  "start": 6738.6,
+  "end": 6740.52,
+  "keywords": [
+   "Cecilie"
+  ],
+  "type": "PER",
+  "score": 0.9998143315,
+  "card": {
+   "keywords": [
+    "Cecilie"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Cecilie"
+  }
+ },
+ {
+  "start": 6760.16,
+  "end": 6763.76,
+  "keywords": [
+   "Cecilie"
+  ],
+  "type": "PER",
+  "score": 0.9998483658,
+  "card": {
+   "keywords": [
+    "Cecilie"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Cecilie"
+  }
+ },
+ {
+  "start": 6763.84,
+  "end": 6767.68,
+  "keywords": [
+   "Ellen"
+  ],
+  "type": "PER",
+  "score": 0.9998187423,
+  "card": {
+   "keywords": [
+    "Ellen"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Ellen"
+  }
+ },
+ {
+  "start": 6795.68,
+  "end": 6798.56,
+  "keywords": [
+   "Rignes"
+  ],
+  "type": "PER",
+  "score": 0.9809520841,
+  "card": {
+   "keywords": [
+    "Rignes"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 6795.68,
+  "end": 6798.56,
+  "keywords": [
+   "Herre"
+  ],
+  "type": "MISC",
+  "score": 0.7235641479,
+  "card": {
+   "keywords": [
+    "Herre"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Herre"
+  }
+ },
+ {
+  "start": 6812.56,
+  "end": 6815.0,
+  "keywords": [
+   "Rignes Herre"
+  ],
+  "type": "PER",
+  "score": 0.8351525068,
+  "card": {
+   "keywords": [
+    "Rignes"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 6821.96,
+  "end": 6826.52,
+  "keywords": [
+   "Lea"
+  ],
+  "type": "PER",
+  "score": 0.9996029735,
+  "card": {
+   "keywords": [
+    "Lea"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Lea"
+  }
+ },
+ {
+  "start": 6829.68,
+  "end": 6833.76,
+  "keywords": [
+   "Otto"
+  ],
+  "type": "PER",
+  "score": 0.9996329546,
+  "card": {
+   "keywords": [
+    "Otto"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Otto"
+  }
+ },
+ {
+  "start": 6833.84,
+  "end": 6837.36,
+  "keywords": [
+   "Sara"
+  ],
+  "type": "PER",
+  "score": 0.9998062253,
+  "card": {
+   "keywords": [
+    "Sara"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Sara"
+  }
+ },
+ {
+  "start": 6841.1,
+  "end": 6845.166666666667,
+  "keywords": [
+   "Lilo"
+  ],
+  "type": "PER",
+  "score": 0.9848382473,
+  "card": {
+   "keywords": [
+    "Lilo"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/LILO"
+  }
+ },
+ {
+  "start": 6841.1,
+  "end": 6845.166666666667,
+  "keywords": [
+   "og"
+  ],
+  "type": "MISC",
+  "score": 0.4683399796,
+  "card": {
+   "keywords": [
+    "og"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Konjunksjon_(logikk)"
+  }
+ },
+ {
+  "start": 6841.1,
+  "end": 6845.166666666667,
+  "keywords": [
+   "Stitch"
+  ],
+  "type": "PER",
+  "score": 0.6145170331,
+  "card": {
+   "keywords": [
+    "Stitch"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 6841.1,
+  "end": 6845.166666666667,
+  "keywords": [
+   "Lilo"
+  ],
+  "type": "PER",
+  "score": 0.9996949434,
+  "card": {
+   "keywords": [
+    "Lilo"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/LILO"
+  }
+ },
+ {
+  "start": 6847.16,
+  "end": 6851.0,
+  "keywords": [
+   "Mark Zuckerberg"
+  ],
+  "type": "PER",
+  "score": 0.9997855425,
+  "card": {
+   "keywords": [
+    "Mark Zuckerberg"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Mark_Zuckerberg"
+  }
+ },
+ {
+  "start": 6847.16,
+  "end": 6851.0,
+  "keywords": [
+   "Facebookprofil"
+  ],
+  "type": "MISC",
+  "score": 0.9919396043,
+  "card": {
+   "keywords": [
+    "Facebook"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Facebook"
+  }
+ },
+ {
+  "start": 6851.08,
+  "end": 6854.24,
+  "keywords": [
+   "Marte"
+  ],
+  "type": "PER",
+  "score": 0.9996366501,
+  "card": {
+   "keywords": [
+    "Marte"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Marte"
+  }
+ },
+ {
+  "start": 6857.44,
+  "end": 6860.6,
+  "keywords": [
+   "Australia"
+  ],
+  "type": "LOC",
+  "score": 0.9996086955,
+  "card": {
+   "keywords": [
+    "Australia"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Australia"
+  }
+ },
+ {
+  "start": 6860.68,
+  "end": 6863.72,
+  "keywords": [
+   "Ola"
+  ],
+  "type": "PER",
+  "score": 0.9998269677,
+  "card": {
+   "keywords": [
+    "Ola"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Ola"
+  }
+ },
+ {
+  "start": 6863.8,
+  "end": 6868.32,
+  "keywords": [
+   "Cecilie"
+  ],
+  "type": "PER",
+  "score": 0.9997897744,
+  "card": {
+   "keywords": [
+    "Cecilie"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Cecilie"
+  }
+ },
+ {
+  "start": 6868.32,
+  "end": 6871.84,
+  "keywords": [
+   "Ellen"
+  ],
+  "type": "PER",
+  "score": 0.9997766614,
+  "card": {
+   "keywords": [
+    "Ellen"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Ellen"
+  }
+ },
+ {
+  "start": 6880.16,
+  "end": 6885.16,
+  "keywords": [
+   "Lilo"
+  ],
+  "type": "PER",
+  "score": 0.6034066677,
+  "card": {
+   "keywords": [
+    "Lilo"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/LILO"
+  }
+ },
+ {
+  "start": 6880.16,
+  "end": 6885.16,
+  "keywords": [
+   "Stitch"
+  ],
+  "type": "MISC",
+  "score": 0.8850271106,
+  "card": {
+   "keywords": [
+    "Stitch"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 6888.84,
+  "end": 6892.36,
+  "keywords": [
+   "Stitch"
+  ],
+  "type": "PER",
+  "score": 0.9997329116,
+  "card": {
+   "keywords": [
+    "Stitch"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 6895.36,
+  "end": 6900.4,
+  "keywords": [
+   "Cecilie M\u00e5nes"
+  ],
+  "type": "PER",
+  "score": 0.9998039007,
+  "card": {
+   "keywords": [
+    "Cecilie"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Cecilie"
+  }
+ },
+ {
+  "start": 6920.0,
+  "end": 6924.6,
+  "keywords": [
+   "Australia"
+  ],
+  "type": "LOC",
+  "score": 0.9994787574,
+  "card": {
+   "keywords": [
+    "Australia"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Australia"
+  }
+ },
+ {
+  "start": 6945.32,
+  "end": 6949.64,
+  "keywords": [
+   "Lilo"
+  ],
+  "type": "PER",
+  "score": 0.9992505908,
+  "card": {
+   "keywords": [
+    "Lilo"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/LILO"
+  }
+ },
+ {
+  "start": 6949.72,
+  "end": 6953.12,
+  "keywords": [
+   "Stitch"
+  ],
+  "type": "PER",
+  "score": 0.9994463325,
+  "card": {
+   "keywords": [
+    "Stitch"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 7026.2,
+  "end": 7029.6,
+  "keywords": [
+   "Lilo"
+  ],
+  "type": "PER",
+  "score": 0.9996339083,
+  "card": {
+   "keywords": [
+    "Lilo"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/LILO"
+  }
+ },
+ {
+  "start": 7047.8,
+  "end": 7052.999999999999,
+  "keywords": [
+   "Kronikkomm"
+  ],
+  "type": "PER",
+  "score": 0.6056355834,
+  "card": {
+   "keywords": [
+    "Kronikkomm"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 7138.96,
+  "end": 7144.56,
+  "keywords": [
+   "Stitch"
+  ],
+  "type": "PER",
+  "score": 0.9989473224,
+  "card": {
+   "keywords": [
+    "Stitch"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 7156.64,
+  "end": 7158.88,
+  "keywords": [
+   "Lilo"
+  ],
+  "type": "PER",
+  "score": 0.9997417331,
+  "card": {
+   "keywords": [
+    "Lilo"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/LILO"
+  }
+ },
+ {
+  "start": 7162.64,
+  "end": 7167.48,
+  "keywords": [
+   "Lilo"
+  ],
+  "type": "PER",
+  "score": 0.9994716048,
+  "card": {
+   "keywords": [
+    "Lilo"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/LILO"
+  }
+ },
+ {
+  "start": 7198.08,
+  "end": 7201.28,
+  "keywords": [
+   "Lars"
+  ],
+  "type": "PER",
+  "score": 0.9998315573,
+  "card": {
+   "keywords": [
+    "Lars Barum"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 7201.36,
+  "end": 7207.04,
+  "keywords": [
+   "Jonas"
+  ],
+  "type": "PER",
+  "score": 0.9991856217,
+  "card": {
+   "keywords": [
+    "Jonas"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Jonas"
+  }
+ },
+ {
+  "start": 7201.36,
+  "end": 7207.04,
+  "keywords": [
+   "Lars"
+  ],
+  "type": "PER",
+  "score": 0.9998435974,
+  "card": {
+   "keywords": [
+    "Lars Barum"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 7207.12,
+  "end": 7210.68,
+  "keywords": [
+   "Tinnars"
+  ],
+  "type": "PER",
+  "score": 0.9990043044,
+  "card": {
+   "keywords": [
+    "Tinnars"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 7227.48,
+  "end": 7231.96,
+  "keywords": [
+   "Lilo"
+  ],
+  "type": "PER",
+  "score": 0.9995732903,
+  "card": {
+   "keywords": [
+    "Lilo"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/LILO"
+  }
+ },
+ {
+  "start": 7227.48,
+  "end": 7231.96,
+  "keywords": [
+   "Stich"
+  ],
+  "type": "PER",
+  "score": 0.9996933937,
+  "card": {
+   "keywords": [
+    "Stich"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 7236.28,
+  "end": 7240.32,
+  "keywords": [
+   "Lilo"
+  ],
+  "type": "PER",
+  "score": 0.999388814,
+  "card": {
+   "keywords": [
+    "Lilo"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/LILO"
+  }
+ },
+ {
+  "start": 7240.4,
+  "end": 7245.28,
+  "keywords": [
+   "Lea"
+  ],
+  "type": "PER",
+  "score": 0.9998111129,
+  "card": {
+   "keywords": [
+    "Lea"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Lea"
+  }
+ },
+ {
+  "start": 7240.4,
+  "end": 7245.28,
+  "keywords": [
+   "UNN"
+  ],
+  "type": "ORG",
+  "score": 0.9985634685,
+  "card": {
+   "keywords": [
+    "UNN"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Universitetssykehuset_Nord-Norge"
+  }
+ },
+ {
+  "start": 7275.88,
+  "end": 7279.2,
+  "keywords": [
+   "Lea"
+  ],
+  "type": "PER",
+  "score": 0.9998412132,
+  "card": {
+   "keywords": [
+    "Lea"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Lea"
+  }
+ },
+ {
+  "start": 7299.76,
+  "end": 7305.5599999999995,
+  "keywords": [
+   "Lea"
+  ],
+  "type": "PER",
+  "score": 0.999764502,
+  "card": {
+   "keywords": [
+    "Lea"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Lea"
+  }
+ },
+ {
+  "start": 7329.76,
+  "end": 7332.28,
+  "keywords": [
+   "Tyskland"
+  ],
+  "type": "LOC",
+  "score": 0.9992282391,
+  "card": {
+   "keywords": [
+    "Tyskland"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Tyskland"
+  }
+ },
+ {
+  "start": 7360.16,
+  "end": 7365.88,
+  "keywords": [
+   "Olli Weimskogen"
+  ],
+  "type": "PER",
+  "score": 0.9988322258,
+  "card": {
+   "keywords": [
+    "Olli Weimskogen"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 7435.55,
+  "end": 7439.416666666667,
+  "keywords": [
+   "Peteraksjonen"
+  ],
+  "type": "MISC",
+  "score": 0.999096036,
+  "card": {
+   "keywords": [
+    "Peteraksjonen"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 7444.12,
+  "end": 7447.52,
+  "keywords": [
+   "Christian Borg tskjorter"
+  ],
+  "type": "MISC",
+  "score": 0.9945735931,
+  "card": {
+   "keywords": [
+    "Christian Borg tskjorter"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 7449.4,
+  "end": 7451.72,
+  "keywords": [
+   "Christian Borg"
+  ],
+  "type": "PER",
+  "score": 0.9996276498,
+  "card": {
+   "keywords": [
+    "Christian Borg"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 7482.43,
+  "end": 7486.189999999999,
+  "keywords": [
+   "Tore"
+  ],
+  "type": "PER",
+  "score": 0.9997871518,
+  "card": {
+   "keywords": [
+    "Tore"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Tore"
+  }
+ },
+ {
+  "start": 7489.16,
+  "end": 7493.0,
+  "keywords": [
+   "Oslo"
+  ],
+  "type": "LOC",
+  "score": 0.9996420145,
+  "card": {
+   "keywords": [
+    "Oslo"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Oslo"
+  }
+ },
+ {
+  "start": 7501.96,
+  "end": 7505.4,
+  "keywords": [
+   "Lea"
+  ],
+  "type": "PER",
+  "score": 0.9997949004,
+  "card": {
+   "keywords": [
+    "Lea"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Lea"
+  }
+ },
+ {
+  "start": 7505.48,
+  "end": 7508.44,
+  "keywords": [
+   "Lea"
+  ],
+  "type": "PER",
+  "score": 0.999810636,
+  "card": {
+   "keywords": [
+    "Lea"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Lea"
+  }
+ },
+ {
+  "start": 7534.52,
+  "end": 7535.76,
+  "keywords": [
+   "Lea"
+  ],
+  "type": "PER",
+  "score": 0.9997745156,
+  "card": {
+   "keywords": [
+    "Lea"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Lea"
+  }
+ },
+ {
+  "start": 7592.68,
+  "end": 7595.68,
+  "keywords": [
+   "Lea"
+  ],
+  "type": "PER",
+  "score": 0.999761045,
+  "card": {
+   "keywords": [
+    "Lea"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Lea"
+  }
+ },
+ {
+  "start": 7603.56,
+  "end": 7609.0,
+  "keywords": [
+   "Ellen"
+  ],
+  "type": "PER",
+  "score": 0.9998582602,
+  "card": {
+   "keywords": [
+    "Ellen"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Ellen"
+  }
+ },
+ {
+  "start": 7620.84,
+  "end": 7624.04,
+  "keywords": [
+   "If I'm Wrong"
+  ],
+  "type": "MISC",
+  "score": 0.9945670962,
+  "card": {
+   "keywords": [
+    "If I'm Wrong"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 7626.2,
+  "end": 7629.2,
+  "keywords": [
+   "Ellen"
+  ],
+  "type": "PER",
+  "score": 0.9998187423,
+  "card": {
+   "keywords": [
+    "Ellen"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Ellen"
+  }
+ },
+ {
+  "start": 7686.5,
+  "end": 7688.233333333334,
+  "keywords": [
+   "Marte"
+  ],
+  "type": "PER",
+  "score": 0.999573648,
+  "card": {
+   "keywords": [
+    "Marte"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Marte"
+  }
+ },
+ {
+  "start": 7689.8,
+  "end": 7691.44,
+  "keywords": [
+   "Marte"
+  ],
+  "type": "PER",
+  "score": 0.9996145964,
+  "card": {
+   "keywords": [
+    "Marte"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Marte"
+  }
+ },
+ {
+  "start": 7691.52,
+  "end": 7694.84,
+  "keywords": [
+   "Australia"
+  ],
+  "type": "LOC",
+  "score": 0.9996046424,
+  "card": {
+   "keywords": [
+    "Australia"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Australia"
+  }
+ },
+ {
+  "start": 7733.68,
+  "end": 7736.92,
+  "keywords": [
+   "Petris"
+  ],
+  "type": "PER",
+  "score": 0.99704355,
+  "card": {
+   "keywords": [
+    "Petris"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 7733.68,
+  "end": 7736.92,
+  "keywords": [
+   "London"
+  ],
+  "type": "LOC",
+  "score": 0.9987959862,
+  "card": {
+   "keywords": [
+    "London"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=London"
+  }
+ },
+ {
+  "start": 7750.72,
+  "end": 7753.2,
+  "keywords": [
+   "Marte"
+  ],
+  "type": "PER",
+  "score": 0.9997606874,
+  "card": {
+   "keywords": [
+    "Marte"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Marte"
+  }
+ },
+ {
+  "start": 7757.04,
+  "end": 7758.4,
+  "keywords": [
+   "Australia"
+  ],
+  "type": "LOC",
+  "score": 0.9992688298,
+  "card": {
+   "keywords": [
+    "Australia"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Australia"
+  }
+ },
+ {
+  "start": 7803.72,
+  "end": 7805.12,
+  "keywords": [
+   "Victoria"
+  ],
+  "type": "PER",
+  "score": 0.9994543195,
+  "card": {
+   "keywords": [
+    "Victoria"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Victoria"
+  }
+ },
+ {
+  "start": 7820.92,
+  "end": 7825.88,
+  "keywords": [
+   "iPad"
+  ],
+  "type": "MISC",
+  "score": 0.9980121851,
+  "card": {
+   "keywords": [
+    "iPad"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/IPad"
+  }
+ },
+ {
+  "start": 7828.44,
+  "end": 7831.04,
+  "keywords": [
+   "Harry Styles"
+  ],
+  "type": "PER",
+  "score": 0.9996984005,
+  "card": {
+   "keywords": [
+    "Harry Styles"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Harry_Styles"
+  }
+ },
+ {
+  "start": 7888.22,
+  "end": 7890.500000000002,
+  "keywords": [
+   "Victoria"
+  ],
+  "type": "PER",
+  "score": 0.9989124537,
+  "card": {
+   "keywords": [
+    "Victoria"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Victoria"
+  }
+ },
+ {
+  "start": 7905.4,
+  "end": 7907.08,
+  "keywords": [
+   "Lars Beirum"
+  ],
+  "type": "PER",
+  "score": 0.9997167587,
+  "card": {
+   "keywords": [
+    "Lars Barum"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 7926.48,
+  "end": 7929.44,
+  "keywords": [
+   "Beirum og Beir snakker om"
+  ],
+  "type": "MISC",
+  "score": 0.9852714539,
+  "card": {
+   "keywords": [
+    "og"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Konjunksjon_(logikk)"
+  }
+ },
+ {
+  "start": 7931.6,
+  "end": 7949.24,
+  "keywords": [
+   "Beirum"
+  ],
+  "type": "PER",
+  "score": 0.9994863272,
+  "card": {
+   "keywords": [
+    "Beirum"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 7931.6,
+  "end": 7949.24,
+  "keywords": [
+   "Beir"
+  ],
+  "type": "PER",
+  "score": 0.9992377758,
+  "card": {
+   "keywords": [
+    "Beirum"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 7931.6,
+  "end": 7949.24,
+  "keywords": [
+   "NRK Radio"
+  ],
+  "type": "MISC",
+  "score": 0.9968276024,
+  "card": {
+   "keywords": [
+    "NRK Radio"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/NRK#NRKs_stasjoner_og_kanaler"
+  }
+ }
+]

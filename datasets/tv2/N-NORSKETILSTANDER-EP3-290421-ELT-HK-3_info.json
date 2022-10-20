@@ -1,0 +1,1236 @@
+[
+ {
+  "start": 0.0,
+  "end": 6.0,
+  "keywords": [
+   "Erna"
+  ],
+  "type": "PER",
+  "score": 0.9997276664,
+  "card": {
+   "keywords": [
+    "Erna"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Erna"
+  }
+ },
+ {
+  "start": 11.0,
+  "end": 17.0,
+  "keywords": [
+   "Torger K\u00e5lshus"
+  ],
+  "type": "PER",
+  "score": 0.9998164177,
+  "card": {
+   "keywords": [
+    "Torger K\u00e5lshus"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 17.0,
+  "end": 22.0,
+  "keywords": [
+   "Oslo \u00d8st"
+  ],
+  "type": "LOC",
+  "score": 0.9985871315,
+  "card": {
+   "keywords": [
+    "Oslo \u00d8st"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Oslo \u00d8st"
+  }
+ },
+ {
+  "start": 22.0,
+  "end": 30.0,
+  "keywords": [
+   "Norske Tilstander"
+  ],
+  "type": "MISC",
+  "score": 0.99947083,
+  "card": {
+   "keywords": [
+    "Norske Tilstander"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 36.0,
+  "end": 45.0,
+  "keywords": [
+   "Erik"
+  ],
+  "type": "PER",
+  "score": 0.9993985891,
+  "card": {
+   "keywords": [
+    "Erik"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Eirik"
+  }
+ },
+ {
+  "start": 36.0,
+  "end": 45.0,
+  "keywords": [
+   "Bergen"
+  ],
+  "type": "LOC",
+  "score": 0.9994592071,
+  "card": {
+   "keywords": [
+    "Bergen"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Bergen"
+  }
+ },
+ {
+  "start": 36.0,
+  "end": 45.0,
+  "keywords": [
+   "Oslo"
+  ],
+  "type": "LOC",
+  "score": 0.9995203018,
+  "card": {
+   "keywords": [
+    "Oslo \u00d8st"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Oslo \u00d8st"
+  }
+ },
+ {
+  "start": 45.0,
+  "end": 50.0,
+  "keywords": [
+   "Morten"
+  ],
+  "type": "PER",
+  "score": 0.9997112155,
+  "card": {
+   "keywords": [
+    "Morten"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Morten"
+  }
+ },
+ {
+  "start": 55.0,
+  "end": 63.0,
+  "keywords": [
+   "Torger K\u00e5lshus"
+  ],
+  "type": "PER",
+  "score": 0.9997955561,
+  "card": {
+   "keywords": [
+    "Torger K\u00e5lshus"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 190.0,
+  "end": 195.0,
+  "keywords": [
+   "Norge"
+  ],
+  "type": "LOC",
+  "score": 0.9994615912,
+  "card": {
+   "keywords": [
+    "Norge"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Norge"
+  }
+ },
+ {
+  "start": 237.0,
+  "end": 243.0,
+  "keywords": [
+   "\u00c5pus"
+  ],
+  "type": "PER",
+  "score": 0.9944532514,
+  "card": {
+   "keywords": [
+    "\u00c5pus"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 264.0,
+  "end": 269.0,
+  "keywords": [
+   "Twitterforbud"
+  ],
+  "type": "MISC",
+  "score": 0.9486731291,
+  "card": {
+   "keywords": [
+    "Twitterforbud"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 299.0,
+  "end": 304.0,
+  "keywords": [
+   "Torgheir"
+  ],
+  "type": "PER",
+  "score": 0.9998518229,
+  "card": {
+   "keywords": [
+    "Torgheir"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 304.0,
+  "end": 309.0,
+  "keywords": [
+   "Torgheir"
+  ],
+  "type": "PER",
+  "score": 0.9997814298,
+  "card": {
+   "keywords": [
+    "Torgheir"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 346.0,
+  "end": 350.0,
+  "keywords": [
+   "Erna"
+  ],
+  "type": "PER",
+  "score": 0.9996623993,
+  "card": {
+   "keywords": [
+    "Erna"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Erna"
+  }
+ },
+ {
+  "start": 350.0,
+  "end": 355.0,
+  "keywords": [
+   "Jailo"
+  ],
+  "type": "LOC",
+  "score": 0.9965347052,
+  "card": {
+   "keywords": [
+    "Jailo"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Jailo"
+  }
+ },
+ {
+  "start": 379.0,
+  "end": 386.0,
+  "keywords": [
+   "Torger"
+  ],
+  "type": "PER",
+  "score": 0.999789536,
+  "card": {
+   "keywords": [
+    "Torger K\u00e5lshus"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 403.0,
+  "end": 413.0,
+  "keywords": [
+   "Oslo"
+  ],
+  "type": "LOC",
+  "score": 0.9995028973,
+  "card": {
+   "keywords": [
+    "Oslo \u00d8st"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Oslo \u00d8st"
+  }
+ },
+ {
+  "start": 468.47,
+  "end": 472.3366666666667,
+  "keywords": [
+   "Morten"
+  ],
+  "type": "PER",
+  "score": 0.9996581078,
+  "card": {
+   "keywords": [
+    "Morten"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Morten"
+  }
+ },
+ {
+  "start": 498.27,
+  "end": 502.27,
+  "keywords": [
+   "Opinion"
+  ],
+  "type": "ORG",
+  "score": 0.9841626883,
+  "card": {
+   "keywords": [
+    "Opinion"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Meningsm%C3%A5ling"
+  }
+ },
+ {
+  "start": 519.27,
+  "end": 523.9366666666667,
+  "keywords": [
+   "Norge"
+  ],
+  "type": "LOC",
+  "score": 0.9993849993,
+  "card": {
+   "keywords": [
+    "Norge"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Norge"
+  }
+ },
+ {
+  "start": 543.0,
+  "end": 547.0,
+  "keywords": [
+   "Storbritannia"
+  ],
+  "type": "LOC",
+  "score": 0.9973878264,
+  "card": {
+   "keywords": [
+    "Storbritannia"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Storbritannia"
+  }
+ },
+ {
+  "start": 550.0,
+  "end": 554.0,
+  "keywords": [
+   "Boris Johnson"
+  ],
+  "type": "PER",
+  "score": 0.9997905493,
+  "card": {
+   "keywords": [
+    "Boris Johnson"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Boris_Johnson"
+  }
+ },
+ {
+  "start": 554.0,
+  "end": 557.0,
+  "keywords": [
+   "Sverige"
+  ],
+  "type": "LOC",
+  "score": 0.998593986,
+  "card": {
+   "keywords": [
+    "Sverige"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Sverige"
+  }
+ },
+ {
+  "start": 564.0,
+  "end": 569.0,
+  "keywords": [
+   "Australien"
+  ],
+  "type": "LOC",
+  "score": 0.9974241257,
+  "card": {
+   "keywords": [
+    "Australien"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Australien"
+  }
+ },
+ {
+  "start": 573.0,
+  "end": 579.0,
+  "keywords": [
+   "Morten"
+  ],
+  "type": "PER",
+  "score": 0.9995138645,
+  "card": {
+   "keywords": [
+    "Morten"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Morten"
+  }
+ },
+ {
+  "start": 573.0,
+  "end": 579.0,
+  "keywords": [
+   "Erna"
+  ],
+  "type": "PER",
+  "score": 0.99962008,
+  "card": {
+   "keywords": [
+    "Erna"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Erna"
+  }
+ },
+ {
+  "start": 585.6899999999999,
+  "end": 590.69,
+  "keywords": [
+   "Torger"
+  ],
+  "type": "PER",
+  "score": 0.9995428324,
+  "card": {
+   "keywords": [
+    "Torger K\u00e5lshus"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 661.22,
+  "end": 665.22,
+  "keywords": [
+   "Oslo"
+  ],
+  "type": "LOC",
+  "score": 0.9950932264,
+  "card": {
+   "keywords": [
+    "Oslo \u00d8st"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Oslo \u00d8st"
+  }
+ },
+ {
+  "start": 672.22,
+  "end": 679.22,
+  "keywords": [
+   "Oslo"
+  ],
+  "type": "LOC",
+  "score": 0.998999536,
+  "card": {
+   "keywords": [
+    "Oslo \u00d8st"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Oslo \u00d8st"
+  }
+ },
+ {
+  "start": 681.22,
+  "end": 686.22,
+  "keywords": [
+   "Oslo"
+  ],
+  "type": "ORG",
+  "score": 0.7781192064,
+  "card": {
+   "keywords": [
+    "Oslo"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Oslo"
+  }
+ },
+ {
+  "start": 690.22,
+  "end": 694.22,
+  "keywords": [
+   "Moldoverf\u00f8rernes"
+  ],
+  "type": "MISC",
+  "score": 0.760989666,
+  "card": {
+   "keywords": [
+    "Moldoverf\u00f8rernes"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 694.22,
+  "end": 701.22,
+  "keywords": [
+   "Raimond Johansen"
+  ],
+  "type": "PER",
+  "score": 0.9998281002,
+  "card": {
+   "keywords": [
+    "Raimond Johansen"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 738.0,
+  "end": 745.0,
+  "keywords": [
+   "F\u00f8rde"
+  ],
+  "type": "LOC",
+  "score": 0.9992569089,
+  "card": {
+   "keywords": [
+    "F\u00f8rde"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=F\u00f8rde"
+  }
+ },
+ {
+  "start": 738.0,
+  "end": 745.0,
+  "keywords": [
+   "Kai Aage Pedersen"
+  ],
+  "type": "PER",
+  "score": 0.9996934533,
+  "card": {
+   "keywords": [
+    "Kai Aage Pedersen"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Kai_Aage_Pedersen"
+  }
+ },
+ {
+  "start": 745.0,
+  "end": 753.0,
+  "keywords": [
+   "Lokalavisa 4"
+  ],
+  "type": "ORG",
+  "score": 0.9853403568,
+  "card": {
+   "keywords": [
+    "Lokalavisa 4"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 745.0,
+  "end": 753.0,
+  "keywords": [
+   "Sognefjordene"
+  ],
+  "type": "LOC",
+  "score": 0.9994004965,
+  "card": {
+   "keywords": [
+    "Sognefjordene"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Sognefjordene"
+  }
+ },
+ {
+  "start": 775.0,
+  "end": 784.0,
+  "keywords": [
+   "Sognefjorden"
+  ],
+  "type": "LOC",
+  "score": 0.9994531274,
+  "card": {
+   "keywords": [
+    "Sognefjordene"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Sognefjordene"
+  }
+ },
+ {
+  "start": 775.0,
+  "end": 784.0,
+  "keywords": [
+   "Sognefjorden"
+  ],
+  "type": "LOC",
+  "score": 0.9995336533,
+  "card": {
+   "keywords": [
+    "Sognefjordene"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Sognefjordene"
+  }
+ },
+ {
+  "start": 784.0,
+  "end": 792.0,
+  "keywords": [
+   "Sognefjord"
+  ],
+  "type": "LOC",
+  "score": 0.9996832609,
+  "card": {
+   "keywords": [
+    "Sognefjordene"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Sognefjordene"
+  }
+ },
+ {
+  "start": 784.0,
+  "end": 792.0,
+  "keywords": [
+   "F\u00f8rde"
+  ],
+  "type": "LOC",
+  "score": 0.9997041821,
+  "card": {
+   "keywords": [
+    "F\u00f8rde"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=F\u00f8rde"
+  }
+ },
+ {
+  "start": 792.0,
+  "end": 802.0,
+  "keywords": [
+   "Lokalavise"
+  ],
+  "type": "MISC",
+  "score": 0.9988735318,
+  "card": {
+   "keywords": [
+    "Lokalavise"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 802.0,
+  "end": 806.0,
+  "keywords": [
+   "F\u00f8rde"
+  ],
+  "type": "LOC",
+  "score": 0.998637259,
+  "card": {
+   "keywords": [
+    "F\u00f8rde"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=F\u00f8rde"
+  }
+ },
+ {
+  "start": 806.0,
+  "end": 810.0,
+  "keywords": [
+   "F\u00f8rde"
+  ],
+  "type": "LOC",
+  "score": 0.9991857409,
+  "card": {
+   "keywords": [
+    "F\u00f8rde"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=F\u00f8rde"
+  }
+ },
+ {
+  "start": 810.0,
+  "end": 817.0,
+  "keywords": [
+   "F\u00f8rde"
+  ],
+  "type": "LOC",
+  "score": 0.9995654225,
+  "card": {
+   "keywords": [
+    "F\u00f8rde"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=F\u00f8rde"
+  }
+ },
+ {
+  "start": 836.0,
+  "end": 843.0,
+  "keywords": [
+   "Alexandra Hotell"
+  ],
+  "type": "LOC",
+  "score": 0.99697119,
+  "card": {
+   "keywords": [
+    "Alexandra Hotell"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Alexandra Hotell"
+  }
+ },
+ {
+  "start": 836.0,
+  "end": 843.0,
+  "keywords": [
+   "Loen"
+  ],
+  "type": "LOC",
+  "score": 0.9993160963,
+  "card": {
+   "keywords": [
+    "Loen"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Loen"
+  }
+ },
+ {
+  "start": 849.0,
+  "end": 858.0,
+  "keywords": [
+   "Oslo"
+  ],
+  "type": "LOC",
+  "score": 0.9996654987,
+  "card": {
+   "keywords": [
+    "Oslo \u00d8st"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Oslo \u00d8st"
+  }
+ },
+ {
+  "start": 849.0,
+  "end": 858.0,
+  "keywords": [
+   "Bergen"
+  ],
+  "type": "LOC",
+  "score": 0.999661088,
+  "card": {
+   "keywords": [
+    "Bergen"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Bergen"
+  }
+ },
+ {
+  "start": 876.0,
+  "end": 885.0,
+  "keywords": [
+   "Oslo"
+  ],
+  "type": "LOC",
+  "score": 0.9996539354,
+  "card": {
+   "keywords": [
+    "Oslo \u00d8st"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Oslo \u00d8st"
+  }
+ },
+ {
+  "start": 909.0,
+  "end": 922.0,
+  "keywords": [
+   "Oslo"
+  ],
+  "type": "LOC",
+  "score": 0.9995257854,
+  "card": {
+   "keywords": [
+    "Oslo \u00d8st"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Oslo \u00d8st"
+  }
+ },
+ {
+  "start": 909.0,
+  "end": 922.0,
+  "keywords": [
+   "Bergen"
+  ],
+  "type": "LOC",
+  "score": 0.9994474053,
+  "card": {
+   "keywords": [
+    "Bergen"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Bergen"
+  }
+ },
+ {
+  "start": 922.0,
+  "end": 927.0,
+  "keywords": [
+   "Oslo"
+  ],
+  "type": "LOC",
+  "score": 0.9996651411,
+  "card": {
+   "keywords": [
+    "Oslo \u00d8st"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Oslo \u00d8st"
+  }
+ },
+ {
+  "start": 927.0,
+  "end": 932.0,
+  "keywords": [
+   "Josef"
+  ],
+  "type": "PER",
+  "score": 0.9996273518,
+  "card": {
+   "keywords": [
+    "Josef"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Josef"
+  }
+ },
+ {
+  "start": 927.0,
+  "end": 932.0,
+  "keywords": [
+   "Oslo"
+  ],
+  "type": "LOC",
+  "score": 0.9997019172,
+  "card": {
+   "keywords": [
+    "Oslo \u00d8st"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Oslo \u00d8st"
+  }
+ },
+ {
+  "start": 932.0,
+  "end": 939.0,
+  "keywords": [
+   "f\u00f8rde"
+  ],
+  "type": "LOC",
+  "score": 0.9076492786,
+  "card": {
+   "keywords": [
+    "f\u00f8rde"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=f\u00f8rde"
+  }
+ },
+ {
+  "start": 932.0,
+  "end": 939.0,
+  "keywords": [
+   "Oslo\u00f8st"
+  ],
+  "type": "LOC",
+  "score": 0.9820663929,
+  "card": {
+   "keywords": [
+    "Oslo \u00d8st"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Oslo \u00d8st"
+  }
+ },
+ {
+  "start": 939.0,
+  "end": 946.0,
+  "keywords": [
+   "Tveteng\u00e5rd"
+  ],
+  "type": "LOC",
+  "score": 0.9989972711,
+  "card": {
+   "keywords": [
+    "Tveteng\u00e5rd"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Tveteng\u00e5rd"
+  }
+ },
+ {
+  "start": 939.0,
+  "end": 946.0,
+  "keywords": [
+   "Oslo\u00f8st"
+  ],
+  "type": "LOC",
+  "score": 0.9970427155,
+  "card": {
+   "keywords": [
+    "Oslo \u00d8st"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Oslo \u00d8st"
+  }
+ },
+ {
+  "start": 946.0,
+  "end": 953.0,
+  "keywords": [
+   "Kjerleiken"
+  ],
+  "type": "LOC",
+  "score": 0.9952691197,
+  "card": {
+   "keywords": [
+    "Kjerleiken"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Kjerleiken"
+  }
+ },
+ {
+  "start": 1025.0,
+  "end": 1032.0,
+  "keywords": [
+   "Josef"
+  ],
+  "type": "PER",
+  "score": 0.9995490909,
+  "card": {
+   "keywords": [
+    "Josef"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Josef"
+  }
+ },
+ {
+  "start": 1038.0,
+  "end": 1046.0,
+  "keywords": [
+   "NRK"
+  ],
+  "type": "ORG",
+  "score": 0.9993268251,
+  "card": {
+   "keywords": [
+    "NRK"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/NRK"
+  }
+ },
+ {
+  "start": 1046.0,
+  "end": 1054.0,
+  "keywords": [
+   "Indi"
+  ],
+  "type": "PER",
+  "score": 0.8091308475,
+  "card": {
+   "keywords": [
+    "Indi"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1064.0,
+  "end": 1076.0,
+  "keywords": [
+   "Josef"
+  ],
+  "type": "PER",
+  "score": 0.9996894598,
+  "card": {
+   "keywords": [
+    "Josef"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Josef"
+  }
+ },
+ {
+  "start": 1064.0,
+  "end": 1076.0,
+  "keywords": [
+   "\u00d8sterrike"
+  ],
+  "type": "LOC",
+  "score": 0.9996395111,
+  "card": {
+   "keywords": [
+    "Oslo \u00d8st"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Oslo \u00d8st"
+  }
+ },
+ {
+  "start": 1078.02,
+  "end": 1081.02,
+  "keywords": [
+   "Norge"
+  ],
+  "type": "LOC",
+  "score": 0.999661684,
+  "card": {
+   "keywords": [
+    "Norge"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Norge"
+  }
+ },
+ {
+  "start": 1081.0,
+  "end": 1086.0,
+  "keywords": [
+   "Erik"
+  ],
+  "type": "PER",
+  "score": 0.9998169541,
+  "card": {
+   "keywords": [
+    "Erik"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Eirik"
+  }
+ },
+ {
+  "start": 1086.0,
+  "end": 1096.0,
+  "keywords": [
+   "f\u00f8rde"
+  ],
+  "type": "LOC",
+  "score": 0.9898201227,
+  "card": {
+   "keywords": [
+    "f\u00f8rde"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=f\u00f8rde"
+  }
+ },
+ {
+  "start": 1096.0,
+  "end": 1101.0,
+  "keywords": [
+   "T\u00f8yen"
+  ],
+  "type": "LOC",
+  "score": 0.9994903803,
+  "card": {
+   "keywords": [
+    "T\u00f8yen"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=T\u00f8yen"
+  }
+ },
+ {
+  "start": 1110.0,
+  "end": 1120.0,
+  "keywords": [
+   "Josef"
+  ],
+  "type": "PER",
+  "score": 0.9995681643,
+  "card": {
+   "keywords": [
+    "Josef"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Josef"
+  }
+ },
+ {
+  "start": 1110.0,
+  "end": 1120.0,
+  "keywords": [
+   "Sk\u00f8yen"
+  ],
+  "type": "LOC",
+  "score": 0.9994291663,
+  "card": {
+   "keywords": [
+    "Sk\u00f8yen"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Sk\u00f8yen"
+  }
+ },
+ {
+  "start": 1110.0,
+  "end": 1120.0,
+  "keywords": [
+   "Karjoge Pedersen"
+  ],
+  "type": "PER",
+  "score": 0.9995891452,
+  "card": {
+   "keywords": [
+    "Kai Aage Pedersen"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Kai_Aage_Pedersen"
+  }
+ },
+ {
+  "start": 1120.0,
+  "end": 1127.0,
+  "keywords": [
+   "Geir"
+  ],
+  "type": "PER",
+  "score": 0.9995237589,
+  "card": {
+   "keywords": [
+    "Geir"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Geir"
+  }
+ },
+ {
+  "start": 1177.0,
+  "end": 1183.0,
+  "keywords": [
+   "Suezkanalen"
+  ],
+  "type": "LOC",
+  "score": 0.9993008375,
+  "card": {
+   "keywords": [
+    "Suezkanalen"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Suezkanalen"
+  }
+ },
+ {
+  "start": 1194.0,
+  "end": 1197.0,
+  "keywords": [
+   "Erik"
+  ],
+  "type": "PER",
+  "score": 0.9998297691,
+  "card": {
+   "keywords": [
+    "Erik"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Eirik"
+  }
+ },
+ {
+  "start": 1197.0,
+  "end": 1201.0,
+  "keywords": [
+   "Morten"
+  ],
+  "type": "PER",
+  "score": 0.9997470975,
+  "card": {
+   "keywords": [
+    "Morten"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Morten"
+  }
+ },
+ {
+  "start": 1211.0,
+  "end": 1218.0,
+  "keywords": [
+   "Bent H\u00f8ie"
+  ],
+  "type": "PER",
+  "score": 0.9998022318,
+  "card": {
+   "keywords": [
+    "Bent H\u00f8ie"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Bent_H%C3%B8ie"
+  }
+ },
+ {
+  "start": 1223.0,
+  "end": 1241.0,
+  "keywords": [
+   "Sumo"
+  ],
+  "type": "MISC",
+  "score": 0.9379993677,
+  "card": {
+   "keywords": [
+    "Sumo"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Sumo"
+  }
+ }
+]

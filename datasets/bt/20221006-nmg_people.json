@@ -1,0 +1,130 @@
+{
+ "0": {
+  "name": "Trygve Slagsvold Vedum",
+  "src": "/audio/vedum.png",
+  "color": "#11878ba6",
+  "segments": [
+   {
+    "file": "/tmp/20221006-nmg_mono.wav",
+    "times": [
+     [
+      0.53,
+      2.0300000000000002
+     ],
+     [
+      2.03,
+      2.5300000000000002
+     ],
+     [
+      2.53,
+      3.0300000000000002
+     ],
+     [
+      3.03,
+      3.5300000000000002
+     ],
+     [
+      3.53,
+      7.53
+     ],
+     [
+      2389.67,
+      2396.67
+     ]
+    ]
+   }
+  ]
+ },
+ "1": {
+  "name": "Gerd Tjellflåt",
+  "src": "/audio/gerd_tjeldflåt.png",
+  "color": "#bc52aca6",
+  "segments": [
+   {
+    "file": "/tmp/20221006-nmg_mono.wav",
+    "times": [
+     [
+      16.79,
+      23.79
+     ],
+     [
+      72.8,
+      79.3
+     ]
+    ]
+   }
+  ]
+ },
+ "2": {
+  "name": "Hans Mjelva",
+  "src": "/audio/hans_mjelva.png",
+  "color": "#672759a6",
+  "segments": [
+   {
+    "file": "/tmp/20221006-nmg_mono.wav",
+    "times": [
+     [
+      151.1,
+      158.1
+     ],
+     [
+      159.23,
+      166.23
+     ]
+    ]
+   }
+  ]
+ },
+ "3": {
+  "name": 3,
+  "color": "#db837fa6",
+  "src": "/audio/stig_arild_pettersen.png",
+  "segments": [
+   {
+    "file": "/tmp/20221006-nmg_mono.wav",
+    "times": [
+     [
+      219.8,
+      224.8
+     ],
+     [
+      297.74,
+      304.74
+     ]
+    ]
+   }
+  ]
+ },
+ "4": {
+  "name": "Jens Kihl",
+  "src": "/audio/jens_kihl.png",
+  "color": "#fff9bba6",
+  "segments": [
+   {
+    "file": "/tmp/20221006-nmg_mono.wav",
+    "times": [
+     [
+      624.47,
+      629.47
+     ],
+     [
+      630.98,
+      637.98
+     ]
+    ]
+   }
+  ]
+ },
+ "extras": [
+  "#627097a6",
+  "#e4be51a6",
+  "#382d00a6",
+  "#89753aa6",
+  "#eab5dfa6",
+  "#8cbb87a6",
+  "#286136a6",
+  "#82e4e7a6",
+  "#642223a6",
+  "#aeed78a6"
+ ]
+}

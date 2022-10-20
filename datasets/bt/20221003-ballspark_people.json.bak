@@ -1,0 +1,97 @@
+{
+ "0": {
+  "name": 0,
+  "color": "#ffeeffA6",
+  "segments": [
+   {
+    "file": "/tmp/20221003-ballspark_mono.wav",
+    "times": [
+     [
+      9.38,
+      16.380000000000003
+     ],
+     [
+      630.62,
+      637.62
+     ]
+    ]
+   }
+  ]
+ },
+ "1": {
+  "name": 1,
+  "color": "#ffeeffA6",
+  "segments": [
+   {
+    "file": "/tmp/20221003-ballspark_mono.wav",
+    "times": [
+     [
+      91.43,
+      98.43
+     ],
+     [
+      681.05,
+      688.05
+     ]
+    ]
+   }
+  ]
+ },
+ "2": {
+  "name": 2,
+  "color": "#ffeeffA6",
+  "segments": [
+   {
+    "file": "/tmp/20221003-ballspark_mono.wav",
+    "times": [
+     [
+      197.21,
+      204.21
+     ],
+     [
+      322.73,
+      329.73
+     ]
+    ]
+   }
+  ]
+ },
+ "3": {
+  "name": 3,
+  "color": "#ffeeffA6",
+  "segments": [
+   {
+    "file": "/tmp/20221003-ballspark_mono.wav",
+    "times": [
+     [
+      235.49,
+      241.99
+     ],
+     [
+      359.42,
+      366.42
+     ]
+    ]
+   }
+  ]
+ },
+ "4": {
+  "name": 4,
+  "color": "#ffeeffA6",
+  "segments": [
+   {
+    "file": "/tmp/20221003-ballspark_mono.wav",
+    "times": [
+     [
+      243.86,
+      250.86
+     ],
+     [
+      359.42,
+      366.42
+     ]
+    ]
+   }
+  ]
+ }
+}

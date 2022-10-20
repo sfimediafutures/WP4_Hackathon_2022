@@ -1,0 +1,347 @@
+[
+ {
+  "start": 7.04,
+  "end": 10.52,
+  "keywords": [
+   "Akke Brygge"
+  ],
+  "type": "LOC",
+  "score": 0.9990453124,
+  "card": {
+   "keywords": [
+    "Akke Brygge"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Akke Brygge"
+  }
+ },
+ {
+  "start": 16.72,
+  "end": 19.88,
+  "keywords": [
+   "Jan Ivar Nykvist"
+  ],
+  "type": "PER",
+  "score": 0.9997239113,
+  "card": {
+   "keywords": [
+    "Jan Ivar Nykvist"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 86.64,
+  "end": 89.08,
+  "keywords": [
+   "Venke"
+  ],
+  "type": "PER",
+  "score": 0.9997108579,
+  "card": {
+   "keywords": [
+    "Venke"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Wenche"
+  }
+ },
+ {
+  "start": 86.64,
+  "end": 89.08,
+  "keywords": [
+   "Venke"
+  ],
+  "type": "PER",
+  "score": 0.9997108579,
+  "card": {
+   "keywords": [
+    "Venke"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Wenche"
+  }
+ },
+ {
+  "start": 86.64,
+  "end": 89.08,
+  "keywords": [
+   "Venke"
+  ],
+  "type": "PER",
+  "score": 0.9997108579,
+  "card": {
+   "keywords": [
+    "Venke"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Wenche"
+  }
+ },
+ {
+  "start": 377.28,
+  "end": 380.56,
+  "keywords": [
+   "Jan Ivar"
+  ],
+  "type": "PER",
+  "score": 0.9994194508,
+  "card": {
+   "keywords": [
+    "Jan Ivar Nykvist"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 411.64,
+  "end": 415.0,
+  "keywords": [
+   "Jan Ivar"
+  ],
+  "type": "PER",
+  "score": 0.999145031,
+  "card": {
+   "keywords": [
+    "Jan Ivar Nykvist"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 425.32,
+  "end": 429.24,
+  "keywords": [
+   "Peter"
+  ],
+  "type": "PER",
+  "score": 0.9998306036,
+  "card": {
+   "keywords": [
+    "Peter"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Peter"
+  }
+ },
+ {
+  "start": 443.96,
+  "end": 450.11999999999995,
+  "keywords": [
+   "Camilla"
+  ],
+  "type": "PER",
+  "score": 0.9997267127,
+  "card": {
+   "keywords": [
+    "Camilla"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Camilla"
+  }
+ },
+ {
+  "start": 460.0,
+  "end": 463.92,
+  "keywords": [
+   "Mette"
+  ],
+  "type": "PER",
+  "score": 0.9995636344,
+  "card": {
+   "keywords": [
+    "Mette"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Mette"
+  }
+ },
+ {
+  "start": 489.96,
+  "end": 493.88,
+  "keywords": [
+   "Rosita"
+  ],
+  "type": "PER",
+  "score": 0.9863350391,
+  "card": {
+   "keywords": [
+    "Rosita"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Rosita"
+  }
+ },
+ {
+  "start": 489.96,
+  "end": 493.88,
+  "keywords": [
+   "japansk"
+  ],
+  "type": "MISC",
+  "score": 0.5559076071,
+  "card": {
+   "keywords": [
+    "japansk"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Japansk"
+  }
+ },
+ {
+  "start": 493.96,
+  "end": 497.2,
+  "keywords": [
+   "Hesse"
+  ],
+  "type": "PER",
+  "score": 0.9993656278,
+  "card": {
+   "keywords": [
+    "Hesse"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Hessen"
+  }
+ },
+ {
+  "start": 511.84,
+  "end": 514.88,
+  "keywords": [
+   "\u00d8lve\u00f8ya"
+  ],
+  "type": "LOC",
+  "score": 0.9981295466,
+  "card": {
+   "keywords": [
+    "\u00d8lve\u00f8ya"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=\u00d8lve\u00f8ya"
+  }
+ },
+ {
+  "start": 511.84,
+  "end": 514.88,
+  "keywords": [
+   "Mette"
+  ],
+  "type": "PER",
+  "score": 0.9993155003,
+  "card": {
+   "keywords": [
+    "Mette"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Mette"
+  }
+ },
+ {
+  "start": 514.96,
+  "end": 517.44,
+  "keywords": [
+   "Henrik Hovland"
+  ],
+  "type": "PER",
+  "score": 0.999854207,
+  "card": {
+   "keywords": [
+    "Henrik Hovland"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Henrik_Hovland"
+  }
+ },
+ {
+  "start": 541.36,
+  "end": 544.4,
+  "keywords": [
+   "Gruber Olsen"
+  ],
+  "type": "PER",
+  "score": 0.7589747906,
+  "card": {
+   "keywords": [
+    "Gruber Olsen"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 799.2400000000001,
+  "end": 802.1600000000002,
+  "keywords": [
+   "Mari"
+  ],
+  "type": "PER",
+  "score": 0.9997727275,
+  "card": {
+   "keywords": [
+    "Mari"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Mari"
+  }
+ },
+ {
+  "start": 834.56,
+  "end": 838.48,
+  "keywords": [
+   "Mette"
+  ],
+  "type": "PER",
+  "score": 0.9997108579,
+  "card": {
+   "keywords": [
+    "Mette"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Mette"
+  }
+ },
+ {
+  "start": 876.4,
+  "end": 880.32,
+  "keywords": [
+   "Velk"
+  ],
+  "type": "PER",
+  "score": 0.9934547544,
+  "card": {
+   "keywords": [
+    "Velk"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 898.32,
+  "end": 902.24,
+  "keywords": [
+   "Janneke Widen"
+  ],
+  "type": "PER",
+  "score": 0.9997364283,
+  "card": {
+   "keywords": [
+    "Jan Ivar Nykvist"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 898.32,
+  "end": 902.24,
+  "keywords": [
+   "Cathrine S\u00f8land"
+  ],
+  "type": "PER",
+  "score": 0.9998444319,
+  "card": {
+   "keywords": [
+    "Cathrine S\u00f8land"
+   ],
+   "type": "PER"
+  }
+ }
+]

@@ -1,0 +1,13 @@
+{
+ "id": 3881710354,
+ "subtitles": [
+  {
+   "src": "/whisper//bt/20221006-nmg_subs.json"
+  }
+ ],
+ "cast": "/whisper//bt/20221006-nmg_people.json",
+ "info": "/whisper//bt/20221006-nmg_info.json",
+ "audio": {
+  "src": "https://seer2.itek.norut.no/hisper//bt/20221006-nmg.mp3"
+ }
+}

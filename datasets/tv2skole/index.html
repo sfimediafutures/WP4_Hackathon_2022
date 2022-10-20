@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="https://static.nrk.no/core-css/major/1/core-css.min.css">
+    <title>TextCasts</title>
+
+<style>
+
+    .episodelist {
+        display: flex;
+        max-width: 100%;
+        flex-wrap: wrap;
+    }
+
+    .episode {
+        display: block;
+        min-height: 180px;
+        width: 800px;
+        position: relative;
+        margin-top: 5px;
+    }
+
+    .episode .image {
+        width:  250px;
+        height:  150px;
+        position: relative;
+    }
+
+    .episode .playbtn {
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    .episode .art {
+        //height: 150px;
+        width: 100%;
+        top: 50%;
+        transform: translateY(-50%);
+        position: absolute;
+        left: 0px;
+
+    }
+
+    .episode .content {
+        width: calc(100% - 260px);
+        right: 5px;
+        top: 5px;
+        height: 95%%;
+        position: absolute;
+    }
+
+    .episode .title {
+        font-weight: bold;
+        font-size: 1.1em;
+        margin-top: 30px;
+    }
+
+    .episode .date {
+        font-weight: bold;
+        text-align: right;
+        position: absolute;
+        top: 5px;
+        right: 5px;
+    }
+
+    .episode .description {
+        padding: 10px;
+    }
+
+    .episode .player {
+        margin-left: 25px;
+    }
+
+    .fepisode .player .button{
+        background: black;
+    }
+
+    .fepisode .player .button img {
+        width: 20px;
+        height: 20px;
+    }
+
+    .episode .playbtn {
+        position: absolute;
+        width:  150px;
+        height: 150px;
+        opacity: 0.6;
+    }
+
+    .episode .playbtn img{
+        width: 100%;
+        height: 100%;
+    }
+
+</style>
+
+</head>
+<body>
+
+<div class="episodelist">
+</div>
+
+<template id="episode_template">
+    <div class="episode">
+        <div class="image">
+            <img class="art"/>
+            <div role="button" class="button playbtn nrkunset"><img src="https://seer2.itek.norut.no/radio/play.png"></div>
+        </div>
+        <div class="content">
+            <div class="title"></div>
+            <div class="description"></div>
+            <div class="date"></div>
+            <div class="player">
+                <div role="button" class="button nrkunset wiki">[wiki]</div>
+                <div role="button" class="button nrkunset timeline">[timeline]</div>
+                <div role="button" class="button nrkunset people">[people]</div>
+                <div role="button" class="button nrkunset heads">[heads]</div>
+            </div>
+        </div>
+        <div class="info"></div>
+    </div>
+
+</template>
+
+
+<script>
+
+    function add_episode(episode) {
+      let temp = document.querySelector("template#episode_template");
+      let clone = temp.content.cloneNode(true);
+      target = clone.querySelector(".episode");
+      target.setAttribute("id", episode.id);
+
+      target.querySelector(".title").innerHTML = episode.title;
+      target.querySelector(".description").innerHTML = episode.description;
+      target.querySelector(".art").src = episode.episode_art_url;
+      target.querySelector(".title").innerHTML = episode.title;
+      target.querySelector(".date").innerHTML = new Date(episode.published * 1000).toLocaleString();
+
+      document.querySelector(".episodelist").appendChild(target);
+
+      // Bind the play button too
+      let dir = document.location.pathname.substr(0, document.location.pathname.lastIndexOf("/") + 1);
+      let url = "url=" + dir+ episode.manifest.substr(episode.manifest.lastIndexOf("/"));
+      //url = BASEURL + "url=../res/radio/kjaerlighetssorg2.json"
+      target.querySelector(".playbtn").addEventListener("click", e => {
+        let a = document.createElement("a");
+        a.setAttribute("href", "/sfi/VideoPos/chat_style.html?" + url);
+        a.setAttribute("target", "_blank");
+        a.click();
+      });
+
+      target.querySelector(".wiki").addEventListener("click", e => {
+        let a = document.createElement("a");
+        a.setAttribute("href", "/sfi/VideoPos/wikipedia.html?" + url);
+        a.setAttribute("target", "_blank");
+        a.click();
+      });
+
+      target.querySelector(".timeline").addEventListener("click", e => {
+        let a = document.createElement("a");
+        a.setAttribute("href", "/sfi/VideoPos/timeline3.html?" + url);
+        a.setAttribute("target", "_blank");
+        a.click();
+      });
+
+      target.querySelector(".people").addEventListener("click", e => {
+        let a = document.createElement("a");
+        a.setAttribute("href", "/audio/play_people.html?" + url);
+        a.setAttribute("target", "_blank");
+        a.click();
+      });
+
+      target.querySelector(".heads").addEventListener("click", e => {
+        let a = document.createElement("a");
+        a.setAttribute("href", "/whisper/face.html?" + url);
+        a.setAttribute("target", "_blank");
+        a.click();
+      });
+
+    }
+
+    function load_episodes(url) {
+        fetch(url).then(res => res.json()).then(data => data.forEach(e => add_episode(e)));
+    }
+
+    load_episodes("episodes.json")
+
+</script>
+
+
+</body>
+</html>

@@ -1,0 +1,2868 @@
+[
+ {
+  "start": 0.0,
+  "end": 5.36,
+  "keywords": [
+   "Teatergrillen"
+  ],
+  "type": "MISC",
+  "score": 0.5288795829,
+  "card": {
+   "keywords": [
+    "Teatergrillen"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 5.44,
+  "end": 9.4,
+  "keywords": [
+   "Hugh Grant"
+  ],
+  "type": "PER",
+  "score": 0.9995732903,
+  "card": {
+   "keywords": [
+    "Hugh Grant"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Hugh_Grant"
+  }
+ },
+ {
+  "start": 9.48,
+  "end": 13.88,
+  "keywords": [
+   "The Undoing"
+  ],
+  "type": "MISC",
+  "score": 0.9982097149,
+  "card": {
+   "keywords": [
+    "The Undoing"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 13.96,
+  "end": 17.88,
+  "keywords": [
+   "Teatergrillen"
+  ],
+  "type": "MISC",
+  "score": 0.415782541,
+  "card": {
+   "keywords": [
+    "Teatergrillen"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 40.88,
+  "end": 46.36,
+  "keywords": [
+   "Notting Hill"
+  ],
+  "type": "LOC",
+  "score": 0.8937352896,
+  "card": {
+   "keywords": [
+    "Notting Hill"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Notting Hill"
+  }
+ },
+ {
+  "start": 48.36,
+  "end": 53.08,
+  "keywords": [
+   "Daniel Cleaver"
+  ],
+  "type": "PER",
+  "score": 0.9991837144,
+  "card": {
+   "keywords": [
+    "Daniel Cleaver"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 48.36,
+  "end": 53.08,
+  "keywords": [
+   "Bridget Jones dagbok"
+  ],
+  "type": "MISC",
+  "score": 0.7357960343,
+  "card": {
+   "keywords": [
+    "Bridget Jones dagbok"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 89.01,
+  "end": 93.13000000000001,
+  "keywords": [
+   "London"
+  ],
+  "type": "LOC",
+  "score": 0.999181807,
+  "card": {
+   "keywords": [
+    "London"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=London"
+  }
+ },
+ {
+  "start": 89.01,
+  "end": 93.13000000000001,
+  "keywords": [
+   "Los Angeles"
+  ],
+  "type": "LOC",
+  "score": 0.9987568855,
+  "card": {
+   "keywords": [
+    "Los Angeles"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Los Angeles"
+  }
+ },
+ {
+  "start": 96.8,
+  "end": 101.16,
+  "keywords": [
+   "Gustav"
+  ],
+  "type": "PER",
+  "score": 0.9985936284,
+  "card": {
+   "keywords": [
+    "Gustav"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Gustav"
+  }
+ },
+ {
+  "start": 101.31,
+  "end": 104.97666666666667,
+  "keywords": [
+   "Jukransbord"
+  ],
+  "type": "MISC",
+  "score": 0.9713129401,
+  "card": {
+   "keywords": [
+    "Jukransbord"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 121.96,
+  "end": 127.72,
+  "keywords": [
+   "Gustav"
+  ],
+  "type": "PER",
+  "score": 0.9988479614,
+  "card": {
+   "keywords": [
+    "Gustav"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Gustav"
+  }
+ },
+ {
+  "start": 130.88,
+  "end": 138.27999999999997,
+  "keywords": [
+   "Jukrant"
+  ],
+  "type": "PER",
+  "score": 0.9813829064,
+  "card": {
+   "keywords": [
+    "Jukrant"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 170.52,
+  "end": 175.32,
+  "keywords": [
+   "Jukrant"
+  ],
+  "type": "PER",
+  "score": 0.9969354868,
+  "card": {
+   "keywords": [
+    "Jukrant"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 191.24,
+  "end": 197.56,
+  "keywords": [
+   "Jukrant"
+  ],
+  "type": "MISC",
+  "score": 0.7564406395,
+  "card": {
+   "keywords": [
+    "Jukrant"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 212.08,
+  "end": 218.2,
+  "keywords": [
+   "Rish"
+  ],
+  "type": "PER",
+  "score": 0.9629436135,
+  "card": {
+   "keywords": [
+    "Rish"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 223.96,
+  "end": 227.36,
+  "keywords": [
+   "Birgeraskatan"
+  ],
+  "type": "LOC",
+  "score": 0.9927027225,
+  "card": {
+   "keywords": [
+    "Birgeraskatan"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Birgeraskatan"
+  }
+ },
+ {
+  "start": 238.44,
+  "end": 243.92,
+  "keywords": [
+   "Stockholm"
+  ],
+  "type": "LOC",
+  "score": 0.9994233847,
+  "card": {
+   "keywords": [
+    "Stockholm"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Stockholm"
+  }
+ },
+ {
+  "start": 251.56,
+  "end": 256.4,
+  "keywords": [
+   "Jukrant"
+  ],
+  "type": "PER",
+  "score": 0.8531851768,
+  "card": {
+   "keywords": [
+    "Jukrant"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 256.48,
+  "end": 264.32,
+  "keywords": [
+   "Rish"
+  ],
+  "type": "ORG",
+  "score": 0.9875007868,
+  "card": {
+   "keywords": [
+    "Rish"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 298.8,
+  "end": 303.2,
+  "keywords": [
+   "Jukrant"
+  ],
+  "type": "PER",
+  "score": 0.5773332119,
+  "card": {
+   "keywords": [
+    "Jukrant"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 317.85,
+  "end": 321.5166666666667,
+  "keywords": [
+   "Gustav Skarsg\u00e5rd"
+  ],
+  "type": "PER",
+  "score": 0.9995119572,
+  "card": {
+   "keywords": [
+    "Gustav"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Gustav"
+  }
+ },
+ {
+  "start": 433.2,
+  "end": 438.76,
+  "keywords": [
+   "Gustav"
+  ],
+  "type": "PER",
+  "score": 0.9993091822,
+  "card": {
+   "keywords": [
+    "Gustav"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Gustav"
+  }
+ },
+ {
+  "start": 525.48,
+  "end": 529.84,
+  "keywords": [
+   "Coop"
+  ],
+  "type": "ORG",
+  "score": 0.998329699,
+  "card": {
+   "keywords": [
+    "Coop"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Coop"
+  }
+ },
+ {
+  "start": 525.48,
+  "end": 529.84,
+  "keywords": [
+   "Sveriges"
+  ],
+  "type": "LOC",
+  "score": 0.976388216,
+  "card": {
+   "keywords": [
+    "Sveriges"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Sveriges"
+  }
+ },
+ {
+  "start": 541.56,
+  "end": 544.2,
+  "keywords": [
+   "Sveriges"
+  ],
+  "type": "LOC",
+  "score": 0.994197011,
+  "card": {
+   "keywords": [
+    "Sveriges"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Sveriges"
+  }
+ },
+ {
+  "start": 561.52,
+  "end": 566.28,
+  "keywords": [
+   "Coop"
+  ],
+  "type": "ORG",
+  "score": 0.9962479472,
+  "card": {
+   "keywords": [
+    "Coop"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Coop"
+  }
+ },
+ {
+  "start": 566.28,
+  "end": 570.2,
+  "keywords": [
+   "Coops"
+  ],
+  "type": "ORG",
+  "score": 0.9989411235,
+  "card": {
+   "keywords": [
+    "Coop"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Coop"
+  }
+ },
+ {
+  "start": 575.8,
+  "end": 579.24,
+  "keywords": [
+   "Fortum"
+  ],
+  "type": "ORG",
+  "score": 0.9991509914,
+  "card": {
+   "keywords": [
+    "Fortum"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Fortum"
+  }
+ },
+ {
+  "start": 581.92,
+  "end": 586.8,
+  "keywords": [
+   "Hallon"
+  ],
+  "type": "ORG",
+  "score": 0.9899039268,
+  "card": {
+   "keywords": [
+    "Hallon"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 608.12,
+  "end": 611.36,
+  "keywords": [
+   "H\u00e4lp"
+  ],
+  "type": "ORG",
+  "score": 0.9973574281,
+  "card": {
+   "keywords": [
+    "H\u00e4lp"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 608.12,
+  "end": 611.36,
+  "keywords": [
+   "Juristf\u00f6rs\u00e4kring"
+  ],
+  "type": "ORG",
+  "score": 0.9969313145,
+  "card": {
+   "keywords": [
+    "Juristf\u00f6rs\u00e4kring"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 608.12,
+  "end": 611.36,
+  "keywords": [
+   "Cigge"
+  ],
+  "type": "ORG",
+  "score": 0.9976130724,
+  "card": {
+   "keywords": [
+    "Cigge"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 621.4,
+  "end": 629.0000000000001,
+  "keywords": [
+   "H\u00e4lp"
+  ],
+  "type": "ORG",
+  "score": 0.8784229755,
+  "card": {
+   "keywords": [
+    "H\u00e4lp"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 634.48,
+  "end": 637.88,
+  "keywords": [
+   "H\u00e4lps"
+  ],
+  "type": "PER",
+  "score": 0.9957122803,
+  "card": {
+   "keywords": [
+    "H\u00e4lps"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 642.76,
+  "end": 645.88,
+  "keywords": [
+   "H\u00e4lp"
+  ],
+  "type": "ORG",
+  "score": 0.9597762823,
+  "card": {
+   "keywords": [
+    "H\u00e4lp"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 667.08,
+  "end": 673.08,
+  "keywords": [
+   "H\u00e4lp"
+  ],
+  "type": "MISC",
+  "score": 0.8780226111,
+  "card": {
+   "keywords": [
+    "H\u00e4lp"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 698.96,
+  "end": 703.72,
+  "keywords": [
+   "Gotland"
+  ],
+  "type": "LOC",
+  "score": 0.9988460541,
+  "card": {
+   "keywords": [
+    "Gotland"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Gotland"
+  }
+ },
+ {
+  "start": 703.72,
+  "end": 708.9199999999998,
+  "keywords": [
+   "Amanda"
+  ],
+  "type": "PER",
+  "score": 0.999597013,
+  "card": {
+   "keywords": [
+    "Amanda"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Amanda"
+  }
+ },
+ {
+  "start": 769.44,
+  "end": 775.4,
+  "keywords": [
+   "Emma"
+  ],
+  "type": "PER",
+  "score": 0.9987034798,
+  "card": {
+   "keywords": [
+    "Emma"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Emma"
+  }
+ },
+ {
+  "start": 777.88,
+  "end": 783.96,
+  "keywords": [
+   "Emma"
+  ],
+  "type": "MISC",
+  "score": 0.9937456846,
+  "card": {
+   "keywords": [
+    "Emma"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Emma"
+  }
+ },
+ {
+  "start": 808.56,
+  "end": 813.88,
+  "keywords": [
+   "Emma"
+  ],
+  "type": "MISC",
+  "score": 0.9971401691,
+  "card": {
+   "keywords": [
+    "Emma"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Emma"
+  }
+ },
+ {
+  "start": 836.6,
+  "end": 839.76,
+  "keywords": [
+   "Alex"
+  ],
+  "type": "PER",
+  "score": 0.999661088,
+  "card": {
+   "keywords": [
+    "Alex"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Alex"
+  }
+ },
+ {
+  "start": 836.6,
+  "end": 839.76,
+  "keywords": [
+   "Sigge"
+  ],
+  "type": "PER",
+  "score": 0.999653101,
+  "card": {
+   "keywords": [
+    "Sigge"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 836.6,
+  "end": 839.76,
+  "keywords": [
+   "emma"
+  ],
+  "type": "ORG",
+  "score": 0.7957854867,
+  "card": {
+   "keywords": [
+    "emma"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Emma"
+  }
+ },
+ {
+  "start": 836.6,
+  "end": 839.76,
+  "keywords": [
+   "se"
+  ],
+  "type": "ORG",
+  "score": 0.6327033043,
+  "card": {
+   "keywords": [
+    "se"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/SE"
+  }
+ },
+ {
+  "start": 846.28,
+  "end": 851.52,
+  "keywords": [
+   "L. A."
+  ],
+  "type": "LOC",
+  "score": 0.9841911197,
+  "card": {
+   "keywords": [
+    "L. A."
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=L. A."
+  }
+ },
+ {
+  "start": 898.32,
+  "end": 901.0533333333334,
+  "keywords": [
+   "Harry Styles"
+  ],
+  "type": "PER",
+  "score": 0.9991449118,
+  "card": {
+   "keywords": [
+    "Harry Styles"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Harry_Styles"
+  }
+ },
+ {
+  "start": 915.28,
+  "end": 919.12,
+  "keywords": [
+   "Styles"
+  ],
+  "type": "PER",
+  "score": 0.8057696223,
+  "card": {
+   "keywords": [
+    "Harry Styles"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Harry_Styles"
+  }
+ },
+ {
+  "start": 933.89,
+  "end": 938.29,
+  "keywords": [
+   "One Direction"
+  ],
+  "type": "ORG",
+  "score": 0.9983008504,
+  "card": {
+   "keywords": [
+    "One Direction"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/One_Direction"
+  }
+ },
+ {
+  "start": 960.2,
+  "end": 965.0,
+  "keywords": [
+   "Rolling Stones"
+  ],
+  "type": "ORG",
+  "score": 0.9978347421,
+  "card": {
+   "keywords": [
+    "Rolling Stones"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/The_Rolling_Stones"
+  }
+ },
+ {
+  "start": 985.52,
+  "end": 992.52,
+  "keywords": [
+   "Stanley Kubrick"
+  ],
+  "type": "PER",
+  "score": 0.9993962049,
+  "card": {
+   "keywords": [
+    "Stanley Kubrick"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Stanley_Kubrick"
+  }
+ },
+ {
+  "start": 992.6,
+  "end": 997.32,
+  "keywords": [
+   "Leon Vitali"
+  ],
+  "type": "PER",
+  "score": 0.9994906187,
+  "card": {
+   "keywords": [
+    "Leon Vitali"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 997.4,
+  "end": 1000.52,
+  "keywords": [
+   "Leon Vitali"
+  ],
+  "type": "PER",
+  "score": 0.9995598793,
+  "card": {
+   "keywords": [
+    "Leon Vitali"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1000.6,
+  "end": 1006.24,
+  "keywords": [
+   "Stanley Kubricks"
+  ],
+  "type": "PER",
+  "score": 0.9992912412,
+  "card": {
+   "keywords": [
+    "Stanley Kubrick"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Stanley_Kubrick"
+  }
+ },
+ {
+  "start": 1011.4,
+  "end": 1014.48,
+  "keywords": [
+   "Leon Vitali"
+  ],
+  "type": "PER",
+  "score": 0.9992866516,
+  "card": {
+   "keywords": [
+    "Leon Vitali"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1022.28,
+  "end": 1027.28,
+  "keywords": [
+   "New York"
+  ],
+  "type": "LOC",
+  "score": 0.9985168576,
+  "card": {
+   "keywords": [
+    "New York"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=New York"
+  }
+ },
+ {
+  "start": 1022.28,
+  "end": 1027.28,
+  "keywords": [
+   "Filmworker"
+  ],
+  "type": "ORG",
+  "score": 0.595248282,
+  "card": {
+   "keywords": [
+    "Filmworker"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 1027.36,
+  "end": 1030.72,
+  "keywords": [
+   "Q"
+  ],
+  "type": "MISC",
+  "score": 0.6556919813,
+  "card": {
+   "keywords": [
+    "Q"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Q"
+  }
+ },
+ {
+  "start": 1030.8,
+  "end": 1035.12,
+  "keywords": [
+   "Max Vitali"
+  ],
+  "type": "PER",
+  "score": 0.999219656,
+  "card": {
+   "keywords": [
+    "Leon Vitali"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1030.8,
+  "end": 1035.12,
+  "keywords": [
+   "New York"
+  ],
+  "type": "LOC",
+  "score": 0.9990648627,
+  "card": {
+   "keywords": [
+    "New York"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=New York"
+  }
+ },
+ {
+  "start": 1044.68,
+  "end": 1051.6,
+  "keywords": [
+   "England"
+  ],
+  "type": "LOC",
+  "score": 0.9987351298,
+  "card": {
+   "keywords": [
+    "England"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=England"
+  }
+ },
+ {
+  "start": 1056.88,
+  "end": 1062.44,
+  "keywords": [
+   "Barry"
+  ],
+  "type": "PER",
+  "score": 0.5303480625,
+  "card": {
+   "keywords": [
+    "Barry"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Barry"
+  }
+ },
+ {
+  "start": 1056.88,
+  "end": 1062.44,
+  "keywords": [
+   "Lyndon"
+  ],
+  "type": "MISC",
+  "score": 0.819593966,
+  "card": {
+   "keywords": [
+    "Lyndon"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 1056.88,
+  "end": 1062.44,
+  "keywords": [
+   "Stanley Kubrick"
+  ],
+  "type": "PER",
+  "score": 0.9985583425,
+  "card": {
+   "keywords": [
+    "Stanley Kubrick"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Stanley_Kubrick"
+  }
+ },
+ {
+  "start": 1062.44,
+  "end": 1068.52,
+  "keywords": [
+   "Stanley Kubrick"
+  ],
+  "type": "PER",
+  "score": 0.9992493391,
+  "card": {
+   "keywords": [
+    "Stanley Kubrick"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Stanley_Kubrick"
+  }
+ },
+ {
+  "start": 1071.0,
+  "end": 1075.64,
+  "keywords": [
+   "Leon Vitali"
+  ],
+  "type": "PER",
+  "score": 0.9994620085,
+  "card": {
+   "keywords": [
+    "Leon Vitali"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1083.36,
+  "end": 1088.2,
+  "keywords": [
+   "Stanley"
+  ],
+  "type": "PER",
+  "score": 0.9994213581,
+  "card": {
+   "keywords": [
+    "Stanley Kubrick"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Stanley_Kubrick"
+  }
+ },
+ {
+  "start": 1088.2,
+  "end": 1093.76,
+  "keywords": [
+   "Stanley Kubricks"
+  ],
+  "type": "PER",
+  "score": 0.9990503788,
+  "card": {
+   "keywords": [
+    "Stanley Kubrick"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Stanley_Kubrick"
+  }
+ },
+ {
+  "start": 1088.2,
+  "end": 1093.76,
+  "keywords": [
+   "The Shining"
+  ],
+  "type": "MISC",
+  "score": 0.9988315105,
+  "card": {
+   "keywords": [
+    "The Undoing"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 1107.75,
+  "end": 1110.99,
+  "keywords": [
+   "The Shining"
+  ],
+  "type": "LOC",
+  "score": 0.7843813896,
+  "card": {
+   "keywords": [
+    "The Shining"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=The Shining"
+  }
+ },
+ {
+  "start": 1121.56,
+  "end": 1128.12,
+  "keywords": [
+   "Eyes Wide Shut"
+  ],
+  "type": "MISC",
+  "score": 0.8948203921,
+  "card": {
+   "keywords": [
+    "Eyes Wide Shut"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Eyes_Wide_Shut"
+  }
+ },
+ {
+  "start": 1121.56,
+  "end": 1128.12,
+  "keywords": [
+   "Tom Cruise"
+  ],
+  "type": "PER",
+  "score": 0.9996788502,
+  "card": {
+   "keywords": [
+    "Tom Cruise"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Tom_Cruise"
+  }
+ },
+ {
+  "start": 1133.28,
+  "end": 1140.12,
+  "keywords": [
+   "Stanley Kubrick"
+  ],
+  "type": "PER",
+  "score": 0.999058485,
+  "card": {
+   "keywords": [
+    "Stanley Kubrick"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Stanley_Kubrick"
+  }
+ },
+ {
+  "start": 1140.2,
+  "end": 1145.12,
+  "keywords": [
+   "Full Metal Jacket"
+  ],
+  "type": "MISC",
+  "score": 0.9134984612,
+  "card": {
+   "keywords": [
+    "Full Metal Jacket"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Full_Metal_Jacket"
+  }
+ },
+ {
+  "start": 1140.2,
+  "end": 1145.12,
+  "keywords": [
+   "Eyes Wide Shut"
+  ],
+  "type": "MISC",
+  "score": 0.8702372909,
+  "card": {
+   "keywords": [
+    "Eyes Wide Shut"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Eyes_Wide_Shut"
+  }
+ },
+ {
+  "start": 1156.56,
+  "end": 1163.96,
+  "keywords": [
+   "Bell"
+  ],
+  "type": "PER",
+  "score": 0.9994094372,
+  "card": {
+   "keywords": [
+    "Bell"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Bell"
+  }
+ },
+ {
+  "start": 1156.56,
+  "end": 1163.96,
+  "keywords": [
+   "Sign"
+  ],
+  "type": "ORG",
+  "score": 0.6924548745,
+  "card": {
+   "keywords": [
+    "Sign"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 1156.56,
+  "end": 1163.96,
+  "keywords": [
+   "of"
+  ],
+  "type": "ORG",
+  "score": 0.8235368133,
+  "card": {
+   "keywords": [
+    "of"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 1156.56,
+  "end": 1163.96,
+  "keywords": [
+   "the"
+  ],
+  "type": "ORG",
+  "score": 0.5783107281,
+  "card": {
+   "keywords": [
+    "the"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/The"
+  }
+ },
+ {
+  "start": 1156.56,
+  "end": 1163.96,
+  "keywords": [
+   "Times"
+  ],
+  "type": "MISC",
+  "score": 0.7026560903,
+  "card": {
+   "keywords": [
+    "Times"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Times"
+  }
+ },
+ {
+  "start": 1175.8,
+  "end": 1180.08,
+  "keywords": [
+   "Harry"
+  ],
+  "type": "PER",
+  "score": 0.9995618463,
+  "card": {
+   "keywords": [
+    "Harry Styles"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Harry_Styles"
+  }
+ },
+ {
+  "start": 1260.2,
+  "end": 1266.04,
+  "keywords": [
+   "Repeat One"
+  ],
+  "type": "ORG",
+  "score": 0.8529863358,
+  "card": {
+   "keywords": [
+    "One Direction"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/One_Direction"
+  }
+ },
+ {
+  "start": 1266.12,
+  "end": 1271.8,
+  "keywords": [
+   "Bell"
+  ],
+  "type": "PER",
+  "score": 0.9988670349,
+  "card": {
+   "keywords": [
+    "Bell"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Bell"
+  }
+ },
+ {
+  "start": 1266.12,
+  "end": 1271.8,
+  "keywords": [
+   "Youtube"
+  ],
+  "type": "MISC",
+  "score": 0.9821131825,
+  "card": {
+   "keywords": [
+    "Youtube"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/YouTube"
+  }
+ },
+ {
+  "start": 1271.88,
+  "end": 1275.4,
+  "keywords": [
+   "Styles"
+  ],
+  "type": "PER",
+  "score": 0.9993275404,
+  "card": {
+   "keywords": [
+    "Harry Styles"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Harry_Styles"
+  }
+ },
+ {
+  "start": 1289.4,
+  "end": 1295.0,
+  "keywords": [
+   "Leon Vitalis"
+  ],
+  "type": "PER",
+  "score": 0.9993492365,
+  "card": {
+   "keywords": [
+    "Leon Vitali"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1315.08,
+  "end": 1321.16,
+  "keywords": [
+   "Vitalis"
+  ],
+  "type": "PER",
+  "score": 0.99925071,
+  "card": {
+   "keywords": [
+    "Leon Vitali"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1327.48,
+  "end": 1334.0,
+  "keywords": [
+   "Santa Monica"
+  ],
+  "type": "LOC",
+  "score": 0.9987205267,
+  "card": {
+   "keywords": [
+    "Santa Monica"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Santa Monica"
+  }
+ },
+ {
+  "start": 1340.84,
+  "end": 1345.6,
+  "keywords": [
+   "USA"
+  ],
+  "type": "LOC",
+  "score": 0.9992658496,
+  "card": {
+   "keywords": [
+    "USA"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=USA"
+  }
+ },
+ {
+  "start": 1371.76,
+  "end": 1377.64,
+  "keywords": [
+   "Gotland"
+  ],
+  "type": "LOC",
+  "score": 0.997538805,
+  "card": {
+   "keywords": [
+    "Gotland"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Gotland"
+  }
+ },
+ {
+  "start": 1380.52,
+  "end": 1386.04,
+  "keywords": [
+   "Magnolia"
+  ],
+  "type": "LOC",
+  "score": 0.979388237,
+  "card": {
+   "keywords": [
+    "Magnolia"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Magnolia"
+  }
+ },
+ {
+  "start": 1380.52,
+  "end": 1386.04,
+  "keywords": [
+   "Los Angeles"
+  ],
+  "type": "LOC",
+  "score": 0.9984509945,
+  "card": {
+   "keywords": [
+    "Los Angeles"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Los Angeles"
+  }
+ },
+ {
+  "start": 1401.88,
+  "end": 1408.6,
+  "keywords": [
+   "Galen Strawson"
+  ],
+  "type": "PER",
+  "score": 0.9993462563,
+  "card": {
+   "keywords": [
+    "Galen Strawson"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1472.4133333333334,
+  "end": 1477.5733333333333,
+  "keywords": [
+   "Leon Vitali"
+  ],
+  "type": "PER",
+  "score": 0.9993739724,
+  "card": {
+   "keywords": [
+    "Leon Vitali"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1477.5733333333333,
+  "end": 1484.0933333333332,
+  "keywords": [
+   "Bioreo"
+  ],
+  "type": "ORG",
+  "score": 0.8470506668,
+  "card": {
+   "keywords": [
+    "Bioreo"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 1477.5733333333333,
+  "end": 1484.0933333333332,
+  "keywords": [
+   "Hornstull"
+  ],
+  "type": "LOC",
+  "score": 0.9966498017,
+  "card": {
+   "keywords": [
+    "Hornstull"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Hornstull"
+  }
+ },
+ {
+  "start": 1477.5733333333333,
+  "end": 1484.0933333333332,
+  "keywords": [
+   "A Clockwork Orange"
+  ],
+  "type": "MISC",
+  "score": 0.9930892587,
+  "card": {
+   "keywords": [
+    "A Clockwork Orange"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/A_Clockwork_Orange"
+  }
+ },
+ {
+  "start": 1482.72,
+  "end": 1486.24,
+  "keywords": [
+   "Stanley Kubrick"
+  ],
+  "type": "PER",
+  "score": 0.9991889596,
+  "card": {
+   "keywords": [
+    "Stanley Kubrick"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Stanley_Kubrick"
+  }
+ },
+ {
+  "start": 1486.32,
+  "end": 1492.04,
+  "keywords": [
+   "Leon"
+  ],
+  "type": "PER",
+  "score": 0.9868208766,
+  "card": {
+   "keywords": [
+    "Leon Vitali"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1492.12,
+  "end": 1495.76,
+  "keywords": [
+   "Gallen Strasson"
+  ],
+  "type": "PER",
+  "score": 0.9994319677,
+  "card": {
+   "keywords": [
+    "Gallen Strasson"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1583.8,
+  "end": 1590.96,
+  "keywords": [
+   "Teatergrillen"
+  ],
+  "type": "LOC",
+  "score": 0.928373456,
+  "card": {
+   "keywords": [
+    "Teatergrillen"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Teatergrillen"
+  }
+ },
+ {
+  "start": 1639.72,
+  "end": 1645.88,
+  "keywords": [
+   "Bob Dylan"
+  ],
+  "type": "PER",
+  "score": 0.9995204806,
+  "card": {
+   "keywords": [
+    "Bob Dylan"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Bob_Dylan"
+  }
+ },
+ {
+  "start": 1639.72,
+  "end": 1645.88,
+  "keywords": [
+   "Globen"
+  ],
+  "type": "LOC",
+  "score": 0.9723023176,
+  "card": {
+   "keywords": [
+    "Globen"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Globen"
+  }
+ },
+ {
+  "start": 1639.72,
+  "end": 1645.88,
+  "keywords": [
+   "Avicii Arena"
+  ],
+  "type": "MISC",
+  "score": 0.6004117131,
+  "card": {
+   "keywords": [
+    "A Clockwork Orange"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/A_Clockwork_Orange"
+  }
+ },
+ {
+  "start": 1727.56,
+  "end": 1733.12,
+  "keywords": [
+   "Globenomr\u00e5det"
+  ],
+  "type": "LOC",
+  "score": 0.5248069763,
+  "card": {
+   "keywords": [
+    "Globen"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Globen"
+  }
+ },
+ {
+  "start": 1738.24,
+  "end": 1744.12,
+  "keywords": [
+   "Aftonbladet"
+  ],
+  "type": "ORG",
+  "score": 0.9881616235,
+  "card": {
+   "keywords": [
+    "Aftonbladet"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Aftonbladet"
+  }
+ },
+ {
+  "start": 1768.32,
+  "end": 1772.92,
+  "keywords": [
+   "Christian Petri"
+  ],
+  "type": "PER",
+  "score": 0.9996660352,
+  "card": {
+   "keywords": [
+    "Christian Petri"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1777.2,
+  "end": 1781.48,
+  "keywords": [
+   "Ritz"
+  ],
+  "type": "LOC",
+  "score": 0.6203706861,
+  "card": {
+   "keywords": [
+    "Ritz"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Ritz"
+  }
+ },
+ {
+  "start": 1777.2,
+  "end": 1781.48,
+  "keywords": [
+   "Paris"
+  ],
+  "type": "LOC",
+  "score": 0.9994817376,
+  "card": {
+   "keywords": [
+    "Paris"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Paris"
+  }
+ },
+ {
+  "start": 1786.92,
+  "end": 1791.12,
+  "keywords": [
+   "Ritz"
+  ],
+  "type": "LOC",
+  "score": 0.6373780966,
+  "card": {
+   "keywords": [
+    "Ritz"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Ritz"
+  }
+ },
+ {
+  "start": 1791.2,
+  "end": 1794.52,
+  "keywords": [
+   "London"
+  ],
+  "type": "LOC",
+  "score": 0.9990829229,
+  "card": {
+   "keywords": [
+    "London"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=London"
+  }
+ },
+ {
+  "start": 1828.84,
+  "end": 1832.6,
+  "keywords": [
+   "Eklund"
+  ],
+  "type": "PER",
+  "score": 0.9989614487,
+  "card": {
+   "keywords": [
+    "Eklund"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1828.84,
+  "end": 1832.6,
+  "keywords": [
+   "Allan Schulmans"
+  ],
+  "type": "PER",
+  "score": 0.9988677502,
+  "card": {
+   "keywords": [
+    "Allan Schulmans"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1891.48,
+  "end": 1897.44,
+  "keywords": [
+   "Santa Monica Boulevard"
+  ],
+  "type": "LOC",
+  "score": 0.993562758,
+  "card": {
+   "keywords": [
+    "Santa Monica"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Santa Monica"
+  }
+ },
+ {
+  "start": 1914.32,
+  "end": 1920.32,
+  "keywords": [
+   "Sverige"
+  ],
+  "type": "LOC",
+  "score": 0.9989507198,
+  "card": {
+   "keywords": [
+    "Sveriges"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Sveriges"
+  }
+ },
+ {
+  "start": 1914.32,
+  "end": 1920.32,
+  "keywords": [
+   "USA"
+  ],
+  "type": "LOC",
+  "score": 0.9986571074,
+  "card": {
+   "keywords": [
+    "USA"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=USA"
+  }
+ },
+ {
+  "start": 1957.96,
+  "end": 1963.2,
+  "keywords": [
+   "USA"
+  ],
+  "type": "LOC",
+  "score": 0.9982782602,
+  "card": {
+   "keywords": [
+    "USA"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=USA"
+  }
+ },
+ {
+  "start": 2046.68,
+  "end": 2051.44,
+  "keywords": [
+   "Churchill"
+  ],
+  "type": "PER",
+  "score": 0.9998138547,
+  "card": {
+   "keywords": [
+    "Churchill"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Winston_Churchill"
+  }
+ },
+ {
+  "start": 2134.92,
+  "end": 2143.08,
+  "keywords": [
+   "Leon Vitali"
+  ],
+  "type": "PER",
+  "score": 0.9995541573,
+  "card": {
+   "keywords": [
+    "Leon Vitali"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 2180.68,
+  "end": 2188.48,
+  "keywords": [
+   "Leon Vitali"
+  ],
+  "type": "PER",
+  "score": 0.9995576143,
+  "card": {
+   "keywords": [
+    "Leon Vitali"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 2192.28,
+  "end": 2195.546666666667,
+  "keywords": [
+   "Clockwork Orange"
+  ],
+  "type": "MISC",
+  "score": 0.9982306957,
+  "card": {
+   "keywords": [
+    "A Clockwork Orange"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/A_Clockwork_Orange"
+  }
+ },
+ {
+  "start": 2192.28,
+  "end": 2195.546666666667,
+  "keywords": [
+   "2001"
+  ],
+  "type": "MISC",
+  "score": 0.902821064,
+  "card": {
+   "keywords": [
+    "2001"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/2001"
+  }
+ },
+ {
+  "start": 2196.0,
+  "end": 2200.36,
+  "keywords": [
+   "Leon"
+  ],
+  "type": "PER",
+  "score": 0.9963778853,
+  "card": {
+   "keywords": [
+    "Leon Vitali"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 2200.36,
+  "end": 2203.8400000000006,
+  "keywords": [
+   "Leon Vitali"
+  ],
+  "type": "PER",
+  "score": 0.9995109439,
+  "card": {
+   "keywords": [
+    "Leon Vitali"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 2203.98,
+  "end": 2207.2199999999993,
+  "keywords": [
+   "Leon"
+  ],
+  "type": "PER",
+  "score": 0.9976325035,
+  "card": {
+   "keywords": [
+    "Leon Vitali"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 2236.24,
+  "end": 2242.08,
+  "keywords": [
+   "RIP"
+  ],
+  "type": "ORG",
+  "score": 0.6680620909,
+  "card": {
+   "keywords": [
+    "RIP"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/RIP"
+  }
+ },
+ {
+  "start": 2236.24,
+  "end": 2242.08,
+  "keywords": [
+   "Leon Vitali"
+  ],
+  "type": "PER",
+  "score": 0.9717043638,
+  "card": {
+   "keywords": [
+    "Leon Vitali"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 2260.4,
+  "end": 2265.0,
+  "keywords": [
+   "Vera"
+  ],
+  "type": "PER",
+  "score": 0.9982061386,
+  "card": {
+   "keywords": [
+    "Vera"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Vera"
+  }
+ },
+ {
+  "start": 2279.04,
+  "end": 2282.8399999999997,
+  "keywords": [
+   "Leon Vitali"
+  ],
+  "type": "PER",
+  "score": 0.9994978905,
+  "card": {
+   "keywords": [
+    "Leon Vitali"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 2669.713333333333,
+  "end": 2672.433333333333,
+  "keywords": [
+   "Ove"
+  ],
+  "type": "PER",
+  "score": 0.999409318,
+  "card": {
+   "keywords": [
+    "Ove"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Ove"
+  }
+ },
+ {
+  "start": 2674.953333333333,
+  "end": 2679.073333333333,
+  "keywords": [
+   "Bamb"
+  ],
+  "type": "MISC",
+  "score": 0.8445129395,
+  "card": {
+   "keywords": [
+    "Bamb"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 2698.88,
+  "end": 2705.2,
+  "keywords": [
+   "Kepler"
+  ],
+  "type": "PER",
+  "score": 0.9994128942,
+  "card": {
+   "keywords": [
+    "Kepler"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Johannes_Kepler"
+  }
+ },
+ {
+  "start": 2698.88,
+  "end": 2705.2,
+  "keywords": [
+   "L\u00e4ckberg"
+  ],
+  "type": "PER",
+  "score": 0.9996960163,
+  "card": {
+   "keywords": [
+    "L\u00e4ckberg"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Camilla_L%C3%A4ckberg"
+  }
+ },
+ {
+  "start": 2716.8,
+  "end": 2723.5199999999995,
+  "keywords": [
+   "Malm\u00f6station"
+  ],
+  "type": "MISC",
+  "score": 0.842171371,
+  "card": {
+   "keywords": [
+    "Malm\u00f6station"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 2752.12,
+  "end": 2757.24,
+  "keywords": [
+   "Teodor Kalifatides"
+  ],
+  "type": "PER",
+  "score": 0.9993129969,
+  "card": {
+   "keywords": [
+    "Teodor Kalifatides"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 2940.8100000000004,
+  "end": 2945.5300000000007,
+  "keywords": [
+   "Operabaren"
+  ],
+  "type": "LOC",
+  "score": 0.7214670181,
+  "card": {
+   "keywords": [
+    "Operabaren"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Operabaren"
+  }
+ },
+ {
+  "start": 2991.8,
+  "end": 2995.12,
+  "keywords": [
+   "Leffe"
+  ],
+  "type": "PER",
+  "score": 0.9993861914,
+  "card": {
+   "keywords": [
+    "Leffe"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Leffe"
+  }
+ },
+ {
+  "start": 3012.12,
+  "end": 3018.04,
+  "keywords": [
+   "Leffe"
+  ],
+  "type": "PER",
+  "score": 0.9996289015,
+  "card": {
+   "keywords": [
+    "Leffe"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Leffe"
+  }
+ },
+ {
+  "start": 3012.12,
+  "end": 3018.04,
+  "keywords": [
+   "Bob Dylan"
+  ],
+  "type": "PER",
+  "score": 0.9939825535,
+  "card": {
+   "keywords": [
+    "Bob Dylan"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Bob_Dylan"
+  }
+ },
+ {
+  "start": 3060.84,
+  "end": 3067.76,
+  "keywords": [
+   "Leif"
+  ],
+  "type": "PER",
+  "score": 0.9892513156,
+  "card": {
+   "keywords": [
+    "Leif"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Leif"
+  }
+ },
+ {
+  "start": 3122.8,
+  "end": 3128.3200000000006,
+  "keywords": [
+   "Leif"
+  ],
+  "type": "PER",
+  "score": 0.999730885,
+  "card": {
+   "keywords": [
+    "Leif"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Leif"
+  }
+ },
+ {
+  "start": 3156.32,
+  "end": 3162.84,
+  "keywords": [
+   "Dramartini"
+  ],
+  "type": "MISC",
+  "score": 0.9991908669,
+  "card": {
+   "keywords": [
+    "Dramartini"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 3192.18,
+  "end": 3195.6466666666665,
+  "keywords": [
+   "Gustav Skarsg\u00e5rd"
+  ],
+  "type": "PER",
+  "score": 0.9994392395,
+  "card": {
+   "keywords": [
+    "Gustav"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Gustav"
+  }
+ },
+ {
+  "start": 3208.36,
+  "end": 3212.88,
+  "keywords": [
+   "Dramartini"
+  ],
+  "type": "MISC",
+  "score": 0.6258013844,
+  "card": {
+   "keywords": [
+    "Dramartini"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 3225.36,
+  "end": 3232.28,
+  "keywords": [
+   "Dramartini"
+  ],
+  "type": "MISC",
+  "score": 0.8427280784,
+  "card": {
+   "keywords": [
+    "Dramartini"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 3225.36,
+  "end": 3232.28,
+  "keywords": [
+   "Dramartini"
+  ],
+  "type": "MISC",
+  "score": 0.5798603892,
+  "card": {
+   "keywords": [
+    "Dramartini"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 3271.4,
+  "end": 3275.72,
+  "keywords": [
+   "Amanda"
+  ],
+  "type": "PER",
+  "score": 0.9963646531,
+  "card": {
+   "keywords": [
+    "Amanda"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Amanda"
+  }
+ },
+ {
+  "start": 3271.4,
+  "end": 3275.72,
+  "keywords": [
+   "Kungstr\u00e4dg\u00e5rden"
+  ],
+  "type": "LOC",
+  "score": 0.9953007698,
+  "card": {
+   "keywords": [
+    "Kungstr\u00e4dg\u00e5rden"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Kungstr\u00e4dg\u00e5rden"
+  }
+ },
+ {
+  "start": 3278.4,
+  "end": 3285.32,
+  "keywords": [
+   "Bacilli Park"
+  ],
+  "type": "LOC",
+  "score": 0.9929451942,
+  "card": {
+   "keywords": [
+    "Bacilli Park"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Bacilli Park"
+  }
+ },
+ {
+  "start": 3295.72,
+  "end": 3301.84,
+  "keywords": [
+   "Bacilli Park"
+  ],
+  "type": "LOC",
+  "score": 0.939653337,
+  "card": {
+   "keywords": [
+    "Bacilli Park"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Bacilli Park"
+  }
+ },
+ {
+  "start": 3316.64,
+  "end": 3319.36,
+  "keywords": [
+   "Amanda"
+  ],
+  "type": "PER",
+  "score": 0.9991437197,
+  "card": {
+   "keywords": [
+    "Amanda"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Amanda"
+  }
+ },
+ {
+  "start": 3319.44,
+  "end": 3323.56,
+  "keywords": [
+   "Hanna"
+  ],
+  "type": "PER",
+  "score": 0.99954319,
+  "card": {
+   "keywords": [
+    "Hanna"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Hanna"
+  }
+ },
+ {
+  "start": 3351.103333333333,
+  "end": 3355.823333333333,
+  "keywords": [
+   "Bacilli Park"
+  ],
+  "type": "LOC",
+  "score": 0.9212177992,
+  "card": {
+   "keywords": [
+    "Bacilli Park"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Bacilli Park"
+  }
+ },
+ {
+  "start": 3442.24,
+  "end": 3449.16,
+  "keywords": [
+   "NK"
+  ],
+  "type": "MISC",
+  "score": 0.667888999,
+  "card": {
+   "keywords": [
+    "NK"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/NK"
+  }
+ },
+ {
+  "start": 3500.48,
+  "end": 3505.4,
+  "keywords": [
+   "Flyg"
+  ],
+  "type": "MISC",
+  "score": 0.6554362774,
+  "card": {
+   "keywords": [
+    "Flyg"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 3505.48,
+  "end": 3511.4,
+  "keywords": [
+   "Gotland"
+  ],
+  "type": "LOC",
+  "score": 0.9995174408,
+  "card": {
+   "keywords": [
+    "Gotland"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Gotland"
+  }
+ },
+ {
+  "start": 3505.48,
+  "end": 3511.4,
+  "keywords": [
+   "Bra"
+  ],
+  "type": "LOC",
+  "score": 0.985353291,
+  "card": {
+   "keywords": [
+    "Bra"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Bra"
+  }
+ },
+ {
+  "start": 3505.48,
+  "end": 3511.4,
+  "keywords": [
+   "Bromma"
+  ],
+  "type": "LOC",
+  "score": 0.9977983236,
+  "card": {
+   "keywords": [
+    "Bromma"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Bromma"
+  }
+ },
+ {
+  "start": 3511.4,
+  "end": 3517.32,
+  "keywords": [
+   "G\u00f6teborg"
+  ],
+  "type": "LOC",
+  "score": 0.9987924099,
+  "card": {
+   "keywords": [
+    "G\u00f6teborg"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=G\u00f6teborg"
+  }
+ },
+ {
+  "start": 3517.4,
+  "end": 3521.32,
+  "keywords": [
+   "Arlanda"
+  ],
+  "type": "LOC",
+  "score": 0.9180725813,
+  "card": {
+   "keywords": [
+    "Arlanda"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Arlanda"
+  }
+ },
+ {
+  "start": 3521.4,
+  "end": 3528.32,
+  "keywords": [
+   "Bromma"
+  ],
+  "type": "LOC",
+  "score": 0.9977096319,
+  "card": {
+   "keywords": [
+    "Bromma"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Bromma"
+  }
+ },
+ {
+  "start": 3521.4,
+  "end": 3528.32,
+  "keywords": [
+   "Arlanda"
+  ],
+  "type": "LOC",
+  "score": 0.9364264011,
+  "card": {
+   "keywords": [
+    "Arlanda"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Arlanda"
+  }
+ },
+ {
+  "start": 3528.4,
+  "end": 3532.32,
+  "keywords": [
+   "Arlanda"
+  ],
+  "type": "LOC",
+  "score": 0.4960261583,
+  "card": {
+   "keywords": [
+    "Arlanda"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Arlanda"
+  }
+ },
+ {
+  "start": 3532.4,
+  "end": 3537.32,
+  "keywords": [
+   "Bromma"
+  ],
+  "type": "LOC",
+  "score": 0.9926336408,
+  "card": {
+   "keywords": [
+    "Bromma"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Bromma"
+  }
+ },
+ {
+  "start": 3537.32,
+  "end": 3544.24,
+  "keywords": [
+   "Bromma"
+  ],
+  "type": "ORG",
+  "score": 0.7190590501,
+  "card": {
+   "keywords": [
+    "Bromma"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Bromma"
+  }
+ },
+ {
+  "start": 3537.32,
+  "end": 3544.24,
+  "keywords": [
+   "Flyg"
+  ],
+  "type": "LOC",
+  "score": 0.7193875909,
+  "card": {
+   "keywords": [
+    "Flyg"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Flyg"
+  }
+ },
+ {
+  "start": 3548.24,
+  "end": 3551.16,
+  "keywords": [
+   "G\u00f6teborg"
+  ],
+  "type": "LOC",
+  "score": 0.9986074567,
+  "card": {
+   "keywords": [
+    "G\u00f6teborg"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=G\u00f6teborg"
+  }
+ },
+ {
+  "start": 3548.24,
+  "end": 3551.16,
+  "keywords": [
+   "Gotland"
+  ],
+  "type": "LOC",
+  "score": 0.9984112978,
+  "card": {
+   "keywords": [
+    "Gotland"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Gotland"
+  }
+ },
+ {
+  "start": 3551.32,
+  "end": 3554.24,
+  "keywords": [
+   "Sverige"
+  ],
+  "type": "LOC",
+  "score": 0.9993109703,
+  "card": {
+   "keywords": [
+    "Sveriges"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Sveriges"
+  }
+ },
+ {
+  "start": 3554.32,
+  "end": 3559.24,
+  "keywords": [
+   "Bra"
+  ],
+  "type": "ORG",
+  "score": 0.9399928451,
+  "card": {
+   "keywords": [
+    "Bra"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Bra"
+  }
+ },
+ {
+  "start": 3580.24,
+  "end": 3584.16,
+  "keywords": [
+   "flygbra"
+  ],
+  "type": "MISC",
+  "score": 0.8231899142,
+  "card": {
+   "keywords": [
+    "flygbra"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 3584.24,
+  "end": 3590.16,
+  "keywords": [
+   "Scandic"
+  ],
+  "type": "ORG",
+  "score": 0.9979739785,
+  "card": {
+   "keywords": [
+    "Scandic"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 3662.0,
+  "end": 3665.92,
+  "keywords": [
+   "Sverige"
+  ],
+  "type": "LOC",
+  "score": 0.9989538193,
+  "card": {
+   "keywords": [
+    "Sveriges"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Sveriges"
+  }
+ },
+ {
+  "start": 3666.0,
+  "end": 3669.92,
+  "keywords": [
+   "Scandic"
+  ],
+  "type": "ORG",
+  "score": 0.9963052273,
+  "card": {
+   "keywords": [
+    "Scandic"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 3751.32,
+  "end": 3754.24,
+  "keywords": [
+   "hejalbert"
+  ],
+  "type": "MISC",
+  "score": 0.7152617574,
+  "card": {
+   "keywords": [
+    "hejalbert"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 3772.68,
+  "end": 3776.6,
+  "keywords": [
+   "Pride"
+  ],
+  "type": "ORG",
+  "score": 0.9870436788,
+  "card": {
+   "keywords": [
+    "Pride"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Pride"
+  }
+ },
+ {
+  "start": 3789.65,
+  "end": 3792.4500000000003,
+  "keywords": [
+   "SVT"
+  ],
+  "type": "ORG",
+  "score": 0.9976561069,
+  "card": {
+   "keywords": [
+    "SVT"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Sveriges_Television"
+  }
+ },
+ {
+  "start": 3789.65,
+  "end": 3792.4500000000003,
+  "keywords": [
+   "Karlskrona"
+  ],
+  "type": "LOC",
+  "score": 0.9994705319,
+  "card": {
+   "keywords": [
+    "Karlskrona"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Karlskrona"
+  }
+ },
+ {
+  "start": 3811.9100000000008,
+  "end": 3814.8300000000004,
+  "keywords": [
+   "Karlskrona"
+  ],
+  "type": "LOC",
+  "score": 0.9994146824,
+  "card": {
+   "keywords": [
+    "Karlskrona"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Karlskrona"
+  }
+ },
+ {
+  "start": 3816.7500000000005,
+  "end": 3819.6700000000005,
+  "keywords": [
+   "SVT"
+  ],
+  "type": "ORG",
+  "score": 0.9983653426,
+  "card": {
+   "keywords": [
+    "SVT"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Sveriges_Television"
+  }
+ },
+ {
+  "start": 3837.52,
+  "end": 3840.44,
+  "keywords": [
+   "Sveriges Radios"
+  ],
+  "type": "ORG",
+  "score": 0.9983281493,
+  "card": {
+   "keywords": [
+    "Sveriges Radios"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 3837.52,
+  "end": 3840.44,
+  "keywords": [
+   "SVT"
+  ],
+  "type": "ORG",
+  "score": 0.9993929863,
+  "card": {
+   "keywords": [
+    "SVT"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Sveriges_Television"
+  }
+ }
+]

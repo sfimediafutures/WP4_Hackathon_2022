@@ -1,0 +1,179 @@
+[
+ {
+  "start": 0.0,
+  "end": 6.0,
+  "text": "Gjemreisen kostet oss sekkar 106.696 norske kroner.",
+  "who": 0
+ },
+ {
+  "start": 6.0,
+  "end": 9.0,
+  "text": "Det ble dyre dommar for familien Bolstad",
+  "who": 1
+ },
+ {
+  "start": 9.0,
+  "end": 13.0,
+  "text": "d\u00e5 de skulle reise hjem fr\u00e5 Gran Canaria med Sass den 2. august.",
+  "who": 1
+ },
+ {
+  "start": 13.0,
+  "end": 17.0,
+  "text": "N\u00e5r vi kom fram til skranken fr\u00e5 Sass,",
+  "who": 0
+ },
+ {
+  "start": 17.0,
+  "end": 20.0,
+  "text": "s\u00e5 fikk vi vi se p\u00e5 at bilettane var kanselert,",
+  "who": 0
+ },
+ {
+  "start": 20.0,
+  "end": 21.0,
+  "text": "s\u00e5 vi kom ikkje med flyet.",
+  "who": 0
+ },
+ {
+  "start": 21.0,
+  "end": 25.0,
+  "text": "Sass hevdar at familien sj\u00f8l har avbestilt gjemreisen.",
+  "who": 1
+ },
+ {
+  "start": 25.0,
+  "end": 28.0,
+  "text": "S\u00e5 bar jo eg om \u00e5 f\u00e5 dokumentasjon p\u00e5 dette her.",
+  "who": 0
+ },
+ {
+  "start": 28.0,
+  "end": 30.0,
+  "text": "Nei, det kunne vi ikkje f\u00e5.",
+  "who": 0
+ },
+ {
+  "start": 30.0,
+  "end": 34.0,
+  "text": "Det ville jo gj\u00f8re fullst\u00e6ndig irrasjonalt \u00e5 konsulere v\u00e5r egen gjemreise",
+  "who": 0
+ },
+ {
+  "start": 34.0,
+  "end": 39.0,
+  "text": "og betale hundretusen kroner med et annan flysettskap",
+  "who": 0
+ },
+ {
+  "start": 39.0,
+  "end": 41.0,
+  "text": "n\u00e5r vi hadde bilettane med Sass.",
+  "who": 0
+ },
+ {
+  "start": 41.0,
+  "end": 46.0,
+  "text": "Sass sier til TV2 at de ikkje kan kommentere enkeltsaker p\u00e5 grunn av stor p\u00e5gang.",
+  "who": 1
+ },
+ {
+  "start": 46.0,
+  "end": 51.0,
+  "text": "Det er beklagelig at familien har en annan oppfattelse av forl\u00f8pet for gjemreisen",
+  "who": 1
+ },
+ {
+  "start": 51.0,
+  "end": 53.0,
+  "text": "enn det Sass har gitt uttrykk for.",
+  "who": 1
+ },
+ {
+  "start": 53.0,
+  "end": 56.0,
+  "text": "Og vil s\u00f8rge for at kundeservice er oppmerksom p\u00e5 saken.",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 56.0,
+  "end": 58.0,
+  "text": "N\u00e5 er det jul igjen neste \u00e5r.",
+  "who": 1
+ },
+ {
+  "start": 58.0,
+  "end": 61.0,
+  "text": "Familien ordnet gjemreise med et annet flysettskap.",
+  "who": 1
+ },
+ {
+  "start": 61.53,
+  "end": 64.53,
+  "text": "For \u00e5 betale m\u00e5tte summen deles p\u00e5 to kreditkort.",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 64.0,
+  "end": 66.0,
+  "text": "Eg har jo \u00f8kt l\u00e5ne v\u00e5rt.",
+  "who": 0
+ },
+ {
+  "start": 67.0,
+  "end": 68.0,
+  "text": "Vi m\u00e5tte jo det.",
+  "who": 0
+ },
+ {
+  "start": 69.0,
+  "end": 73.0,
+  "text": "Forbrukarjurist Tomas Iversen synes saken er spesiell.",
+  "who": 1
+ },
+ {
+  "start": 73.0,
+  "end": 76.0,
+  "text": "Det skal veldig mykje til, tenker eg,",
+  "who": 2
+ },
+ {
+  "start": 76.0,
+  "end": 81.0,
+  "text": "for at en familie som dette skal ha avbestilt hele gjemreisen sin.",
+  "who": 2
+ },
+ {
+  "start": 81.93,
+  "end": 84.66333333333334,
+  "text": "Refresjonen skal skje s\u00e5 snart som mulig.",
+  "who": 2,
+  "matched": true
+ },
+ {
+  "start": 84.66333333333334,
+  "end": 89.66333333333336,
+  "text": "Her m\u00e5 Sass strekse litt, s\u00e5nn at de f\u00e5r refresjonen p\u00e5 konto",
+  "who": 2
+ },
+ {
+  "start": 89.66333333333336,
+  "end": 92.66333333333336,
+  "text": "f\u00f8r kreditrent p\u00e5l\u00f8per.",
+  "who": 2
+ },
+ {
+  "start": 93.0,
+  "end": 97.0,
+  "text": "Svein Bolstad har sent klagebrevet til Sass hvor han ber om refresjon.",
+  "who": 1
+ },
+ {
+  "start": 97.0,
+  "end": 118.0,
+  "text": "Sass har enda ikkje svart p\u00e5 brevet.",
+  "who": 1
+ }
+]

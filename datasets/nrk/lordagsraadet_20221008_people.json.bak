@@ -1,0 +1,97 @@
+{
+ "0": {
+  "name": 0,
+  "color": "#ffeeffA6",
+  "segments": [
+   {
+    "file": "/tmp/lordagsraadet_20221008_mono.wav",
+    "times": [
+     [
+      91.19,
+      98.19
+     ],
+     [
+      889.01,
+      895.01
+     ]
+    ]
+   }
+  ]
+ },
+ "1": {
+  "name": 1,
+  "color": "#ffeeffA6",
+  "segments": [
+   {
+    "file": "/tmp/lordagsraadet_20221008_mono.wav",
+    "times": [
+     [
+      1040.84,
+      1047.84
+     ],
+     [
+      1299.89,
+      1306.89
+     ]
+    ]
+   }
+  ]
+ },
+ "2": {
+  "name": 2,
+  "color": "#ffeeffA6",
+  "segments": [
+   {
+    "file": "/tmp/lordagsraadet_20221008_mono.wav",
+    "times": [
+     [
+      1155.47,
+      1161.47
+     ],
+     [
+      1169.39,
+      1176.39
+     ]
+    ]
+   }
+  ]
+ },
+ "3": {
+  "name": 3,
+  "color": "#ffeeffA6",
+  "segments": [
+   {
+    "file": "/tmp/lordagsraadet_20221008_mono.wav",
+    "times": [
+     [
+      1488.53,
+      1494.53
+     ],
+     [
+      1512.02,
+      1519.02
+     ]
+    ]
+   }
+  ]
+ },
+ "4": {
+  "name": 4,
+  "color": "#ffeeffA6",
+  "segments": [
+   {
+    "file": "/tmp/lordagsraadet_20221008_mono.wav",
+    "times": [
+     [
+      7180.1,
+      7187.1
+     ],
+     [
+      7188.23,
+      7195.23
+     ]
+    ]
+   }
+  ]
+ }
+}

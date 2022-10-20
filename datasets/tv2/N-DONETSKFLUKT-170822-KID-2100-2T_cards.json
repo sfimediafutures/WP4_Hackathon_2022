@@ -1,0 +1,113 @@
+[
+ {
+  "start": 69.0,
+  "end": 74.0,
+  "keywords": [
+   "\u0433\u043e\u0440\u043e\u0434\u0435"
+  ],
+  "type": "LOC",
+  "score": 0.6131742597,
+  "card": {
+   "keywords": [
+    "\u0433\u043e\u0440\u043e\u0434\u0435"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=\u0433\u043e\u0440\u043e\u0434\u0435"
+  }
+ },
+ {
+  "start": 90.0,
+  "end": 100.0,
+  "keywords": [
+   "\u043e\u0431\u043b\u0430\u0441\u0442\u0438"
+  ],
+  "type": "LOC",
+  "score": 0.8069711328,
+  "card": {
+   "keywords": [
+    "\u043e\u0431\u043b\u0430\u0441\u0442\u0438"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=\u043e\u0431\u043b\u0430\u0441\u0442\u0438"
+  }
+ },
+ {
+  "start": 90.0,
+  "end": 100.0,
+  "keywords": [
+   "\u043e\u0431\u043b\u0430\u0441\u0442\u0438"
+  ],
+  "type": "LOC",
+  "score": 0.8069711328,
+  "card": {
+   "keywords": [
+    "\u043e\u0431\u043b\u0430\u0441\u0442\u0438"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=\u043e\u0431\u043b\u0430\u0441\u0442\u0438"
+  }
+ },
+ {
+  "start": 90.0,
+  "end": 100.0,
+  "keywords": [
+   "\u043e\u0431\u043b\u0430\u0441\u0442\u0438"
+  ],
+  "type": "LOC",
+  "score": 0.8069711328,
+  "card": {
+   "keywords": [
+    "\u043e\u0431\u043b\u0430\u0441\u0442\u0438"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=\u043e\u0431\u043b\u0430\u0441\u0442\u0438"
+  }
+ },
+ {
+  "start": 187.0,
+  "end": 191.0,
+  "keywords": [
+   "Pokrovsk"
+  ],
+  "type": "LOC",
+  "score": 0.9995384216,
+  "card": {
+   "keywords": [
+    "Pokrovsk"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Pokrovsk"
+  }
+ },
+ {
+  "start": 187.0,
+  "end": 191.0,
+  "keywords": [
+   "Pokrovsk"
+  ],
+  "type": "LOC",
+  "score": 0.9995384216,
+  "card": {
+   "keywords": [
+    "Pokrovsk"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Pokrovsk"
+  }
+ },
+ {
+  "start": 233.0,
+  "end": 239.0,
+  "keywords": [
+   "\u041a\u0430\u0440\u0438\u043d\u0430"
+  ],
+  "type": "PER",
+  "score": 0.6255020499,
+  "card": {
+   "keywords": [
+    "\u041a\u0430\u0440\u0438\u043d\u0430"
+   ],
+   "type": "PER"
+  }
+ }
+]

@@ -1,0 +1,12 @@
+{
+ "id": 3477880920,
+ "subtitles": [
+  {
+   "src": "/whisper//tv2/N-DONETSKFLUKT-170822-KID-2100-2T_subs.json"
+  }
+ ],
+ "cast": "/whisper//tv2/N-DONETSKFLUKT-170822-KID-2100-2T_people.json",
+ "audio": {
+  "src": "https://seer2.itek.norut.no/whisper//tv2/N-DONETSKFLUKT-170822-KID-2100-2T.mp3"
+ }
+}

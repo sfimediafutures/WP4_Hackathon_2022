@@ -1,0 +1,50 @@
+{
+ "0": {
+  "name": 0,
+  "color": "#5f83a5a6",
+  "segments": [
+   {
+    "file": "/tmp/n-partilederutsporring-050917-frp-300820-saman-arkivkandidat_mono.wav",
+    "times": [
+     [
+      10.73,
+      17.23
+     ],
+     [
+      1204.43,
+      1210.93
+     ]
+    ]
+   }
+  ]
+ },
+ "1": {
+  "name": 1,
+  "color": "#4d4e52a6",
+  "segments": [
+   {
+    "file": "/tmp/n-partilederutsporring-050917-frp-300820-saman-arkivkandidat_mono.wav",
+    "times": [
+     [
+      30.2,
+      36.7
+     ],
+     [
+      46.31,
+      52.31
+     ]
+    ]
+   }
+  ]
+ },
+ "extras": [
+  "#fefefea6",
+  "#ddaf97a6",
+  "#e2532ba6",
+  "#7a5f4ca6",
+  "#a65d55a6",
+  "#83debba6",
+  "#bc83a3a6",
+  "#544587a6"
+ ]
+}

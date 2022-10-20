@@ -1,0 +1,95 @@
+{
+ "0": {
+  "name": "Adam Buxton",
+  "color": "#41b0ffa6",
+  "src": "/audio/adam_buxton.png",
+  "segments": [
+   {
+    "file": "/tmp/buxton_187_mono.wav",
+    "times": [
+     [
+      24.98,
+      31.98
+     ],
+     [
+      423.35,
+      430.35
+     ]
+    ]
+   }
+  ]
+ },
+ "1": {
+  "name": "Adam Buxton",
+  "color": "#41b0ffa6",
+  "src": "/audio/adam_buxton.png",
+  "segments": [
+   {
+    "file": "/tmp/buxton_187_mono.wav",
+    "times": [
+     [
+      82.64,
+      89.14
+     ],
+     [
+      107.78,
+      113.28
+     ]
+    ]
+   }
+  ]
+ },
+ "2": {
+  "name": "Anil Seth",
+  "src": "/audio/anil_seth.png",
+  "color": "#fdcda5a6",
+  "segments": [
+   {
+    "file": "/tmp/buxton_187_mono.wav",
+    "times": [
+     [
+      464.9,
+      469.9
+     ],
+     [
+      548.99,
+      554.99
+     ]
+    ]
+   }
+  ]
+ },
+ "3": {
+  "name": "Adam Buxton",
+  "color": "#41b0ffa6",
+  "src": "/audio/adam_buxton.png",
+  "segments": [
+   {
+    "file": "/tmp/buxton_187_mono.wav",
+    "times": [
+     [
+      1120.91,
+      1127.91
+     ],
+     [
+      1141.31,
+      1148.31
+     ]
+    ]
+   }
+  ]
+ },
+ "extras": [
+  "#fffeffa6",
+  "#675348a6",
+  "#f34068a6",
+  "#002458a6",
+  "#5b1321a6",
+  "#33dbffa6",
+  "#197698a6",
+  "#a8a4a3a6",
+  "#d47b6da6",
+  "#f5add2a6",
+  "#ad4b7ca6"
+ ]
+}

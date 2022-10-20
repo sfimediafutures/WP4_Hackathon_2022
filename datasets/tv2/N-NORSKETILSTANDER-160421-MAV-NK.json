@@ -1,0 +1,12 @@
+{
+ "id": 2602555257,
+ "subtitles": [
+  {
+   "src": "/whisper//tv2/N-NORSKETILSTANDER-160421-MAV-NK_subs.json"
+  }
+ ],
+ "cast": "/whisper//tv2/N-NORSKETILSTANDER-160421-MAV-NK_people.json",
+ "audio": {
+  "src": "https://seer2.itek.norut.no/whisper//tv2/N-NORSKETILSTANDER-160421-MAV-NK.mp3"
+ }
+}

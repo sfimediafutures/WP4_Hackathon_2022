@@ -1,0 +1,29 @@
+{
+ "0": {
+  "name": 0,
+  "color": "#fefefea6",
+  "segments": [
+   {
+    "file": "/tmp/N-DONETSKFLUKT-170822-KID-2100-2T_mono.wav",
+    "times": [
+     [
+      149.27,
+      156.27
+     ]
+    ]
+   }
+  ]
+ },
+ "extras": [
+  "#57b351a6",
+  "#2865d1a6",
+  "#f54f3aa6",
+  "#fdc92ba6",
+  "#99de9fa6",
+  "#fd746ea6",
+  "#75aadca6",
+  "#fae481a6",
+  "#fabbaca6",
+  "#fa7a41a6"
+ ]
+}

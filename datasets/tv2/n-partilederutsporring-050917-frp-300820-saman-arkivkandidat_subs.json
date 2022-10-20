@@ -1,0 +1,1156 @@
+[
+ {
+  "start": 1.74,
+  "end": 5.273333333333333,
+  "text": "God ettermiddag og velkommen til partilederutsp\u00f8ring.",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 5.273333333333333,
+  "end": 10.273333333333333,
+  "text": "I dag er det leder i Framskretspartiet Siv Jensen som stiller til utsp\u00f8ring.",
+  "who": 1
+ },
+ {
+  "start": 17.0,
+  "end": 19.0,
+  "text": "Siv Jensen, velkommen hit.",
+  "who": 1
+ },
+ {
+  "start": 19.0,
+  "end": 20.0,
+  "text": "Tusen takk.",
+  "who": 1
+ },
+ {
+  "start": 20.0,
+  "end": 28.0,
+  "text": "Du, hvis jeg sier til deg at denne partilederutsp\u00f8ringen, den skal kun handle om ett tema og bare det.",
+  "who": 1
+ },
+ {
+  "start": 28.0,
+  "end": 31.0,
+  "text": "Sylvi Listau, hva synes du om det?",
+  "who": 1
+ },
+ {
+  "start": 31.0,
+  "end": 37.0,
+  "text": "Det gir meg en anledning til \u00e5 snakke om b\u00e5de at vi har f\u00e5tt kontroll med asyl og innvandringspolitikken til Norge,",
+  "who": 1
+ },
+ {
+  "start": 37.0,
+  "end": 40.0,
+  "text": "og hva Framskretspartiet g\u00e5r til valg p\u00e5 de neste fire \u00e5rene.",
+  "who": 1
+ },
+ {
+  "start": 40.0,
+  "end": 47.0,
+  "text": "Det handler jo om at vi vil stramme inn i familiegjenforening, at vi \u00f8nsker \u00e5 stoppe s\u00e6rfordelene for flykninger.",
+  "who": 1
+ },
+ {
+  "start": 47.0,
+  "end": 54.0,
+  "text": "Det skal selvf\u00f8lgelig ikke det, men er det ikke litt s\u00e5nn denne valgkampen har v\u00e6rt for FAP?",
+  "who": 1
+ },
+ {
+  "start": 54.0,
+  "end": 62.0,
+  "text": "Jeg mener jo at vi har kommet p\u00e5 med sakene v\u00e5re, at andre partier ikke vil diskutere v\u00e5re innstrammingstiltak i asyl og innvandringspolitikken,",
+  "who": 1
+ },
+ {
+  "start": 62.0,
+  "end": 69.0,
+  "text": "eller hvorfor vi sier nei til barnehijab, eller hvorfor vi mener at det ikke skal v\u00e6re mulig \u00e5 g\u00e5 med nikab og burka i det offentlige rom.",
+  "who": 1
+ },
+ {
+  "start": 69.0,
+  "end": 76.0,
+  "text": "S\u00e5 sier jo alle de andre partiene, vi vil helst ikke snakke om det, vi snakker om noe annet, s\u00e5 blir det en debatt om retorikk og ordvalg og s\u00e5 videre.",
+  "who": 1
+ },
+ {
+  "start": 76.0,
+  "end": 83.0,
+  "text": "Men vi har jo snakket om l\u00f8sningene p\u00e5 de utfordringene vi st\u00e5r overfor, b\u00e5de i asyl og innvandringspolitikken og i integreringspolitikken.",
+  "who": 1
+ },
+ {
+  "start": 83.0,
+  "end": 90.0,
+  "text": "Men dr\u00f8mmen om en firepartiregjering, den er lenger unna n\u00e5 enn den noensinne har v\u00e6rt.",
+  "who": 1
+ },
+ {
+  "start": 90.0,
+  "end": 99.0,
+  "text": "De sm\u00e5 partiene, de sier ikke bare at de ikke vil st\u00f8tte en regjering med FAP i den, de vil kaste dere ut av regjeringskontorene.",
+  "who": 1
+ },
+ {
+  "start": 99.0,
+  "end": 105.0,
+  "text": "Det er jo ikke helt pr\u00e6cis gjenivrelse, programleder, men jeg har ikke h\u00f8rt at KRF og Venstre har sagt noe nytt.",
+  "who": 1
+ },
+ {
+  "start": 105.48,
+  "end": 110.48000000000002,
+  "text": "De sier det samme n\u00e5, som de sa for fire \u00e5r siden, at de foretrekker en regjering vi ikke er en del av.",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 110.61,
+  "end": 114.54333333333334,
+  "text": "Men s\u00e5 har vi ogs\u00e5 samarbeidet veldig godt gjennom fire \u00e5r.",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 114.54333333333334,
+  "end": 123.54333333333335,
+  "text": "Det er fire partier med tidvis veldig ulike standpunkt, som har klart \u00e5 finne sammen, klart \u00e5 styre Norge p\u00e5 en veldig god m\u00e5te gjennom krevende tider.",
+  "who": 1
+ },
+ {
+  "start": 123.54333333333335,
+  "end": 125.54333333333335,
+  "text": "Og det vil vi gjerne fortsette med.",
+  "who": 1
+ },
+ {
+  "start": 125.54333333333335,
+  "end": 134.54333333333335,
+  "text": "Men dere har alts\u00e5 st\u00e5tt ved skulder mot skulder til hverandre, og n\u00e5 sier de at de ikke vil st\u00f8tte en regjering med FAP lenger.",
+  "who": 1
+ },
+ {
+  "start": 134.54333333333335,
+  "end": 139.54333333333335,
+  "text": "De vil heller ikke sitte i den. Hoved\u00e5rsaken til det er vel Sylvie Listau?",
+  "who": 1
+ },
+ {
+  "start": 139.54333333333335,
+  "end": 144.54333333333335,
+  "text": "Nei, hoved\u00e5rsaken til det er at den politiske avstanden, sier de selv, er for stor.",
+  "who": 1
+ },
+ {
+  "start": 144.54333333333335,
+  "end": 151.54333333333335,
+  "text": "Det har jeg respekt for. Det var derfor Venstre og Kristelig Folkeparti ikke ville v\u00e6re med i den regjeringen som sitter i dag.",
+  "who": 1
+ },
+ {
+  "start": 151.54333333333335,
+  "end": 160.54333333333335,
+  "text": "Men H\u00f8yre og Fremskrittspartiet har styrt landet p\u00e5 en utmerket m\u00e5te gjennom b\u00e5de det st\u00f8rste oljeprissjokket p\u00e5 30 \u00e5r, og en t\u00f8ff migrasjonskrise.",
+  "who": 1
+ },
+ {
+  "start": 160.54333333333335,
+  "end": 164.54333333333335,
+  "text": "N\u00e5 ser vi at pilene peker i riktig vei, ledigheten g\u00e5r ned, og veksten\u00f8konomien g\u00e5r opp.",
+  "who": 1
+ },
+ {
+  "start": 164.54333333333335,
+  "end": 177.54333333333335,
+  "text": "KRF har jo til og med utlivstillingen til Sylvie Listau. Venstre Trine Tjeigrande har sagt at for de ville det v\u00e6rt vanskelig \u00e5 st\u00f8tte en regjering hvis det var Sylvie Listau som var leder av FAP.",
+  "who": 1
+ },
+ {
+  "start": 177.54333333333335,
+  "end": 180.54333333333335,
+  "text": "Er ikke det en falitt erkl\u00e6ring for det borgerlige samarbeidet?",
+  "who": 1
+ },
+ {
+  "start": 180.54333333333335,
+  "end": 187.54333333333335,
+  "text": "Det borgerlige samarbeidet har g\u00e5tt veldig bra. Vi har redusert skattereavgifter med 22 milliarder. Vi har \u00f8kt samferdselsbudgettet med 50 prosent.",
+  "who": 1
+ },
+ {
+  "start": 187.54333333333335,
+  "end": 197.54333333333335,
+  "text": "Helsek\u00f8ene g\u00e5r ned, ventetidene g\u00e5r ned, vi har flere politifolk i gatene enn noen gang. S\u00e5 resultatene av det vi har gjort gjennom fire \u00e5r, de st\u00e5r for seg selv.",
+  "who": 1
+ },
+ {
+  "start": 197.54333333333335,
+  "end": 203.54333333333335,
+  "text": "Jeg tror det er derfor Fremskrittspartiet gj\u00f8r det godt p\u00e5 meningsm\u00e5lingene n\u00e5, for velgerne vil ha mer av det vi har utrettet de siste fire \u00e5rene.",
+  "who": 1
+ },
+ {
+  "start": 203.54333333333335,
+  "end": 216.54333333333335,
+  "text": "Men synes du at det er litt frekt av KRF og Venstre som driver og hopper litt under og over sperregrunsen at de stiller et s\u00e5nt krav om at de ikke vil st\u00f8tte en regjering med FAP som er dobbelt s\u00e5 stor som de tilst\u00e5r n\u00e5?",
+  "who": 1
+ },
+ {
+  "start": 216.54333333333335,
+  "end": 231.54333333333335,
+  "text": "Alle partier m\u00e5 f\u00e5 lov til \u00e5 stille de krav de \u00f8nsker i en valgkamp. Det viktigste er at vi har vist at vi kan samarbeide, og for Fremskrittspartiet handler dette om hvordan vi kan fortsette \u00e5 bygge ut veiene, fortsette \u00e5 redusere ved likholdsetterslepet, ha en h\u00e5nd p\u00e5 rattet i asyleinvandringspolitikken.",
+  "who": 1
+ },
+ {
+  "start": 231.54333333333335,
+  "end": 239.54333333333335,
+  "text": "Vi kan alts\u00e5 risikere en st\u00f8rreledet regjering med et r\u00f8dt p\u00e5 vippen. Ingen m\u00e5 tro at det betyr en fortsatt streng innvandringspolitikk i Norge.",
+  "who": 1
+ },
+ {
+  "start": 239.54333333333335,
+  "end": 252.54333333333335,
+  "text": "Og du sier det selv, FAP har m\u00e5linger som folkepartiet ditt knapt hadde turt \u00e5 dr\u00f8mme om for seks m\u00e5neder siden, men nedsiden er alts\u00e5 at det har skadet det borgerlige samarbeidet. Har det v\u00e6rt verdt det?",
+  "who": 1
+ },
+ {
+  "start": 252.54333333333335,
+  "end": 262.5433333333333,
+  "text": "Vi har ikke skadet det borgerlige samarbeidet, snarere tvert imot. Gjennom fire \u00e5r har alle de fire partiene f\u00e5tt betydelige gjennomslag, som gj\u00f8r at vi kan f\u00e5 til veldig...",
+  "who": 1
+ },
+ {
+  "start": 262.5433333333333,
+  "end": 269.5433333333333,
+  "text": "Er det KF og Venstre som har misforst\u00e5tt det? Er det KF og Venstre som har misforst\u00e5tt det?",
+  "who": 1
+ },
+ {
+  "start": 269.5433333333333,
+  "end": 276.5433333333333,
+  "text": "Som gj\u00f8r at vi kan f\u00e5 til veldig mye godt sammen ogs\u00e5 de neste fire \u00e5rene. Jeg mener ikke at de har misforst\u00e5tt det, jeg er helt \u00e6rlig p\u00e5 at det er avstand mellom oss.",
+  "who": 1
+ },
+ {
+  "start": 276.5433333333333,
+  "end": 284.5433333333333,
+  "text": "Det var det for fire \u00e5r siden n\u00e5, men vi har funnet frem til gode l\u00f8sninger, og jeg er helt sikker p\u00e5 at blir det et ikke sosialistisk flertal, s\u00e5 klarer vi ogs\u00e5 det i de neste fire \u00e5rene.",
+  "who": 1
+ },
+ {
+  "start": 284.5433333333333,
+  "end": 295.5433333333333,
+  "text": "Vi skal se p\u00e5 noen av de saker som dere skulle ha gjennom f\u00f8r dere gikk inn i regjering. Dere skulle fjerne alle bomstasjoner i hele landet. Hvorfor ble vi ikke kvitt i?",
+  "who": 1
+ },
+ {
+  "start": 295.5433333333333,
+  "end": 309.5433333333333,
+  "text": "Fordi Fremskrittspartiet fikk gjennomslag for det da vi forhandlet Sundvolden plattformen. Det var jo noe av det f\u00f8rste jeg sa da Erna Solberg og jeg kom ut p\u00e5 Sundvolden etter at vi hadde forhandlet i mange dager, at her fikk ikke Fremskrittspartiet gjennomslag.",
+  "who": 1
+ },
+ {
+  "start": 309.5433333333333,
+  "end": 327.5433333333333,
+  "text": "Men Siv Jensen, hvis du hadde stilt ett eneste krav til Erna Solberg, og det var vi blir med i regjering, vi st\u00f8tter alt, men da skal det ikke st\u00e5 igjen en eneste bomstasjon etter fire \u00e5r. Du hadde f\u00e5tt det til da, hadde du ikke det?",
+  "who": 1
+ },
+ {
+  "start": 327.5433333333333,
+  "end": 335.5433333333333,
+  "text": "Jeg skj\u00f8nner at du er journalist og ikke politiker, for du har ikke sittet i t\u00f8ffe politiske forhandlinger. Dette handler jo om at Fremskrittspartiet er opptatt av flere ting.",
+  "who": 1
+ },
+ {
+  "start": 335.5433333333333,
+  "end": 342.5433333333333,
+  "text": "Vi ville ha skattetrykket ned, vi ville bygge... Ja, men la oss holde oss til bompengene n\u00e5. Stilte du det ultimatumet?",
+  "who": 1
+ },
+ {
+  "start": 342.5433333333333,
+  "end": 352.5433333333333,
+  "text": "Vi hadde mange saker med oss inn i de forhandlingene, og resultatet ble s\u00e5 godt at v\u00e5rt landsstyre sa ja, dette er bra nok, vi f\u00e5r masse gjennomslag, vi har fjernet arveavgiften.",
+  "who": 1
+ },
+ {
+  "start": 352.5433333333333,
+  "end": 357.5433333333333,
+  "text": "S\u00e5 bompengene er ikke en viktig nok sak som dere valgte \u00e5 prioritere i de forhandlingene?",
+  "who": 1
+ },
+ {
+  "start": 357.5433333333333,
+  "end": 366.5433333333333,
+  "text": "Vi har f\u00e5tt gjort noe med den urettferdige avkortingen av pensjonforgifter og samboende pensjonister, og vi har alts\u00e5 styrket samferdselsbudgettet med 50%.",
+  "who": 1
+ },
+ {
+  "start": 366.5433333333333,
+  "end": 376.5433333333333,
+  "text": "Vi har p\u00e5bynt \u00e5 redusere ved likholdsetterslepet, og vi har alts\u00e5 ogs\u00e5 f\u00e5tt gjennomslag for \u00e5 redusere bompengeandelen i alle prosjekter utenfor de store byene.",
+  "who": 1
+ },
+ {
+  "start": 376.5433333333333,
+  "end": 380.5433333333333,
+  "text": "Men hvorfor prioriterte du ikke bompenger som du lovet, velgerne?",
+  "who": 1
+ },
+ {
+  "start": 380.5433333333333,
+  "end": 389.5433333333333,
+  "text": "Men jeg gjorde det, og Fremskapspartiet har alts\u00e5 f\u00e5tt betydelige gjennomslag i samferdselspolitikken. Kjetil Solvik Olsen er en av landets mest popul\u00e6re statsr\u00e5der.",
+  "who": 1
+ },
+ {
+  "start": 389.5433333333333,
+  "end": 397.5433333333333,
+  "text": "Jeg tror velgere flest som har reist rundt i landet kjenner jo p\u00e5 lukten av asfalt hver eneste dag, og det har vi grunn til \u00e5 v\u00e6re stolte av.",
+  "who": 1
+ },
+ {
+  "start": 397.5433333333333,
+  "end": 403.5433333333333,
+  "text": "Ok, men av alle de som stemte p\u00e5 FAP av bilgrunnen, la oss holde litt til de bompengene.",
+  "who": 1
+ },
+ {
+  "start": 403.5433333333333,
+  "end": 412.5433333333333,
+  "text": "Jeg vet du har v\u00e6rt plaget mye med det gjennom disse fire \u00e5rene, men det jeg ikke skj\u00f8nner er at du sier at det ikke var politisk mulig.",
+  "who": 1
+ },
+ {
+  "start": 412.5433333333333,
+  "end": 420.5433333333333,
+  "text": "Det jeg sier er at det var en av de tingene vi ikke fikk gjennomslag for, og det har jeg v\u00e6rt \u00e6rlig p\u00e5 i fire \u00e5r.",
+  "who": 1
+ },
+ {
+  "start": 420.5433333333333,
+  "end": 427.5433333333333,
+  "text": "Jeg skj\u00f8nner at du tror at jeg f\u00f8ler meg plaget av det, men jeg gj\u00f8r alts\u00e5 ikke det. Jeg er veldig stolt av de resultatene vi har f\u00e5tt til p\u00e5 samferdselsomr\u00e5det.",
+  "who": 1
+ },
+ {
+  "start": 427.5433333333333,
+  "end": 429.5433333333333,
+  "text": "Vi har redusert bilavgiftene.",
+  "who": 1
+ },
+ {
+  "start": 429.5433333333333,
+  "end": 431.5433333333333,
+  "text": "Men tror du ikke velgerne dine er plaget av det?",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 431.5433333333333,
+  "end": 443.5433333333333,
+  "text": "Nei, jeg tror de forst\u00e5r veldig godt at vi m\u00e5tte tenke helhetlig p\u00e5 de gjennomslagene vi har f\u00e5tt, men s\u00e5 ser de jo at de har f\u00e5tt noe tilbake.",
+  "who": 1
+ },
+ {
+  "start": 443.5433333333333,
+  "end": 450.5433333333333,
+  "text": "For fire \u00e5r siden betalte bilissene mye mer inn enn de fikk tilbake i form av vei og veibygging.",
+  "who": 1
+ },
+ {
+  "start": 450.5433333333333,
+  "end": 459.5433333333333,
+  "text": "N\u00e5 er det bildesnudd. N\u00e5 f\u00e5r bilissene tilbake de pengene de betaler inn fordi vi har styrket statens finansiering av veibygging i Norge.",
+  "who": 1
+ },
+ {
+  "start": 459.5433333333333,
+  "end": 465.5433333333333,
+  "text": "Og det er jeg veldig godt forn\u00f8yd med fordi utfordringene er store og vi har f\u00e5tt p\u00e5 plass en nasjonaltransportplan.",
+  "who": 1
+ },
+ {
+  "start": 465.5433333333333,
+  "end": 467.5433333333333,
+  "text": "N\u00e5 holder vi oss til bompenger.",
+  "who": 1
+ },
+ {
+  "start": 467.5433333333333,
+  "end": 473.5433333333333,
+  "text": "Du gj\u00f8r ikke du det lett for deg selv n\u00e5r du sier at dere ikke hadde et politisk flertall for det?",
+  "who": 1
+ },
+ {
+  "start": 473.5433333333333,
+  "end": 479.5433333333333,
+  "text": "Nei, fordi vi har kjempet som l\u00f8ver vi for \u00e5 f\u00e5 til endringer ogs\u00e5 innenfor bompengepolitikken og det har vi gjort.",
+  "who": 1
+ },
+ {
+  "start": 479.5433333333333,
+  "end": 488.5433333333333,
+  "text": "Vi har alts\u00e5 redusert andelen i alle prosjekter utenfor de store byene. Vi har fjernet bomene i flere prosjekter f\u00f8r tiden.",
+  "who": 1
+ },
+ {
+  "start": 488.5433333333333,
+  "end": 497.5433333333333,
+  "text": "Og vi har \u00f8kt den statlige bidraget. Det betyr jo at hvis vi ikke hadde gjort det, s\u00e5 hadde bompengene i Norge v\u00e6rt mye h\u00f8yere enn de n\u00e5 er fordi vi sitter i regjering.",
+  "who": 1
+ },
+ {
+  "start": 497.5433333333333,
+  "end": 505.5433333333333,
+  "text": "S\u00e5 vi har jammen med gjort en forskjell, men det er helt viktig. Vi har ikke f\u00e5tt gjennomslag for \u00e5 fjerne alle bomstasjonene i Norge, men det lever vi med.",
+  "who": 1
+ },
+ {
+  "start": 505.5433333333333,
+  "end": 512.5433333333333,
+  "text": "Fordi vi har f\u00e5tt det s\u00e5 veldig mye annet p\u00e5 samfunnsomr\u00e5det og det er tross alt gode, trygge veier som betyr allermest.",
+  "who": 1
+ },
+ {
+  "start": 512.5433333333333,
+  "end": 515.5433333333333,
+  "text": "Men hvorfor i all verden skal velgerne tro p\u00e5 det her n\u00e5?",
+  "who": 1
+ },
+ {
+  "start": 515.5433333333333,
+  "end": 523.5433333333333,
+  "text": "Fordi de ser at vi st\u00e5r p\u00e5 for \u00e5 f\u00e5 gode resultater p\u00e5 et omr\u00e5de Fremskilspartiet alltid har v\u00e6rt opptatt av, nemlig infrastruktur og samferdsel.",
+  "who": 1
+ },
+ {
+  "start": 523.5433333333333,
+  "end": 531.5433333333333,
+  "text": "Det har alts\u00e5 aldri v\u00e6rt \u00e5 bygge ut mer veier n\u00e5. Vi reduserer ved likh\u00e5ndsetterslepet. I tillegg har vi funnet rom for \u00e5 bygge ut jernbanen, satse p\u00e5 kollektivet i store byene.",
+  "who": 1
+ },
+ {
+  "start": 531.5433333333333,
+  "end": 539.5433333333333,
+  "text": "Det bygges flere gang og sykkelveier over hele landet, s\u00e5 vi har alts\u00e5 gjort masse, og med et samferdselsbudget som alts\u00e5 er styrket med 50%.",
+  "who": 1
+ },
+ {
+  "start": 539.5433333333333,
+  "end": 542.5433333333334,
+  "text": "S\u00e5 n\u00e5 er ikke bompenger s\u00e5 viktig lenger n\u00e5 da?",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 542.5433333333334,
+  "end": 547.5433333333335,
+  "text": "Bompenger er fortsatt en viktig kampsak for Fremskilspartiet, men det er jo ogs\u00e5 s\u00e5nn...",
+  "who": 1
+ },
+ {
+  "start": 547.5433333333335,
+  "end": 549.5433333333335,
+  "text": "Men ikke noe du vil prioritere?",
+  "who": 1
+ },
+ {
+  "start": 549.5433333333335,
+  "end": 554.5433333333335,
+  "text": "Vi prioriterer v\u00e5rt partiprogram n\u00e5r vi g\u00e5r inn i forhandlinger med andre partier.",
+  "who": 1
+ },
+ {
+  "start": 554.5433333333335,
+  "end": 560.5433333333335,
+  "text": "Hva utfallet blir n\u00e5r vi har vunnet valget og forhandlet med de andre partiene, det vet jeg ikke i dag.",
+  "who": 1
+ },
+ {
+  "start": 560.5433333333335,
+  "end": 571.5433333333335,
+  "text": "Men det er jo flere tilfeller der Venstre og KRF startet med saker som det ikke var politisk flertall for, men som de har kjempet for og dermed f\u00e5tt gjennom.",
+  "who": 1
+ },
+ {
+  "start": 571.5433333333335,
+  "end": 577.5433333333335,
+  "text": "Betyr ikke dette bare egentlig at FAP ikke har kjempet nok for bompengesaken sin?",
+  "who": 1
+ },
+ {
+  "start": 577.5433333333335,
+  "end": 580.5433333333335,
+  "text": "Mener du at Fremskilspartiet ikke har kjempet gjennom saker i denne perioden?",
+  "who": 1
+ },
+ {
+  "start": 580.5433333333335,
+  "end": 584.5433333333335,
+  "text": "Vi var det eneste partiet som ville gj\u00f8re noe med avkortingen i pensjonforgiftet og samvondepansjonister.",
+  "who": 1
+ },
+ {
+  "start": 584.5433333333335,
+  "end": 594.5433333333335,
+  "text": "Det har vi f\u00e5tt til. Det har f\u00f8rt til at mange pensjonister i dette landet har f\u00e5tt 8000 kroner mer \u00e5 rutte med fordi vi kjempet gjennom en sak som vi stod helt alene om.",
+  "who": 1
+ },
+ {
+  "start": 594.5433333333335,
+  "end": 599.5433333333335,
+  "text": "Vet du hvor mye penger der har tatt inn i bompenger fra belistene i l\u00f8pet av disse fire \u00e5rene?",
+  "who": 1
+ },
+ {
+  "start": 599.5433333333335,
+  "end": 602.5433333333335,
+  "text": "Ja, det er mange milliarder kroner.",
+  "who": 1
+ },
+ {
+  "start": 602.5433333333335,
+  "end": 611.5433333333335,
+  "text": "Det er 40 milliarder p\u00e5 de fire \u00e5rene. I \u00e5r g\u00e5r det i rekord. Det har aldri v\u00e6rt tatt inn s\u00e5 mye bompenger som det ble tatt inn med FAP regjering i \u00e5r.",
+  "who": 1
+ },
+ {
+  "start": 611.5433333333335,
+  "end": 619.5433333333335,
+  "text": "Men som jeg sa til deg, s\u00e5 ville det bel\u00f8pet v\u00e6rt enda st\u00f8rre hvis vi ikke hadde \u00f8kt det statlige bidraget til veibygging.",
+  "who": 1
+ },
+ {
+  "start": 619.5433333333335,
+  "end": 623.5433333333335,
+  "text": "Men programleder, jeg har v\u00e6rt \u00e6rlig p\u00e5 dette i fire \u00e5r.",
+  "who": 1
+ },
+ {
+  "start": 623.5433333333335,
+  "end": 629.5433333333335,
+  "text": "Det var det f\u00f8rste jeg sa n\u00e5r vi kom ut p\u00e5 Sundvolden, at her har vi ikke f\u00e5tt det gjennomslaget vi skulle \u00f8nske oss til gjengjeld.",
+  "who": 1
+ },
+ {
+  "start": 629.5433333333335,
+  "end": 643.5433333333335,
+  "text": "Ok, men s\u00e5 handler det da egentlig om at du har innsett det som alle de andre partiene sa, at det er ikke \u00f8konomisk mulig \u00e5 fjerne bompenger over hele landet, for hvor ellers skulle du hente de 40 milliarder kroner fra?",
+  "who": 1
+ },
+ {
+  "start": 643.5433333333335,
+  "end": 650.5433333333335,
+  "text": "Nei, jeg har ikke innsett det. Jeg har bare ikke f\u00e5tt flertall for det, men til gjengjeld s\u00e5 har vi da f\u00e5tt flertall for \u00e5 fjerne Arvavgiften som var en mye...",
+  "who": 1
+ },
+ {
+  "start": 650.5433333333335,
+  "end": 659.5433333333335,
+  "text": "Ok, men la oss holde oss til temaet. Hva vil du si til de velgerne dine som stemte p\u00e5 FAP fordi dere lovde \u00e5 fjerne bompengerne? Hva vil du si til de?",
+  "who": 1
+ },
+ {
+  "start": 659.5433333333335,
+  "end": 664.5433333333335,
+  "text": "Akkurat det jeg har sagt i fire \u00e5r, at vi st\u00e5r p\u00e5 som l\u00f8ver for \u00e5 ivareta bilistene.",
+  "who": 1
+ },
+ {
+  "start": 664.5433333333335,
+  "end": 666.5433333333335,
+  "text": "Men b\u00f8r du be de om unnskyldning?",
+  "who": 1
+ },
+ {
+  "start": 666.5433333333335,
+  "end": 669.5433333333335,
+  "text": "Men programleder, vil du h\u00f8re svarene mine, eller vil du ikke h\u00f8re de?",
+  "who": 1
+ },
+ {
+  "start": 669.5433333333335,
+  "end": 670.5433333333335,
+  "text": "B\u00f8r du be de om unnskyldning?",
+  "who": 1
+ },
+ {
+  "start": 670.5433333333335,
+  "end": 681.5433333333335,
+  "text": "Nei, det b\u00f8r jeg ikke gj\u00f8re fordi vi har innfrit de l\u00f8ftene vi har gitt i forhold til at vi skulle styrke veibevilgningene, vi skulle redusere ved likholdssettelslepet, vi skulle redusere bilrelaterte avgifter.",
+  "who": 1
+ },
+ {
+  "start": 681.5433333333335,
+  "end": 687.5433333333335,
+  "text": "Bilistene kommer alts\u00e5 godt ut av det. Vi har redusert avgiftene p\u00e5 bilbruk med 1,5 milliarder.",
+  "who": 1
+ },
+ {
+  "start": 687.5433333333335,
+  "end": 694.5433333333335,
+  "text": "I tillegg s\u00e5 har vi alts\u00e5 lagt om engangsavgiften, som n\u00e5 gj\u00f8r at vi skifter ut bilparkene til landet raskere enn noen gang f\u00f8r.",
+  "who": 1
+ },
+ {
+  "start": 694.5433333333335,
+  "end": 700.5433333333335,
+  "text": "Det betyr at vanlige folk har r\u00e5d til \u00e5 kj\u00f8pe seg en trygg og uslepsgj\u00e6re bil fordi vi har gjort noen avgifter.",
+  "who": 1
+ },
+ {
+  "start": 700.86,
+  "end": 705.1266666666667,
+  "text": "Er det s\u00e5 vanskelig \u00e5 si at du lovde mer enn det du kunne holde?",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 705.1266666666667,
+  "end": 708.1266666666666,
+  "text": "Nei, og det sa jeg jo ved det f\u00f8rste sp\u00f8rsm\u00e5let du stilte om dette.",
+  "who": 1
+ },
+ {
+  "start": 708.1266666666666,
+  "end": 716.1266666666666,
+  "text": "Da jeg kom ut p\u00e5 Sundvolden for fire \u00e5r siden, s\u00e5 erkjente jeg at vi ikke fikk gjennomslag for dette, men s\u00e5 har vi g\u00e5tt videre.",
+  "who": 1
+ },
+ {
+  "start": 716.1266666666666,
+  "end": 724.1266666666666,
+  "text": "Da har vi basert oss p\u00e5 det vi ble enige med de andre partiene om, og s\u00e5 har vi s\u00f8rget for \u00e5 f\u00e5 flest mulig gjennomslag til fordel for bilistene.",
+  "who": 1
+ },
+ {
+  "start": 724.1266666666666,
+  "end": 728.1266666666666,
+  "text": "Og de tilbakemeldingene jeg f\u00e5r n\u00e5r jeg reiser land og strand rundt, det er at folk er veldig forn\u00f8yde.",
+  "who": 1
+ },
+ {
+  "start": 728.1266666666666,
+  "end": 736.1266666666666,
+  "text": "De ser anleggsarbeidere overalt som legger ny asfalt, som pusser opp de ferdigbygde veier, og som bygger nytt.",
+  "who": 1
+ },
+ {
+  "start": 736.1266666666666,
+  "end": 742.1266666666666,
+  "text": "Og det trenger vi mye av. Derfor er jeg stolta. En nasjonaltransportplan p\u00e5 over tusen milliarder kroner.",
+  "who": 1
+ },
+ {
+  "start": 742.1266666666666,
+  "end": 751.1266666666666,
+  "text": "F\u00f8r dere gikk inn i regjeringen, s\u00e5 sa dere at det var siste gang vi betalte lisens, denne fr\u00f8set, i 2017.",
+  "who": 1
+ },
+ {
+  "start": 751.1266666666666,
+  "end": 755.1266666666666,
+  "text": "Muller Kreker skulle ut av landet. Han reker omkring fortsatt.",
+  "who": 1
+ },
+ {
+  "start": 755.1266666666666,
+  "end": 756.1266666666666,
+  "text": "Reker og reker.",
+  "who": 1
+ },
+ {
+  "start": 756.1266666666666,
+  "end": 764.1266666666666,
+  "text": "Du skulle ha f\u00e6rre byr\u00e5krater. Du l\u00f8nner n\u00e5 over tusen flere statlige ansatte enn foregjengeren din gjorde.",
+  "who": 1
+ },
+ {
+  "start": 764.1266666666666,
+  "end": 773.1266666666666,
+  "text": "Du skulle ha lavere bensinpriser. Vi har aldri hatt s\u00e5 h\u00f8ye bensinpriser som i denne regjeringen med FAP, Iden, og avgiftene er blitt h\u00f8yere.",
+  "who": 1
+ },
+ {
+  "start": 773.1266666666666,
+  "end": 785.1266666666666,
+  "text": "Vi har f\u00e5tt flere trygde eksport, og vi har ogs\u00e5 f\u00e5tt mer trygde eksport, og vi har f\u00e5tt nye rekorder i asylankomster med FAP i regjering.",
+  "who": 1
+ },
+ {
+  "start": 785.1266666666666,
+  "end": 790.1266666666666,
+  "text": "Hadde det v\u00e6rt vanskeligere for deg \u00e5 sitte i regjering enn det du hadde trodd?",
+  "who": 1
+ },
+ {
+  "start": 790.1266666666666,
+  "end": 794.1266666666666,
+  "text": "Du f\u00e5r jo ikke p\u00e5 dine egne sp\u00f8rsm\u00e5l n\u00e5r du serverer meg denne leksen.",
+  "who": 1
+ },
+ {
+  "start": 794.1266666666666,
+  "end": 801.1266666666666,
+  "text": "Vi ble truffet av en enorm migrasjonsb\u00f8lge som rammet hele Europa. Den rammet ogs\u00e5 Norge.",
+  "who": 1
+ },
+ {
+  "start": 801.1266666666666,
+  "end": 808.1266666666666,
+  "text": "Det regjeringen gjorde da var \u00e5 iv\u00e6rksette en lang rekke innstrammende tiltak som gjorde at vi p\u00e5 rekordtid fikk kontroll.",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 808.1266666666666,
+  "end": 817.1266666666666,
+  "text": "Ikke bare fikk vi kontroll, men n\u00e5 er alts\u00e5 ankomstene til Norge rekordlave fordi vi har lykkes i asyl og innvandringspolitikken.",
+  "who": 1
+ },
+ {
+  "start": 817.1266666666666,
+  "end": 823.1266666666666,
+  "text": "Det er jeg veldig forn\u00f8yd med. N\u00e5r det gjelder trygde eksport s\u00e5 har vi foresl\u00e5tt \u00e5 gj\u00f8re innstramminger i det.",
+  "who": 1
+ },
+ {
+  "start": 823.1266666666666,
+  "end": 829.1266666666666,
+  "text": "S\u00e5 gjenst\u00e5r det \u00e5 se da om Arbeiderpartiet og de andre partiene er enige i at det er en utfordring som vi kan gj\u00f8re noe med,",
+  "who": 1
+ },
+ {
+  "start": 829.1266666666666,
+  "end": 832.1266666666666,
+  "text": "men regjeringen vil alts\u00e5 gj\u00f8re noe med det fordi Fremskrittspartiet har tatt initiativtid.",
+  "who": 1
+ },
+ {
+  "start": 832.1266666666666,
+  "end": 844.1266666666666,
+  "text": "Men du, FAP hadde helt andre l\u00f8sninger p\u00e5 en del problemer enn det andre partier hadde, og det betyr at dere hadde ikke et flertall for de l\u00f8sningene.",
+  "who": 1
+ },
+ {
+  "start": 844.1266666666666,
+  "end": 851.1266666666666,
+  "text": "Er det det som skjer med rendyrkede FAP saker, at de bare st\u00e5r igjen som tomme valgl\u00f8fter?",
+  "who": 1
+ },
+ {
+  "start": 851.1266666666666,
+  "end": 856.1266666666666,
+  "text": "Men det er jo ikke riktig. Et veldig rendyrket valgl\u00f8fte var at vi skulle fjerne arbeidavgiften, den er borte.",
+  "who": 1
+ },
+ {
+  "start": 856.1266666666666,
+  "end": 860.1266666666666,
+  "text": "Men det st\u00f8tta jo H\u00f8yre ogs\u00e5.",
+  "who": 1
+ },
+ {
+  "start": 860.1266666666666,
+  "end": 868.1266666666666,
+  "text": "Et annet rendyrket valgl\u00f8fte var at vi skulle gj\u00f8re noe med den urettferdige avkortingen i pensjonforgift og samboende pensjonister, det har vi f\u00e5tt til.",
+  "who": 1
+ },
+ {
+  "start": 868.1266666666666,
+  "end": 880.1266666666666,
+  "text": "Vi har fjernet b\u00e5temotoravgiften, som vi stod ganske alene om. Vi har f\u00e5tt gjort masse grep i asylinvandringspolitikken, som ingen skulle trodd at Fremskrittspartiet skulle f\u00e5tt til hadde de spurt oss for 15, 20 \u00e5r siden.",
+  "who": 1
+ },
+ {
+  "start": 880.1266666666666,
+  "end": 889.1266666666666,
+  "text": "Vi har hatt rene blankpolerte saker som vi har f\u00e5tt gjennomslag for, det ser jo vel gerne hver eneste dag, det er mulig at du ikke ser det, men vi har alts\u00e5 f\u00e5tt det til.",
+  "who": 1
+ },
+ {
+  "start": 889.1266666666666,
+  "end": 894.1266666666666,
+  "text": "Men hva er det vi har f\u00e5tt med FAP, som vi bare hadde f\u00e5tt med FAP, og som ikke H\u00f8yre hadde prioritert likevel?",
+  "who": 1
+ },
+ {
+  "start": 894.1266666666666,
+  "end": 900.1266666666666,
+  "text": "N\u00e5 ramsete jeg opp en lang rekke saker som vi har prioritert n\u00e5r vi har forhandlet med de andre partiene.",
+  "who": 1
+ },
+ {
+  "start": 900.1266666666666,
+  "end": 906.1266666666666,
+  "text": "Men s\u00e5 er det jo helt normalt da, n\u00e5r man sitter og samarbeider med andre partier at man m\u00e5 gi og ta.",
+  "who": 1
+ },
+ {
+  "start": 906.1266666666666,
+  "end": 912.1266666666666,
+  "text": "Jeg mener at vi har spilt hverandre gode. Vi har kommet inn med en tiln\u00e6rming p\u00e5 ting som de andre partiene ikke har hatt.",
+  "who": 1
+ },
+ {
+  "start": 912.1266666666666,
+  "end": 916.1266666666666,
+  "text": "Og la meg ta et annet eksempel, statlig finansiering av eldreomsorgen.",
+  "who": 1
+ },
+ {
+  "start": 916.1266666666666,
+  "end": 925.1266666666666,
+  "text": "Det er et hjektebarn for Fr\u00f8skespartiet og meg, fordi vi tror at det vil gi bedre kvalitet i, kan jeg f\u00e5 fullf\u00f8re, bedre kvalitet i eldreomsorgen over hele landet.",
+  "who": 1
+ },
+ {
+  "start": 925.1266666666666,
+  "end": 932.1266666666666,
+  "text": "Vi har n\u00e5 f\u00e5tt p\u00e5 plass et fors\u00f8ksprosjekt som synes \u00e5 v\u00e6re et sv\u00e6rt vellykket prosjekt.",
+  "who": 1
+ },
+ {
+  "start": 932.1266666666666,
+  "end": 937.1266666666666,
+  "text": "Brukerne, jeg har medvikning, de er forn\u00f8yt, kvaliteten g\u00e5r opp, og det gir alts\u00e5 gode resultater.",
+  "who": 1
+ },
+ {
+  "start": 937.1266666666666,
+  "end": 945.1266666666666,
+  "text": "Men tror du ikke velgerne dine hadde forventet en FAP sak som dere hadde f\u00e5tt gjennom, som alle de andre partiene sa var umulig,",
+  "who": 1
+ },
+ {
+  "start": 945.1266666666666,
+  "end": 951.1266666666666,
+  "text": "men som FAP sa, det skal vi f\u00e5 gjennom hvis vi g\u00e5r i regjering som \u00e5 fjerne bompengerne i hele landet?",
+  "who": 1
+ },
+ {
+  "start": 951.1266666666666,
+  "end": 957.1266666666666,
+  "text": "Men n\u00e5 har jeg nettopp gitt deg en lang liste med saker som vi har f\u00e5tt gjennom fordi vi sitter i regjering.",
+  "who": 1
+ },
+ {
+  "start": 957.1266666666666,
+  "end": 959.1266666666666,
+  "text": "Det betyr at vi kan gj\u00f8re det ogs\u00e5 i neste periode.",
+  "who": 1
+ },
+ {
+  "start": 959.1266666666666,
+  "end": 963.1266666666666,
+  "text": "N\u00e5 sier vi for eksempel at vi vil g\u00e5 til kamp mot egnomskatten.",
+  "who": 1
+ },
+ {
+  "start": 963.1266666666666,
+  "end": 966.1266666666666,
+  "text": "Vi er ganske alene om \u00e5 mene det, det er ingen andre partier som mener det,",
+  "who": 1
+ },
+ {
+  "start": 966.1266666666666,
+  "end": 972.1266666666666,
+  "text": "men vi mener at den b\u00f8r prioriteres i neste 4 \u00e5rsperiode rett og slett fordi den rammer grovt urettferdig.",
+  "who": 1
+ },
+ {
+  "start": 972.1266666666666,
+  "end": 979.1266666666666,
+  "text": "Det er vanskeligst for de som har minst og skulle betale egnomskatt, for de har ikke noe annet sted \u00e5 g\u00e5 og hente de pengene.",
+  "who": 1
+ },
+ {
+  "start": 979.1266666666666,
+  "end": 987.1266666666666,
+  "text": "Du, kanskje s\u00e5 er det en \u00e5pning for et nytt parti n\u00e5 som vil jobbe for \u00e5 f\u00e5 ned bompengerne og billigavgiftene?",
+  "who": 1
+ },
+ {
+  "start": 987.1266666666666,
+  "end": 993.1266666666666,
+  "text": "Det kan jeg ikke forestille meg, fordi resultatene vi har levert i samferdselspolitikken st\u00e5r seg meget godt.",
+  "who": 1
+ },
+ {
+  "start": 993.1266666666666,
+  "end": 996.1266666666666,
+  "text": "Vi har ingenting \u00e5 skamme oss over, snarere tvert imot.",
+  "who": 1
+ },
+ {
+  "start": 996.1266666666666,
+  "end": 1004.1266666666666,
+  "text": "Med en styrking av samferdsebudgettet p\u00e5 50%, s\u00e5 har vi levert barne og vels\u00e5det, i tillegg har vi redusert billigavgiften med 1,5 milliarder,",
+  "who": 1
+ },
+ {
+  "start": 1004.1266666666666,
+  "end": 1008.1266666666666,
+  "text": "og det er mye penger som har kommet belistende direkte til gode.",
+  "who": 1
+ },
+ {
+  "start": 1008.1266666666666,
+  "end": 1014.1266666666666,
+  "text": "Du, Siv Jensen, at statsministeren i rette setter dine statsr\u00e5der flere ganger, hva synes du om det?",
+  "who": 1
+ },
+ {
+  "start": 1014.1266666666666,
+  "end": 1019.1266666666666,
+  "text": "Jeg synes det er helt rimelig at statsministeren sier ifra n\u00e5r hun mener at ting ikke er riktige.",
+  "who": 1
+ },
+ {
+  "start": 1019.1266666666666,
+  "end": 1026.1266666666666,
+  "text": "Et eksempel p\u00e5 det har vi hatt helt nylig, hvor Per Willi Amundsen gikk ut og beklaget en litt kl\u00f8nt uttalsing han kom med.",
+  "who": 1
+ },
+ {
+  "start": 1026.1266666666666,
+  "end": 1034.1266666666666,
+  "text": "Jeg er glad for at han gjorde det. Det har statsministeren ogs\u00e5 sagt, og det m\u00e5 v\u00e6re lov \u00e5 gj\u00f8re feil, men da m\u00e5 vi ogs\u00e5 f\u00e5 lov \u00e5 g\u00e5 videre.",
+  "who": 1
+ },
+ {
+  "start": 1034.1266666666666,
+  "end": 1038.1266666666666,
+  "text": "Men skal de finne seg i \u00e5 bli i rette satt av statsministeren?",
+  "who": 1
+ },
+ {
+  "start": 1038.1266666666666,
+  "end": 1042.1266666666666,
+  "text": "N\u00e5 ble det jo ikke jeg at statsministeren driver og i rette setter seg ferdig, det er deres ord i pressen.",
+  "who": 1
+ },
+ {
+  "start": 1042.1266666666666,
+  "end": 1047.1266666666666,
+  "text": "Statsministeren er en god statsminister som leder regjeringskolleger p\u00e5 en utmerket m\u00e5te,",
+  "who": 1
+ },
+ {
+  "start": 1047.1266666666666,
+  "end": 1054.1266666666666,
+  "text": "og vi har statsr\u00e5der som st\u00e5r p\u00e5 hver eneste dag, b\u00e5de fra H\u00f8yre og Fremskrittspartiet, for \u00e5 gj\u00f8re hverdagen enklere og tryggere for innbyggerne i dette landet.",
+  "who": 1
+ },
+ {
+  "start": 1054.1266666666666,
+  "end": 1058.1266666666666,
+  "text": "Jo, men det er jo ikke en klapp p\u00e5 skulderen, det er offentlig coaching da i hvert fall.",
+  "who": 1
+ },
+ {
+  "start": 1058.1266666666666,
+  "end": 1064.1266666666666,
+  "text": "Nei, jeg oppfatter ikke det. Det er masse oppmerksomhet rundt veldig mye av det Fremskrittspartiets statsr\u00e5d gj\u00f8r,",
+  "who": 1
+ },
+ {
+  "start": 1064.1266666666666,
+  "end": 1069.1266666666666,
+  "text": "og det er fordi vi er uredde, vi t\u00f8r \u00e5 l\u00f8fte saker inn i den offentlige debatt.",
+  "who": 1
+ },
+ {
+  "start": 1069.1266666666666,
+  "end": 1073.1266666666666,
+  "text": "Det \u00e5 st\u00e5 i front og diskutere asyle og unvandringspolitikk, det er alts\u00e5 ingen s\u00f8ndagsskole.",
+  "who": 1
+ },
+ {
+  "start": 1073.1266666666666,
+  "end": 1078.1266666666666,
+  "text": "Det er mange som mener veldig mye om det, og det har vi sett gjennom denne valgkampen.",
+  "who": 1
+ },
+ {
+  "start": 1078.1266666666666,
+  "end": 1085.1266666666666,
+  "text": "Parti etter parti stikker foden ned i sanden og ikke vil diskutere sak, men \u00e5 diskutere alt annet enn det det gjelder.",
+  "who": 1
+ },
+ {
+  "start": 1085.1266666666666,
+  "end": 1087.1266666666666,
+  "text": "Og jeg har lyst til \u00e5 utfordre Bad Partien.",
+  "who": 1
+ },
+ {
+  "start": 1087.1266666666666,
+  "end": 1091.1266666666666,
+  "text": "Hvorfor i alle dager er de ikke for v\u00e5rt forslag om \u00e5 stramme inn i familiehjemforening,",
+  "who": 1
+ },
+ {
+  "start": 1091.1266666666666,
+  "end": 1095.1266666666666,
+  "text": "som kommer til \u00e5 bli den st\u00f8rste utfordringen p\u00e5 innvandringsfeltet de neste \u00e5rene?",
+  "who": 1
+ },
+ {
+  "start": 1095.1266666666666,
+  "end": 1098.1266666666666,
+  "text": "I stedet s\u00e5 sier de bare, nei, vi skal snakke om ordbruk.",
+  "who": 1
+ },
+ {
+  "start": 1098.1266666666666,
+  "end": 1104.1266666666666,
+  "text": "Det er alts\u00e5 ikke l\u00f8sninger p\u00e5 de utfordringene vi kommer til \u00e5 ha p\u00e5 asyle og unvandringsfeltet i Norge fremover.",
+  "who": 1
+ },
+ {
+  "start": 1104.1266666666666,
+  "end": 1111.1266666666666,
+  "text": "Du, i dagens valgkamp s\u00e5 er det kun H\u00f8yre og FAP som g\u00e5r til valg p\u00e5 dagens regjering.",
+  "who": 1
+ },
+ {
+  "start": 1111.1266666666666,
+  "end": 1115.1266666666666,
+  "text": "Alle de andre partiene vil kaste dagens regjering.",
+  "who": 1
+ },
+ {
+  "start": 1115.1266666666666,
+  "end": 1117.1266666666666,
+  "text": "Kommer du til \u00e5 g\u00e5 av frivillig?",
+  "who": 1
+ },
+ {
+  "start": 1117.14,
+  "end": 1123.1400000000003,
+  "text": "N\u00e5 synes jeg at vi skal ha s\u00e5 mye respekt for velgerne at de skal f\u00e5 lov \u00e5 si sitte der derfor vi har valg.",
+  "who": 1,
+  "matched": true
+ },
+ {
+  "start": 1123.1400000000003,
+  "end": 1128.1400000000003,
+  "text": "Jeg skj\u00f8nner at medier og journalister er opptatt av \u00e5 snakke om det som kommer til \u00e5 skje etter at valget er over,",
+  "who": 1
+ },
+ {
+  "start": 1128.1400000000003,
+  "end": 1130.1400000000003,
+  "text": "men vi vet ikke hvordan resultatet blir.",
+  "who": 1
+ },
+ {
+  "start": 1130.1400000000003,
+  "end": 1135.1400000000003,
+  "text": "Det som ser ut til \u00e5 skje er at begge de to regjeringspartiene gj\u00f8r en god valgkamp.",
+  "who": 1
+ },
+ {
+  "start": 1135.1400000000003,
+  "end": 1141.1400000000003,
+  "text": "Vi har gode meningsm\u00e5linger, og det kan vel halne at det har \u00e5 gj\u00f8re med at velgerne der ute er ganske forn\u00f8yde.",
+  "who": 1
+ },
+ {
+  "start": 1141.1400000000003,
+  "end": 1145.1400000000003,
+  "text": "De ser en regjering som styrer landet trygt og godt i en krevende tid.",
+  "who": 1
+ },
+ {
+  "start": 1145.1400000000003,
+  "end": 1149.1400000000003,
+  "text": "N\u00e5 peker pilene i riktig retning, ledigheten g\u00e5r ned, veksten i \u00f8konomien g\u00e5r opp.",
+  "who": 1
+ },
+ {
+  "start": 1149.1400000000003,
+  "end": 1153.1400000000003,
+  "text": "Hvis det borgerlige flertallet ryker, hva gj\u00f8r du da?",
+  "who": 1
+ },
+ {
+  "start": 1153.1400000000003,
+  "end": 1154.1400000000003,
+  "text": "Det vet vi alts\u00e5 ikke.",
+  "who": 1
+ },
+ {
+  "start": 1154.1400000000003,
+  "end": 1156.1400000000003,
+  "text": "Men har ikke velgerne krav p\u00e5 \u00e5 vite det?",
+  "who": 1
+ },
+ {
+  "start": 1156.1400000000003,
+  "end": 1162.1400000000003,
+  "text": "Det velgerne har krav p\u00e5 \u00e5 vite er hva vi vil gj\u00f8re for \u00e5 fortsette \u00e5 styre landet de neste fire \u00e5rene.",
+  "who": 1
+ },
+ {
+  "start": 1162.1400000000003,
+  "end": 1167.1400000000003,
+  "text": "Hvis det er et flertall av velgerne som vil det anledes, da har vi heller ikke en H\u00f8yre F\u00f8RP regjering,",
+  "who": 1
+ },
+ {
+  "start": 1167.1400000000003,
+  "end": 1172.1400000000003,
+  "text": "men alle de velgerne der ute som er enige med Fremskilspartiet, de m\u00e5 alts\u00e5 n\u00e5 g\u00e5 og stemme,",
+  "who": 1
+ },
+ {
+  "start": 1172.1400000000003,
+  "end": 1177.1400000000003,
+  "text": "fordi alternativ er at vi f\u00e5r en st\u00f8rreledet regjering med MDG og R\u00f8dt p\u00e5 vippen. Det blir kaos.",
+  "who": 1
+ },
+ {
+  "start": 1177.1400000000003,
+  "end": 1179.1400000000003,
+  "text": "Det blir ikke en regjering som du ikke er en del av?",
+  "who": 1
+ },
+ {
+  "start": 1179.1400000000003,
+  "end": 1180.1400000000003,
+  "text": "Nei.",
+  "who": 1
+ },
+ {
+  "start": 1180.1400000000003,
+  "end": 1181.1400000000003,
+  "text": "Nei.",
+  "who": 0
+ },
+ {
+  "start": 1181.1400000000003,
+  "end": 1186.1400000000003,
+  "text": "Sivensen, takk for at du kom til oss. Dette ble en utsp\u00f8rring som ikke handlet om Sylvia Listau.",
+  "who": 1
+ },
+ {
+  "start": 1186.1400000000003,
+  "end": 1191.1400000000003,
+  "text": "Er det hele tatt, og det er ikke ofte du opplever denne allkommen. Takk skal du ha.",
+  "who": 1
+ },
+ {
+  "start": 1191.0,
+  "end": 1216.0,
+  "text": "Jeg er tilbake i morgen, da er det leder i Arbeiderpartiet Jonas Karl St\u00f8rer som stiller til utsp\u00f8rring her hos oss.",
+  "who": 0
+ }
+]

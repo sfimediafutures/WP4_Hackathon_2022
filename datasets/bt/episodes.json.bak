@@ -1,0 +1,16 @@
+[
+ {
+  "id": 3377549364,
+  "title": "20221003-Ballspark",
+  "published": 1666015449.0301206,
+  "manifest": "/whisper//bt/20221003-ballspark.json",
+  "description": "",
+  "enclosures": [
+   {
+    "url": "/whisper//bt/20221003-ballspark.mp3",
+    "mime_type": "audio/mpeg"
+   }
+  ],
+  "episode_art_url": "https://imbo.vgtv.no/users/bt_/images/0fa50df921e3b9c44d31d00c9f9d98ad.jpg?t%5B%5D=1440q80"
+ }
+]

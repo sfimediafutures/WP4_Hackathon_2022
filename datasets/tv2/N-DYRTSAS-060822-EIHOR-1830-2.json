@@ -1,0 +1,12 @@
+{
+ "id": 3510035274,
+ "subtitles": [
+  {
+   "src": "/whisper//tv2/N-DYRTSAS-060822-EIHOR-1830-2_subs.json"
+  }
+ ],
+ "cast": "/whisper//tv2/N-DYRTSAS-060822-EIHOR-1830-2_people.json",
+ "audio": {
+  "src": "https://seer2.itek.norut.no/whisper//tv2/N-DYRTSAS-060822-EIHOR-1830-2.mp3"
+ }
+}

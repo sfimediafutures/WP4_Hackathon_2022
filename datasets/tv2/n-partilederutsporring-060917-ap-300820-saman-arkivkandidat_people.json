@@ -1,0 +1,59 @@
+{
+ "0": {
+  "name": 0,
+  "color": "#ffeeffA6",
+  "segments": [
+   {
+    "file": "/tmp/n-partilederutsporring-060917-ap-300820-saman-arkivkandidat_mono.wav",
+    "times": [
+     [
+      1.0699999999999998,
+      7.57
+     ],
+     [
+      61.61,
+      68.61
+     ]
+    ]
+   }
+  ]
+ },
+ "1": {
+  "name": 1,
+  "color": "#ffeeffA6",
+  "segments": [
+   {
+    "file": "/tmp/n-partilederutsporring-060917-ap-300820-saman-arkivkandidat_mono.wav",
+    "times": [
+     [
+      10.49,
+      15.99
+     ],
+     [
+      1237.04,
+      1244.04
+     ]
+    ]
+   }
+  ]
+ },
+ "2": {
+  "name": 2,
+  "color": "#ffeeffA6",
+  "segments": [
+   {
+    "file": "/tmp/n-partilederutsporring-060917-ap-300820-saman-arkivkandidat_mono.wav",
+    "times": [
+     [
+      35.72,
+      42.72
+     ],
+     [
+      43.85,
+      50.85
+     ]
+    ]
+   }
+  ]
+ }
+}

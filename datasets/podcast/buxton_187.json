@@ -1,0 +1,13 @@
+{
+ "id": 561955524,
+ "subtitles": [
+  {
+   "src": "/whisper//podcast/buxton_187_subs.json"
+  }
+ ],
+ "cast": "/whisper//podcast/buxton_187_people.json",
+ "info": "/whisper//podcast/buxton_187_info.json",
+ "audio": {
+  "src": "https://seer2.itek.norut.no/whisper//podcast/buxton_187.mp3"
+ }
+}

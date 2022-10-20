@@ -1,0 +1,97 @@
+{
+ "0": {
+  "name": 0,
+  "color": "#ffeeffA6",
+  "segments": [
+   {
+    "file": "/tmp/txo-presseklubben_n069837-pgm-260321_mono.wav",
+    "times": [
+     [
+      42.29,
+      47.29
+     ],
+     [
+      565.43,
+      570.93
+     ]
+    ]
+   }
+  ]
+ },
+ "1": {
+  "name": 1,
+  "color": "#ffeeffA6",
+  "segments": [
+   {
+    "file": "/tmp/txo-presseklubben_n069837-pgm-260321_mono.wav",
+    "times": [
+     [
+      110.36,
+      116.86
+     ],
+     [
+      123.5,
+      130.0
+     ]
+    ]
+   }
+  ]
+ },
+ "2": {
+  "name": 2,
+  "color": "#ffeeffA6",
+  "segments": [
+   {
+    "file": "/tmp/txo-presseklubben_n069837-pgm-260321_mono.wav",
+    "times": [
+     [
+      616.46,
+      623.46
+     ],
+     [
+      671.69,
+      677.69
+     ]
+    ]
+   }
+  ]
+ },
+ "3": {
+  "name": 3,
+  "color": "#ffeeffA6",
+  "segments": [
+   {
+    "file": "/tmp/txo-presseklubben_n069837-pgm-260321_mono.wav",
+    "times": [
+     [
+      876.47,
+      883.47
+     ],
+     [
+      1034.63,
+      1041.63
+     ]
+    ]
+   }
+  ]
+ },
+ "4": {
+  "name": 4,
+  "color": "#ffeeffA6",
+  "segments": [
+   {
+    "file": "/tmp/txo-presseklubben_n069837-pgm-260321_mono.wav",
+    "times": [
+     [
+      1165.4,
+      1171.4
+     ],
+     [
+      1179.77,
+      1184.77
+     ]
+    ]
+   }
+  ]
+ }
+}

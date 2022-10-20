@@ -1,0 +1,15 @@
+[
+ {
+  "id": 3069981883,
+  "title": "Tonje",
+  "published": 1666255682.5548823,
+  "manifest": "/whisper//tv2skole/Tonje.json",
+  "description": "",
+  "enclosures": [
+   {
+    "url": "/whisper//tv2skole/Tonje.mp3",
+    "mime_type": "audio/mpeg"
+   }
+  ]
+ }
+]
