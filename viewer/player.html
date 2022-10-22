@@ -1,0 +1,1212 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Chat style subs</title>
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <script src="https://mcorp.no/lib/mcorp-2.0.1.js"></script>
+    <script src="https://mcorp.no/lib/mediasync.js"></script>
+    <script src="https://webtiming.github.io/timingsrc/lib/timingsrc-v3.js"></script>
+    <script src="https://nlive.no/datacannon-v3.js"></script>
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+
+  <!-- Norwegian not necessarily supported on devices -->
+<script src="https://code.responsivevoice.org/responsivevoice.js?key=0cFhIMi5"></script>
+<!--
+  <script src="lib/responsivevoice_mobile.js"></script>
+-->
+  <link rel="stylesheet" href="https://static.nrk.no/core-css/major/1/core-css.min.css">
+  <script src="app.js"></script>
+
+    <style>
+    body {
+        background:  black;
+        color:  white;
+    }
+    .nested {
+        border:  black solid 5px;
+    }
+
+  .background {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: -2;
+    background-size: cover;
+    -webkit-filter: blur(50px);
+    opacity: 0.4;
+  }
+
+  .art {
+    position: absolute;
+    height:  100%;
+    width: 100%;
+    z-index: -1;
+    background-position-x: center;
+    background-position-y: top;
+    background-size: contain;
+    backgroundrepeat: no-repeat;
+    opacity: 0.15;
+  }
+
+    .emoticon {
+        background: black;
+        height: 30px;
+        border-radius: 8px;
+    }
+
+    .edit_container {
+        position:  fixed;
+        top: 5px;
+        right: 5px;
+    }
+        .emotion_container {
+            display: flex;
+            flex-direction: column;
+            width: 0%;
+            height: 100%;
+            position: fixed;
+            right: 0px;
+            top: 0px;
+        }
+
+        .emotion_container img {
+            max-width: 100%;
+            max-height: 10%;
+            margin-left: auto;
+        }
+
+        .message_container_wrapper {
+            position: absolute;
+            top: 0px;
+            left: 0px;
+            width: 100%;
+            height: 100%;
+            z-index: 0;
+            -webkit-mask-image: linear-gradient(to top, black 50%, transparent 100%);
+            mask-image: linear-gradient(to top, black 50%, transparent 100%);
+        }
+
+        .message_container {
+            z-index: 5;
+            position: absolute;
+            width: 100%;
+            //height: calc(100% - 70px);
+            bottom: 0px;
+            padding-bottom: 80px;
+            max-width: 500px;
+
+/*  -webkit-mask-image: linear-gradient(to top, black 60%, transparent 100%);
+  mask-image: linear-gradient(to top, black 60%, transparent 100%);
+*/
+
+        }
+        .message {
+            display: flex;
+            align-items: center;
+            background: lightgray;
+            max-width: 90%;
+            border-radius: 10px;
+            margin-bottom: 5px;
+            font-size: 1.3em;
+            //font-family: sans-serif;
+        }
+
+        .message .icon {
+            width: 60px;
+            height: 60px;
+            padding: 5px;
+        }
+
+        .message.right {
+            margin-left: auto;
+        }
+
+        .message .text {
+            padding-top: 5px;
+            padding-bottom: 5px;
+        }
+
+        .message .emotions {
+            margin-left: auto;
+            top: 5px;
+            right: 5px;
+            width: 50px;
+            height: 80%;
+            overflow: hidden;
+        }
+
+        .message .emotions img {
+            width: 25px;
+        }
+
+        .altwho {
+            display: none;
+            position: fixed;
+            background: white;
+            overflow: scroll;
+            max-height: 85%;
+        }
+
+        .altwho .icon {
+            width: 60px;
+            height: 60px;
+            padding: 5px;
+        }
+
+
+        .infomessage {
+            text-align: center;
+            font-weight: bold;
+            background: #00000050;
+            color: white;
+            width: 100%;
+            display: block;
+            margin: auto;
+            padding:10px;
+        }
+
+        .bunched {
+            padding-bottom: 0px;
+        }
+        .bunched .icon {
+            display: none;
+        }
+        .bunched .text {
+            margin-left: 70px;
+        }
+
+        #download  {
+            position: fixed;
+            bottom: 5px;
+            right: 5px;
+            z-index:  10000000;
+        }
+
+    .controls {
+      position: fixed;
+      z-index: 100000;
+      bottom: 0px;
+      left: 0px;
+      width: 100%;
+      height: 70px;
+      background: linear-gradient(180deg, rgba(0,0,0,0.3) 0%, rgba(0,0,0,0.5) 40%, rgba(0,0,0,0.8) 100%);
+      color: lightgray;
+    }
+
+    .controls .button {
+      display: inline-block;
+    }
+
+    .controls .active {
+      color: yellow;
+    }
+
+    .controls i {
+      font-size: 48px;
+    }
+
+    .controls .spacer {
+      display: inline-block;
+      width: 50px;
+    }
+
+    .controls .progressbar {
+      width: 80%;
+      position: relative;
+      left: 10%;
+      height: 20px;
+    }
+
+    .controls .progressbar input {
+      width: 100%;
+    }
+
+    .overlay .name {
+      font-weight: bold;
+      font-size: 1.5em;
+    }
+
+    .overlay .title {
+      font-weight: italic;
+      font-size: 1em;
+    }
+    .overlay a {
+      opacity: 0.7;
+    }
+
+    .fullsize {
+      max-width: 100%;
+      max-height: 100%;
+      position: fixed;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+    }
+
+    .overlay {
+      position: fixed;
+      top: 0px;
+      left: 0px;
+      width: 100%;
+      height: 100%;
+      background: black;
+      color: white;
+      font-size: 2em;
+      z-index: 10000000;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-position: center;
+      background-size: contain;
+    }
+
+
+    .hidden {
+      display: none;
+    }
+
+    .infoblock {
+        background-color: transparent;
+        border: 0px none transparent;
+        padding: 0px;
+        overflow: hidden;
+    }
+
+    .infobar {
+        position: absolute;
+        height: 80%;
+        top: 5%;
+        right: 5px;
+        width: 10px;
+        background: black;
+        border-radius: 5px;
+        overflow: hidden;
+        z-index: 15;
+
+    }
+
+    .infobar .infobit {
+        position: absolute;
+        width: 100%;
+    }
+
+    </style>
+
+</head>
+<body>
+    <div class="background"></div>
+    <div class="art"></div>
+    <div class="infobar"></div>
+
+    <ul class="altwho" aria-hide="true"></ul>
+
+    <div class="message_container_wrapper">
+    <div class="message_container">
+      <div class="nrk-sr screenreadersub" aria-live="assertive"></div>
+
+        <div class="overlay">
+            <div role="button" class="nrk-unset" href="#" id="playbtn" aria-label="Click to play">
+              <img class="fullsize" src="playbutton.png" alt="Play symbol"/>
+            </div>
+        </div>
+
+        <div class="controls">
+          <div class="progressbar">
+            <input  type="range" min="0" max="100" value="0" tabindex="0" name="progress">
+          </div>
+
+          <button class="nrk-unset button" id="btnrev" alt="Skip backwards"><i class="material-icons">fast_rewind</i></button>
+          <button class="nrk-unset button" id="btnplay" alt="Play"><i class="material-icons">play_arrow</i></button>
+          <button class="nrk-unset button" id="btnpause" alt="Pause"><i class="material-icons hidden">pause</i></button>
+          <button class="nrk-unset button" id="btnff" alt="Skip ahead"><i class="material-icons">fast_forward</i></button>
+
+          <div class="spacer"></div>
+          <button class="nrk-unset button hidden" id="btnsound" alt="Toggle sound"><i class="material-icons">volume_up</i></button>
+          <button class="nrk-unset button hidden" id="btnsynstolk" alt="Toggle synstolk"><i class="material-icons">hearing</i></button>
+          <button class="nrk-unset button hidden" title="Who was it?" id="btnwho" alt="Who was that"><i class="material-icons">face</i></button>
+        </div>
+        </div>
+
+    </div>
+    </div>
+    <div class="emotion_container">
+    </div>
+
+    <div class="mediacontainer">
+    </div>
+
+    <div class="edit_container hidden">
+        <div>Who: <input id="newsubwho" type="text"/></div>
+        <div>Text: <textarea id="newsub" cols=50 height=2></textarea></div>
+        <button id="clearsub">Clear</button>
+        <button id="addsub">Add</button>
+    </div>
+
+
+  <button id="download" class="hidden">Download</button>
+
+
+    <template id="message">
+        <div class="message">
+            <img class="icon"></img>
+            <div class="text"></div>
+            <div class="emotions"></div>
+        </div>
+    </template>
+
+    <script>
+
+    document.querySelector("body").addEventListener("keydown", evt => {
+        if (evt.key == "Escape") {
+            document.querySelector(".altwho").style.display = "none";
+        }
+    });
+
+    function getParameterByName(name) {
+        name = name.replace(/[\[]/, "\\\[").replace(/[\]]/, "\\\]");
+        var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+        results = regex.exec(location.search);
+        return results == null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+    }
+
+  function downloadObjectAsJson(exportObj, exportName){
+      var dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(exportObj, undefined, 2));
+      var downloadAnchorNode = document.createElement('a');
+      downloadAnchorNode.setAttribute("href",     dataStr);
+      downloadAnchorNode.setAttribute("download", (exportName || "features") + ".json");
+      document.body.appendChild(downloadAnchorNode); // required for firefox
+      downloadAnchorNode.click();
+      downloadAnchorNode.remove();
+    }
+
+  let canedit = getParameterByName("edit") || false;
+
+  let options = {
+      video: false,
+      pip:  false,
+      pippos: false,
+      pos: false,
+      pipskew: false,
+      mcorp_appid: "4704154345375000225",
+      index: false,
+      tts: true,
+      controls: true,
+      keyboard: !canedit,
+      hide_controls: false,
+      rendersubs: false,
+      voice_index: true,
+      text_track: "text"
+    };
+
+  if (getParameterByName("lang")) {
+    options.text_track = "text_" + getParameterByName("lang");
+    // Not native language, slow subs down a bit
+    /*
+    options.adjust_cps = true;
+    options.max_cps = 16;
+    options.min_cps = 12;
+    options.audioon = true;
+    options.sub_time_factor = 1.2;
+    */
+  }
+
+    let target = document.querySelector(".message_container");
+    var app = rubberDuck(target, options);
+    app.app.ready.then(() => app.play());
+
+    app.infobar = getParameterByName("infobar") || "timeline";
+
+    //var app = MCorp.app("4704154345375000225");
+
+      document.querySelector("#playbtn").addEventListener("click", evt => {
+        app.play();
+      });
+
+    app.toggle_emotion_bar = function(show) {
+        let emo = document.querySelector(".emotion_container");
+        let content = document.querySelector(".message_container");
+        if (emo.style.width == "0%" || show) {
+            content.style.width = "80%";
+            emo.style.width = "20%";
+        } else {
+            content.style.width = "100%";
+            emo.style.width = "0%";            
+        }
+    }
+
+    if (getParameterByName("emo")) {
+        console.log("Show emotion bar");
+        app.toggle_emotion_bar(true);
+    }
+
+    app._add_emotion = function(element, emotion) {
+        if (!emotion.url) return;
+        let i = document.createElement("img");
+        i.src = emotion.url;
+        element.querySelector(".emotions").appendChild(i);
+    }
+    
+    app._post_emotion = function(start, end, emotion, url) {
+
+        console.log("POST", app.manifest.dc, {
+            startts: start, 
+            endts: end,
+            name: emotion,
+            id: "e" + String(start).substr(-10),
+                value: {type: "emotion", source: "user", emotion: emotion, url: url}
+        });
+        app.dcannon.post(app.manifest.dc, {
+            startts: start, 
+            endts: end,
+            name: emotion,
+            id: "e" + String(start).substr(-10),
+                value: {type: "emotion", source: "user", emotion: emotion, url: url}
+        });
+    }
+
+
+    app.load_emotions = function() {
+        let emos = {
+            angry: "angry.png",
+            blush: "blush.png",
+            laugh: "laugh.png",
+            laugh_hard: "laugh_hard.png",
+            love: "love.png",
+            sad: "sad.png",
+            shit: "shit.png",
+            tease: "tease.png"
+        }
+        let container = document.querySelector(".emotion_container");
+        for (key in emos) {
+            let e = document.createElement("img");
+            e.setAttribute("draggable", "true");
+            e.src = "/sfi/res/emotions/" + emos[key];
+            container.append(e);
+            let emotion = key;
+            e.addEventListener("dragstart", function(evt) {
+                console.log("Setting text to", JSON.stringify({emotion:emotion, src: e.src}))
+                evt.dataTransfer.setData("text", JSON.stringify({emotion:emotion, src: e.src}));
+            });
+            e.addEventListener("click", function(e) {
+                console.log(emotion, "emo clicked");
+                app._post_emotion(app.to.pos - 0.3, app.to.pos + 1, emotion, e.src);
+            });
+        };
+    }
+
+    let auto_adjust_msg = function(msg, index) {
+        let max_adjust = 0.6;
+        let min_cps = 5.;
+        let max_cps = 20.;
+        let target_cps = 16.;
+        let now = app.to.pos;
+        // Find something close in the index
+        let min_diff = [1000000, -1];
+        for (let i=0; i<index.length; i++) {
+
+            let delta = Math.abs(index[i]["start"] - now)
+            if (delta < min_diff[0]) {
+                min_diff = [delta, i];
+            }
+        }
+
+        if (min_diff[0] <= max_adjust) {
+            // We use the one we found
+            console.log("Adjusting to", min_diff);
+            msg.data.data.start = index[min_diff[1]]["start"];
+            msg.data.data.end = index[min_diff[1]]["end"];
+        } else {
+            console.log("No index hit, using now - 100ms")
+            msg.data.data.start = now - 0.1;
+            msg.data.data.end = app.to.pos + (msg.data.data[options["text_track"]].length / target_cps);
+        }
+
+        // Ensure that we're within the window in regards to CPS
+        let cps = parseFloat(msg.data.data[options["text_track"]].length) / (msg.data.data.end - msg.data.data.start);
+        if (cps < min_cps) {
+            console.log("Too slow");
+            msg.data.data.end = msg.data.data.start + (msg.data.data[options["text_track"]].length * min_cps);
+        }
+        if (cps > max_cps) {
+            console.log("Too quick");
+            msg.data.data.end = msg.data.data.start + (msg.data.data[options["text_track"]].length * max_cps);
+        }
+
+        cps = parseFloat(msg.data.data[options["text_track"]].length) / (msg.data.data.end - msg.data.data.start);
+        console.log("Adjusted", [msg.data.interval.low, msg.data.interval.high], "->", 
+                    [msg.data.data.start, msg.data.data.end], cps);
+    }
+
+    let add_message = function(data, body, canedit=false) {
+        canedit = getParameterByName("edit") || false;
+
+        let message = data.data;
+        // console.log("Adding message", message);
+
+        let old = document.querySelector("#" + data.key);
+        if (old) {
+            old.parentElement.removeChild(old);
+        }
+
+        let _insert_sort = function(body, msg) {
+            // Insertion sort
+            let before;
+            let children = [];
+            let last;
+            for (var i in body.children) {
+                if (body.children[i].nodeType == 1) { // get rid of the whitespace text nodes
+                    children.push(body.children[i]);
+                }
+            }
+            for (let idx=0; idx<children.length; idx++) {
+                if (children[idx].startts > msg.endts) {
+                    before = children[idx];
+                    break;
+                } else {
+                    last = children[idx];
+                }
+            }
+
+            if (last && last.style.background == msg.style.background) {
+                if (last.classList.contains("right"))
+                    msg.classList.add("right");
+
+                if (!canedit && msg.startts - last.endts < 2.0) {
+                    last.style.marginBottom = "0px";
+                    msg.classList.add("bunched");
+                }
+            }
+            else if (last && msg.startts - last.endts < 3)  {
+                // Close but not same person, split them
+                if (!last.classList.contains("right"))
+                    msg.classList.add("right");
+            }
+
+            if (before) {
+                body.insertBefore(msg, before)
+            } else {
+                body.appendChild(msg);
+            }
+        }
+
+        let _make_msg = function(who, text, data) {
+            who = String(who).toLowerCase();
+
+            // For advanced subs, we remove all newlines and end hyphens and let 
+            // the browser break the text
+            if (!text) return;
+            text = text.replaceAll("-<br>", " ").replaceAll("<br>", " ");
+
+            // Try to keep the texts formatted
+            // text = text.replaceAll("-<br>", " ").replaceAll("<br>", " ");
+            //text = text.replace(/-\W/, "")
+            text = text.replace(/^-/, "")
+
+            if (who == "scene" || who == "info") {
+                let info = document.createElement("div");
+                info.classList.add("message");
+                info.classList.add("infomessage");
+                info.startts = message.start;
+                info.endts = message.end;
+                info.innerHTML = text;
+                info.setAttribute("id", data.key);
+                return info;
+            }
+
+            if (!app.cast[who]) {
+                console.log("Generating random");
+                app.cast[who] = {name: who, color: "#" + Math.floor(Math.random()*16777215)}
+            }
+            if (app.cast[who] === undefined) {
+                who = "undefined";
+            }
+
+            let template = document.querySelector("template#message").content.cloneNode(true);
+            let msg = template.querySelector("div");
+            msg.setAttribute("id", data.key);
+            //if (app.cast[who] === undefined) who = "undefined";
+           // msg.style.marginLeft = app.indents[who] + "px";
+           if (app.cast[who] === undefined) {
+            console.log("*** ERROR *** Missing cast for", who, "text:", text);
+            who = "scene";
+           }
+           msg.style.background = app.cast[who].color || "darkgray";
+           if (app.cast[who].src) {
+               msg.querySelector(".icon").src = app.cast[who].src;
+            } else {
+                // msg.querySelector(".icon").src = "undefined.png";
+                msg.querySelector(".icon").style.display = "none";
+                msg.querySelector(".text").style.marginLeft = "25px";
+           }
+
+           msg.startts = message.start;
+           msg.endts = message.end;
+           msg.data = data;
+           msg.addEventListener("dragover", e => e.preventDefault());
+               msg.addEventListener("drop", e => {
+                console.log(e);
+                let info = JSON.parse(e.dataTransfer.getData("text"));
+                console.log("GOT DATA", info);
+                app._post_emotion(message.start, message.end, info.emotion, info.src);
+            });
+            msg.addEventListener("dblclick", e => {
+                e.preventDefault();
+                console.log("dbclick");
+                app.to.update({position: message.start});
+            });
+            if (data.idx % 2 == 1) msg.classList.add("right");
+            msg.querySelector(".text").innerHTML = text || "";
+
+
+            if (canedit) {
+
+                // Register clicks to the thing - first click will be to
+                // update start position, the second the end position
+                let clk;
+                msg.addEventListener("click", evt => {
+                    if (evt.shiftKey) {
+                        console.log("Click shift");
+                        app.to.update({position: msg.data.data.start - 0.3});
+                        return;
+                    }
+                    if (evt.ctrlKey) {
+                        console.log("Click ctrl");
+                        app.to.update({position: msg.data.data.start});
+                        return;
+                    }
+
+                    // Go automatic if we have an index
+                    if (app.voice_index && !evt.altKey) {
+                        auto_adjust_msg(msg, []);  // app.voice_index);
+                        document.querySelector("#download").classList.remove("hidden");
+                        return;
+                    }
+
+                    if (!clk) {
+                        clk = app.to.pos;
+
+                        msg.style.color = "yellow";
+                        console.log("START", msg.data.key, app.to.pos);
+                    } else {
+                        let start = clk;
+                        let end = app.to.pos;
+                        clk = undefined;
+                        msg.style.color = "";
+                        if (start == end) {
+                            console.log("Start and end is the same, ignoring");
+                            return;
+                        }
+
+                        if (evt.shiftKey || evt.ctrlKey || evt.metaKey) return;  // Abort
+
+                        msg.data.data.start = start;
+                        msg.data.data.end = end;
+                        //setTimeout(function() { document.querySelector("#" + msg.data.key).style.display = "none"}, 100);
+                        if (end < start) end = start + 2;
+                        app.subsequencer.addCue(msg.data.key, [start, end], msg.data.data);
+                        document.querySelector("#download").classList.remove("hidden");
+                    }
+
+                });
+
+                // Could add a mark if we feel uncertain or have good alternatives
+                msg.querySelector("img").addEventListener("click", e => {
+                    console.log("Editing message", msg.data.who_alt, e);
+                    let target = document.querySelector(".altwho");
+                    target.innerHTML = "";
+
+                    // Also add the ones present in the window
+                    let additional = [];
+                    app.subsequencer.getActiveCues().forEach(cue => {
+                        if (additional.indexOf(cue.data.who) == -1)
+                            additional.push([cue.data.who, 0]);
+                    });
+                    let people;
+                    if (msg.data.data.who_alt) {
+                        people = msg.data.data.who_alt.concat(additional);
+                    } else {
+                        people = additional;
+                    }
+
+                    // If no people, add full cast
+                    if (people.length == 0) {
+                        for (let key in app.cast) {
+                            if (["scene", "info", "description"].indexOf(key.toLowerCase()) > -1) continue;
+                            people.push([key, 0]);
+                        }
+                    }
+
+                    let added = [];
+                    console.log("PEOPLE", people);
+                    people.forEach(w => {
+                        if (added.indexOf(w[0]) > -1) return;
+                        console.log("Adding", w);
+                        added.push(w[0]);
+                        console.log(w[0]);
+                        let list = document.createElement("li");
+                        let s = "";
+                        if (app.cast[w[0]]) s = app.cast[w[0]].src;
+                        list.innerHTML = "<img class='icon' src='" + s + "'/> " + w[0] + " (" + parseFloat(w[1]).toFixed(2) + ") </li>";
+                        target.appendChild(list);
+                        let _w = w[0];
+                        list.addEventListener("click", function() {
+                            let copy = {...msg.data.data};
+                            copy.who = _w;
+                            console.log("Updating to", _w, msg.data.key, msg.data.interval, copy);
+                            app.subsequencer.addCue(msg.data.key, msg.data.interval, copy);
+                            target.style.display = "none";
+                            document.querySelector("#download").classList.remove("hidden");
+                        });
+                    });
+                    target.style.display = "block";
+                    target.style.left = "0px";
+                    target.style.top = "0px";
+
+                });
+            }
+
+            return msg;
+        }
+
+        if (message.isinfo) {
+            // Create an iframe and embed this
+            let info = document.createElement("div");
+            info.classList.add("message");
+            info.setAttribute("id", data.key);
+            info.classList.add("infomessage");
+            info.startts = message.start;
+            info.endts = message.end;
+            let i = document.createElement("iframe");
+            i.classList.add("infoblock");
+            i.src = message.card.url;
+            info.appendChild(i);
+            _insert_sort(body, info);
+            return;
+        }
+
+        if (!message[options["text_track"]]) return;
+        let msg;
+        if (Array.isArray(message.who)) {
+            // The sub has multiple messages within them, assume <br> or "- " is the limiter in the text
+            let lines = message[options["text_track"]].split("<br>");
+            for (let idx=0; idx<message.who.length; idx++) {
+                data.idx = idx;
+                console.log("Nested lines - ", idx, message.who[idx], lines[idx]);
+                msg = _make_msg(message.who[idx], lines[idx], data);
+                msg.classList.add("nested");
+                if (msg) _insert_sort(body, msg);
+            }
+        } else {
+           msg = _make_msg(message.who, message[options["text_track"]], data);
+           if(msg) _insert_sort(body, msg);
+       }
+   if (msg && !canedit) msg.scrollIntoView({behavior: "smooth"});
+};
+
+app.indents = {};
+app.last_indent = 0;
+
+/*
+app.to = new TIMINGSRC.TimingObject();
+app.ready.then(function() {
+  app.to.timingsrc = app.motions.private;
+});
+*/
+
+// If we're editing, show the subs a bit earlier
+
+let to_low = new TIMINGSRC.SkewConverter(app.to, -60);
+app.rsequencer = app.sequencer.clone(to_low, app.to);
+
+if (canedit) {
+    let to_low = new TIMINGSRC.SkewConverter(app.to, -100000);
+    let to_high = new TIMINGSRC.SkewConverter(app.to, +150000);
+    app.subrsequencer = app.subsequencer.clone(to_low, to_high);
+    // We also allow new subs to be created
+    document.querySelector(".edit_container").classList.remove("hidden");
+    let start_ts;
+    document.querySelector(".edit_container #newsub").addEventListener("change", () => {
+        if (!start_ts) start_ts = app.to.pos;
+    });
+
+    document.querySelector(".edit_container #newsubwho").addEventListener("change", () => {
+        // Search for this person
+        let subwho = document.querySelector(".edit_container #newsubwho");
+        for (let cast in app.cast) {
+            if (cast.indexOf(subwho.value) > -1) {
+                subwho.value = cast;
+            }
+        }
+    });
+    document.querySelector(".edit_container #clearsub").addEventListener("click", () => {
+        document.querySelector(".edit_container #newsub").value = "";
+        document.querySelector(".edit_container #newsubwho").value = "";
+        start_ts = undefined;
+    });
+
+    document.querySelector(".edit_container #newsub").addEventListener("keydown", (evt) => {
+        if (evt.ctrlKey && evt.code == "Enter") {
+            document.querySelector(".edit_container #addsub").click();
+        }
+    });
+    document.addEventListener("keydown", (evt) => {
+        if (evt.ctrlKey && evt.code == "Space") {
+            evt.preventDefault();
+            start_ts = app.to.pos;
+            document.querySelector(".edit_container #newsubwho").focus();
+        }
+    });
+
+    document.querySelector(".edit_container #addsub").addEventListener("click", () => {
+        let text = document.querySelector(".edit_container #newsub").value.replace("\n", "<br>");
+        let who = document.querySelector(".edit_container #newsubwho").value;
+
+        let end_ts = Math.max(app.options.min_sub_time, start_ts + (text.length) / (app.options.min_cps + app.options.max_cps) / 2.);
+
+        if (text && who) {
+            let data = {
+                who: who,
+                text: text,
+                start: start_ts,
+                end: end_ts
+            }
+            if (data.end < data.start) data.end = data.start + 2;
+            app.subsequencer.addCue("sub" + app.subsequencer.getCues().length + 1, [start_ts, end_ts], data);
+        }
+
+        document.querySelector(".edit_container #newsub").value = "";
+        document.querySelector(".edit_container #newsubwho").value = "";
+        start_ts = undefined;
+    });
+
+} else {
+    app.subrsequencer = app.subsequencer.clone(to_low, app.to);    
+}
+
+app.load_info_blocks = function(url) {
+    console.log("Loading info from", url);
+    fetch(url).then(e => e.json()).then(infoblocks => {
+        console.log("GOT info", infoblocks);
+        let idx = 0;
+        infoblocks.forEach(block => {
+            if (block.card && block.card.url) {
+                if (block.card.url.indexOf("wikipedia") > -1) return;
+                let id = "info" + idx++;
+                block["isinfo"] = true;
+                app.subsequencer.addCue(id, [block.start, block.end], block);
+            }
+        })
+    });
+}
+
+let manifest = getParameterByName("url") || "bbt_s01e01.json";
+
+app.redraw_info_bar_timeline = function() {
+    if (app.infobar != "timeline")
+        return;
+    // Redraw from start to now
+    document.querySelector(".infobar").innerHTML = ""
+    app.subsequencer.getCues().forEach(cue => {
+        if (cue.data.end < app.to.pos) {
+            app.update_info_bar_timeline(cue.data);
+        }
+    });
+}
+
+app.update_info_bar_timeline = function(data) {
+    if (app.infobar != "timeline")
+        return;
+    // How many pixels is this event?
+    let duration = app.app.motions.duration.pos;
+    let infobar = document.querySelector(".infobar");
+    let height = infobar.clientHeight;
+    let pixelsprsec = height / duration;
+    let pixels = (data.end - data.start) * pixelsprsec;
+    // Position
+    let offset = data.start * pixelsprsec;
+    // Draw on the bar
+    let bit = document.createElement("div");
+    bit.style.height = Math.ceil(pixels) + "px";
+    bit.style.top = Math.floor(offset) + "px";
+    bit.classList.add("infobit");
+    if (app.cast[data.who])
+        bit.style.background = app.cast[data.who].color;
+    infobar.appendChild(bit);
+}
+
+app.update_info_bar_speakers = function() {
+    if (app.infobar == "timeline")
+        return;
+    // We create a division based on the active cues
+    let users = {};
+    let colors = {};
+    let sum = 0;
+    app.subrsequencer.getActiveCues().forEach(item => {
+        if (item.data.who == undefined) return;
+        let name = app.cast[item.data.who].name;
+        if (!colors[name]) colors[name] = app.cast[item.data.who].color;
+        if (!users[name])
+            users[name] = 0;
+        users[name] += item.data.end - item.data.start;
+        sum += item.data.end - item.data.start;
+    });
+
+    // Create the bits
+    let duration = app.app.motions.duration.pos;
+    let infobar = document.querySelector(".infobar");
+    infobar.innerHTML = "";
+    let height = infobar.clientHeight;
+    let pixelsprfraction = height / sum;
+
+    let offset = 0;
+    console.log("UPDATE", sum, users)
+    for (let user in users) {
+        let height = Math.ceil(100 * users[user] / sum);
+        // Draw on the bar
+        console.log(" --- ", (users[user] / sum), pixelsprfraction);
+        let bit = document.createElement("div");
+        bit.style.height = height + "%";
+        bit.style.top = Math.floor(offset) + "%";
+        bit.classList.add("infobit");
+        if (colors[user])
+            bit.style.background = colors[user];
+        infobar.appendChild(bit);
+        // TODO: Use the name as mouseover?
+        offset += height;
+    }
+}
+
+
+app.load(manifest + "?ts=" + new Date().getTime() , ".mediacontainer")
+.then(evt => {
+    if (app.manifest.poster) {
+        console.log("POSTER", app.manifest.poster);
+        document.querySelector(".background").style.backgroundImage = 'url(' + app.manifest.poster + ')';
+    }
+
+    // Load info stuff
+    if (app.manifest.info) {
+        app.load_info_blocks(app.manifest.info);
+    }
+
+      app.pbar = document.querySelector(".controls .progressbar input");
+      app.to.on("timeupdate", function() {
+        try {
+            let percent = 100 * (this.pos / app.app.motions.duration.pos);
+            app.pbar.value = percent;
+        } catch(e) {};
+      });        
+
+      app.pbar.addEventListener("change", evt => {
+        let pos = app.app.motions.duration.pos * (evt.srcElement.value / 100.);
+        app.to.update({position: pos});
+      });    
+
+    // Update the infobar with who speaks the most
+    let _infotimer;
+    app.subrsequencer.on("change", evt => {
+       app.update_info_bar_timeline(evt.new.data); 
+       clearTimeout(_infotimer);
+       _infotimer = setTimeout(app.update_info_bar_speakers, 100);
+    });
+
+    app.subrsequencer.on("change", evt => add_message(evt.new, target));
+    app.subrsequencer.on("remove", evt => {
+        document.querySelectorAll("#" + evt.key).forEach(child => target.removeChild(child))
+    });
+
+    // TODO: ADD REMOVE EMOTION 
+    app.rsequencer.on("change", _evt => {
+        let data = _evt.new.data;
+        if (data.type == "emotion") {
+            setTimeout(function() {
+                //console.log("Checking for emotions", document.querySelectorAll(".message").length);
+                // We give it another second end time, as it cuts off too quickly)
+            data.begin -= 0.0;
+            data.end += 0.6;
+            data.start = data.start || _evt.new.interval.low;
+            data.end = data.end || _evt.new.interval.high;
+
+
+            // Check if there are any subs for this time and put on some emojis
+            document.querySelectorAll(".message").forEach(msg => {
+                if ((msg.startts <= data.end && msg.endts >= data.start) ||
+                    (data.end <= msg.endts && data.end >= msg.startts) ||
+                        (data.start <= msg.endts && data.start >= msg.startts)
+                            ) {
+                                // console.log("Found one!", msg);
+                                if (msg.classList.contains("infomessage")) return;
+                                app._add_emotion(msg, data);
+                            }
+                        });    
+                        console.log("Should implement removing of emotions too");        
+                    }, 100);
+                }
+            });
+});
+
+
+/*
+fetch(manifest + "?ts=" + new Date().getTime())
+.then(response => response.json())
+.then(function(data) {
+    app.manifest = data;
+    app.load_emotions();
+    let idx = 0;
+
+    if (data.dc) {
+      console.log("Using datacannon")
+      app.dcannon = new DataCannon("wss://nlive.no/dc", [app.sequencer]);
+          app.dcannon.ready.then(function() { app.dcannon.subscribe(data.dc)});
+      }
+
+      if (data.cast) {
+        fetch(data.cast)
+        .then(response => response.json())
+        .then(response => app.cast = response);
+    }
+
+    if (data.subtitles) {
+        data.subtitles.forEach(item => {
+            fetch(item.src)
+                .then(response => response.json())
+                .then(r => {
+                 r.forEach(sub => {
+                    let id = "sub" + idx;
+                    idx++;
+                    app.subsequencer.addCue(id, [sub.start, sub.end], sub);
+                });
+                 if (data.aux) {
+                  fetch(data.aux)
+                  .then(response => response.json())
+                  .then(response => {
+                    response.forEach(item => {
+                      app.sequencer.addCue(String(Math.random()), new TIMINGSRC.Interval(item.start, item.end), item);
+                  });
+                });
+              }
+          });
+            });
+        }
+    });
+  */  
+    document.querySelector("#download").addEventListener("click", function() {
+
+        let texts = [];
+        app.subsequencer.getCues().forEach(cue => texts.push(cue.data)); 
+
+        texts.forEach(text => delete(text.who_alt));
+
+        downloadObjectAsJson(texts, "UpdatedSubs");
+    });
+
+    document.querySelector("#btnwho").addEventListener("click", function() {
+        let cues = app.subrsequencer.getActiveCues();
+        let cue = cues[cues.length-1];
+        if (cue) {
+            if (Array.isArray(cue.data.who)) {
+                let who = "";
+                cue.data.who.forEach(w => who += w + " then ");
+                app.speak(who.substr(0, who.length - 5), 0, true);
+            } else {
+                app.speak(cue.data.who, 0, true);                
+            }
+        }
+    });
+
+
+let wakeLock = null;
+if ("wakeLock" in navigator) {
+
+    // Function that attempts to request a screen wake lock.
+    const requestWakeLock = async () => {
+      try {
+        wakeLock = await navigator.wakeLock.request();
+        wakeLock.addEventListener('release', () => {
+          console.log('Screen Wake Lock released', wakeLock.released);
+        });
+        console.log('Screen Wake Lock released:', wakeLock.released);
+      } catch (err) {
+        console.error(`${err.name}, ${err.message}`);
+      }
+    };
+
+    app.to.on("change", evt => {
+        if (app.to.vel == 0) {
+            // Paused, release the lock
+            if (wakeLock) {
+                console.log("Releasing wake lock - paused");
+                wakeLock.release();
+                // wakeLock = null;
+            }
+        } else {
+            console.log("Requesting wake lock");
+            requestWakeLock();
+        }
+
+        app.redraw_info_bar_timeline();
+    });
+}
+
+
+// We experiment with scrolling for skipping
+let cur_pos;
+let oldtimingsrc;
+function onTouchStart(e) {
+    if (e.path.indexOf(document.querySelector("div.controls")) > -1) return;
+    let p = app.to.pos;  // bug or feature?  Reste when timingsrc goes undefined
+    let v = app.to.vel;
+    oldtimingsrc = app.to.timingsrc;
+    console.log("  *** START DRAG", oldtimingsrc);
+    app.to.timingsrc = undefined;
+    app.to.update({position: p, velocity: v});
+    e.preventDefault();
+    e.stopPropagation();
+    cur_pos = e.touches[0].screenY;
+};
+function onTouchEnd(e) {
+    app.to.timingsrc = app.app.motions.private;
+    cur_pos = undefined;
+    console.log("  *** END DRAG");
+};
+
+let last_skip = 0;
+function downsample_skip(target) {
+    console.log("Skip to", target, oldtimingsrc);
+    app.to.update({position: target});
+    if (performance.now() - last_skip < 250) return;
+    last_skip = performance.now();
+    if (oldtimingsrc)
+        oldtimingsrc.update(target);
+
+};
+
+function onTouchMove(e) {
+    e.preventDefault();
+    e.stopPropagation();
+    let diff = -0.2 * (e.touches[0].screenY - cur_pos);
+    cur_pos = e.touches[0].screenY;
+    console.log("  *** MOVE", diff);
+    if (document.querySelector("audio") && document.querySelector("audio").duration)
+        downsample_skip(Math.min(Math.max(0, app.to.pos + diff), document.querySelector("audio").duration));
+};
+
+document.querySelector(".message_container").addEventListener("touchstart", onTouchStart);
+document.querySelector(".message_container").addEventListener("touchend", onTouchEnd);
+document.querySelector(".message_container").addEventListener("touchmove", onTouchMove);
+
+document.querySelector(".infobar").addEventListener("click", () => {
+    if (app.infobar == "timeline") {
+        app.infobar = "talktime";
+        app.update_info_bar_speakers();
+    } else {
+        app.infobar = "timeline";
+        app.redraw_info_bar_timeline();
+    }
+});
+</script>
+
+
+</body>
+</html>
