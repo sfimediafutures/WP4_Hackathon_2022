@@ -157,13 +157,14 @@
 
 
         .infomessage {
-            text-align: center;
+            //text-align: center;
+            padding-left: 25px;
             font-weight: bold;
             background: #00000050;
             color: white;
             width: 100%;
             display: block;
-            margin: auto;
+            //margin: auto;
             padding:10px;
         }
 
@@ -291,7 +292,18 @@
         width: 100%;
     }
 
+    .infoblock {
+        display: flex;
+    }
+    .infoblock img {
+        height: 50px;
+    }
+    .infoblock .infotext {
+        place-self: center;
+        margin-left:25px;
+    }
     </style>
+
 
 </head>
 <body>
@@ -346,6 +358,15 @@
 
   <button id="download" class="hidden">Download</button>
 
+
+  <template id="infoblock">
+    <div class="infoblock">
+        <img class="infoimage"/>
+        <div class="infotext">
+            <div><a><span class="infotitle"></span></a></div>
+        </div>
+    </div>
+  </template>
 
     <template id="message">
         <div class="message">
@@ -777,10 +798,21 @@
             info.classList.add("infomessage");
             info.startts = message.start;
             info.endts = message.end;
-            let i = document.createElement("iframe");
-            i.classList.add("infoblock");
-            i.src = message.card.url;
-            info.appendChild(i);
+
+            if (message.card.url.indexOf("wikipedia") > -1) {
+                // Link to wikipedia, just put in a link
+                let template = document.querySelector("template#infoblock").content.cloneNode(true);
+                let block = template.querySelector("div");
+                block.querySelector(".infotitle").innerHTML = message.keywords.join();
+                block.querySelector("a").setAttribute("href", message.card.url);
+                block.querySelector("img").src = "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/220px-Wikipedia-logo-v2.svg.png";
+                info.appendChild(block);
+            } else {            
+                let i = document.createElement("iframe");
+                i.classList.add("infoblock");
+                i.src = message.card.url;
+                info.appendChild(i);
+            }
             _insert_sort(body, info);
             return;
         }
@@ -891,7 +923,9 @@ app.load_info_blocks = function(url) {
         let idx = 0;
         infoblocks.forEach(block => {
             if (block.card && block.card.url) {
-                if (block.card.url.indexOf("wikipedia") > -1) return;
+                if (block.card.url.indexOf("wikipedia") > -1) {
+                    //return;
+                }
                 let id = "info" + idx++;
                 block["isinfo"] = true;
                 app.subsequencer.addCue(id, [block.start, block.end], block);

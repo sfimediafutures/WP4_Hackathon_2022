@@ -567,7 +567,7 @@ var rubberDuck = function(target, options) {
             }
 
             if (!text) {
-                console.log("Missing text for '" + API.options.text_track + "':", data);
+                //console.log("Missing text for '" + API.options.text_track + "':", data);
                 return;
             }
 
