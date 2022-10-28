@@ -276,20 +276,19 @@
 
     .infobar {
         position: absolute;
-        height: 80%;
-        top: 5%;
-        right: 5px;
-        width: 10px;
+        width: 90%;
+        top: 5px;
+        right: 5%;
+        height: 10px;
         background: black;
         border-radius: 5px;
         overflow: hidden;
         z-index: 15;
-
     }
 
     .infobar .infobit {
         position: absolute;
-        width: 100%;
+        height: 100%;
     }
 
     .infoblock {
@@ -832,7 +831,7 @@
             info.startts = message.start;
             info.endts = message.end;
 
-            if (message.card.url.indexOf("fwikipedia") > -1) {
+            if (message.card.url.indexOf("wikipedia") > -1) {
                 // Link to wikipedia, just put in a link
                 let template = document.querySelector("template#infoblock").content.cloneNode(true);
                 let block = template.querySelector("div");
@@ -999,15 +998,15 @@ app.update_info_bar_timeline = function(data) {
     // How many pixels is this event?
     let duration = app.app.motions.duration.pos;
     let infobar = document.querySelector(".infobar");
-    let height = infobar.clientHeight;
-    let pixelsprsec = height / duration;
+    let width = infobar.clientWidth;
+    let pixelsprsec = width / duration;
     let pixels = (data.end - data.start) * pixelsprsec;
     // Position
     let offset = data.start * pixelsprsec;
     // Draw on the bar
     let bit = document.createElement("div");
-    bit.style.height = Math.ceil(pixels) + "px";
-    bit.style.top = Math.floor(offset) + "px";
+    bit.style.width = Math.ceil(pixels) + "px";
+    bit.style.left = Math.floor(offset) + "px";
     bit.classList.add("infobit");
     if (app.cast[data.who])
         bit.style.background = app.cast[data.who].color;
@@ -1035,24 +1034,24 @@ app.update_info_bar_speakers = function() {
     let duration = app.app.motions.duration.pos;
     let infobar = document.querySelector(".infobar");
     infobar.innerHTML = "";
-    let height = infobar.clientHeight;
-    let pixelsprfraction = height / sum;
+    let width = infobar.clientWidth;
+    let pixelsprfraction = width / sum;
 
     let offset = 0;
     console.log("UPDATE", sum, users)
     for (let user in users) {
-        let height = Math.ceil(100 * users[user] / sum);
+        let width = Math.ceil(100 * users[user] / sum);
         // Draw on the bar
         console.log(" --- ", (users[user] / sum), pixelsprfraction);
         let bit = document.createElement("div");
-        bit.style.height = height + "%";
-        bit.style.top = Math.floor(offset) + "%";
+        bit.style.width = width + "%";
+        bit.style.left = Math.floor(offset) + "%";
         bit.classList.add("infobit");
         if (colors[user])
             bit.style.background = colors[user];
         infobar.appendChild(bit);
         // TODO: Use the name as mouseover?
-        offset += height;
+        offset += width;
     }
 }
 
