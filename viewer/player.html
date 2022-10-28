@@ -302,11 +302,42 @@
         place-self: center;
         margin-left:25px;
     }
+
+    .embedmap {
+        display: none;
+        position: fixed;
+        width: 96%;
+        left: 2%;
+        top:  2%;
+        height: 96%;
+        z-index: 2000000;
+        background: rgba(0,0,0,0.5);
+    }
+
+    .embedmap .close {
+        position: absolute;
+        background: rgba(0,0,0,0.7);
+        font-weight: bold;
+        top: 5px;
+        right: 5px;
+        padding: 4px;
+    }
+
+    .embedmap iframe {
+        width: 100%;
+        height: 100%;
+    }
     </style>
+
 
 
 </head>
 <body>
+    <div class="embedmap">
+        <div class="close">X</div>
+        <iframe></iframe>
+    </div>
+
     <div class="background"></div>
     <div class="art"></div>
     <div class="infobar"></div>
@@ -431,6 +462,8 @@
     options.sub_time_factor = 1.2;
     */
   }
+
+  document.querySelector(".embedmap .close").addEventListener("click", () => document.querySelector(".embedmap").style.display = "none");
 
     let target = document.querySelector(".message_container");
     var app = rubberDuck(target, options);
@@ -799,7 +832,7 @@
             info.startts = message.start;
             info.endts = message.end;
 
-            if (message.card.url.indexOf("wikipedia") > -1) {
+            if (message.card.url.indexOf("fwikipedia") > -1) {
                 // Link to wikipedia, just put in a link
                 let template = document.querySelector("template#infoblock").content.cloneNode(true);
                 let block = template.querySelector("div");
@@ -812,11 +845,14 @@
                 let template = document.querySelector("template#infoblock").content.cloneNode(true);
                 let block = template.querySelector("div");
                 block.querySelector(".infotitle").innerHTML = message.keywords.join();
-                block.querySelector("a").setAttribute("href", message.card.url);
-                block.querySelector("a").setAttribute(  "target", "_blank");
+
+                block.querySelector("a").addEventListener("click", () => {
+                    document.querySelector(".embedmap iframe").src = message.card.url;
+                    document.querySelector(".embedmap").style.display = "block";
+                });
                 block.querySelector("img").src = "https://cdn-icons-png.flaticon.com/512/355/355980.png";
                 info.appendChild(block);
-            } else {   
+            } else {
                 let i = document.createElement("iframe");
                 i.classList.add("infoblock");
                 i.src = message.card.url;
