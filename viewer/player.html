@@ -808,12 +808,12 @@
                 block.querySelector("a").setAttribute("target", "_blank");
                 block.querySelector("img").src = "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/220px-Wikipedia-logo-v2.svg.png";
                 info.appendChild(block);
-            } else if (message.card.url.indexOf("maps.google") > -1) {
+            } else if (message.card.url.indexOf("maps") > -1) {
                 let template = document.querySelector("template#infoblock").content.cloneNode(true);
                 let block = template.querySelector("div");
                 block.querySelector(".infotitle").innerHTML = message.keywords.join();
                 block.querySelector("a").setAttribute("href", message.card.url);
-                block.querySelector("a").setAttribute("target", "_blank");
+                block.querySelector("a").setAttribute(  "target", "_blank");
                 block.querySelector("img").src = "https://cdn-icons-png.flaticon.com/512/355/355980.png";
                 info.appendChild(block);
             } else {   
