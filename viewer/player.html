@@ -831,6 +831,15 @@
             info.startts = message.start;
             info.endts = message.end;
 
+            // If we already have this infocard visible, don't create a new one
+            let gotit = false;
+            document.querySelectorAll(".infoblock").forEach(block => {
+                if (block.querySelector(".infotitle").innerHTML == message.keywords.join())
+                    gotit = true;
+            });
+            console.log("Gotit?", gotit);
+            if (gotit) return;
+
             if (message.card.url.indexOf("wikipedia") > -1) {
                 // Link to wikipedia, just put in a link
                 let template = document.querySelector("template#infoblock").content.cloneNode(true);
