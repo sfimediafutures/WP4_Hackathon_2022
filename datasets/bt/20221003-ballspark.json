@@ -3,12 +3,12 @@
  "poster": "https://imbo.vgtv.no/users/bt_/images/0fa50df921e3b9c44d31d00c9f9d98ad.jpg?t%5B%5D=1440q80",
  "subtitles": [
   {
-   "src": "/whisper//bt/20221003-ballspark_subs.json"
+   "src": "/hack/datasets/bt/20221003-ballspark_subs.json"
   }
  ],
- "cast": "/whisper//bt/20221003-ballspark_people.json",
+ "cast": "/hack/datasets/bt/20221003-ballspark_people.json",
  "audio": {
-  "src": "/whisper//bt/20221003-ballspark.mp3"
+  "src": "/hack/datasets/bt/20221003-ballspark.mp3"
  },
- "info": "https://seer2.itek.norut.no/whisper/bt/20221003-ballspark_info.json"
+ "info": "/hack/datasets/bt/20221003-ballspark_info.json"
 }

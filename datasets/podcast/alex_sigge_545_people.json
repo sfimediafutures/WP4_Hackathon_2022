@@ -2,7 +2,7 @@
  "0": {
   "name": "Sigge",
   "color": "#e0c09aa6",
-  "src": "/audio/sigge.png",
+  "src": "/hack/datasets/gfx/sigge.png",
   "segments": [
    {
     "file": "/tmp/alex_sigge_545_mono.wav",
@@ -22,7 +22,7 @@
  "1": {
   "name": "Alex",
   "color": "#c5784ca6",
-  "src": "/audio/alex.png",
+  "src": "/hack/datasets/gfx/alex.png",
   "segments": [
    {
     "file": "/tmp/alex_sigge_545_mono.wav",

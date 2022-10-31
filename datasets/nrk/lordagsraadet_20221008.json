@@ -2,12 +2,12 @@
  "id": 3403522727,
  "subtitles": [
   {
-   "src": "/whisper//nrk/lordagsraadet_20221008_subs.json"
+   "src": "/hack/datasets/nrk/lordagsraadet_20221008_subs.json"
   }
  ],
- "cast": "/whisper//nrk/lordagsraadet_20221008_people.json",
- "info": "/whisper//nrk/lordagsraadet_20221008_info.json",
+ "cast": "/hack/datasets/nrk/lordagsraadet_20221008_people.json",
+ "info": "/hack/datasets/nrk/lordagsraadet_20221008_info.json",
  "audio": {
-  "src": "https://seer2.itek.norut.no/whisper//nrk/lordagsraadet_20221008.mp3"
+  "src": "/hack/datasets/nrk/lordagsraadet_20221008.mp3"
  }
 }

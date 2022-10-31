@@ -1,7 +1,7 @@
 {
  "0": {
   "name": "Live Nelvik",
-  "src": "/whisper/nrk/Live_Nelvik.png",
+  "src": "/hack/datasets/nrk/Live_Nelvik.png",
   "color": "#e2e3e5a6",
   "segments": [
    {
@@ -21,7 +21,7 @@
  },
  "1": {
   "name": "Tinashe Williamson",
-  "src": "/whisper/nrk/Tinashe_Williamson.png",
+  "src": "/hack/datasets/nrk/Tinashe_Williamson.png",
   "color": "#d4a786a6",
   "segments": [
    {
@@ -41,7 +41,7 @@
  },
  "2": {
   "name": "Lars Berrum",
-  "src": "/whisper/nrk/Lars_Berrum.png",
+  "src": "/hack/datasets/nrk/Lars_Berrum.png",
   "color": "#695a53a6",
   "segments": [
    {
@@ -61,7 +61,7 @@
  },
  "3": {
   "name": "Silje Nordnes",
-  "src": "/whisper/nrk/Silje_Nordnes.png",
+  "src": "/hack/datasets/nrk/Silje_Nordnes.png",
   "color": "#362828a6",
   "segments": [
    {

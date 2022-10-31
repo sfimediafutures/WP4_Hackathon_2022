@@ -1,0 +1,86 @@
+{
+ "0": {
+  "name": 0,
+  "src": "/hack/datasets/gfx/bbc_history_extra_person.png",
+  "color": "#29a29aa6",
+  "segments": [
+   {
+    "file": "/tmp/history_extra_mono.wav",
+    "times": [
+     [
+      61.88,
+      68.88
+     ],
+     [
+      3488.12,
+      3495.12
+     ]
+    ]
+   }
+  ]
+ },
+ "1": {
+  "name": 1,
+  "src": "/hack/datasets/gfx/matt_elton.png",
+  "color": "#609e5da6",
+  "segments": [
+   {
+    "file": "/tmp/history_extra_mono.wav",
+    "times": [
+     [
+      78.92,
+      85.92
+     ],
+     [
+      95.18,
+      102.18
+     ]
+    ]
+   }
+  ]
+ },
+ "2": {
+  "name": 2,
+  "src": "/hack/datasets/gfx/roger_lockhurst.png",
+  "color": "#fecd41a6",
+  "segments": [
+   {
+    "file": "/tmp/history_extra_mono.wav",
+    "times": [
+     [
+      124.19,
+      131.19
+     ],
+     [
+      133.76,
+      140.76
+     ]
+    ]
+   }
+  ]
+ },
+ "3": {
+  "name": 3,
+  "color": "#9baaa3a6",
+  "segments": [
+   {
+    "file": "/tmp/history_extra_mono.wav",
+    "times": [
+     [
+      1708.07,
+      1715.07
+     ],
+     [
+      1716.2,
+      1721.7
+     ]
+    ]
+   }
+  ]
+ },
+ "extras": [
+  "#2b2828a6",
+  "#4e4d52a6",
+  "#99faefa6"
+ ]
+}

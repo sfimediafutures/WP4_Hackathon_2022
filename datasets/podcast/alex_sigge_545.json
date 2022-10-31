@@ -1,12 +1,13 @@
 {
  "id": 745033982,
+ "poster": "/hack/datasets/alex_sigge.jpg",
  "subtitles": [
   {
-   "src": "/whisper//podcast/alex_sigge_545_subs.json"
+   "src": "/hack/datasets/podcast/alex_sigge_545_subs.json"
   }
  ],
- "cast": "/whisper//podcast/alex_sigge_545_people.json",
- "info": "/whisper//podcast/alex_sigge_545_info.json",
+ "cast": "/hack/datasets/podcast/alex_sigge_545_people.json",
+ "info": "/hack/datasets/podcast/alex_sigge_545_info.json",
  "audio": {
   "src": "https://seer2.itek.norut.no/whisper//podcast/alex_sigge_545.mp3"
  }

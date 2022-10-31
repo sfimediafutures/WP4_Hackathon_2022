@@ -1,7 +1,7 @@
 {
  "0": {
   "name": "Trygve Slagsvold Vedum",
-  "src": "/audio/vedum.png",
+  "src": "/hack/datasets/gfx/vedum.png",
   "color": "#11878ba6",
   "segments": [
    {
@@ -37,7 +37,7 @@
  },
  "1": {
   "name": "Gerd Tjellflåt",
-  "src": "/audio/gerd_tjeldflåt.png",
+  "src": "/hack/datasets/gfx/gerd_tjeldflåt.png",
   "color": "#bc52aca6",
   "segments": [
    {
@@ -57,7 +57,7 @@
  },
  "2": {
   "name": "Hans Mjelva",
-  "src": "/audio/hans_mjelva.png",
+  "src": "/hack/datasets/gfx/hans_mjelva.png",
   "color": "#672759a6",
   "segments": [
    {
@@ -78,7 +78,7 @@
  "3": {
   "name": 3,
   "color": "#db837fa6",
-  "src": "/audio/stig_arild_pettersen.png",
+  "src": "/hack/datasets/gfx/stig_arild_pettersen.png",
   "segments": [
    {
     "file": "/tmp/20221006-nmg_mono.wav",

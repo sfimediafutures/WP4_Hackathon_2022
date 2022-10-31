@@ -3,11 +3,11 @@
   "id": 3403522727,
   "title": "Lordagsraadet_20221008",
   "published": 1665951372.8842816,
-  "manifest": "/whisper//nrk/lordagsraadet_20221008.json",
+  "manifest": "/hack/datasets/nrk/lordagsraadet_20221008.json",
   "description": "",
   "enclosures": [
    {
-    "url": "/whisper//nrk/lordagsraadet_20221008.mp3",
+    "url": "/hack/datasets/nrk/lordagsraadet_20221008.mp3",
     "mime_type": "audio/mpeg"
    }
   ],
@@ -17,11 +17,11 @@
   "id": 3611366691,
   "title": "Balladen",
   "published": 1665991607.676254,
-  "manifest": "/whisper//nrk/balladen.json",
+  "manifest": "/hack/datasets/nrk/balladen.json",
   "description": "",
   "enclosures": [
    {
-    "url": "/whisper//nrk/balladen.mp3",
+    "url": "/hack/datasets/nrk/balladen.mp3",
     "mime_type": "audio/mpeg"
    }
   ],

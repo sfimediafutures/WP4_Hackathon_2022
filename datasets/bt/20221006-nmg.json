@@ -3,12 +3,12 @@
  "poster": "https://imbo.vgtv.no/users/bt_/images/6f40695b6027d5e8106c834dab187e45.jpg?t%5B%5D=1440q80",
  "subtitles": [
   {
-   "src": "/whisper//bt/20221006-nmg_subs.json"
+   "src": "/hack/datasets/bt/20221006-nmg_subs.json"
   }
  ],
- "cast": "/whisper//bt/20221006-nmg_people.json",
- "info": "/whisper//bt/20221006-nmg_info.json",
+ "cast": "/hack/datasets/bt/20221006-nmg_people.json",
+ "info": "/hack/datasets/bt/20221006-nmg_info.json",
  "audio": {
-  "src": "https://seer2.itek.norut.no/whisper//bt/20221006-nmg.mp3"
+  "src": "/hack/datasets/bt/20221006-nmg.mp3"
  }
 }

@@ -3,12 +3,12 @@
  "poster": "https://assets.pippa.io/shows/61b9b44142e85655b098576d/show-cover.jpg",
  "subtitles": [
   {
-   "src": "/whisper//podcast/buxton_187_subs.json"
+   "src": "/hack/datasets/podcast/buxton_187_subs.json"
   }
  ],
- "cast": "/whisper//podcast/buxton_187_people.json",
- "info": "/whisper//podcast/buxton_187_info.json",
+ "cast": "/hack/datasets/podcast/buxton_187_people.json",
+ "info": "/hack/datasets/podcast/buxton_187_info.json",
  "audio": {
-  "src": "https://seer2.itek.norut.no/whisper//podcast/buxton_187.mp3"
+  "src": "/hack/datasets/podcast/buxton_187.mp3"
  }
 }

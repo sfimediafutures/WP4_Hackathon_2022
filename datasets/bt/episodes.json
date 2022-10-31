@@ -3,11 +3,11 @@
   "id": 3377549364,
   "title": "20221003-Ballspark",
   "published": 1666015449.0301206,
-  "manifest": "/whisper//bt/20221003-ballspark.json",
+  "manifest": "/hack/datasets/bt/20221003-ballspark.json",
   "description": "",
   "enclosures": [
    {
-    "url": "/whisper//bt/20221003-ballspark.mp3",
+    "url": "/hack/datasets/bt/20221003-ballspark.mp3",
     "mime_type": "audio/mpeg"
    }
   ],
@@ -17,11 +17,11 @@
   "id": 3881710354,
   "title": "20221006-Nmg",
   "published": 1666024602.01361,
-  "manifest": "/whisper//bt/20221006-nmg.json",
+  "manifest": "/hack/datasets/bt/20221006-nmg.json",
   "description": "",
   "enclosures": [
    {
-    "url": "/whisper//bt/20221006-nmg.mp3",
+    "url": "/hack/datasets/bt/20221006-nmg.mp3",
     "mime_type": "audio/mpeg"
    }
   ],
