@@ -1,0 +1,14 @@
+{
+ "id": 1357370108,
+ "poster": "/hack/datasetspodcast/alex_sigge.jpg",
+ "subtitles": [
+  {
+   "src": "/hack/datasets/podcast/alex_sigge_546_subs.json"
+  }
+ ],
+ "cast": "/hack/datasets/podcast/alex_sigge_546_people.json",
+ "info": "/hack/datasets/podcast/alex_sigge_546_info.json",
+ "audio": {
+  "src": "/hack/datasets/podcast/alex_sigge_546.mp3"
+ }
+}

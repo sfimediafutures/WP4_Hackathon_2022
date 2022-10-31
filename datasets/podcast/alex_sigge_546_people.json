@@ -1,0 +1,138 @@
+{
+ "Alex": {
+  "name": "Alex",
+  "src": "/hack/datasets/gfx/alex.png",
+  "color": "#e0c09aa6",
+  "fcolor": "#452005a6"
+ },
+ "Sigge": {
+  "name": "Sigge",
+  "src": "/hack/datasets/gfx/sigge.png",
+  "color": "#c5784ca6"
+ },
+ "2": {
+  "name": 2,
+  "color": "#2b2b2ba6",
+  "segments": [
+   {
+    "file": "/tmp/alex_sigge_546_mono.wav",
+    "times": [
+     [
+      44.93,
+      51.93
+     ],
+     [
+      127.82,
+      134.32
+     ]
+    ]
+   }
+  ]
+ },
+ "3": {
+  "name": 3,
+  "color": "#836c5aa6",
+  "segments": [
+   {
+    "file": "/tmp/alex_sigge_546_mono.wav",
+    "times": [
+     [
+      243.77,
+      248.77
+     ],
+     [
+      342.5,
+      348.0
+     ]
+    ]
+   }
+  ]
+ },
+ "4": {
+  "name": 4,
+  "color": "#fbffffa6",
+  "segments": [
+   {
+    "file": "/tmp/alex_sigge_546_mono.wav",
+    "times": [
+     [
+      996.29,
+      1001.29
+     ]
+    ]
+   }
+  ]
+ },
+ "5": {
+  "name": 5,
+  "color": "#45482da6",
+  "segments": [
+   {
+    "file": "/tmp/alex_sigge_546_mono.wav",
+    "times": [
+     [
+      1222.37,
+      1227.87
+     ],
+     [
+      3133.82,
+      3140.82
+     ]
+    ]
+   }
+  ]
+ },
+ "6": {
+  "name": 6,
+  "color": "#FBAE46a6",
+  "segments": [
+   {
+    "file": "/tmp/alex_sigge_546_mono.wav",
+    "times": [
+     [
+      1629.14,
+      1636.14
+     ],
+     [
+      1637.27,
+      1644.27
+     ]
+    ]
+   }
+  ]
+ },
+ "7": {
+  "name": 7,
+  "color": "#4E8502a6",
+  "segments": [
+   {
+    "file": "/tmp/alex_sigge_546_mono.wav",
+    "times": [
+     [
+      2762.24,
+      2769.24
+     ],
+     [
+      2770.37,
+      2777.37
+     ]
+    ]
+   }
+  ]
+ },
+ "8": {
+  "name": 8,
+  "color": "#8A5D93a6",
+  "segments": [
+   {
+    "file": "/tmp/alex_sigge_546_mono.wav",
+    "times": [
+     [
+      2883.89,
+      2890.89
+     ]
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,2955 @@
+[
+ {
+  "start": 0.0,
+  "end": 7.28,
+  "keywords": [
+   "SVT"
+  ],
+  "type": "ORG",
+  "score": 0.9983219504,
+  "card": {
+   "keywords": [
+    "SVT"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Sveriges_Television"
+  }
+ },
+ {
+  "start": 0.0,
+  "end": 7.28,
+  "keywords": [
+   "SVT"
+  ],
+  "type": "ORG",
+  "score": 0.9699879289,
+  "card": {
+   "keywords": [
+    "SVT"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Sveriges_Television"
+  }
+ },
+ {
+  "start": 27.76,
+  "end": 35.28,
+  "keywords": [
+   "P1"
+  ],
+  "type": "ORG",
+  "score": 0.9880530834,
+  "card": {
+   "keywords": [
+    "P1"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/NRK_P1"
+  }
+ },
+ {
+  "start": 37.28,
+  "end": 44.32,
+  "keywords": [
+   "Expressen"
+  ],
+  "type": "ORG",
+  "score": 0.9786810279,
+  "card": {
+   "keywords": [
+    "Expressen"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Expressen"
+  }
+ },
+ {
+  "start": 37.28,
+  "end": 44.32,
+  "keywords": [
+   "SVT"
+  ],
+  "type": "ORG",
+  "score": 0.9981294274,
+  "card": {
+   "keywords": [
+    "SVT"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Sveriges_Television"
+  }
+ },
+ {
+  "start": 37.28,
+  "end": 44.32,
+  "keywords": [
+   "Stockholm"
+  ],
+  "type": "LOC",
+  "score": 0.9993964434,
+  "card": {
+   "keywords": [
+    "Stockholm"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Stockholm"
+  }
+ },
+ {
+  "start": 44.32,
+  "end": 49.99999999999999,
+  "keywords": [
+   "SVT"
+  ],
+  "type": "ORG",
+  "score": 0.9781041145,
+  "card": {
+   "keywords": [
+    "SVT"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Sveriges_Television"
+  }
+ },
+ {
+  "start": 79.2,
+  "end": 84.64,
+  "keywords": [
+   "Fredrik Laurinja"
+  ],
+  "type": "PER",
+  "score": 0.9994702935,
+  "card": {
+   "keywords": [
+    "Fredrik Laurinja"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 79.2,
+  "end": 84.64,
+  "keywords": [
+   "Uppdrag Granskning"
+  ],
+  "type": "MISC",
+  "score": 0.6696593761,
+  "card": {
+   "keywords": [
+    "Uppdrag Granskning"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Uppdrag_granskning"
+  }
+ },
+ {
+  "start": 97.28,
+  "end": 105.76,
+  "keywords": [
+   "SVT"
+  ],
+  "type": "ORG",
+  "score": 0.9912317395,
+  "card": {
+   "keywords": [
+    "SVT"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Sveriges_Television"
+  }
+ },
+ {
+  "start": 143.71999999999994,
+  "end": 151.7999999999999,
+  "keywords": [
+   "Fredrik Laurin"
+  ],
+  "type": "PER",
+  "score": 0.9996615648,
+  "card": {
+   "keywords": [
+    "Fredrik Laurinja"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 143.71999999999994,
+  "end": 151.7999999999999,
+  "keywords": [
+   "SVT"
+  ],
+  "type": "ORG",
+  "score": 0.8767522573,
+  "card": {
+   "keywords": [
+    "SVT"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Sveriges_Television"
+  }
+ },
+ {
+  "start": 158.75999999999988,
+  "end": 164.5199999999999,
+  "keywords": [
+   "Tonsji Peretsan"
+  ],
+  "type": "PER",
+  "score": 0.9994431734,
+  "card": {
+   "keywords": [
+    "Tonsji Peretsan"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 202.32,
+  "end": 209.04000000000002,
+  "keywords": [
+   "\u00d6rngott"
+  ],
+  "type": "MISC",
+  "score": 0.8698619604,
+  "card": {
+   "keywords": [
+    "\u00d6rngott"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 215.04,
+  "end": 218.56,
+  "keywords": [
+   "SVT huset"
+  ],
+  "type": "ORG",
+  "score": 0.9125201702,
+  "card": {
+   "keywords": [
+    "SVT"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Sveriges_Television"
+  }
+ },
+ {
+  "start": 290.8,
+  "end": 297.52,
+  "keywords": [
+   "SD"
+  ],
+  "type": "ORG",
+  "score": 0.9890640378,
+  "card": {
+   "keywords": [
+    "SD"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/SD"
+  }
+ },
+ {
+  "start": 312.8,
+  "end": 323.2,
+  "keywords": [
+   "SD"
+  ],
+  "type": "ORG",
+  "score": 0.9947063327,
+  "card": {
+   "keywords": [
+    "SD"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/SD"
+  }
+ },
+ {
+  "start": 312.8,
+  "end": 323.2,
+  "keywords": [
+   "Gunnar Ax\u00e9n"
+  ],
+  "type": "PER",
+  "score": 0.9994596243,
+  "card": {
+   "keywords": [
+    "Gunnar Ax\u00e9n"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 312.8,
+  "end": 323.2,
+  "keywords": [
+   "Twitter"
+  ],
+  "type": "MISC",
+  "score": 0.9784367681,
+  "card": {
+   "keywords": [
+    "Twitter"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Twitter"
+  }
+ },
+ {
+  "start": 323.2,
+  "end": 327.59999999999997,
+  "keywords": [
+   "SVT"
+  ],
+  "type": "ORG",
+  "score": 0.9327369332,
+  "card": {
+   "keywords": [
+    "SVT"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Sveriges_Television"
+  }
+ },
+ {
+  "start": 348.72,
+  "end": 356.96,
+  "keywords": [
+   "Gunnar Ax\u00e9n"
+  ],
+  "type": "PER",
+  "score": 0.9995539188,
+  "card": {
+   "keywords": [
+    "Gunnar Ax\u00e9n"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 348.72,
+  "end": 356.96,
+  "keywords": [
+   "SD"
+  ],
+  "type": "ORG",
+  "score": 0.9959695339,
+  "card": {
+   "keywords": [
+    "SD"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/SD"
+  }
+ },
+ {
+  "start": 371.2,
+  "end": 377.2,
+  "keywords": [
+   "Lars Nyberg"
+  ],
+  "type": "PER",
+  "score": 0.9996305704,
+  "card": {
+   "keywords": [
+    "Lars Nyberg"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Lars_Nyberg"
+  }
+ },
+ {
+  "start": 371.2,
+  "end": 377.2,
+  "keywords": [
+   "Telia"
+  ],
+  "type": "ORG",
+  "score": 0.9934734702,
+  "card": {
+   "keywords": [
+    "Telia"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Telia_Company"
+  }
+ },
+ {
+  "start": 371.2,
+  "end": 377.2,
+  "keywords": [
+   "G\u00e4rdet"
+  ],
+  "type": "LOC",
+  "score": 0.9880861044,
+  "card": {
+   "keywords": [
+    "G\u00e4rdet"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=G\u00e4rdet"
+  }
+ },
+ {
+  "start": 377.2,
+  "end": 385.04,
+  "keywords": [
+   "Gunnar Ax\u00e9n"
+  ],
+  "type": "PER",
+  "score": 0.9994995594,
+  "card": {
+   "keywords": [
+    "Gunnar Ax\u00e9n"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 385.04,
+  "end": 395.04,
+  "keywords": [
+   "G\u00e4rdet"
+  ],
+  "type": "LOC",
+  "score": 0.9846789241,
+  "card": {
+   "keywords": [
+    "G\u00e4rdet"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=G\u00e4rdet"
+  }
+ },
+ {
+  "start": 395.04,
+  "end": 406.08,
+  "keywords": [
+   "G\u00e4rdet"
+  ],
+  "type": "LOC",
+  "score": 0.987834692,
+  "card": {
+   "keywords": [
+    "G\u00e4rdet"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=G\u00e4rdet"
+  }
+ },
+ {
+  "start": 395.04,
+  "end": 406.08,
+  "keywords": [
+   "Gunnar Ax\u00e9ns"
+  ],
+  "type": "PER",
+  "score": 0.9995752573,
+  "card": {
+   "keywords": [
+    "Gunnar Ax\u00e9n"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 411.28,
+  "end": 415.68,
+  "keywords": [
+   "G\u00e4rdet"
+  ],
+  "type": "LOC",
+  "score": 0.9804228544,
+  "card": {
+   "keywords": [
+    "G\u00e4rdet"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=G\u00e4rdet"
+  }
+ },
+ {
+  "start": 445.76,
+  "end": 453.6,
+  "keywords": [
+   "G\u00e4rdet"
+  ],
+  "type": "LOC",
+  "score": 0.963683784,
+  "card": {
+   "keywords": [
+    "G\u00e4rdet"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=G\u00e4rdet"
+  }
+ },
+ {
+  "start": 445.76,
+  "end": 453.6,
+  "keywords": [
+   "Gunnar Ax\u00e9ns"
+  ],
+  "type": "PER",
+  "score": 0.9995408058,
+  "card": {
+   "keywords": [
+    "Gunnar Ax\u00e9n"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 453.6,
+  "end": 459.0400000000001,
+  "keywords": [
+   "Novichock"
+  ],
+  "type": "LOC",
+  "score": 0.9832368493,
+  "card": {
+   "keywords": [
+    "Novichock"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Novichock"
+  }
+ },
+ {
+  "start": 464.8,
+  "end": 472.40000000000003,
+  "keywords": [
+   "Gunnar Ax\u00e9n"
+  ],
+  "type": "PER",
+  "score": 0.9996283054,
+  "card": {
+   "keywords": [
+    "Gunnar Ax\u00e9n"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 488.8,
+  "end": 495.28,
+  "keywords": [
+   "Novichock"
+  ],
+  "type": "LOC",
+  "score": 0.9708795547,
+  "card": {
+   "keywords": [
+    "Novichock"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Novichock"
+  }
+ },
+ {
+  "start": 501.04,
+  "end": 504.32,
+  "keywords": [
+   "Navalny"
+  ],
+  "type": "PER",
+  "score": 0.9975735545,
+  "card": {
+   "keywords": [
+    "Navalny"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 522.48,
+  "end": 527.2,
+  "keywords": [
+   "G\u00e4rdet"
+  ],
+  "type": "LOC",
+  "score": 0.9771609306,
+  "card": {
+   "keywords": [
+    "G\u00e4rdet"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=G\u00e4rdet"
+  }
+ },
+ {
+  "start": 548.08,
+  "end": 554.56,
+  "keywords": [
+   "Garvat"
+  ],
+  "type": "PER",
+  "score": 0.9969097972,
+  "card": {
+   "keywords": [
+    "Garvat"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 559.64,
+  "end": 562.9733333333334,
+  "keywords": [
+   "Fredrik Laurin"
+  ],
+  "type": "PER",
+  "score": 0.9995167851,
+  "card": {
+   "keywords": [
+    "Fredrik Laurinja"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 597.04,
+  "end": 600.8,
+  "keywords": [
+   "Fredrik Laurin"
+  ],
+  "type": "PER",
+  "score": 0.9995167851,
+  "card": {
+   "keywords": [
+    "Fredrik Laurinja"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 605.6799999999998,
+  "end": 608.8133333333332,
+  "keywords": [
+   "Olof Thunberg"
+  ],
+  "type": "PER",
+  "score": 0.9993610382,
+  "card": {
+   "keywords": [
+    "Olof Thunberg"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Olof_Thunberg"
+  }
+ },
+ {
+  "start": 605.6799999999998,
+  "end": 608.8133333333332,
+  "keywords": [
+   "Bamse"
+  ],
+  "type": "PER",
+  "score": 0.6137412786,
+  "card": {
+   "keywords": [
+    "Bamse"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Bamse"
+  }
+ },
+ {
+  "start": 612.4,
+  "end": 616.88,
+  "keywords": [
+   "Skalman"
+  ],
+  "type": "PER",
+  "score": 0.998690784,
+  "card": {
+   "keywords": [
+    "Skalman"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 696.32,
+  "end": 702.08,
+  "keywords": [
+   "Laurin"
+  ],
+  "type": "PER",
+  "score": 0.9951607585,
+  "card": {
+   "keywords": [
+    "Fredrik Laurinja"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 796.2400000000004,
+  "end": 803.4400000000003,
+  "keywords": [
+   "SVT"
+  ],
+  "type": "ORG",
+  "score": 0.7357296944,
+  "card": {
+   "keywords": [
+    "SVT"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Sveriges_Television"
+  }
+ },
+ {
+  "start": 927.28,
+  "end": 933.12,
+  "keywords": [
+   "SVT"
+  ],
+  "type": "ORG",
+  "score": 0.9889312387,
+  "card": {
+   "keywords": [
+    "SVT"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Sveriges_Television"
+  }
+ },
+ {
+  "start": 927.28,
+  "end": 933.12,
+  "keywords": [
+   "HR"
+  ],
+  "type": "ORG",
+  "score": 0.6740518808,
+  "card": {
+   "keywords": [
+    "HR"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/HR"
+  }
+ },
+ {
+  "start": 949.04,
+  "end": 955.6799999999998,
+  "keywords": [
+   "SVT"
+  ],
+  "type": "ORG",
+  "score": 0.9915030003,
+  "card": {
+   "keywords": [
+    "SVT"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Sveriges_Television"
+  }
+ },
+ {
+  "start": 995.92,
+  "end": 1002.96,
+  "keywords": [
+   "Fredrik Laurin"
+  ],
+  "type": "PER",
+  "score": 0.9996135235,
+  "card": {
+   "keywords": [
+    "Fredrik Laurinja"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1006.0,
+  "end": 1011.2,
+  "keywords": [
+   "SVT"
+  ],
+  "type": "ORG",
+  "score": 0.9860038161,
+  "card": {
+   "keywords": [
+    "SVT"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Sveriges_Television"
+  }
+ },
+ {
+  "start": 1056.08,
+  "end": 1058.96,
+  "keywords": [
+   "Schweiz"
+  ],
+  "type": "ORG",
+  "score": 0.9614906907,
+  "card": {
+   "keywords": [
+    "Schweiz"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Sveits"
+  }
+ },
+ {
+  "start": 1081.2,
+  "end": 1083.84,
+  "keywords": [
+   "SVT"
+  ],
+  "type": "ORG",
+  "score": 0.9897407293,
+  "card": {
+   "keywords": [
+    "SVT"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Sveriges_Television"
+  }
+ },
+ {
+  "start": 1083.84,
+  "end": 1089.36,
+  "keywords": [
+   "Karl Toft"
+  ],
+  "type": "PER",
+  "score": 0.9987597466,
+  "card": {
+   "keywords": [
+    "Karl Toft"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1089.36,
+  "end": 1092.9599999999998,
+  "keywords": [
+   "Novichok"
+  ],
+  "type": "LOC",
+  "score": 0.9947789907,
+  "card": {
+   "keywords": [
+    "Novichok"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Novichok"
+  }
+ },
+ {
+  "start": 1104.4,
+  "end": 1109.12,
+  "keywords": [
+   "SVT"
+  ],
+  "type": "ORG",
+  "score": 0.7875546813,
+  "card": {
+   "keywords": [
+    "SVT"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Sveriges_Television"
+  }
+ },
+ {
+  "start": 1142.96,
+  "end": 1147.6,
+  "keywords": [
+   "SVT"
+  ],
+  "type": "ORG",
+  "score": 0.9951117635,
+  "card": {
+   "keywords": [
+    "SVT"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Sveriges_Television"
+  }
+ },
+ {
+  "start": 1203.04,
+  "end": 1207.04,
+  "keywords": [
+   "SVTs"
+  ],
+  "type": "ORG",
+  "score": 0.9926319122,
+  "card": {
+   "keywords": [
+    "SVT"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Sveriges_Television"
+  }
+ },
+ {
+  "start": 1235.2833333333333,
+  "end": 1239.2833333333333,
+  "keywords": [
+   "Coop"
+  ],
+  "type": "ORG",
+  "score": 0.9982188344,
+  "card": {
+   "keywords": [
+    "Coop"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Coop"
+  }
+ },
+ {
+  "start": 1249.2833333333333,
+  "end": 1253.2833333333333,
+  "keywords": [
+   "Coop"
+  ],
+  "type": "ORG",
+  "score": 0.9870436788,
+  "card": {
+   "keywords": [
+    "Coop"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Coop"
+  }
+ },
+ {
+  "start": 1281.04,
+  "end": 1285.04,
+  "keywords": [
+   "Coop"
+  ],
+  "type": "ORG",
+  "score": 0.9951660633,
+  "card": {
+   "keywords": [
+    "Coop"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Coop"
+  }
+ },
+ {
+  "start": 1293.04,
+  "end": 1295.04,
+  "keywords": [
+   "Coop"
+  ],
+  "type": "ORG",
+  "score": 0.7248743176,
+  "card": {
+   "keywords": [
+    "Coop"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Coop"
+  }
+ },
+ {
+  "start": 1316.04,
+  "end": 1318.04,
+  "keywords": [
+   "Coop"
+  ],
+  "type": "ORG",
+  "score": 0.9166706204,
+  "card": {
+   "keywords": [
+    "Coop"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Coop"
+  }
+ },
+ {
+  "start": 1319.94,
+  "end": 1322.94,
+  "keywords": [
+   "Scandic"
+  ],
+  "type": "ORG",
+  "score": 0.9990918636,
+  "card": {
+   "keywords": [
+    "Scandic"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 1319.94,
+  "end": 1322.94,
+  "keywords": [
+   "Nordens"
+  ],
+  "type": "LOC",
+  "score": 0.9417055845,
+  "card": {
+   "keywords": [
+    "Nordens"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Nordens"
+  }
+ },
+ {
+  "start": 1341.04,
+  "end": 1345.04,
+  "keywords": [
+   "Mattias Bernard"
+  ],
+  "type": "PER",
+  "score": 0.9988439083,
+  "card": {
+   "keywords": [
+    "Mattias Bernard"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1347.04,
+  "end": 1351.04,
+  "keywords": [
+   "Scandic Anglia"
+  ],
+  "type": "LOC",
+  "score": 0.7977102995,
+  "card": {
+   "keywords": [
+    "Scandic Anglia"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Scandic Anglia"
+  }
+ },
+ {
+  "start": 1377.04,
+  "end": 1383.04,
+  "keywords": [
+   "Scandic Grand Central"
+  ],
+  "type": "LOC",
+  "score": 0.9724757075,
+  "card": {
+   "keywords": [
+    "Scandic Anglia"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Scandic Anglia"
+  }
+ },
+ {
+  "start": 1387.04,
+  "end": 1393.04,
+  "keywords": [
+   "Scandic Grand Central"
+  ],
+  "type": "ORG",
+  "score": 0.8673944473,
+  "card": {
+   "keywords": [
+    "Scandic"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 1393.04,
+  "end": 1400.04,
+  "keywords": [
+   "Vasateatern"
+  ],
+  "type": "ORG",
+  "score": 0.4474271834,
+  "card": {
+   "keywords": [
+    "Vasateatern"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Vasateatern"
+  }
+ },
+ {
+  "start": 1400.04,
+  "end": 1404.04,
+  "keywords": [
+   "G\u00f6teborg"
+  ],
+  "type": "LOC",
+  "score": 0.9985595345,
+  "card": {
+   "keywords": [
+    "G\u00f6teborg"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=G\u00f6teborg"
+  }
+ },
+ {
+  "start": 1400.04,
+  "end": 1404.04,
+  "keywords": [
+   "Scandic G\u00f6teborg Central"
+  ],
+  "type": "ORG",
+  "score": 0.9179657102,
+  "card": {
+   "keywords": [
+    "Scandic"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 1431.1133333333335,
+  "end": 1435.1133333333337,
+  "keywords": [
+   "scandichotels"
+  ],
+  "type": "MISC",
+  "score": 0.7977899313,
+  "card": {
+   "keywords": [
+    "scandichotels"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 1451.04,
+  "end": 1458.04,
+  "keywords": [
+   "Nobelpriset"
+  ],
+  "type": "MISC",
+  "score": 0.8761853576,
+  "card": {
+   "keywords": [
+    "Nobelpriset"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 1471.04,
+  "end": 1476.04,
+  "keywords": [
+   "Kepler"
+  ],
+  "type": "PER",
+  "score": 0.7824708819,
+  "card": {
+   "keywords": [
+    "Kepler"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Johannes_Kepler"
+  }
+ },
+ {
+  "start": 1480.47,
+  "end": 1484.4700000000003,
+  "keywords": [
+   "Keplerpriset"
+  ],
+  "type": "MISC",
+  "score": 0.9810327291,
+  "card": {
+   "keywords": [
+    "Keplerpriset"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 1512.04,
+  "end": 1519.04,
+  "keywords": [
+   "Nobelpriset"
+  ],
+  "type": "MISC",
+  "score": 0.9660651088,
+  "card": {
+   "keywords": [
+    "Nobelpriset"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 1528.04,
+  "end": 1531.7066666666667,
+  "keywords": [
+   "Kepler"
+  ],
+  "type": "PER",
+  "score": 0.947381556,
+  "card": {
+   "keywords": [
+    "Kepler"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Johannes_Kepler"
+  }
+ },
+ {
+  "start": 1540.04,
+  "end": 1543.04,
+  "keywords": [
+   "Keplerpriset"
+  ],
+  "type": "MISC",
+  "score": 0.9800940156,
+  "card": {
+   "keywords": [
+    "Keplerpriset"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 1622.04,
+  "end": 1630.04,
+  "keywords": [
+   "Annie Ernaux"
+  ],
+  "type": "PER",
+  "score": 0.9995810986,
+  "card": {
+   "keywords": [
+    "Annie Ernaux"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Annie_Ernaux"
+  }
+ },
+ {
+  "start": 1639.04,
+  "end": 1644.04,
+  "keywords": [
+   "Ernaux"
+  ],
+  "type": "PER",
+  "score": 0.9463869333,
+  "card": {
+   "keywords": [
+    "Annie Ernaux"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Annie_Ernaux"
+  }
+ },
+ {
+  "start": 1689.04,
+  "end": 1695.04,
+  "keywords": [
+   "Ernaux"
+  ],
+  "type": "PER",
+  "score": 0.9994879961,
+  "card": {
+   "keywords": [
+    "Annie Ernaux"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Annie_Ernaux"
+  }
+ },
+ {
+  "start": 1736.04,
+  "end": 1748.04,
+  "keywords": [
+   "Ernaux"
+  ],
+  "type": "PER",
+  "score": 0.9992262125,
+  "card": {
+   "keywords": [
+    "Annie Ernaux"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Annie_Ernaux"
+  }
+ },
+ {
+  "start": 1788.04,
+  "end": 1795.04,
+  "keywords": [
+   "Peter Hanke"
+  ],
+  "type": "PER",
+  "score": 0.9996345043,
+  "card": {
+   "keywords": [
+    "Peter Hanke"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1788.04,
+  "end": 1795.04,
+  "keywords": [
+   "Ishiguro"
+  ],
+  "type": "PER",
+  "score": 0.9995082617,
+  "card": {
+   "keywords": [
+    "Ishiguro"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1788.04,
+  "end": 1795.04,
+  "keywords": [
+   "Patrick Modiano"
+  ],
+  "type": "PER",
+  "score": 0.9993518591,
+  "card": {
+   "keywords": [
+    "Patrick Modiano"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Patrick_Modiano"
+  }
+ },
+ {
+  "start": 1795.04,
+  "end": 1803.04,
+  "keywords": [
+   "Jellinek"
+  ],
+  "type": "PER",
+  "score": 0.9879556298,
+  "card": {
+   "keywords": [
+    "Jellinek"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1795.04,
+  "end": 1803.04,
+  "keywords": [
+   "Herta M\u00fcller"
+  ],
+  "type": "PER",
+  "score": 0.9994398355,
+  "card": {
+   "keywords": [
+    "Herta M\u00fcller"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Herta_M%C3%BCller"
+  }
+ },
+ {
+  "start": 1795.04,
+  "end": 1803.04,
+  "keywords": [
+   "Louise Glyck"
+  ],
+  "type": "PER",
+  "score": 0.9995286465,
+  "card": {
+   "keywords": [
+    "Louise Glyck"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1821.04,
+  "end": 1842.04,
+  "keywords": [
+   "Maria Bj\u00f6rkman"
+  ],
+  "type": "PER",
+  "score": 0.9996213913,
+  "card": {
+   "keywords": [
+    "Maria Bj\u00f6rkman"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1842.04,
+  "end": 1848.04,
+  "keywords": [
+   "Ingemar Fast"
+  ],
+  "type": "PER",
+  "score": 0.9995512962,
+  "card": {
+   "keywords": [
+    "Ingemar Fast"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1848.04,
+  "end": 1857.04,
+  "keywords": [
+   "Elisabeth \u00c5sbrink"
+  ],
+  "type": "PER",
+  "score": 0.9993466139,
+  "card": {
+   "keywords": [
+    "Elisabeth \u00c5sbrink"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Elisabeth_%C3%85sbrink"
+  }
+ },
+ {
+  "start": 1857.04,
+  "end": 1870.04,
+  "keywords": [
+   "Malin Ullgren"
+  ],
+  "type": "PER",
+  "score": 0.9995616674,
+  "card": {
+   "keywords": [
+    "Malin Ullgren"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1857.04,
+  "end": 1870.04,
+  "keywords": [
+   "DN"
+  ],
+  "type": "ORG",
+  "score": 0.8680970669,
+  "card": {
+   "keywords": [
+    "DN"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Dagens_N%C3%A6ringsliv"
+  }
+ },
+ {
+  "start": 1895.04,
+  "end": 1902.04,
+  "keywords": [
+   "Annie Ennoh"
+  ],
+  "type": "PER",
+  "score": 0.9994456768,
+  "card": {
+   "keywords": [
+    "Annie Ernaux"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Annie_Ernaux"
+  }
+ },
+ {
+  "start": 1902.04,
+  "end": 1906.04,
+  "keywords": [
+   "En flickas med maror?"
+  ],
+  "type": "MISC",
+  "score": 0.988491714,
+  "card": {
+   "keywords": [
+    "En flickas med maror?"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 1912.04,
+  "end": 1919.04,
+  "keywords": [
+   "En flickas med maror"
+  ],
+  "type": "MISC",
+  "score": 0.9976815581,
+  "card": {
+   "keywords": [
+    "En flickas med maror?"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 1912.04,
+  "end": 1919.04,
+  "keywords": [
+   "Sinnernas tid"
+  ],
+  "type": "MISC",
+  "score": 0.9947880507,
+  "card": {
+   "keywords": [
+    "Sinnernas tid"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 1924.04,
+  "end": 1934.04,
+  "keywords": [
+   "Ennoh"
+  ],
+  "type": "PER",
+  "score": 0.8131937385,
+  "card": {
+   "keywords": [
+    "Ennoh"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1970.04,
+  "end": 1973.04,
+  "keywords": [
+   "Ennoh"
+  ],
+  "type": "PER",
+  "score": 0.9898311496,
+  "card": {
+   "keywords": [
+    "Ennoh"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1973.04,
+  "end": 1978.04,
+  "keywords": [
+   "Knausg\u00e5rd"
+  ],
+  "type": "PER",
+  "score": 0.9993070364,
+  "card": {
+   "keywords": [
+    "Knausg\u00e5rd"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Karl_Ove_Knausg%C3%A5rd"
+  }
+ },
+ {
+  "start": 1985.04,
+  "end": 1992.04,
+  "keywords": [
+   "X"
+  ],
+  "type": "PER",
+  "score": 0.997194767,
+  "card": {
+   "keywords": [
+    "X"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/X"
+  }
+ },
+ {
+  "start": 2017.4,
+  "end": 2021.4,
+  "keywords": [
+   "Anna Wahlgren"
+  ],
+  "type": "PER",
+  "score": 0.9992655516,
+  "card": {
+   "keywords": [
+    "Anna Wahlgren"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 2025.04,
+  "end": 2030.04,
+  "keywords": [
+   "SVT"
+  ],
+  "type": "ORG",
+  "score": 0.9908311963,
+  "card": {
+   "keywords": [
+    "SVT"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Sveriges_Television"
+  }
+ },
+ {
+  "start": 2046.21,
+  "end": 2050.21,
+  "keywords": [
+   "Anna Wahlgren"
+  ],
+  "type": "PER",
+  "score": 0.998867929,
+  "card": {
+   "keywords": [
+    "Anna Wahlgren"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 2067.36,
+  "end": 2069.96,
+  "keywords": [
+   "Felicia F\u00e4lt"
+  ],
+  "type": "PER",
+  "score": 0.9989286661,
+  "card": {
+   "keywords": [
+    "Felicia F\u00e4lt"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 2076.04,
+  "end": 2085.04,
+  "keywords": [
+   "Wahlgren"
+  ],
+  "type": "PER",
+  "score": 0.997194767,
+  "card": {
+   "keywords": [
+    "Anna Wahlgren"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 2114.04,
+  "end": 2121.04,
+  "keywords": [
+   "Anna Wahlgren"
+  ],
+  "type": "PER",
+  "score": 0.9993672967,
+  "card": {
+   "keywords": [
+    "Anna Wahlgren"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 2125.7000000000003,
+  "end": 2136.7,
+  "keywords": [
+   "Annie"
+  ],
+  "type": "PER",
+  "score": 0.9995757937,
+  "card": {
+   "keywords": [
+    "Annie Ernaux"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Annie_Ernaux"
+  }
+ },
+ {
+  "start": 2143.7,
+  "end": 2151.7,
+  "keywords": [
+   "Anna Wahlgren"
+  ],
+  "type": "PER",
+  "score": 0.9991796017,
+  "card": {
+   "keywords": [
+    "Anna Wahlgren"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 2143.7,
+  "end": 2151.7,
+  "keywords": [
+   "Wahlgren"
+  ],
+  "type": "PER",
+  "score": 0.9934957027,
+  "card": {
+   "keywords": [
+    "Anna Wahlgren"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 2151.04,
+  "end": 2159.04,
+  "keywords": [
+   "Sverige"
+  ],
+  "type": "ORG",
+  "score": 0.9801074266,
+  "card": {
+   "keywords": [
+    "Sverige"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Sverige"
+  }
+ },
+ {
+  "start": 2185.04,
+  "end": 2189.04,
+  "keywords": [
+   "Roseng\u00e5rden"
+  ],
+  "type": "MISC",
+  "score": 0.9037328959,
+  "card": {
+   "keywords": [
+    "Roseng\u00e5rden"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 2571.34,
+  "end": 2573.34,
+  "keywords": [
+   "Sverige"
+  ],
+  "type": "LOC",
+  "score": 0.9986972213,
+  "card": {
+   "keywords": [
+    "Sverige"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Sverige"
+  }
+ },
+ {
+  "start": 2577.04,
+  "end": 2580.04,
+  "keywords": [
+   "Sverige"
+  ],
+  "type": "LOC",
+  "score": 0.997728765,
+  "card": {
+   "keywords": [
+    "Sverige"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Sverige"
+  }
+ },
+ {
+  "start": 2715.04,
+  "end": 2721.04,
+  "keywords": [
+   "Hugo Lagerkranz"
+  ],
+  "type": "PER",
+  "score": 0.9994404316,
+  "card": {
+   "keywords": [
+    "Hugo Lagerkranz"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 2721.04,
+  "end": 2727.04,
+  "keywords": [
+   "Anna W\u00e4lgren"
+  ],
+  "type": "PER",
+  "score": 0.9993127584,
+  "card": {
+   "keywords": [
+    "Anna Wahlgren"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 2745.04,
+  "end": 2751.04,
+  "keywords": [
+   "USA"
+  ],
+  "type": "LOC",
+  "score": 0.9866967797,
+  "card": {
+   "keywords": [
+    "USA"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=USA"
+  }
+ },
+ {
+  "start": 2745.04,
+  "end": 2751.04,
+  "keywords": [
+   "USA"
+  ],
+  "type": "LOC",
+  "score": 0.9829128981,
+  "card": {
+   "keywords": [
+    "USA"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=USA"
+  }
+ },
+ {
+  "start": 2754.04,
+  "end": 2759.04,
+  "keywords": [
+   "Anna W\u00e4lgrens"
+  ],
+  "type": "PER",
+  "score": 0.9990723729,
+  "card": {
+   "keywords": [
+    "Anna Wahlgren"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 2813.7200000000003,
+  "end": 2816.7200000000003,
+  "keywords": [
+   "Annie"
+  ],
+  "type": "PER",
+  "score": 0.9678665996,
+  "card": {
+   "keywords": [
+    "Annie Ernaux"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Annie_Ernaux"
+  }
+ },
+ {
+  "start": 2813.7200000000003,
+  "end": 2816.7200000000003,
+  "keywords": [
+   "Noah"
+  ],
+  "type": "PER",
+  "score": 0.9037391543,
+  "card": {
+   "keywords": [
+    "Noah"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Noah"
+  }
+ },
+ {
+  "start": 2818.7200000000003,
+  "end": 2823.6533333333336,
+  "keywords": [
+   "Anna Wahlgren"
+  ],
+  "type": "PER",
+  "score": 0.9991053343,
+  "card": {
+   "keywords": [
+    "Anna Wahlgren"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 2863.0,
+  "end": 2866.0,
+  "keywords": [
+   "Lycka"
+  ],
+  "type": "MISC",
+  "score": 0.5741045475,
+  "card": {
+   "keywords": [
+    "Lycka"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 2915.04,
+  "end": 2920.04,
+  "keywords": [
+   "Anna Wahlgrens"
+  ],
+  "type": "PER",
+  "score": 0.9991149306,
+  "card": {
+   "keywords": [
+    "Anna Wahlgren"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 2920.04,
+  "end": 2923.04,
+  "keywords": [
+   "Felicia"
+  ],
+  "type": "PER",
+  "score": 0.9989933372,
+  "card": {
+   "keywords": [
+    "Felicia F\u00e4lt"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 2953.04,
+  "end": 2959.04,
+  "keywords": [
+   "Anna Wahlgren"
+  ],
+  "type": "PER",
+  "score": 0.9984394312,
+  "card": {
+   "keywords": [
+    "Anna Wahlgren"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 2998.04,
+  "end": 3005.04,
+  "keywords": [
+   "Felicia Fells"
+  ],
+  "type": "PER",
+  "score": 0.9995354414,
+  "card": {
+   "keywords": [
+    "Felicia F\u00e4lt"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 2998.04,
+  "end": 3005.04,
+  "keywords": [
+   "Felicias"
+  ],
+  "type": "PER",
+  "score": 0.999078989,
+  "card": {
+   "keywords": [
+    "Felicia F\u00e4lt"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 3011.04,
+  "end": 3015.04,
+  "keywords": [
+   "Anna Wahlgren"
+  ],
+  "type": "PER",
+  "score": 0.9981274605,
+  "card": {
+   "keywords": [
+    "Anna Wahlgren"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 3042.36,
+  "end": 3044.3599999999997,
+  "keywords": [
+   "Anna Wahlgren"
+  ],
+  "type": "PER",
+  "score": 0.9990587234,
+  "card": {
+   "keywords": [
+    "Anna Wahlgren"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 3080.1099999999997,
+  "end": 3087.1099999999997,
+  "keywords": [
+   "Alien"
+  ],
+  "type": "MISC",
+  "score": 0.9903938174,
+  "card": {
+   "keywords": [
+    "Alien"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Alien_%E2%80%93_den_8._passasjeren"
+  }
+ },
+ {
+  "start": 3080.1099999999997,
+  "end": 3087.1099999999997,
+  "keywords": [
+   "Nobelprisen"
+  ],
+  "type": "MISC",
+  "score": 0.8979389668,
+  "card": {
+   "keywords": [
+    "Nobelprisen"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Nobelprisen"
+  }
+ },
+ {
+  "start": 3087.1099999999997,
+  "end": 3093.1099999999997,
+  "keywords": [
+   "Alien"
+  ],
+  "type": "MISC",
+  "score": 0.9344661236,
+  "card": {
+   "keywords": [
+    "Alien"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Alien_%E2%80%93_den_8._passasjeren"
+  }
+ },
+ {
+  "start": 3093.1099999999997,
+  "end": 3098.1099999999997,
+  "keywords": [
+   "Anna Wahlgren"
+  ],
+  "type": "PER",
+  "score": 0.9990895987,
+  "card": {
+   "keywords": [
+    "Anna Wahlgren"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 3159.04,
+  "end": 3163.04,
+  "keywords": [
+   "Tyskland"
+  ],
+  "type": "LOC",
+  "score": 0.9719496965,
+  "card": {
+   "keywords": [
+    "Tyskland"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Tyskland"
+  }
+ },
+ {
+  "start": 3163.04,
+  "end": 3173.04,
+  "keywords": [
+   "Tysklands"
+  ],
+  "type": "LOC",
+  "score": 0.9030134082,
+  "card": {
+   "keywords": [
+    "Tyskland"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Tyskland"
+  }
+ },
+ {
+  "start": 3181.86,
+  "end": 3186.8599999999997,
+  "keywords": [
+   "Heimat"
+  ],
+  "type": "MISC",
+  "score": 0.9762690067,
+  "card": {
+   "keywords": [
+    "Heimat"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 3181.86,
+  "end": 3186.8599999999997,
+  "keywords": [
+   "Heimat"
+  ],
+  "type": "MISC",
+  "score": 0.9704965353,
+  "card": {
+   "keywords": [
+    "Heimat"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 3201.04,
+  "end": 3207.04,
+  "keywords": [
+   "Heimat"
+  ],
+  "type": "MISC",
+  "score": 0.9959492683,
+  "card": {
+   "keywords": [
+    "Heimat"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 3207.04,
+  "end": 3217.04,
+  "keywords": [
+   "Tyskland"
+  ],
+  "type": "LOC",
+  "score": 0.9992040992,
+  "card": {
+   "keywords": [
+    "Tyskland"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Tyskland"
+  }
+ },
+ {
+  "start": 3238.04,
+  "end": 3242.04,
+  "keywords": [
+   "Heimat 2"
+  ],
+  "type": "MISC",
+  "score": 0.9869954586,
+  "card": {
+   "keywords": [
+    "Heimat"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 3238.04,
+  "end": 3242.04,
+  "keywords": [
+   "3"
+  ],
+  "type": "MISC",
+  "score": 0.6990249157,
+  "card": {
+   "keywords": [
+    "3"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/3"
+  }
+ },
+ {
+  "start": 3243.04,
+  "end": 3251.04,
+  "keywords": [
+   "Berlin"
+  ],
+  "type": "LOC",
+  "score": 0.9991981387,
+  "card": {
+   "keywords": [
+    "Berlin"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Berlin"
+  }
+ },
+ {
+  "start": 3269.04,
+  "end": 3272.04,
+  "keywords": [
+   "The Great American Novel"
+  ],
+  "type": "MISC",
+  "score": 0.9948670864,
+  "card": {
+   "keywords": [
+    "The Great American Novel"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 3277.5133333333333,
+  "end": 3281.5133333333333,
+  "keywords": [
+   "The Great American Novel"
+  ],
+  "type": "MISC",
+  "score": 0.9989675879,
+  "card": {
+   "keywords": [
+    "The Great American Novel"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 3283.04,
+  "end": 3286.04,
+  "keywords": [
+   "Moby Dick"
+  ],
+  "type": "PER",
+  "score": 0.9391225576,
+  "card": {
+   "keywords": [
+    "Moby Dick"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Moby_Dick"
+  }
+ },
+ {
+  "start": 3289.04,
+  "end": 3295.04,
+  "keywords": [
+   "Vredens druvor"
+  ],
+  "type": "MISC",
+  "score": 0.9983282089,
+  "card": {
+   "keywords": [
+    "Vredens druvor"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 3289.04,
+  "end": 3295.04,
+  "keywords": [
+   "Steinbeck"
+  ],
+  "type": "PER",
+  "score": 0.999017477,
+  "card": {
+   "keywords": [
+    "Steinbeck"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 3289.04,
+  "end": 3295.04,
+  "keywords": [
+   "Gatsby"
+  ],
+  "type": "PER",
+  "score": 0.9985334873,
+  "card": {
+   "keywords": [
+    "Gatsby"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Gatsby"
+  }
+ },
+ {
+  "start": 3295.04,
+  "end": 3302.04,
+  "keywords": [
+   "The Great American Novel"
+  ],
+  "type": "MISC",
+  "score": 0.9986718893,
+  "card": {
+   "keywords": [
+    "The Great American Novel"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 3302.04,
+  "end": 3310.04,
+  "keywords": [
+   "Tyskland"
+  ],
+  "type": "LOC",
+  "score": 0.9974071383,
+  "card": {
+   "keywords": [
+    "Tyskland"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Tyskland"
+  }
+ },
+ {
+  "start": 3340.3599999999997,
+  "end": 3353.3599999999997,
+  "keywords": [
+   "Berlin"
+  ],
+  "type": "LOC",
+  "score": 0.9989983439,
+  "card": {
+   "keywords": [
+    "Berlin"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Berlin"
+  }
+ },
+ {
+  "start": 3389.04,
+  "end": 3396.04,
+  "keywords": [
+   "Maur"
+  ],
+  "type": "MISC",
+  "score": 0.6321272254,
+  "card": {
+   "keywords": [
+    "Maur"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Maur"
+  }
+ },
+ {
+  "start": 3424.1799999999994,
+  "end": 3428.1799999999994,
+  "keywords": [
+   "Mikael Hannekes"
+  ],
+  "type": "PER",
+  "score": 0.999536097,
+  "card": {
+   "keywords": [
+    "Mikael Hannekes"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 3424.1799999999994,
+  "end": 3428.1799999999994,
+  "keywords": [
+   "De Vita Bandet"
+  ],
+  "type": "ORG",
+  "score": 0.9626657963,
+  "card": {
+   "keywords": [
+    "De Vita Bandet"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 3442.92,
+  "end": 3447.92,
+  "keywords": [
+   "F\u00f6rsta v\u00e4rldskriget"
+  ],
+  "type": "MISC",
+  "score": 0.9916766286,
+  "card": {
+   "keywords": [
+    "F\u00f6rsta v\u00e4rldskriget"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 3442.92,
+  "end": 3447.92,
+  "keywords": [
+   "andra v\u00e4rldskriget"
+  ],
+  "type": "MISC",
+  "score": 0.9926406145,
+  "card": {
+   "keywords": [
+    "F\u00f6rsta v\u00e4rldskriget"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 3466.04,
+  "end": 3470.04,
+  "keywords": [
+   "En Invecklad Historia"
+  ],
+  "type": "MISC",
+  "score": 0.9981773496,
+  "card": {
+   "keywords": [
+    "En flickas med maror?"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 3478.38,
+  "end": 3481.846666666667,
+  "keywords": [
+   "Tysklands"
+  ],
+  "type": "LOC",
+  "score": 0.9825937152,
+  "card": {
+   "keywords": [
+    "Tyskland"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Tyskland"
+  }
+ },
+ {
+  "start": 3484.04,
+  "end": 3493.04,
+  "keywords": [
+   "Murens"
+  ],
+  "type": "MISC",
+  "score": 0.9758123755,
+  "card": {
+   "keywords": [
+    "Murens"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 3525.42,
+  "end": 3528.7533333333336,
+  "keywords": [
+   "Tyskland"
+  ],
+  "type": "LOC",
+  "score": 0.9618504047,
+  "card": {
+   "keywords": [
+    "Tyskland"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Tyskland"
+  }
+ },
+ {
+  "start": 3568.04,
+  "end": 3573.04,
+  "keywords": [
+   "Great News"
+  ],
+  "type": "MISC",
+  "score": 0.9507030249,
+  "card": {
+   "keywords": [
+    "The Great American Novel"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 3602.04,
+  "end": 3608.04,
+  "keywords": [
+   "Tyskland"
+  ],
+  "type": "LOC",
+  "score": 0.9987951517,
+  "card": {
+   "keywords": [
+    "Tyskland"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Tyskland"
+  }
+ },
+ {
+  "start": 3608.04,
+  "end": 3613.04,
+  "keywords": [
+   "Literarische Quartett"
+  ],
+  "type": "MISC",
+  "score": 0.9983878136,
+  "card": {
+   "keywords": [
+    "Literarische Quartett"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 3613.04,
+  "end": 3618.04,
+  "keywords": [
+   "Tysklands"
+  ],
+  "type": "LOC",
+  "score": 0.8970879316,
+  "card": {
+   "keywords": [
+    "Tyskland"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Tyskland"
+  }
+ },
+ {
+  "start": 3644.04,
+  "end": 3647.04,
+  "keywords": [
+   "Tyskland"
+  ],
+  "type": "LOC",
+  "score": 0.9984111786,
+  "card": {
+   "keywords": [
+    "Tyskland"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Tyskland"
+  }
+ },
+ {
+  "start": 3647.04,
+  "end": 3653.04,
+  "keywords": [
+   "Literarische Quartett"
+  ],
+  "type": "MISC",
+  "score": 0.9902193546,
+  "card": {
+   "keywords": [
+    "Literarische Quartett"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 3653.04,
+  "end": 3659.04,
+  "keywords": [
+   "Br\u00f6nne Almeida"
+  ],
+  "type": "PER",
+  "score": 0.5608375072,
+  "card": {
+   "keywords": [
+    "Br\u00f6nne Almeida"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 3653.04,
+  "end": 3659.04,
+  "keywords": [
+   "Brev"
+  ],
+  "type": "MISC",
+  "score": 0.8033998013,
+  "card": {
+   "keywords": [
+    "Brev"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Brev"
+  }
+ },
+ {
+  "start": 3669.04,
+  "end": 3674.04,
+  "keywords": [
+   "Sverige"
+  ],
+  "type": "LOC",
+  "score": 0.9990382195,
+  "card": {
+   "keywords": [
+    "Sverige"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Sverige"
+  }
+ },
+ {
+  "start": 3683.04,
+  "end": 3687.04,
+  "keywords": [
+   "Literarische Quartett"
+  ],
+  "type": "ORG",
+  "score": 0.9977895021,
+  "card": {
+   "keywords": [
+    "Literarische Quartett"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 3722.04,
+  "end": 3724.04,
+  "keywords": [
+   "Jattis Alex"
+  ],
+  "type": "PER",
+  "score": 0.9219921827,
+  "card": {
+   "keywords": [
+    "Jattis Alex"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 3746.04,
+  "end": 3750.04,
+  "keywords": [
+   "Frankfords"
+  ],
+  "type": "PER",
+  "score": 0.9943755865,
+  "card": {
+   "keywords": [
+    "Frankfords"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 3762.36,
+  "end": 3766.96,
+  "keywords": [
+   "Thomas"
+  ],
+  "type": "PER",
+  "score": 0.9997544885,
+  "card": {
+   "keywords": [
+    "Thomas"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Thomas"
+  }
+ },
+ {
+  "start": 3762.36,
+  "end": 3766.96,
+  "keywords": [
+   "DTV f\u00f6rlaget"
+  ],
+  "type": "ORG",
+  "score": 0.6001816392,
+  "card": {
+   "keywords": [
+    "DTV f\u00f6rlaget"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 3762.36,
+  "end": 3766.96,
+  "keywords": [
+   "Tyskland"
+  ],
+  "type": "LOC",
+  "score": 0.9983097315,
+  "card": {
+   "keywords": [
+    "Tyskland"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Tyskland"
+  }
+ },
+ {
+  "start": 3777.04,
+  "end": 3781.04,
+  "keywords": [
+   "Marcel Reich Ranicki"
+  ],
+  "type": "PER",
+  "score": 0.9984614253,
+  "card": {
+   "keywords": [
+    "Marcel Reich Ranicki"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Marcel_Reich-Ranicki"
+  }
+ },
+ {
+  "start": 3792.04,
+  "end": 3795.04,
+  "keywords": [
+   "Sven Stolpe"
+  ],
+  "type": "PER",
+  "score": 0.9992740154,
+  "card": {
+   "keywords": [
+    "Sven Stolpe"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Sven_Stolpe"
+  }
+ },
+ {
+  "start": 3798.04,
+  "end": 3802.04,
+  "keywords": [
+   "Marcel Reich Ranicki"
+  ],
+  "type": "PER",
+  "score": 0.9989745021,
+  "card": {
+   "keywords": [
+    "Marcel Reich Ranicki"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Marcel_Reich-Ranicki"
+  }
+ },
+ {
+  "start": 3808.42,
+  "end": 3812.42,
+  "keywords": [
+   "Thomas"
+  ],
+  "type": "PER",
+  "score": 0.9996848106,
+  "card": {
+   "keywords": [
+    "Thomas"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Thomas"
+  }
+ },
+ {
+  "start": 3812.42,
+  "end": 3817.42,
+  "keywords": [
+   "G\u00fcnter Grass"
+  ],
+  "type": "PER",
+  "score": 0.9994825125,
+  "card": {
+   "keywords": [
+    "G\u00fcnter Grass"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/G%C3%BCnter_Grass"
+  }
+ },
+ {
+  "start": 3812.42,
+  "end": 3817.42,
+  "keywords": [
+   "En inv\u00e4ktad historia"
+  ],
+  "type": "MISC",
+  "score": 0.9977487922,
+  "card": {
+   "keywords": [
+    "En flickas med maror?"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 3821.61,
+  "end": 3824.9433333333336,
+  "keywords": [
+   "Marcel Reich Ranicki"
+  ],
+  "type": "PER",
+  "score": 0.9989113808,
+  "card": {
+   "keywords": [
+    "Marcel Reich Ranicki"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Marcel_Reich-Ranicki"
+  }
+ },
+ {
+  "start": 3856.04,
+  "end": 3862.04,
+  "keywords": [
+   "G\u00fcnter Grass"
+  ],
+  "type": "PER",
+  "score": 0.9994302988,
+  "card": {
+   "keywords": [
+    "G\u00fcnter Grass"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/G%C3%BCnter_Grass"
+  }
+ },
+ {
+  "start": 3880.35,
+  "end": 3883.3499999999995,
+  "keywords": [
+   "Babel"
+  ],
+  "type": "LOC",
+  "score": 0.994348228,
+  "card": {
+   "keywords": [
+    "Babel"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Babel"
+  }
+ },
+ {
+  "start": 3905.04,
+  "end": 3909.04,
+  "keywords": [
+   "Literarische Kvartett"
+  ],
+  "type": "ORG",
+  "score": 0.9974318743,
+  "card": {
+   "keywords": [
+    "Literarische Quartett"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 4054.58,
+  "end": 4056.58,
+  "keywords": [
+   "Tyskland"
+  ],
+  "type": "LOC",
+  "score": 0.999266088,
+  "card": {
+   "keywords": [
+    "Tyskland"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Tyskland"
+  }
+ },
+ {
+  "start": 4086.75,
+  "end": 4089.15,
+  "keywords": [
+   "M\u00fcnchen"
+  ],
+  "type": "LOC",
+  "score": 0.9988479614,
+  "card": {
+   "keywords": [
+    "M\u00fcnchen"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=M\u00fcnchen"
+  }
+ },
+ {
+  "start": 4635.1,
+  "end": 4637.18,
+  "keywords": [
+   "benko olsson"
+  ],
+  "type": "PER",
+  "score": 0.9834707379,
+  "card": {
+   "keywords": [
+    "benko olsson"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 4754.04,
+  "end": 4756.04,
+  "keywords": [
+   "Laurin"
+  ],
+  "type": "PER",
+  "score": 0.9806271195,
+  "card": {
+   "keywords": [
+    "Fredrik Laurinja"
+   ],
+   "type": "PER"
+  }
+ }
+]
