@@ -1,7 +1,7 @@
 {
  "0": {
   "name": 0,
-  "src": "/whisper/podcast/bbc_history_extra_person.png",
+  "src": "/hack/datasets/gfx/bbc_history_extra_person.png",
   "color": "#29a29aa6",
   "segments": [
    {
@@ -21,7 +21,7 @@
  },
  "1": {
   "name": 1,
-  "src": "/whisper/podcast/matt_elton.png",
+  "src": "/hack/datasets/gfx/matt_elton.png",
   "color": "#609e5da6",
   "segments": [
    {
@@ -41,7 +41,7 @@
  },
  "2": {
   "name": 2,
-  "src": "/whisper/podcast/roger_lockhurst.png",
+  "src": "/hack/datasets/gfx/roger_lockhurst.png",
   "color": "#fecd41a6",
   "segments": [
    {
