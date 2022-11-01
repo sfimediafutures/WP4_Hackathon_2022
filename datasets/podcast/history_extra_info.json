@@ -1,27 +1,12 @@
 [
  {
-  "start": 0.0,
-  "end": 11.0,
-  "keywords": [
-   "Troms\u00f8 Kuppe"
-  ],
-  "type": "MISC",
-  "score": 0.9977804422,
-  "card": {
-   "keywords": [
-    "Troms\u00f8 Kuppe"
-   ],
-   "type": "MISC"
-  }
- },
- {
-  "start": 0.0,
-  "end": 11.0,
+  "start": 4.28,
+  "end": 11.439999999999998,
   "keywords": [
    "Rema 1000"
   ],
   "type": "ORG",
-  "score": 0.8886868954,
+  "score": 0.8663124442,
   "card": {
    "keywords": [
     "Rema 1000"
@@ -31,29 +16,75 @@
   }
  },
  {
-  "start": 0.0,
-  "end": 11.0,
+  "start": 4.28,
+  "end": 11.439999999999998,
   "keywords": [
-   "Troms\u00f8 by"
+   "Troms\u00f8 city"
   ],
   "type": "LOC",
-  "score": 0.9848895073,
+  "score": 0.9523891211,
   "card": {
    "keywords": [
-    "Troms\u00f8 by"
+    "Troms\u00f8 city"
    ],
    "type": "LOC",
-   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Troms\u00f8 by"
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Troms\u00f8 city"
   }
  },
  {
-  "start": 48.0,
-  "end": 57.0,
+  "start": 19.56,
+  "end": 30.16,
+  "keywords": [
+   "Rema 1000"
+  ],
+  "type": "ORG",
+  "score": 0.9989315271,
+  "card": {
+   "keywords": [
+    "Rema 1000"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Rema_1000"
+  }
+ },
+ {
+  "start": 33.12,
+  "end": 48.56,
+  "keywords": [
+   "BBC History Magazine"
+  ],
+  "type": "MISC",
+  "score": 0.9990007877,
+  "card": {
+   "keywords": [
+    "BBC History Magazine"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 33.12,
+  "end": 48.56,
+  "keywords": [
+   "BBC History Review"
+  ],
+  "type": "MISC",
+  "score": 0.9981472492,
+  "card": {
+   "keywords": [
+    "BBC History Magazine"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 48.56,
+  "end": 53.2,
   "keywords": [
    "Mary Shelley"
   ],
   "type": "PER",
-  "score": 0.9997003078,
+  "score": 0.9996928573,
   "card": {
    "keywords": [
     "Mary Shelley"
@@ -63,13 +94,13 @@
   }
  },
  {
-  "start": 48.0,
-  "end": 57.0,
+  "start": 48.56,
+  "end": 53.2,
   "keywords": [
    "H. G. Wells"
   ],
   "type": "PER",
-  "score": 0.9972489476,
+  "score": 0.997264266,
   "card": {
    "keywords": [
     "H. G. Wells"
@@ -79,89 +110,88 @@
   }
  },
  {
-  "start": 62.0,
-  "end": 75.0,
+  "start": 61.96,
+  "end": 67.64,
   "keywords": [
-   "Hva du \u00f8nsker at du kjenner"
+   "Everything You Want to Know"
   ],
   "type": "MISC",
-  "score": 0.9500665665,
+  "score": 0.9941622615,
   "card": {
    "keywords": [
-    "Hva du \u00f8nsker at du kjenner"
+    "Everything You Want to Know"
    ],
    "type": "MISC"
   }
  },
  {
-  "start": 62.0,
-  "end": 75.0,
+  "start": 61.96,
+  "end": 67.64,
   "keywords": [
-   "Roger Luckhurst"
+   "Professor Roger Luckhurst"
   ],
   "type": "PER",
-  "score": 0.9993345141,
+  "score": 0.9263939857,
   "card": {
    "keywords": [
-    "Roger Luckhurst"
+    "Professor Roger Luckhurst"
    ],
    "type": "PER"
   }
  },
  {
-  "start": 62.0,
-  "end": 75.0,
+  "start": 61.96,
+  "end": 67.64,
   "keywords": [
-   "Birkbeck Universitet"
+   "Birkbeck University"
   ],
   "type": "ORG",
-  "score": 0.9995108843,
+  "score": 0.9990045428,
   "card": {
    "keywords": [
-    "Birkbeck Universitet"
+    "Birkbeck University"
    ],
    "type": "ORG"
   }
  },
  {
-  "start": 62.0,
-  "end": 75.0,
+  "start": 67.64,
+  "end": 73.04,
   "keywords": [
-   "London"
+   "of London"
   ],
-  "type": "LOC",
-  "score": 0.6502608657,
+  "type": "ORG",
+  "score": 0.9131834507,
   "card": {
    "keywords": [
-    "London"
+    "of London"
    ],
-   "type": "LOC",
-   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=London"
+   "type": "ORG"
   }
  },
  {
-  "start": 75.0,
-  "end": 78.0,
+  "start": 75.52,
+  "end": 78.60000000000001,
   "keywords": [
    "Roger"
   ],
   "type": "PER",
-  "score": 0.9997869134,
+  "score": 0.9992098808,
   "card": {
    "keywords": [
-    "Roger Luckhurst"
+    "Professor Roger Luckhurst"
    ],
    "type": "PER"
   }
  },
  {
-  "start": 75.0,
-  "end": 78.0,
+  "start": 75.52,
+  "end": 78.60000000000001,
   "keywords": [
    "Matt Elton"
   ],
   "type": "PER",
-  "score": 0.9996904731,
+  "score": 0.9997058511,
   "card": {
    "keywords": [
     "Matt Elton"
@@ -170,13 +200,43 @@
   }
  },
  {
-  "start": 222.0,
-  "end": 228.0,
+  "start": 78.42,
+  "end": 80.70000000000002,
+  "keywords": [
+   "Roger"
+  ],
+  "type": "PER",
+  "score": 0.9996395111,
+  "card": {
+   "keywords": [
+    "Professor Roger Luckhurst"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 94.52,
+  "end": 99.28000000000002,
+  "keywords": [
+   "Google searches"
+  ],
+  "type": "MISC",
+  "score": 0.9723538756,
+  "card": {
+   "keywords": [
+    "Google searches"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 115.52,
+  "end": 119.16000000000001,
   "keywords": [
    "Twitter"
   ],
   "type": "MISC",
-  "score": 0.9898414016,
+  "score": 0.9751188159,
   "card": {
    "keywords": [
     "Twitter"
@@ -186,13 +246,45 @@
   }
  },
  {
-  "start": 228.0,
-  "end": 234.0,
+  "start": 188.48,
+  "end": 195.29999999999998,
+  "keywords": [
+   "America"
+  ],
+  "type": "LOC",
+  "score": 0.9992042184,
+  "card": {
+   "keywords": [
+    "America"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=America"
+  }
+ },
+ {
+  "start": 222.48,
+  "end": 228.55999999999997,
+  "keywords": [
+   "Twitter storms"
+  ],
+  "type": "MISC",
+  "score": 0.8422298431,
+  "card": {
+   "keywords": [
+    "Twitter"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Twitter"
+  }
+ },
+ {
+  "start": 228.56,
+  "end": 235.48,
   "keywords": [
    "Tolkien"
   ],
   "type": "PER",
-  "score": 0.9997627139,
+  "score": 0.9997383952,
   "card": {
    "keywords": [
     "Tolkien"
@@ -202,13 +294,13 @@
   }
  },
  {
-  "start": 228.0,
-  "end": 234.0,
+  "start": 228.56,
+  "end": 235.48,
   "keywords": [
    "Rings of Power"
   ],
   "type": "MISC",
-  "score": 0.9980287552,
+  "score": 0.9980459809,
   "card": {
    "keywords": [
     "Rings of Power"
@@ -217,13 +309,13 @@
   }
  },
  {
-  "start": 234.0,
-  "end": 242.0,
+  "start": 235.48,
+  "end": 239.96,
   "keywords": [
    "Margaret Atwood"
   ],
   "type": "PER",
-  "score": 0.9997270703,
+  "score": 0.999743104,
   "card": {
    "keywords": [
     "Margaret Atwood"
@@ -233,28 +325,29 @@
   }
  },
  {
-  "start": 263.0,
-  "end": 270.0,
+  "start": 262.96,
+  "end": 266.87999999999994,
   "keywords": [
-   "Isaac Haseloff"
+   "Isaac Asimov"
   ],
   "type": "PER",
-  "score": 0.9996480942,
+  "score": 0.9986788034,
   "card": {
    "keywords": [
-    "Isaac Haseloff"
+    "Isaac Asimov"
    ],
-   "type": "PER"
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Isaac_Asimov"
   }
  },
  {
   "start": 306.0,
-  "end": 309.0,
+  "end": 310.20000000000005,
   "keywords": [
    "Liam Keogh"
   ],
   "type": "PER",
-  "score": 0.9997470379,
+  "score": 0.9997697473,
   "card": {
    "keywords": [
     "Liam Keogh"
@@ -263,13 +356,13 @@
   }
  },
  {
-  "start": 331.0,
-  "end": 336.0,
+  "start": 331.08,
+  "end": 337.04,
   "keywords": [
-   "H. G. Wells"
+   "HG Wells"
   ],
   "type": "PER",
-  "score": 0.9696196318,
+  "score": 0.9997208118,
   "card": {
    "keywords": [
     "H. G. Wells"
@@ -279,13 +372,13 @@
   }
  },
  {
-  "start": 331.0,
-  "end": 336.0,
+  "start": 331.08,
+  "end": 337.04,
   "keywords": [
    "The Time Machine"
   ],
   "type": "MISC",
-  "score": 0.9994444251,
+  "score": 0.9991417527,
   "card": {
    "keywords": [
     "The Time Machine"
@@ -295,29 +388,29 @@
   }
  },
  {
-  "start": 339.0,
-  "end": 344.0,
+  "start": 337.04,
+  "end": 343.84,
   "keywords": [
-   "Amerika"
+   "America"
   ],
   "type": "LOC",
-  "score": 0.9996914864,
+  "score": 0.9994200468,
   "card": {
    "keywords": [
-    "Amerika"
+    "America"
    ],
    "type": "LOC",
-   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Amerika"
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=America"
   }
  },
  {
-  "start": 354.0,
-  "end": 359.0,
+  "start": 351.12,
+  "end": 355.84000000000003,
   "keywords": [
-   "Mary Shelley"
+   "Mary"
   ],
   "type": "PER",
-  "score": 0.9997437,
+  "score": 0.9989289641,
   "card": {
    "keywords": [
     "Mary Shelley"
@@ -327,13 +420,29 @@
   }
  },
  {
-  "start": 354.0,
-  "end": 359.0,
+  "start": 355.84000000000003,
+  "end": 362.12000000000006,
+  "keywords": [
+   "Shelley"
+  ],
+  "type": "PER",
+  "score": 0.9996877909,
+  "card": {
+   "keywords": [
+    "Mary Shelley"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Mary_Shelley"
+  }
+ },
+ {
+  "start": 355.84000000000003,
+  "end": 362.12000000000006,
   "keywords": [
    "Frankenstein"
   ],
   "type": "MISC",
-  "score": 0.9953996539,
+  "score": 0.9963130355,
   "card": {
    "keywords": [
     "Frankenstein"
@@ -343,28 +452,60 @@
   }
  },
  {
-  "start": 382.0,
-  "end": 386.0,
+  "start": 380.0000000000001,
+  "end": 387.44000000000005,
   "keywords": [
-   "Mors Utopia"
+   "Moore"
   ],
-  "type": "MISC",
-  "score": 0.9559754133,
+  "type": "PER",
+  "score": 0.99975878,
   "card": {
    "keywords": [
-    "Mors Utopia"
+    "Moore"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Moore"
+  }
+ },
+ {
+  "start": 380.0000000000001,
+  "end": 387.44000000000005,
+  "keywords": [
+   "Utopia"
+  ],
+  "type": "MISC",
+  "score": 0.998581171,
+  "card": {
+   "keywords": [
+    "Utopia"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Utopia"
+  }
+ },
+ {
+  "start": 402.44000000000017,
+  "end": 407.06000000000023,
+  "keywords": [
+   "18th century"
+  ],
+  "type": "MISC",
+  "score": 0.8957015872,
+  "card": {
+   "keywords": [
+    "18th century"
    ],
    "type": "MISC"
   }
  },
  {
-  "start": 428.0,
-  "end": 431.0,
+  "start": 428.24,
+  "end": 432.67999999999995,
   "keywords": [
    "Shelley"
   ],
   "type": "PER",
-  "score": 0.9998551607,
+  "score": 0.9998320341,
   "card": {
    "keywords": [
     "Mary Shelley"
@@ -374,13 +515,13 @@
   }
  },
  {
-  "start": 428.0,
-  "end": 431.0,
+  "start": 428.24,
+  "end": 432.67999999999995,
   "keywords": [
    "HG Wells"
   ],
   "type": "PER",
-  "score": 0.9996938109,
+  "score": 0.9994366169,
   "card": {
    "keywords": [
     "H. G. Wells"
@@ -390,29 +531,29 @@
   }
  },
  {
-  "start": 454.0,
-  "end": 458.0,
+  "start": 452.68,
+  "end": 459.8,
   "keywords": [
    "Thomas Moore"
   ],
   "type": "PER",
-  "score": 0.9997432828,
+  "score": 0.9997641444,
   "card": {
    "keywords": [
-    "Thomas Moore"
+    "Moore"
    ],
    "type": "PER",
-   "url": "https://no.wikipedia.org/wiki/Thomas_Moore"
+   "url": "https://no.wikipedia.org/wiki/Moore"
   }
  },
  {
-  "start": 468.0,
-  "end": 471.0,
+  "start": 466.16,
+  "end": 472.63999999999993,
   "keywords": [
    "England"
   ],
   "type": "LOC",
-  "score": 0.9615306854,
+  "score": 0.9320256114,
   "card": {
    "keywords": [
     "England"
@@ -422,43 +563,44 @@
   }
  },
  {
-  "start": 476.0,
-  "end": 479.0,
+  "start": 472.64,
+  "end": 477.94,
   "keywords": [
-   "Platons"
+   "Plato"
   ],
   "type": "PER",
-  "score": 0.9980298877,
+  "score": 0.9583174586,
   "card": {
    "keywords": [
-    "Platons"
+    "Plato"
    ],
-   "type": "PER"
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Platon"
   }
  },
  {
-  "start": 476.0,
-  "end": 479.0,
+  "start": 472.64,
+  "end": 477.94,
   "keywords": [
-   "Republik"
+   "Republic"
   ],
   "type": "MISC",
-  "score": 0.9936234355,
+  "score": 0.4863760769,
   "card": {
    "keywords": [
-    "Republik"
+    "Republic"
    ],
    "type": "MISC"
   }
  },
  {
-  "start": 515.0,
-  "end": 520.0,
+  "start": 518.0000000000002,
+  "end": 526.7200000000003,
   "keywords": [
    "Charles Fourier"
   ],
   "type": "PER",
-  "score": 0.9997914433,
+  "score": 0.9997280836,
   "card": {
    "keywords": [
     "Charles Fourier"
@@ -468,44 +610,90 @@
   }
  },
  {
-  "start": 520.0,
-  "end": 524.0,
+  "start": 518.0000000000002,
+  "end": 526.7200000000003,
   "keywords": [
-   "Fourierism"
+   "French"
   ],
   "type": "MISC",
-  "score": 0.9826185703,
+  "score": 0.7387150526,
   "card": {
    "keywords": [
-    "Fourierism"
+    "French"
    ],
    "type": "MISC"
   }
  },
  {
-  "start": 683.0,
-  "end": 686.0,
+  "start": 577.2800000000003,
+  "end": 583.4000000000003,
   "keywords": [
-   "Kim Stanley Robinson"
+   "America"
   ],
-  "type": "PER",
-  "score": 0.9998323321,
+  "type": "LOC",
+  "score": 0.999494791,
   "card": {
    "keywords": [
-    "Kim Stanley Robinson"
+    "America"
    ],
-   "type": "PER",
-   "url": "https://no.wikipedia.org/wiki/Kim_Stanley_Robinson"
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=America"
   }
  },
  {
-  "start": 706.0,
-  "end": 708.0,
+  "start": 678.5600000000007,
+  "end": 683.7600000000007,
+  "keywords": [
+   "Kim"
+  ],
+  "type": "PER",
+  "score": 0.9996204376,
+  "card": {
+   "keywords": [
+    "Kim"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Kim"
+  }
+ },
+ {
+  "start": 683.7600000000007,
+  "end": 689.8400000000008,
+  "keywords": [
+   "Stanley Robinson"
+  ],
+  "type": "PER",
+  "score": 0.9997500777,
+  "card": {
+   "keywords": [
+    "Stanley Robinson"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 703.4,
+  "end": 708.2799999999999,
+  "keywords": [
+   "Sweden Hungry on Twitter"
+  ],
+  "type": "ORG",
+  "score": 0.937553525,
+  "card": {
+   "keywords": [
+    "Sweden Hungry on Twitter"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 703.4,
+  "end": 708.2799999999999,
   "keywords": [
    "Frankenstein"
   ],
   "type": "PER",
-  "score": 0.9997863173,
+  "score": 0.9979639053,
   "card": {
    "keywords": [
     "Frankenstein"
@@ -515,13 +703,13 @@
   }
  },
  {
-  "start": 754.0,
-  "end": 757.0,
+  "start": 708.28,
+  "end": 713.88,
   "keywords": [
    "Gothic"
   ],
   "type": "MISC",
-  "score": 0.7241304517,
+  "score": 0.6920875907,
   "card": {
    "keywords": [
     "Gothic"
@@ -531,45 +719,13 @@
   }
  },
  {
-  "start": 776.34,
-  "end": 779.3400000000001,
-  "keywords": [
-   "Mary"
-  ],
-  "type": "PER",
-  "score": 0.999736011,
-  "card": {
-   "keywords": [
-    "Mary Shelley"
-   ],
-   "type": "PER",
-   "url": "https://no.wikipedia.org/wiki/Mary_Shelley"
-  }
- },
- {
-  "start": 776.34,
-  "end": 779.3400000000001,
-  "keywords": [
-   "Percy Shelley"
-  ],
-  "type": "PER",
-  "score": 0.9987956285,
-  "card": {
-   "keywords": [
-    "Mary Shelley"
-   ],
-   "type": "PER",
-   "url": "https://no.wikipedia.org/wiki/Mary_Shelley"
-  }
- },
- {
-  "start": 828.3400000000001,
-  "end": 830.3400000000001,
+  "start": 713.88,
+  "end": 720.4800000000001,
   "keywords": [
    "Frankenstein"
   ],
   "type": "PER",
-  "score": 0.9992876649,
+  "score": 0.9930389524,
   "card": {
    "keywords": [
     "Frankenstein"
@@ -579,13 +735,220 @@
   }
  },
  {
-  "start": 832.47,
-  "end": 835.47,
+  "start": 727.92,
+  "end": 735.4800000000001,
+  "keywords": [
+   "Horace Walpole"
+  ],
+  "type": "PER",
+  "score": 0.9997382164,
+  "card": {
+   "keywords": [
+    "Horace Walpole"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Horace_Walpole"
+  }
+ },
+ {
+  "start": 727.92,
+  "end": 735.4800000000001,
+  "keywords": [
+   "The Castle of Otranto"
+  ],
+  "type": "MISC",
+  "score": 0.9984484315,
+  "card": {
+   "keywords": [
+    "The Time Machine"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/The_Time_Machine"
+  }
+ },
+ {
+  "start": 735.4800000000001,
+  "end": 742.2400000000002,
+  "keywords": [
+   "Mary"
+  ],
+  "type": "PER",
+  "score": 0.999330759,
+  "card": {
+   "keywords": [
+    "Mary Shelley"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Mary_Shelley"
+  }
+ },
+ {
+  "start": 742.2400000000002,
+  "end": 750.1600000000001,
+  "keywords": [
+   "Shelley"
+  ],
+  "type": "PER",
+  "score": 0.9997341037,
+  "card": {
+   "keywords": [
+    "Mary Shelley"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Mary_Shelley"
+  }
+ },
+ {
+  "start": 742.2400000000002,
+  "end": 750.1600000000001,
+  "keywords": [
+   "Frankenstein"
+  ],
+  "type": "MISC",
+  "score": 0.9963917136,
+  "card": {
+   "keywords": [
+    "Frankenstein"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Frankenstein"
+  }
+ },
+ {
+  "start": 755.9600000000002,
+  "end": 764.1600000000001,
+  "keywords": [
+   "Catholicism"
+  ],
+  "type": "MISC",
+  "score": 0.5981429219,
+  "card": {
+   "keywords": [
+    "Catholicism"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 764.1600000000001,
+  "end": 770.4600000000002,
+  "keywords": [
+   "Frankenstein"
+  ],
+  "type": "MISC",
+  "score": 0.9812477827,
+  "card": {
+   "keywords": [
+    "Frankenstein"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Frankenstein"
+  }
+ },
+ {
+  "start": 770.4600000000002,
+  "end": 776.52,
+  "keywords": [
+   "Mary"
+  ],
+  "type": "PER",
+  "score": 0.9995862842,
+  "card": {
+   "keywords": [
+    "Mary Shelley"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Mary_Shelley"
+  }
+ },
+ {
+  "start": 776.52,
+  "end": 784.0,
+  "keywords": [
+   "Percy Shelley"
+  ],
+  "type": "PER",
+  "score": 0.9995863438,
+  "card": {
+   "keywords": [
+    "Mary Shelley"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Mary_Shelley"
+  }
+ },
+ {
+  "start": 789.48,
+  "end": 796.06,
+  "keywords": [
+   "Frankenstein"
+  ],
+  "type": "PER",
+  "score": 0.9993575215,
+  "card": {
+   "keywords": [
+    "Frankenstein"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Frankenstein"
+  }
+ },
+ {
+  "start": 803.6,
+  "end": 812.08,
+  "keywords": [
+   "Mary Shelley"
+  ],
+  "type": "PER",
+  "score": 0.9997814894,
+  "card": {
+   "keywords": [
+    "Mary Shelley"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Mary_Shelley"
+  }
+ },
+ {
+  "start": 827.2,
+  "end": 833.24,
+  "keywords": [
+   "Frankenstein"
+  ],
+  "type": "PER",
+  "score": 0.992172122,
+  "card": {
+   "keywords": [
+    "Frankenstein"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Frankenstein"
+  }
+ },
+ {
+  "start": 827.2,
+  "end": 833.24,
+  "keywords": [
+   "Prometheus"
+  ],
+  "type": "MISC",
+  "score": 0.8933923841,
+  "card": {
+   "keywords": [
+    "Prometheus"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Prometheus"
+  }
+ },
+ {
+  "start": 827.2,
+  "end": 833.24,
   "keywords": [
    "Prometheus"
   ],
   "type": "PER",
-  "score": 0.9557052255,
+  "score": 0.9423975945,
   "card": {
    "keywords": [
     "Prometheus"
@@ -595,738 +958,13 @@
   }
  },
  {
-  "start": 857.73,
-  "end": 859.7300000000001,
+  "start": 833.24,
+  "end": 838.2,
   "keywords": [
-   "HG Wells"
+   "Frankenstein"
   ],
   "type": "PER",
-  "score": 0.999483943,
-  "card": {
-   "keywords": [
-    "H. G. Wells"
-   ],
-   "type": "PER",
-   "url": "https://no.wikipedia.org/wiki/H.G._Wells"
-  }
- },
- {
-  "start": 872.73,
-  "end": 875.73,
-  "keywords": [
-   "Wells"
-  ],
-  "type": "PER",
-  "score": 0.9988139868,
-  "card": {
-   "keywords": [
-    "H. G. Wells"
-   ],
-   "type": "PER",
-   "url": "https://no.wikipedia.org/wiki/H.G._Wells"
-  }
- },
- {
-  "start": 875.73,
-  "end": 878.73,
-  "keywords": [
-   "Mary Shelley"
-  ],
-  "type": "PER",
-  "score": 0.999784112,
-  "card": {
-   "keywords": [
-    "Mary Shelley"
-   ],
-   "type": "PER",
-   "url": "https://no.wikipedia.org/wiki/Mary_Shelley"
-  }
- },
- {
-  "start": 921.0733333333333,
-  "end": 923.0733333333333,
-  "keywords": [
-   "Mary Shelley"
-  ],
-  "type": "PER",
-  "score": 0.9997726679,
-  "card": {
-   "keywords": [
-    "Mary Shelley"
-   ],
-   "type": "PER",
-   "url": "https://no.wikipedia.org/wiki/Mary_Shelley"
-  }
- },
- {
-  "start": 929.0733333333333,
-  "end": 931.0733333333333,
-  "keywords": [
-   "Last Man"
-  ],
-  "type": "MISC",
-  "score": 0.9768182039,
-  "card": {
-   "keywords": [
-    "Last Man"
-   ],
-   "type": "MISC"
-  }
- },
- {
-  "start": 1025.21,
-  "end": 1027.21,
-  "keywords": [
-   "The Signalman"
-  ],
-  "type": "MISC",
-  "score": 0.8297829628,
-  "card": {
-   "keywords": [
-    "The Time Machine"
-   ],
-   "type": "MISC",
-   "url": "https://no.wikipedia.org/wiki/The_Time_Machine"
-  }
- },
- {
-  "start": 1073.0,
-  "end": 1075.0,
-  "keywords": [
-   "H. G. Wells"
-  ],
-  "type": "PER",
-  "score": 0.9906958342,
-  "card": {
-   "keywords": [
-    "H. G. Wells"
-   ],
-   "type": "PER",
-   "url": "https://no.wikipedia.org/wiki/H.G._Wells"
-  }
- },
- {
-  "start": 1081.0,
-  "end": 1083.0,
-  "keywords": [
-   "The Time Machine"
-  ],
-  "type": "MISC",
-  "score": 0.9991297126,
-  "card": {
-   "keywords": [
-    "The Time Machine"
-   ],
-   "type": "MISC",
-   "url": "https://no.wikipedia.org/wiki/The_Time_Machine"
-  }
- },
- {
-  "start": 1083.0,
-  "end": 1087.0,
-  "keywords": [
-   "Victorian era"
-  ],
-  "type": "MISC",
-  "score": 0.9361425042,
-  "card": {
-   "keywords": [
-    "Victorian era"
-   ],
-   "type": "MISC"
-  }
- },
- {
-  "start": 1087.0,
-  "end": 1091.0,
-  "keywords": [
-   "The Time Machine"
-  ],
-  "type": "MISC",
-  "score": 0.9984402657,
-  "card": {
-   "keywords": [
-    "The Time Machine"
-   ],
-   "type": "MISC",
-   "url": "https://no.wikipedia.org/wiki/The_Time_Machine"
-  }
- },
- {
-  "start": 1087.0,
-  "end": 1091.0,
-  "keywords": [
-   "H. G. Wells"
-  ],
-  "type": "PER",
-  "score": 0.9965698123,
-  "card": {
-   "keywords": [
-    "H. G. Wells"
-   ],
-   "type": "PER",
-   "url": "https://no.wikipedia.org/wiki/H.G._Wells"
-  }
- },
- {
-  "start": 1108.0,
-  "end": 1112.0,
-  "keywords": [
-   "London"
-  ],
-  "type": "LOC",
-  "score": 0.9899092913,
-  "card": {
-   "keywords": [
-    "London"
-   ],
-   "type": "LOC",
-   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=London"
-  }
- },
- {
-  "start": 1149.0,
-  "end": 1152.0,
-  "keywords": [
-   "Morlocks"
-  ],
-  "type": "ORG",
-  "score": 0.8162605762,
-  "card": {
-   "keywords": [
-    "Morlocks"
-   ],
-   "type": "ORG"
-  }
- },
- {
-  "start": 1152.0,
-  "end": 1155.4666666666667,
-  "keywords": [
-   "H. G. Wells"
-  ],
-  "type": "PER",
-  "score": 0.9544725418,
-  "card": {
-   "keywords": [
-    "H. G. Wells"
-   ],
-   "type": "PER",
-   "url": "https://no.wikipedia.org/wiki/H.G._Wells"
-  }
- },
- {
-  "start": 1263.0,
-  "end": 1267.0,
-  "keywords": [
-   "the Education Act"
-  ],
-  "type": "MISC",
-  "score": 0.6589288116,
-  "card": {
-   "keywords": [
-    "the Education Act"
-   ],
-   "type": "MISC"
-  }
- },
- {
-  "start": 1282.0,
-  "end": 1286.0,
-  "keywords": [
-   "T. H. Huxley"
-  ],
-  "type": "PER",
-  "score": 0.996239543,
-  "card": {
-   "keywords": [
-    "H. G. Wells"
-   ],
-   "type": "PER",
-   "url": "https://no.wikipedia.org/wiki/H.G._Wells"
-  }
- },
- {
-  "start": 1299.0,
-  "end": 1305.0,
-  "keywords": [
-   "H. G. Wells"
-  ],
-  "type": "PER",
-  "score": 0.9821867943,
-  "card": {
-   "keywords": [
-    "H. G. Wells"
-   ],
-   "type": "PER",
-   "url": "https://no.wikipedia.org/wiki/H.G._Wells"
-  }
- },
- {
-  "start": 1331.0,
-  "end": 1336.0,
-  "keywords": [
-   "Wells"
-  ],
-  "type": "PER",
-  "score": 0.9995275736,
-  "card": {
-   "keywords": [
-    "H. G. Wells"
-   ],
-   "type": "PER",
-   "url": "https://no.wikipedia.org/wiki/H.G._Wells"
-  }
- },
- {
-  "start": 1390.0,
-  "end": 1396.0,
-  "keywords": [
-   "The Island of Doctor Moreau"
-  ],
-  "type": "MISC",
-  "score": 0.9733153582,
-  "card": {
-   "keywords": [
-    "The Time Machine"
-   ],
-   "type": "MISC",
-   "url": "https://no.wikipedia.org/wiki/The_Time_Machine"
-  }
- },
- {
-  "start": 1390.0,
-  "end": 1396.0,
-  "keywords": [
-   "The Time Machine"
-  ],
-  "type": "MISC",
-  "score": 0.9993682504,
-  "card": {
-   "keywords": [
-    "The Time Machine"
-   ],
-   "type": "MISC",
-   "url": "https://no.wikipedia.org/wiki/The_Time_Machine"
-  }
- },
- {
-  "start": 1435.0,
-  "end": 1439.0,
-  "keywords": [
-   "Darwin"
-  ],
-  "type": "PER",
-  "score": 0.9989670515,
-  "card": {
-   "keywords": [
-    "Darwin"
-   ],
-   "type": "PER",
-   "url": "https://no.wikipedia.org/wiki/Darwin"
-  }
- },
- {
-  "start": 1451.0,
-  "end": 1454.0,
-  "keywords": [
-   "Darwin"
-  ],
-  "type": "PER",
-  "score": 0.9991418123,
-  "card": {
-   "keywords": [
-    "Darwin"
-   ],
-   "type": "PER",
-   "url": "https://no.wikipedia.org/wiki/Darwin"
-  }
- },
- {
-  "start": 1476.0,
-  "end": 1478.0,
-  "keywords": [
-   "Jekyll and Hyde"
-  ],
-  "type": "MISC",
-  "score": 0.9857923388,
-  "card": {
-   "keywords": [
-    "Jekyll and Hyde"
-   ],
-   "type": "MISC"
-  }
- },
- {
-  "start": 1478.0,
-  "end": 1481.0,
-  "keywords": [
-   "Jekyll"
-  ],
-  "type": "PER",
-  "score": 0.9950975776,
-  "card": {
-   "keywords": [
-    "Jekyll"
-   ],
-   "type": "PER"
-  }
- },
- {
-  "start": 1495.0,
-  "end": 1500.0,
-  "keywords": [
-   "England"
-  ],
-  "type": "LOC",
-  "score": 0.9905592203,
-  "card": {
-   "keywords": [
-    "England"
-   ],
-   "type": "LOC",
-   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=England"
-  }
- },
- {
-  "start": 1505.0,
-  "end": 1511.0,
-  "keywords": [
-   "England"
-  ],
-  "type": "LOC",
-  "score": 0.9652844071,
-  "card": {
-   "keywords": [
-    "England"
-   ],
-   "type": "LOC",
-   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=England"
-  }
- },
- {
-  "start": 1516.0,
-  "end": 1520.0,
-  "keywords": [
-   "Wells"
-  ],
-  "type": "PER",
-  "score": 0.9994589686,
-  "card": {
-   "keywords": [
-    "H. G. Wells"
-   ],
-   "type": "PER",
-   "url": "https://no.wikipedia.org/wiki/H.G._Wells"
-  }
- },
- {
-  "start": 1520.0,
-  "end": 1525.0,
-  "keywords": [
-   "Wells"
-  ],
-  "type": "PER",
-  "score": 0.9997939467,
-  "card": {
-   "keywords": [
-    "H. G. Wells"
-   ],
-   "type": "PER",
-   "url": "https://no.wikipedia.org/wiki/H.G._Wells"
-  }
- },
- {
-  "start": 1532.0,
-  "end": 1538.0,
-  "keywords": [
-   "War of the Worlds"
-  ],
-  "type": "MISC",
-  "score": 0.9987934828,
-  "card": {
-   "keywords": [
-    "Rings of Power"
-   ],
-   "type": "MISC"
-  }
- },
- {
-  "start": 1540.0,
-  "end": 1543.0,
-  "keywords": [
-   "Victorian Empire"
-  ],
-  "type": "MISC",
-  "score": 0.5505215526,
-  "card": {
-   "keywords": [
-    "Victorian era"
-   ],
-   "type": "MISC"
-  }
- },
- {
-  "start": 1543.0,
-  "end": 1545.0,
-  "keywords": [
-   "British Empire"
-  ],
-  "type": "ORG",
-  "score": 0.9545198679,
-  "card": {
-   "keywords": [
-    "British Empire"
-   ],
-   "type": "ORG",
-   "url": "https://no.wikipedia.org/wiki/Det_britiske_imperiet"
-  }
- },
- {
-  "start": 1546.6366666666665,
-  "end": 1553.6366666666663,
-  "keywords": [
-   "the War of the Worlds"
-  ],
-  "type": "MISC",
-  "score": 0.97020787,
-  "card": {
-   "keywords": [
-    "the Education Act"
-   ],
-   "type": "MISC"
-  }
- },
- {
-  "start": 1562.6366666666663,
-  "end": 1568.6366666666663,
-  "keywords": [
-   "British"
-  ],
-  "type": "ORG",
-  "score": 0.722891748,
-  "card": {
-   "keywords": [
-    "British Empire"
-   ],
-   "type": "ORG",
-   "url": "https://no.wikipedia.org/wiki/Det_britiske_imperiet"
-  }
- },
- {
-  "start": 1562.6366666666663,
-  "end": 1568.6366666666663,
-  "keywords": [
-   "Empire"
-  ],
-  "type": "LOC",
-  "score": 0.5256996155,
-  "card": {
-   "keywords": [
-    "Empire"
-   ],
-   "type": "LOC",
-   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Empire"
-  }
- },
- {
-  "start": 1577.6366666666663,
-  "end": 1582.6366666666663,
-  "keywords": [
-   "Tasmania"
-  ],
-  "type": "LOC",
-  "score": 0.9976983666,
-  "card": {
-   "keywords": [
-    "Tasmania"
-   ],
-   "type": "LOC",
-   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Tasmania"
-  }
- },
- {
-  "start": 1588.6366666666663,
-  "end": 1594.6366666666663,
-  "keywords": [
-   "London"
-  ],
-  "type": "LOC",
-  "score": 0.9927068353,
-  "card": {
-   "keywords": [
-    "London"
-   ],
-   "type": "LOC",
-   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=London"
-  }
- },
- {
-  "start": 1594.6366666666663,
-  "end": 1600.6366666666663,
-  "keywords": [
-   "Wells"
-  ],
-  "type": "PER",
-  "score": 0.9996818304,
-  "card": {
-   "keywords": [
-    "H. G. Wells"
-   ],
-   "type": "PER",
-   "url": "https://no.wikipedia.org/wiki/H.G._Wells"
-  }
- },
- {
-  "start": 1621.6366666666663,
-  "end": 1626.6366666666663,
-  "keywords": [
-   "British"
-  ],
-  "type": "ORG",
-  "score": 0.681727767,
-  "card": {
-   "keywords": [
-    "British Empire"
-   ],
-   "type": "ORG",
-   "url": "https://no.wikipedia.org/wiki/Det_britiske_imperiet"
-  }
- },
- {
-  "start": 1642.6366666666663,
-  "end": 1650.6366666666663,
-  "keywords": [
-   "British"
-  ],
-  "type": "ORG",
-  "score": 0.6981067657,
-  "card": {
-   "keywords": [
-    "British Empire"
-   ],
-   "type": "ORG",
-   "url": "https://no.wikipedia.org/wiki/Det_britiske_imperiet"
-  }
- },
- {
-  "start": 1642.6366666666663,
-  "end": 1650.6366666666663,
-  "keywords": [
-   "Wells"
-  ],
-  "type": "PER",
-  "score": 0.9996168613,
-  "card": {
-   "keywords": [
-    "H. G. Wells"
-   ],
-   "type": "PER",
-   "url": "https://no.wikipedia.org/wiki/H.G._Wells"
-  }
- },
- {
-  "start": 1656.6366666666663,
-  "end": 1665.6366666666663,
-  "keywords": [
-   "HG Wells"
-  ],
-  "type": "PER",
-  "score": 0.9991670847,
-  "card": {
-   "keywords": [
-    "H. G. Wells"
-   ],
-   "type": "PER",
-   "url": "https://no.wikipedia.org/wiki/H.G._Wells"
-  }
- },
- {
-  "start": 1684.0,
-  "end": 1686.0,
-  "keywords": [
-   "Troms\u00f8 Kuppet"
-  ],
-  "type": "MISC",
-  "score": 0.998821497,
-  "card": {
-   "keywords": [
-    "Troms\u00f8 Kuppe"
-   ],
-   "type": "MISC"
-  }
- },
- {
-  "start": 1686.0,
-  "end": 1694.0,
-  "keywords": [
-   "Rema 1000"
-  ],
-  "type": "MISC",
-  "score": 0.7380783558,
-  "card": {
-   "keywords": [
-    "Rema 1000"
-   ],
-   "type": "MISC",
-   "url": "https://no.wikipedia.org/wiki/Rema_1000"
-  }
- },
- {
-  "start": 1686.0,
-  "end": 1694.0,
-  "keywords": [
-   "Troms\u00f8 by"
-  ],
-  "type": "LOC",
-  "score": 0.9830535054,
-  "card": {
-   "keywords": [
-    "Troms\u00f8 by"
-   ],
-   "type": "LOC",
-   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Troms\u00f8 by"
-  }
- },
- {
-  "start": 1817.0,
-  "end": 1821.0,
-  "keywords": [
-   "Isaac Asimov"
-  ],
-  "type": "PER",
-  "score": 0.9997588396,
-  "card": {
-   "keywords": [
-    "Isaac Haseloff"
-   ],
-   "type": "PER"
-  }
- },
- {
-  "start": 1817.0,
-  "end": 1821.0,
-  "keywords": [
-   "Ray Bradbury"
-  ],
-  "type": "PER",
-  "score": 0.9996103048,
-  "card": {
-   "keywords": [
-    "Ray Bradbury"
-   ],
-   "type": "PER",
-   "url": "https://no.wikipedia.org/wiki/Ray_Bradbury"
-  }
- },
- {
-  "start": 1817.0,
-  "end": 1821.0,
-  "keywords": [
-   "Frank Herbert"
-  ],
-  "type": "PER",
-  "score": 0.999584198,
+  "score": 0.940818131,
   "card": {
    "keywords": [
     "Frankenstein"
@@ -1336,28 +974,13 @@
   }
  },
  {
-  "start": 1825.0,
-  "end": 1829.0,
+  "start": 855.8800000000002,
+  "end": 861.0800000000003,
   "keywords": [
-   "Isaac Asimov"
+   "HG Wells"
   ],
   "type": "PER",
-  "score": 0.9996567369,
-  "card": {
-   "keywords": [
-    "Isaac Haseloff"
-   ],
-   "type": "PER"
-  }
- },
- {
-  "start": 1841.0,
-  "end": 1847.0,
-  "keywords": [
-   "H . T. Wells"
-  ],
-  "type": "PER",
-  "score": 0.9994962215,
+  "score": 0.9994598627,
   "card": {
    "keywords": [
     "H. G. Wells"
@@ -1367,45 +990,13 @@
   }
  },
  {
-  "start": 1841.0,
-  "end": 1847.0,
-  "keywords": [
-   "engelske"
-  ],
-  "type": "MISC",
-  "score": 0.8381869793,
-  "card": {
-   "keywords": [
-    "engelske"
-   ],
-   "type": "MISC",
-   "url": "https://no.wikipedia.org/wiki/England"
-  }
- },
- {
-  "start": 1854.0,
-  "end": 1858.0,
-  "keywords": [
-   "Arthur C. Clarke"
-  ],
-  "type": "PER",
-  "score": 0.9997366667,
-  "card": {
-   "keywords": [
-    "Arthur C. Clarke"
-   ],
-   "type": "PER",
-   "url": "https://no.wikipedia.org/wiki/Arthur_C._Clarke"
-  }
- },
- {
-  "start": 1858.0,
-  "end": 1862.0,
+  "start": 868.0800000000003,
+  "end": 873.1200000000002,
   "keywords": [
    "Wells"
   ],
   "type": "PER",
-  "score": 0.9997281432,
+  "score": 0.9997264743,
   "card": {
    "keywords": [
     "H. G. Wells"
@@ -1415,247 +1006,109 @@
   }
  },
  {
-  "start": 1864.0,
-  "end": 1870.0,
+  "start": 873.1200000000002,
+  "end": 878.3600000000002,
   "keywords": [
-   "Amerika"
-  ],
-  "type": "LOC",
-  "score": 0.9996083379,
-  "card": {
-   "keywords": [
-    "Amerika"
-   ],
-   "type": "LOC",
-   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Amerika"
-  }
- },
- {
-  "start": 1874.0,
-  "end": 1880.0,
-  "keywords": [
-   "Hugo Gernsback"
+   "Mary Shelley"
   ],
   "type": "PER",
-  "score": 0.9997895956,
+  "score": 0.999707222,
   "card": {
    "keywords": [
-    "Hugo Gernsback"
+    "Mary Shelley"
    ],
    "type": "PER",
-   "url": "https://no.wikipedia.org/wiki/Hugo_Gernsback"
+   "url": "https://no.wikipedia.org/wiki/Mary_Shelley"
   }
  },
  {
-  "start": 1887.0,
-  "end": 1891.0,
+  "start": 878.36,
+  "end": 883.76,
   "keywords": [
-   "Amerika"
-  ],
-  "type": "LOC",
-  "score": 0.9994816184,
-  "card": {
-   "keywords": [
-    "Amerika"
-   ],
-   "type": "LOC",
-   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Amerika"
-  }
- },
- {
-  "start": 1910.0,
-  "end": 1913.0,
-  "keywords": [
-   "Astounding Science Fiction"
-  ],
-  "type": "MISC",
-  "score": 0.999004662,
-  "card": {
-   "keywords": [
-    "Astounding Science Fiction"
-   ],
-   "type": "MISC"
-  }
- },
- {
-  "start": 1929.0,
-  "end": 1931.0,
-  "keywords": [
-   "Azimov"
+   "Shelley"
   ],
   "type": "PER",
-  "score": 0.9995392561,
+  "score": 0.9998237491,
   "card": {
    "keywords": [
-    "Azimov"
-   ],
-   "type": "PER"
-  }
- },
- {
-  "start": 1940.0,
-  "end": 1943.0,
-  "keywords": [
-   "Ray Bradbury"
-  ],
-  "type": "PER",
-  "score": 0.9997386932,
-  "card": {
-   "keywords": [
-    "Ray Bradbury"
+    "Mary Shelley"
    ],
    "type": "PER",
-   "url": "https://no.wikipedia.org/wiki/Ray_Bradbury"
+   "url": "https://no.wikipedia.org/wiki/Mary_Shelley"
   }
  },
  {
-  "start": 1993.0,
-  "end": 1996.0,
+  "start": 896.76,
+  "end": 903.6,
   "keywords": [
-   "Standings Science Fictions"
-  ],
-  "type": "ORG",
-  "score": 0.9342439175,
-  "card": {
-   "keywords": [
-    "Standings Science Fictions"
-   ],
-   "type": "ORG"
-  }
- },
- {
-  "start": 1993.0,
-  "end": 1996.0,
-  "keywords": [
-   "editor John Campbell"
+   "Mary"
   ],
   "type": "PER",
-  "score": 0.8132503629,
+  "score": 0.9998627901,
   "card": {
    "keywords": [
-    "editor John Campbell"
-   ],
-   "type": "PER"
-  }
- },
- {
-  "start": 2015.0,
-  "end": 2018.0,
-  "keywords": [
-   "Heinlein"
-  ],
-  "type": "PER",
-  "score": 0.9996323586,
-  "card": {
-   "keywords": [
-    "Heinlein"
-   ],
-   "type": "PER"
-  }
- },
- {
-  "start": 2015.0,
-  "end": 2018.0,
-  "keywords": [
-   "Starship Troopers"
-  ],
-  "type": "MISC",
-  "score": 0.9957756996,
-  "card": {
-   "keywords": [
-    "Starship Troopers"
-   ],
-   "type": "MISC",
-   "url": "https://no.wikipedia.org/wiki/Starship_Troopers_(film)"
-  }
- },
- {
-  "start": 2046.0,
-  "end": 2049.0,
-  "keywords": [
-   "Amerika"
-  ],
-  "type": "LOC",
-  "score": 0.9996407032,
-  "card": {
-   "keywords": [
-    "Amerika"
-   ],
-   "type": "LOC",
-   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Amerika"
-  }
- },
- {
-  "start": 2055.0,
-  "end": 2058.0,
-  "keywords": [
-   "Heinlein"
-  ],
-  "type": "PER",
-  "score": 0.9997147918,
-  "card": {
-   "keywords": [
-    "Heinlein"
-   ],
-   "type": "PER"
-  }
- },
- {
-  "start": 2085.0,
-  "end": 2088.0,
-  "keywords": [
-   "Starship Troopers"
-  ],
-  "type": "MISC",
-  "score": 0.9959599376,
-  "card": {
-   "keywords": [
-    "Starship Troopers"
-   ],
-   "type": "MISC",
-   "url": "https://no.wikipedia.org/wiki/Starship_Troopers_(film)"
-  }
- },
- {
-  "start": 2088.0,
-  "end": 2091.0,
-  "keywords": [
-   "Paul Verhoeven"
-  ],
-  "type": "PER",
-  "score": 0.9996414185,
-  "card": {
-   "keywords": [
-    "Paul Verhoeven"
+    "Mary Shelley"
    ],
    "type": "PER",
-   "url": "https://no.wikipedia.org/wiki/Paul_Verhoeven"
+   "url": "https://no.wikipedia.org/wiki/Mary_Shelley"
   }
  },
  {
-  "start": 2094.0,
-  "end": 2097.0,
+  "start": 896.76,
+  "end": 903.6,
   "keywords": [
-   "Amerika"
+   "Percy Shelley"
   ],
-  "type": "LOC",
-  "score": 0.916439414,
+  "type": "PER",
+  "score": 0.9986542463,
   "card": {
    "keywords": [
-    "Amerika"
+    "Mary Shelley"
    ],
-   "type": "LOC",
-   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Amerika"
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Mary_Shelley"
   }
  },
  {
-  "start": 2124.0,
-  "end": 2127.0,
+  "start": 917.6400000000001,
+  "end": 921.84,
   "keywords": [
-   "The Martian Chronicles"
+   "Frankenstein"
+  ],
+  "type": "PER",
+  "score": 0.9996100068,
+  "card": {
+   "keywords": [
+    "Frankenstein"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Frankenstein"
+  }
+ },
+ {
+  "start": 917.6400000000001,
+  "end": 921.84,
+  "keywords": [
+   "Mary Shelley"
+  ],
+  "type": "PER",
+  "score": 0.9997296333,
+  "card": {
+   "keywords": [
+    "Mary Shelley"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Mary_Shelley"
+  }
+ },
+ {
+  "start": 917.6400000000001,
+  "end": 921.84,
+  "keywords": [
+   "The"
   ],
   "type": "MISC",
-  "score": 0.9983790517,
+  "score": 0.9710423946,
   "card": {
    "keywords": [
     "The Time Machine"
@@ -1665,387 +1118,59 @@
   }
  },
  {
-  "start": 2127.0,
-  "end": 2130.0,
+  "start": 921.84,
+  "end": 927.6,
   "keywords": [
-   "Heinlein"
+   "Last Man"
   ],
-  "type": "LOC",
-  "score": 0.8663633466,
+  "type": "MISC",
+  "score": 0.9992699027,
   "card": {
    "keywords": [
-    "Heinlein"
+    "Last Man"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 927.6,
+  "end": 932.2400000000001,
+  "keywords": [
+   "Last Man"
+  ],
+  "type": "MISC",
+  "score": 0.9725322723,
+  "card": {
+   "keywords": [
+    "Last Man"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 938.1600000000001,
+  "end": 944.8000000000001,
+  "keywords": [
+   "the East"
+  ],
+  "type": "LOC",
+  "score": 0.696130693,
+  "card": {
+   "keywords": [
+    "the East"
    ],
    "type": "LOC",
-   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Heinlein"
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=the East"
   }
  },
  {
-  "start": 2139.0,
-  "end": 2142.0,
+  "start": 944.8000000000001,
+  "end": 951.76,
   "keywords": [
-   "Mars"
-  ],
-  "type": "MISC",
-  "score": 0.8566637039,
-  "card": {
-   "keywords": [
-    "Mars"
-   ],
-   "type": "MISC",
-   "url": "https://no.wikipedia.org/wiki/Mars"
-  }
- },
- {
-  "start": 2169.0,
-  "end": 2172.0,
-  "keywords": [
-   "Arrakis"
-  ],
-  "type": "PER",
-  "score": 0.9983623624,
-  "card": {
-   "keywords": [
-    "Arrakis"
-   ],
-   "type": "PER"
-  }
- },
- {
-  "start": 2190.0,
-  "end": 2193.0,
-  "keywords": [
-   "Google Search"
-  ],
-  "type": "MISC",
-  "score": 0.9978997707,
-  "card": {
-   "keywords": [
-    "Google Search"
-   ],
-   "type": "MISC"
-  }
- },
- {
-  "start": 2199.0,
-  "end": 2202.0,
-  "keywords": [
-   "Ursula Le Guin"
-  ],
-  "type": "PER",
-  "score": 0.9997461438,
-  "card": {
-   "keywords": [
-    "Ursula Le Guin"
-   ],
-   "type": "PER",
-   "url": "https://no.wikipedia.org/wiki/Ursula_K._Le_Guin"
-  }
- },
- {
-  "start": 2231.0,
-  "end": 2235.0,
-  "keywords": [
-   "17. s"
-  ],
-  "type": "MISC",
-  "score": 0.8233032823,
-  "card": {
-   "keywords": [
-    "17. s"
-   ],
-   "type": "MISC"
-  }
- },
- {
-  "start": 2241.0,
-  "end": 2244.0,
-  "keywords": [
-   "Ursula Le Guin"
-  ],
-  "type": "PER",
-  "score": 0.9996898174,
-  "card": {
-   "keywords": [
-    "Ursula Le Guin"
-   ],
-   "type": "PER",
-   "url": "https://no.wikipedia.org/wiki/Ursula_K._Le_Guin"
-  }
- },
- {
-  "start": 2241.0,
-  "end": 2244.0,
-  "keywords": [
-   "60"
-  ],
-  "type": "MISC",
-  "score": 0.8495571613,
-  "card": {
-   "keywords": [
-    "60"
-   ],
-   "type": "MISC",
-   "url": "https://no.wikipedia.org/wiki/60"
-  }
- },
- {
-  "start": 2279.0,
-  "end": 2285.0,
-  "keywords": [
-   "The Left Hand of Darkness"
-  ],
-  "type": "MISC",
-  "score": 0.9991925955,
-  "card": {
-   "keywords": [
-    "The Time Machine"
-   ],
-   "type": "MISC",
-   "url": "https://no.wikipedia.org/wiki/The_Time_Machine"
-  }
- },
- {
-  "start": 2359.0,
-  "end": 2364.0,
-  "keywords": [
-   "Asimov"
-  ],
-  "type": "PER",
-  "score": 0.9996336699,
-  "card": {
-   "keywords": [
-    "Asimov"
-   ],
-   "type": "PER",
-   "url": "https://no.wikipedia.org/wiki/Isaac_Asimov"
-  }
- },
- {
-  "start": 2359.0,
-  "end": 2364.0,
-  "keywords": [
-   "Heinen"
-  ],
-  "type": "PER",
-  "score": 0.9996460676,
-  "card": {
-   "keywords": [
-    "Heinen"
-   ],
-   "type": "PER"
-  }
- },
- {
-  "start": 2374.0,
-  "end": 2379.0,
-  "keywords": [
-   "Sander Zwartlem"
-  ],
-  "type": "PER",
-  "score": 0.9997870922,
-  "card": {
-   "keywords": [
-    "Sander Zwartlem"
-   ],
-   "type": "PER"
-  }
- },
- {
-  "start": 2398.0,
-  "end": 2406.0,
-  "keywords": [
-   "H. G. Wells"
-  ],
-  "type": "PER",
-  "score": 0.9989744425,
-  "card": {
-   "keywords": [
-    "H. G. Wells"
-   ],
-   "type": "PER",
-   "url": "https://no.wikipedia.org/wiki/H.G._Wells"
-  }
- },
- {
-  "start": 2443.0,
-  "end": 2446.0,
-  "keywords": [
-   "Stanislav Lem"
-  ],
-  "type": "PER",
-  "score": 0.9997088909,
-  "card": {
-   "keywords": [
-    "Ursula Le Guin"
-   ],
-   "type": "PER",
-   "url": "https://no.wikipedia.org/wiki/Ursula_K._Le_Guin"
-  }
- },
- {
-  "start": 2452.0,
-  "end": 2458.0,
-  "keywords": [
-   "Sovjetunionsalliansen"
-  ],
-  "type": "ORG",
-  "score": 0.9709243774,
-  "card": {
-   "keywords": [
-    "Sovjetunionsalliansen"
-   ],
-   "type": "ORG"
-  }
- },
- {
-  "start": 2561.0,
-  "end": 2565.0,
-  "keywords": [
-   "Drugatsky brothers"
-  ],
-  "type": "ORG",
-  "score": 0.6818262935,
-  "card": {
-   "keywords": [
-    "Drugatsky brothers"
-   ],
-   "type": "ORG"
-  }
- },
- {
-  "start": 2568.0,
-  "end": 2573.0,
-  "keywords": [
-   "Tarkovsky"
-  ],
-  "type": "PER",
-  "score": 0.9993469119,
-  "card": {
-   "keywords": [
-    "Tarkovsky"
-   ],
-   "type": "PER",
-   "url": "https://no.wikipedia.org/wiki/Andrej_Tarkovskij"
-  }
- },
- {
-  "start": 2609.0,
-  "end": 2611.0,
-  "keywords": [
-   "Spaghettitree"
-  ],
-  "type": "PER",
-  "score": 0.807546556,
-  "card": {
-   "keywords": [
-    "Spaghettitree"
-   ],
-   "type": "PER"
-  }
- },
- {
-  "start": 2609.0,
-  "end": 2611.0,
-  "keywords": [
-   "Twitter"
-  ],
-  "type": "MISC",
-  "score": 0.9570268989,
-  "card": {
-   "keywords": [
-    "Twitter"
-   ],
-   "type": "MISC",
-   "url": "https://no.wikipedia.org/wiki/Twitter"
-  }
- },
- {
-  "start": 2643.0,
-  "end": 2649.0,
-  "keywords": [
-   "H. G. Wells"
-  ],
-  "type": "PER",
-  "score": 0.9869692922,
-  "card": {
-   "keywords": [
-    "H. G. Wells"
-   ],
-   "type": "PER",
-   "url": "https://no.wikipedia.org/wiki/H.G._Wells"
-  }
- },
- {
-  "start": 2698.0,
-  "end": 2700.0,
-  "keywords": [
-   "Arthur C. Clarke"
-  ],
-  "type": "PER",
-  "score": 0.9997953773,
-  "card": {
-   "keywords": [
-    "Arthur C. Clarke"
-   ],
-   "type": "PER",
-   "url": "https://no.wikipedia.org/wiki/Arthur_C._Clarke"
-  }
- },
- {
-  "start": 2729.0,
-  "end": 2733.0,
-  "keywords": [
-   "Robert Heinen"
-  ],
-  "type": "PER",
-  "score": 0.9995811582,
-  "card": {
-   "keywords": [
-    "Heinen"
-   ],
-   "type": "PER"
-  }
- },
- {
-  "start": 2767.0,
-  "end": 2770.0,
-  "keywords": [
-   "Octavia Butler"
-  ],
-  "type": "PER",
-  "score": 0.9989174604,
-  "card": {
-   "keywords": [
-    "Octavia Butler"
-   ],
-   "type": "PER"
-  }
- },
- {
-  "start": 2813.0,
-  "end": 2815.0,
-  "keywords": [
-   "Star Wars"
-  ],
-  "type": "MISC",
-  "score": 0.9991263151,
-  "card": {
-   "keywords": [
-    "Starship Troopers"
-   ],
-   "type": "MISC",
-   "url": "https://no.wikipedia.org/wiki/Starship_Troopers_(film)"
-  }
- },
- {
-  "start": 2862.0,
-  "end": 2864.0,
-  "keywords": [
-   "Londons"
+   "London"
   ],
   "type": "LOC",
-  "score": 0.8398173451,
+  "score": 0.9978089929,
   "card": {
    "keywords": [
     "London"
@@ -2055,29 +1180,13 @@
   }
  },
  {
-  "start": 2868.0,
-  "end": 2870.0,
-  "keywords": [
-   "The Time Machine"
-  ],
-  "type": "MISC",
-  "score": 0.9992203712,
-  "card": {
-   "keywords": [
-    "The Time Machine"
-   ],
-   "type": "MISC",
-   "url": "https://no.wikipedia.org/wiki/The_Time_Machine"
-  }
- },
- {
-  "start": 2868.0,
-  "end": 2870.0,
+  "start": 974.72,
+  "end": 981.0,
   "keywords": [
    "HG Wells"
   ],
   "type": "PER",
-  "score": 0.9819289446,
+  "score": 0.9995844364,
   "card": {
    "keywords": [
     "H. G. Wells"
@@ -2087,60 +1196,91 @@
   }
  },
  {
-  "start": 2904.0,
-  "end": 2906.0,
+  "start": 974.72,
+  "end": 981.0,
   "keywords": [
-   "Philip K. Dick"
+   "Gavin Griffiths"
   ],
   "type": "PER",
-  "score": 0.9997088313,
+  "score": 0.9986891747,
   "card": {
    "keywords": [
-    "Philip K. Dick"
+    "Gavin Griffiths"
    ],
-   "type": "PER",
-   "url": "https://no.wikipedia.org/wiki/Philip_K._Dick"
+   "type": "PER"
   }
  },
  {
-  "start": 2906.0,
-  "end": 2911.8,
+  "start": 974.72,
+  "end": 981.0,
   "keywords": [
-   "Philip K. Dick"
+   "Twitter"
+  ],
+  "type": "MISC",
+  "score": 0.932461381,
+  "card": {
+   "keywords": [
+    "Twitter"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Twitter"
+  }
+ },
+ {
+  "start": 974.72,
+  "end": 981.0,
+  "keywords": [
+   "HG Wells"
   ],
   "type": "PER",
-  "score": 0.9997749925,
+  "score": 0.9997313023,
   "card": {
    "keywords": [
-    "Philip K. Dick"
+    "H. G. Wells"
    ],
    "type": "PER",
-   "url": "https://no.wikipedia.org/wiki/Philip_K._Dick"
+   "url": "https://no.wikipedia.org/wiki/H.G._Wells"
   }
  },
  {
-  "start": 2906.0,
-  "end": 2911.8,
+  "start": 1018.27,
+  "end": 1024.31,
   "keywords": [
-   "American"
+   "Charles"
   ],
-  "type": "MISC",
-  "score": 0.640167892,
+  "type": "PER",
+  "score": 0.9997865558,
   "card": {
    "keywords": [
-    "American"
+    "Charles Fourier"
    ],
-   "type": "MISC"
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Charles_Fourier"
   }
  },
  {
-  "start": 2906.0,
-  "end": 2911.8,
+  "start": 1024.31,
+  "end": 1029.5500000000002,
   "keywords": [
-   "The Penultimate Truth"
+   "Dickens"
+  ],
+  "type": "PER",
+  "score": 0.9994677901,
+  "card": {
+   "keywords": [
+    "Dickens"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1024.31,
+  "end": 1029.5500000000002,
+  "keywords": [
+   "The Signalman"
   ],
   "type": "MISC",
-  "score": 0.9985640049,
+  "score": 0.9985308051,
   "card": {
    "keywords": [
     "The Time Machine"
@@ -2150,8 +1290,2264 @@
   }
  },
  {
-  "start": 2937.52,
-  "end": 2941.06,
+  "start": 1050.8700000000003,
+  "end": 1056.07,
+  "keywords": [
+   "Gothic"
+  ],
+  "type": "MISC",
+  "score": 0.6934816837,
+  "card": {
+   "keywords": [
+    "Gothic"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Gothic"
+  }
+ },
+ {
+  "start": 1071.36,
+  "end": 1074.6,
+  "keywords": [
+   "H. G. Wells"
+  ],
+  "type": "PER",
+  "score": 0.9963897467,
+  "card": {
+   "keywords": [
+    "H. G. Wells"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H.G._Wells"
+  }
+ },
+ {
+  "start": 1078.92,
+  "end": 1084.6400000000003,
+  "keywords": [
+   "The Time Machine"
+  ],
+  "type": "MISC",
+  "score": 0.9990789294,
+  "card": {
+   "keywords": [
+    "The Time Machine"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/The_Time_Machine"
+  }
+ },
+ {
+  "start": 1078.92,
+  "end": 1084.6400000000003,
+  "keywords": [
+   "The Time Machine"
+  ],
+  "type": "MISC",
+  "score": 0.9990536571,
+  "card": {
+   "keywords": [
+    "The Time Machine"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/The_Time_Machine"
+  }
+ },
+ {
+  "start": 1078.92,
+  "end": 1084.6400000000003,
+  "keywords": [
+   "Victorian era"
+  ],
+  "type": "MISC",
+  "score": 0.8507828712,
+  "card": {
+   "keywords": [
+    "Victorian era"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 1086.6,
+  "end": 1094.32,
+  "keywords": [
+   "The Time Machine"
+  ],
+  "type": "MISC",
+  "score": 0.9984490275,
+  "card": {
+   "keywords": [
+    "The Time Machine"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/The_Time_Machine"
+  }
+ },
+ {
+  "start": 1086.6,
+  "end": 1094.32,
+  "keywords": [
+   "H. G. Wells"
+  ],
+  "type": "PER",
+  "score": 0.9972966909,
+  "card": {
+   "keywords": [
+    "H. G. Wells"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H.G._Wells"
+  }
+ },
+ {
+  "start": 1107.0,
+  "end": 1114.72,
+  "keywords": [
+   "London"
+  ],
+  "type": "LOC",
+  "score": 0.9935729504,
+  "card": {
+   "keywords": [
+    "London"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=London"
+  }
+ },
+ {
+  "start": 1148.7600000000004,
+  "end": 1154.9600000000003,
+  "keywords": [
+   "Morlocks"
+  ],
+  "type": "ORG",
+  "score": 0.4960602522,
+  "card": {
+   "keywords": [
+    "Morlocks"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 1148.7600000000004,
+  "end": 1154.9600000000003,
+  "keywords": [
+   "H. G. Wells"
+  ],
+  "type": "PER",
+  "score": 0.9888409376,
+  "card": {
+   "keywords": [
+    "H. G. Wells"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H.G._Wells"
+  }
+ },
+ {
+  "start": 1210.56,
+  "end": 1217.08,
+  "keywords": [
+   "Polnol"
+  ],
+  "type": "LOC",
+  "score": 0.9974986911,
+  "card": {
+   "keywords": [
+    "Polnol"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Polnol"
+  }
+ },
+ {
+  "start": 1263.76,
+  "end": 1269.5999999999997,
+  "keywords": [
+   "the Education Act"
+  ],
+  "type": "MISC",
+  "score": 0.9645838737,
+  "card": {
+   "keywords": [
+    "the Education Act"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 1279.0400000000002,
+  "end": 1285.9200000000003,
+  "keywords": [
+   "T. H. Huxley"
+  ],
+  "type": "PER",
+  "score": 0.9971772432,
+  "card": {
+   "keywords": [
+    "H. G. Wells"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H.G._Wells"
+  }
+ },
+ {
+  "start": 1297.6000000000008,
+  "end": 1305.3200000000008,
+  "keywords": [
+   "H. G. Wells"
+  ],
+  "type": "PER",
+  "score": 0.9956160784,
+  "card": {
+   "keywords": [
+    "H. G. Wells"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H.G._Wells"
+  }
+ },
+ {
+  "start": 1322.6400000000003,
+  "end": 1328.9200000000003,
+  "keywords": [
+   "X"
+  ],
+  "type": "MISC",
+  "score": 0.9371020794,
+  "card": {
+   "keywords": [
+    "X"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/X"
+  }
+ },
+ {
+  "start": 1328.9200000000003,
+  "end": 1334.6000000000004,
+  "keywords": [
+   "Wells"
+  ],
+  "type": "PER",
+  "score": 0.9995897412,
+  "card": {
+   "keywords": [
+    "H. G. Wells"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H.G._Wells"
+  }
+ },
+ {
+  "start": 1382.32,
+  "end": 1388.0,
+  "keywords": [
+   "Dr. Moreau"
+  ],
+  "type": "PER",
+  "score": 0.7887035012,
+  "card": {
+   "keywords": [
+    "Dr. Moreau"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1390.44,
+  "end": 1396.96,
+  "keywords": [
+   "Dr. Moreau"
+  ],
+  "type": "PER",
+  "score": 0.9738704562,
+  "card": {
+   "keywords": [
+    "Dr. Moreau"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1433.8800000000003,
+  "end": 1441.4000000000005,
+  "keywords": [
+   "Darwin"
+  ],
+  "type": "PER",
+  "score": 0.9996140599,
+  "card": {
+   "keywords": [
+    "Darwin"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Darwin"
+  }
+ },
+ {
+  "start": 1447.9600000000005,
+  "end": 1452.9200000000005,
+  "keywords": [
+   "Darwin"
+  ],
+  "type": "PER",
+  "score": 0.9988962412,
+  "card": {
+   "keywords": [
+    "Darwin"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Darwin"
+  }
+ },
+ {
+  "start": 1474.4800000000002,
+  "end": 1478.8800000000006,
+  "keywords": [
+   "Jekyll and Hyde"
+  ],
+  "type": "MISC",
+  "score": 0.8697602749,
+  "card": {
+   "keywords": [
+    "Jekyll and Hyde"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 1474.4800000000002,
+  "end": 1478.8800000000006,
+  "keywords": [
+   "Jekyll"
+  ],
+  "type": "PER",
+  "score": 0.9939131141,
+  "card": {
+   "keywords": [
+    "Jekyll"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1494.1600000000003,
+  "end": 1500.8,
+  "keywords": [
+   "England"
+  ],
+  "type": "LOC",
+  "score": 0.9875847697,
+  "card": {
+   "keywords": [
+    "England"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=England"
+  }
+ },
+ {
+  "start": 1504.32,
+  "end": 1510.36,
+  "keywords": [
+   "England"
+  ],
+  "type": "LOC",
+  "score": 0.9580637813,
+  "card": {
+   "keywords": [
+    "England"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=England"
+  }
+ },
+ {
+  "start": 1516.24,
+  "end": 1521.64,
+  "keywords": [
+   "Wells"
+  ],
+  "type": "PER",
+  "score": 0.9996622801,
+  "card": {
+   "keywords": [
+    "H. G. Wells"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H.G._Wells"
+  }
+ },
+ {
+  "start": 1516.24,
+  "end": 1521.64,
+  "keywords": [
+   "Wells"
+  ],
+  "type": "PER",
+  "score": 0.9997150302,
+  "card": {
+   "keywords": [
+    "H. G. Wells"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H.G._Wells"
+  }
+ },
+ {
+  "start": 1532.76,
+  "end": 1538.28,
+  "keywords": [
+   "War of the Worlds"
+  ],
+  "type": "MISC",
+  "score": 0.9987441301,
+  "card": {
+   "keywords": [
+    "Rings of Power"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 1538.28,
+  "end": 1543.76,
+  "keywords": [
+   "Victorian"
+  ],
+  "type": "MISC",
+  "score": 0.6923900843,
+  "card": {
+   "keywords": [
+    "Victorian era"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 1538.28,
+  "end": 1543.76,
+  "keywords": [
+   "Empire"
+  ],
+  "type": "ORG",
+  "score": 0.5320966244,
+  "card": {
+   "keywords": [
+    "Empire"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Empire"
+  }
+ },
+ {
+  "start": 1538.28,
+  "end": 1543.76,
+  "keywords": [
+   "British Empire"
+  ],
+  "type": "ORG",
+  "score": 0.7252451777,
+  "card": {
+   "keywords": [
+    "Empire"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Empire"
+  }
+ },
+ {
+  "start": 1548.48,
+  "end": 1554.96,
+  "keywords": [
+   "War of the Worlds"
+  ],
+  "type": "MISC",
+  "score": 0.9988371134,
+  "card": {
+   "keywords": [
+    "Rings of Power"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 1560.03,
+  "end": 1566.2966666666666,
+  "keywords": [
+   "English"
+  ],
+  "type": "MISC",
+  "score": 0.9519041777,
+  "card": {
+   "keywords": [
+    "English"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Engelsk"
+  }
+ },
+ {
+  "start": 1560.03,
+  "end": 1566.2966666666666,
+  "keywords": [
+   "British"
+  ],
+  "type": "MISC",
+  "score": 0.6974640489,
+  "card": {
+   "keywords": [
+    "British"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 1577.56,
+  "end": 1583.44,
+  "keywords": [
+   "Tasmania"
+  ],
+  "type": "LOC",
+  "score": 0.9951287508,
+  "card": {
+   "keywords": [
+    "Tasmania"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Tasmania"
+  }
+ },
+ {
+  "start": 1583.44,
+  "end": 1589.7199999999998,
+  "keywords": [
+   "Martians"
+  ],
+  "type": "ORG",
+  "score": 0.6483708024,
+  "card": {
+   "keywords": [
+    "Martians"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 1589.72,
+  "end": 1596.96,
+  "keywords": [
+   "London"
+  ],
+  "type": "LOC",
+  "score": 0.9928514957,
+  "card": {
+   "keywords": [
+    "London"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=London"
+  }
+ },
+ {
+  "start": 1596.96,
+  "end": 1602.56,
+  "keywords": [
+   "the Wells"
+  ],
+  "type": "PER",
+  "score": 0.9544372559,
+  "card": {
+   "keywords": [
+    "H. G. Wells"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H.G._Wells"
+  }
+ },
+ {
+  "start": 1618.8800000000003,
+  "end": 1624.2000000000003,
+  "keywords": [
+   "British"
+  ],
+  "type": "MISC",
+  "score": 0.7228279114,
+  "card": {
+   "keywords": [
+    "British"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 1644.0800000000002,
+  "end": 1650.4800000000005,
+  "keywords": [
+   "British"
+  ],
+  "type": "ORG",
+  "score": 0.5305725932,
+  "card": {
+   "keywords": [
+    "British"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 1644.0800000000002,
+  "end": 1650.4800000000005,
+  "keywords": [
+   "Wells"
+  ],
+  "type": "PER",
+  "score": 0.9996563196,
+  "card": {
+   "keywords": [
+    "H. G. Wells"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H.G._Wells"
+  }
+ },
+ {
+  "start": 1653.24,
+  "end": 1656.12,
+  "keywords": [
+   "History Extra"
+  ],
+  "type": "MISC",
+  "score": 0.990044117,
+  "card": {
+   "keywords": [
+    "BBC History Magazine"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 1656.12,
+  "end": 1665.4,
+  "keywords": [
+   "HG Wells"
+  ],
+  "type": "PER",
+  "score": 0.9990624189,
+  "card": {
+   "keywords": [
+    "H. G. Wells"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H.G._Wells"
+  }
+ },
+ {
+  "start": 1707.96,
+  "end": 1711.96,
+  "keywords": [
+   "Norwegians"
+  ],
+  "type": "MISC",
+  "score": 0.7898567319,
+  "card": {
+   "keywords": [
+    "Norwegians"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 1714.96,
+  "end": 1719.96,
+  "keywords": [
+   "Telenor"
+  ],
+  "type": "ORG",
+  "score": 0.9895833731,
+  "card": {
+   "keywords": [
+    "Telenor"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Telenor"
+  }
+ },
+ {
+  "start": 1714.96,
+  "end": 1719.96,
+  "keywords": [
+   "MinSki"
+  ],
+  "type": "MISC",
+  "score": 0.989236176,
+  "card": {
+   "keywords": [
+    "MinSki"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 1722.96,
+  "end": 1725.96,
+  "keywords": [
+   "MinSki"
+  ],
+  "type": "ORG",
+  "score": 0.8923268914,
+  "card": {
+   "keywords": [
+    "MinSki"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 1761.35,
+  "end": 1770.35,
+  "keywords": [
+   "North America"
+  ],
+  "type": "LOC",
+  "score": 0.9979784489,
+  "card": {
+   "keywords": [
+    "America"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=America"
+  }
+ },
+ {
+  "start": 1816.98,
+  "end": 1820.98,
+  "keywords": [
+   "Isaac Asimov"
+  ],
+  "type": "PER",
+  "score": 0.9997531176,
+  "card": {
+   "keywords": [
+    "Isaac Asimov"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Isaac_Asimov"
+  }
+ },
+ {
+  "start": 1816.98,
+  "end": 1820.98,
+  "keywords": [
+   "Ray Bradbury"
+  ],
+  "type": "PER",
+  "score": 0.9996273518,
+  "card": {
+   "keywords": [
+    "Ray Bradbury"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Ray_Bradbury"
+  }
+ },
+ {
+  "start": 1816.98,
+  "end": 1820.98,
+  "keywords": [
+   "Frank Herbert"
+  ],
+  "type": "PER",
+  "score": 0.9994800091,
+  "card": {
+   "keywords": [
+    "Frankenstein"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Frankenstein"
+  }
+ },
+ {
+  "start": 1820.98,
+  "end": 1826.98,
+  "keywords": [
+   "Agrobiodiverse on Twitter"
+  ],
+  "type": "MISC",
+  "score": 0.8438014388,
+  "card": {
+   "keywords": [
+    "Twitter"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Twitter"
+  }
+ },
+ {
+  "start": 1820.98,
+  "end": 1826.98,
+  "keywords": [
+   "English language science fiction"
+  ],
+  "type": "MISC",
+  "score": 0.7036717534,
+  "card": {
+   "keywords": [
+    "English"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Engelsk"
+  }
+ },
+ {
+  "start": 1839.96,
+  "end": 1849.96,
+  "keywords": [
+   "H. G. Wells"
+  ],
+  "type": "PER",
+  "score": 0.9836069345,
+  "card": {
+   "keywords": [
+    "H. G. Wells"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H.G._Wells"
+  }
+ },
+ {
+  "start": 1839.96,
+  "end": 1849.96,
+  "keywords": [
+   "English"
+  ],
+  "type": "MISC",
+  "score": 0.9955203533,
+  "card": {
+   "keywords": [
+    "English"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Engelsk"
+  }
+ },
+ {
+  "start": 1839.96,
+  "end": 1849.96,
+  "keywords": [
+   "British"
+  ],
+  "type": "MISC",
+  "score": 0.9909921885,
+  "card": {
+   "keywords": [
+    "British"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 1853.96,
+  "end": 1857.96,
+  "keywords": [
+   "Arthur C. Clarke"
+  ],
+  "type": "PER",
+  "score": 0.999782145,
+  "card": {
+   "keywords": [
+    "Arthur C. Clarke"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Arthur_C._Clarke"
+  }
+ },
+ {
+  "start": 1857.96,
+  "end": 1860.96,
+  "keywords": [
+   "Wells"
+  ],
+  "type": "PER",
+  "score": 0.9997135997,
+  "card": {
+   "keywords": [
+    "H. G. Wells"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H.G._Wells"
+  }
+ },
+ {
+  "start": 1860.96,
+  "end": 1869.96,
+  "keywords": [
+   "America"
+  ],
+  "type": "LOC",
+  "score": 0.9994779229,
+  "card": {
+   "keywords": [
+    "America"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=America"
+  }
+ },
+ {
+  "start": 1873.96,
+  "end": 1879.96,
+  "keywords": [
+   "Hugo Gernsback"
+  ],
+  "type": "PER",
+  "score": 0.999732852,
+  "card": {
+   "keywords": [
+    "Hugo Gernsback"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Hugo_Gernsback"
+  }
+ },
+ {
+  "start": 1881.96,
+  "end": 1887.96,
+  "keywords": [
+   "America"
+  ],
+  "type": "LOC",
+  "score": 0.9993718266,
+  "card": {
+   "keywords": [
+    "America"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=America"
+  }
+ },
+ {
+  "start": 1887.96,
+  "end": 1890.96,
+  "keywords": [
+   "CB radio"
+  ],
+  "type": "MISC",
+  "score": 0.8874588609,
+  "card": {
+   "keywords": [
+    "CB radio"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Privatradio"
+  }
+ },
+ {
+  "start": 1892.96,
+  "end": 1900.96,
+  "keywords": [
+   "H. G. Wells"
+  ],
+  "type": "PER",
+  "score": 0.980497241,
+  "card": {
+   "keywords": [
+    "H. G. Wells"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H.G._Wells"
+  }
+ },
+ {
+  "start": 1908.96,
+  "end": 1918.96,
+  "keywords": [
+   "Astounding Science Fiction"
+  ],
+  "type": "MISC",
+  "score": 0.9972012639,
+  "card": {
+   "keywords": [
+    "Astounding Science Fiction"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 1908.96,
+  "end": 1918.96,
+  "keywords": [
+   "American"
+  ],
+  "type": "MISC",
+  "score": 0.807641983,
+  "card": {
+   "keywords": [
+    "American"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 1926.96,
+  "end": 1930.96,
+  "keywords": [
+   "Asimov"
+  ],
+  "type": "PER",
+  "score": 0.9996467829,
+  "card": {
+   "keywords": [
+    "Isaac Asimov"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Isaac_Asimov"
+  }
+ },
+ {
+  "start": 1931.43,
+  "end": 1934.4300000000003,
+  "keywords": [
+   "Frank Herbert"
+  ],
+  "type": "PER",
+  "score": 0.9997980595,
+  "card": {
+   "keywords": [
+    "Frankenstein"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Frankenstein"
+  }
+ },
+ {
+  "start": 1939.4300000000003,
+  "end": 1946.4300000000003,
+  "keywords": [
+   "Ray Bradbury"
+  ],
+  "type": "PER",
+  "score": 0.9997067451,
+  "card": {
+   "keywords": [
+    "Ray Bradbury"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Ray_Bradbury"
+  }
+ },
+ {
+  "start": 1979.4300000000003,
+  "end": 1990.4300000000003,
+  "keywords": [
+   "Robert Heinlein"
+  ],
+  "type": "PER",
+  "score": 0.999789238,
+  "card": {
+   "keywords": [
+    "Robert Heinlein"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Robert_A._Heinlein"
+  }
+ },
+ {
+  "start": 1979.4300000000003,
+  "end": 1990.4300000000003,
+  "keywords": [
+   "the Navy"
+  ],
+  "type": "ORG",
+  "score": 0.8852458,
+  "card": {
+   "keywords": [
+    "the Navy"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 1990.4300000000003,
+  "end": 1995.4300000000003,
+  "keywords": [
+   "the Navy"
+  ],
+  "type": "ORG",
+  "score": 0.9371044636,
+  "card": {
+   "keywords": [
+    "the Navy"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 1995.4300000000003,
+  "end": 2005.4300000000003,
+  "keywords": [
+   "John Campbell"
+  ],
+  "type": "PER",
+  "score": 0.9998192787,
+  "card": {
+   "keywords": [
+    "John Campbell"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/John_Campbell"
+  }
+ },
+ {
+  "start": 2014.96,
+  "end": 2017.96,
+  "keywords": [
+   "Heinlein"
+  ],
+  "type": "PER",
+  "score": 0.9987778068,
+  "card": {
+   "keywords": [
+    "Robert Heinlein"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Robert_A._Heinlein"
+  }
+ },
+ {
+  "start": 2014.96,
+  "end": 2017.96,
+  "keywords": [
+   "Starship Troopers"
+  ],
+  "type": "MISC",
+  "score": 0.9847333431,
+  "card": {
+   "keywords": [
+    "Starship Troopers"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Starship_Troopers_(film)"
+  }
+ },
+ {
+  "start": 2019.96,
+  "end": 2033.96,
+  "keywords": [
+   "Robert Heinlein"
+  ],
+  "type": "PER",
+  "score": 0.9996566772,
+  "card": {
+   "keywords": [
+    "Robert Heinlein"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Robert_A._Heinlein"
+  }
+ },
+ {
+  "start": 2044.05,
+  "end": 2049.05,
+  "keywords": [
+   "America"
+  ],
+  "type": "LOC",
+  "score": 0.9994632602,
+  "card": {
+   "keywords": [
+    "America"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=America"
+  }
+ },
+ {
+  "start": 2055.05,
+  "end": 2063.05,
+  "keywords": [
+   "Heinlein"
+  ],
+  "type": "PER",
+  "score": 0.9997951388,
+  "card": {
+   "keywords": [
+    "Robert Heinlein"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Robert_A._Heinlein"
+  }
+ },
+ {
+  "start": 2078.05,
+  "end": 2086.05,
+  "keywords": [
+   "Starship Troopers"
+  ],
+  "type": "MISC",
+  "score": 0.9123111963,
+  "card": {
+   "keywords": [
+    "Starship Troopers"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Starship_Troopers_(film)"
+  }
+ },
+ {
+  "start": 2086.05,
+  "end": 2098.05,
+  "keywords": [
+   "Paul Verhoeven"
+  ],
+  "type": "PER",
+  "score": 0.9997460842,
+  "card": {
+   "keywords": [
+    "Paul Verhoeven"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Paul_Verhoeven"
+  }
+ },
+ {
+  "start": 2086.05,
+  "end": 2098.05,
+  "keywords": [
+   "America"
+  ],
+  "type": "LOC",
+  "score": 0.984100461,
+  "card": {
+   "keywords": [
+    "America"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=America"
+  }
+ },
+ {
+  "start": 2111.05,
+  "end": 2125.05,
+  "keywords": [
+   "Ray Bradbury"
+  ],
+  "type": "PER",
+  "score": 0.9996837974,
+  "card": {
+   "keywords": [
+    "Ray Bradbury"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Ray_Bradbury"
+  }
+ },
+ {
+  "start": 2125.05,
+  "end": 2139.05,
+  "keywords": [
+   "The Martian Chronicles"
+  ],
+  "type": "MISC",
+  "score": 0.9970027804,
+  "card": {
+   "keywords": [
+    "The Time Machine"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/The_Time_Machine"
+  }
+ },
+ {
+  "start": 2125.05,
+  "end": 2139.05,
+  "keywords": [
+   "Heinlein"
+  ],
+  "type": "PER",
+  "score": 0.9996795654,
+  "card": {
+   "keywords": [
+    "Robert Heinlein"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Robert_A._Heinlein"
+  }
+ },
+ {
+  "start": 2139.05,
+  "end": 2145.05,
+  "keywords": [
+   "Mars"
+  ],
+  "type": "MISC",
+  "score": 0.7477223873,
+  "card": {
+   "keywords": [
+    "Mars"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Mars"
+  }
+ },
+ {
+  "start": 2145.05,
+  "end": 2162.05,
+  "keywords": [
+   "Frank Herbert"
+  ],
+  "type": "PER",
+  "score": 0.9997273684,
+  "card": {
+   "keywords": [
+    "Frankenstein"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Frankenstein"
+  }
+ },
+ {
+  "start": 2145.05,
+  "end": 2162.05,
+  "keywords": [
+   "June"
+  ],
+  "type": "MISC",
+  "score": 0.9961414933,
+  "card": {
+   "keywords": [
+    "June"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/June"
+  }
+ },
+ {
+  "start": 2162.05,
+  "end": 2172.05,
+  "keywords": [
+   "Arrakis"
+  ],
+  "type": "LOC",
+  "score": 0.9646472335,
+  "card": {
+   "keywords": [
+    "Arrakis"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Arrakis"
+  }
+ },
+ {
+  "start": 2182.05,
+  "end": 2190.05,
+  "keywords": [
+   "Heinlein"
+  ],
+  "type": "PER",
+  "score": 0.9206397533,
+  "card": {
+   "keywords": [
+    "Robert Heinlein"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Robert_A._Heinlein"
+  }
+ },
+ {
+  "start": 2182.05,
+  "end": 2190.05,
+  "keywords": [
+   "Bradbury"
+  ],
+  "type": "PER",
+  "score": 0.9989865422,
+  "card": {
+   "keywords": [
+    "Ray Bradbury"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Ray_Bradbury"
+  }
+ },
+ {
+  "start": 2189.01,
+  "end": 2195.01,
+  "keywords": [
+   "Google"
+  ],
+  "type": "MISC",
+  "score": 0.9961190224,
+  "card": {
+   "keywords": [
+    "Google searches"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 2195.01,
+  "end": 2207.01,
+  "keywords": [
+   "Ursula Le Guin"
+  ],
+  "type": "PER",
+  "score": 0.9997431636,
+  "card": {
+   "keywords": [
+    "Ursula Le Guin"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Ursula_K._Le_Guin"
+  }
+ },
+ {
+  "start": 2206.96,
+  "end": 2223.96,
+  "keywords": [
+   "Ursula Le Guin"
+  ],
+  "type": "PER",
+  "score": 0.9996664524,
+  "card": {
+   "keywords": [
+    "Ursula Le Guin"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Ursula_K._Le_Guin"
+  }
+ },
+ {
+  "start": 2228.96,
+  "end": 2240.96,
+  "keywords": [
+   "Margaret Cavendish"
+  ],
+  "type": "PER",
+  "score": 0.9997318983,
+  "card": {
+   "keywords": [
+    "Margaret Atwood"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Margaret_Atwood"
+  }
+ },
+ {
+  "start": 2228.96,
+  "end": 2240.96,
+  "keywords": [
+   "Wells"
+  ],
+  "type": "PER",
+  "score": 0.9996619225,
+  "card": {
+   "keywords": [
+    "H. G. Wells"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H.G._Wells"
+  }
+ },
+ {
+  "start": 2240.96,
+  "end": 2246.96,
+  "keywords": [
+   "Ursula Le Guin"
+  ],
+  "type": "PER",
+  "score": 0.9997659326,
+  "card": {
+   "keywords": [
+    "Ursula Le Guin"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Ursula_K._Le_Guin"
+  }
+ },
+ {
+  "start": 2279.96,
+  "end": 2293.96,
+  "keywords": [
+   "The Left Hand of Darkness"
+  ],
+  "type": "MISC",
+  "score": 0.9992520213,
+  "card": {
+   "keywords": [
+    "The Time Machine"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/The_Time_Machine"
+  }
+ },
+ {
+  "start": 2314.96,
+  "end": 2326.96,
+  "keywords": [
+   "Earth"
+  ],
+  "type": "LOC",
+  "score": 0.4514167607,
+  "card": {
+   "keywords": [
+    "Earth"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Earth"
+  }
+ },
+ {
+  "start": 2358.96,
+  "end": 2365.96,
+  "keywords": [
+   "Asimov"
+  ],
+  "type": "PER",
+  "score": 0.999424696,
+  "card": {
+   "keywords": [
+    "Isaac Asimov"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Isaac_Asimov"
+  }
+ },
+ {
+  "start": 2358.96,
+  "end": 2365.96,
+  "keywords": [
+   "Heinlein"
+  ],
+  "type": "PER",
+  "score": 0.9996438026,
+  "card": {
+   "keywords": [
+    "Robert Heinlein"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Robert_A._Heinlein"
+  }
+ },
+ {
+  "start": 2373.96,
+  "end": 2381.96,
+  "keywords": [
+   "Saniswap Lem"
+  ],
+  "type": "PER",
+  "score": 0.9997233152,
+  "card": {
+   "keywords": [
+    "Ursula Le Guin"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Ursula_K._Le_Guin"
+  }
+ },
+ {
+  "start": 2373.96,
+  "end": 2381.96,
+  "keywords": [
+   "Polish"
+  ],
+  "type": "MISC",
+  "score": 0.9945811629,
+  "card": {
+   "keywords": [
+    "Polish"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 2381.96,
+  "end": 2387.96,
+  "keywords": [
+   "European"
+  ],
+  "type": "MISC",
+  "score": 0.9185737967,
+  "card": {
+   "keywords": [
+    "European"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 2399.03,
+  "end": 2406.0299999999997,
+  "keywords": [
+   "HG Wells"
+  ],
+  "type": "PER",
+  "score": 0.9994488955,
+  "card": {
+   "keywords": [
+    "H. G. Wells"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H.G._Wells"
+  }
+ },
+ {
+  "start": 2414.0299999999997,
+  "end": 2424.0299999999997,
+  "keywords": [
+   "Russian"
+  ],
+  "type": "MISC",
+  "score": 0.9795727134,
+  "card": {
+   "keywords": [
+    "Russian"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 2414.0299999999997,
+  "end": 2424.0299999999997,
+  "keywords": [
+   "Soviet Union"
+  ],
+  "type": "MISC",
+  "score": 0.9765744209,
+  "card": {
+   "keywords": [
+    "Soviet Union"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 2443.0299999999997,
+  "end": 2452.0299999999997,
+  "keywords": [
+   "Stanislav Lem"
+  ],
+  "type": "PER",
+  "score": 0.999630928,
+  "card": {
+   "keywords": [
+    "Ursula Le Guin"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Ursula_K._Le_Guin"
+  }
+ },
+ {
+  "start": 2452.0299999999997,
+  "end": 2460.0299999999997,
+  "keywords": [
+   "Soviet Union"
+  ],
+  "type": "ORG",
+  "score": 0.6737321019,
+  "card": {
+   "keywords": [
+    "Soviet Union"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 2452.0299999999997,
+  "end": 2460.0299999999997,
+  "keywords": [
+   "Cold War"
+  ],
+  "type": "MISC",
+  "score": 0.9519561529,
+  "card": {
+   "keywords": [
+    "Cold War"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 2494.0299999999997,
+  "end": 2503.0299999999997,
+  "keywords": [
+   "Solaris"
+  ],
+  "type": "MISC",
+  "score": 0.9972298741,
+  "card": {
+   "keywords": [
+    "Solaris"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Solaris"
+  }
+ },
+ {
+  "start": 2530.0299999999997,
+  "end": 2542.0299999999997,
+  "keywords": [
+   "Lem"
+  ],
+  "type": "PER",
+  "score": 0.9995549321,
+  "card": {
+   "keywords": [
+    "Ursula Le Guin"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Ursula_K._Le_Guin"
+  }
+ },
+ {
+  "start": 2530.0299999999997,
+  "end": 2542.0299999999997,
+  "keywords": [
+   "Communist"
+  ],
+  "type": "ORG",
+  "score": 0.6613312364,
+  "card": {
+   "keywords": [
+    "Communist"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 2560.0299999999997,
+  "end": 2573.0299999999997,
+  "keywords": [
+   "Drogatsky"
+  ],
+  "type": "PER",
+  "score": 0.8921899199,
+  "card": {
+   "keywords": [
+    "Drogatsky"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 2560.0299999999997,
+  "end": 2573.0299999999997,
+  "keywords": [
+   "Roadside Picnic"
+  ],
+  "type": "MISC",
+  "score": 0.999370873,
+  "card": {
+   "keywords": [
+    "Roadside Picnic"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 2560.0299999999997,
+  "end": 2573.0299999999997,
+  "keywords": [
+   "Stalker"
+  ],
+  "type": "MISC",
+  "score": 0.9919380546,
+  "card": {
+   "keywords": [
+    "Stalker"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Stalker"
+  }
+ },
+ {
+  "start": 2560.0299999999997,
+  "end": 2573.0299999999997,
+  "keywords": [
+   "Tarkovsky"
+  ],
+  "type": "PER",
+  "score": 0.9995567203,
+  "card": {
+   "keywords": [
+    "Tarkovsky"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Andrej_Tarkovskij"
+  }
+ },
+ {
+  "start": 2607.96,
+  "end": 2616.96,
+  "keywords": [
+   "Spaghetti Tree"
+  ],
+  "type": "PER",
+  "score": 0.8383629322,
+  "card": {
+   "keywords": [
+    "Spaghetti Tree"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 2607.96,
+  "end": 2616.96,
+  "keywords": [
+   "Twitter"
+  ],
+  "type": "MISC",
+  "score": 0.6600435972,
+  "card": {
+   "keywords": [
+    "Twitter"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Twitter"
+  }
+ },
+ {
+  "start": 2607.96,
+  "end": 2616.96,
+  "keywords": [
+   "Cold War"
+  ],
+  "type": "MISC",
+  "score": 0.9601197243,
+  "card": {
+   "keywords": [
+    "Cold War"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 2616.96,
+  "end": 2621.96,
+  "keywords": [
+   "the Cold War"
+  ],
+  "type": "MISC",
+  "score": 0.917673409,
+  "card": {
+   "keywords": [
+    "the Education Act"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 2642.96,
+  "end": 2651.96,
+  "keywords": [
+   "HG Wells"
+  ],
+  "type": "PER",
+  "score": 0.9990624189,
+  "card": {
+   "keywords": [
+    "H. G. Wells"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H.G._Wells"
+  }
+ },
+ {
+  "start": 2658.96,
+  "end": 2671.96,
+  "keywords": [
+   "West"
+  ],
+  "type": "ORG",
+  "score": 0.7009342909,
+  "card": {
+   "keywords": [
+    "West"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/West"
+  }
+ },
+ {
+  "start": 2658.96,
+  "end": 2671.96,
+  "keywords": [
+   "the Soviet Union"
+  ],
+  "type": "ORG",
+  "score": 0.8923297524,
+  "card": {
+   "keywords": [
+    "the Navy"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 2671.96,
+  "end": 2680.96,
+  "keywords": [
+   "America"
+  ],
+  "type": "LOC",
+  "score": 0.950124979,
+  "card": {
+   "keywords": [
+    "America"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=America"
+  }
+ },
+ {
+  "start": 2696.96,
+  "end": 2706.96,
+  "keywords": [
+   "Arthur C. Clarke"
+  ],
+  "type": "PER",
+  "score": 0.9997364283,
+  "card": {
+   "keywords": [
+    "Arthur C. Clarke"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Arthur_C._Clarke"
+  }
+ },
+ {
+  "start": 2724.96,
+  "end": 2737.96,
+  "keywords": [
+   "Cold War"
+  ],
+  "type": "MISC",
+  "score": 0.9077923298,
+  "card": {
+   "keywords": [
+    "Cold War"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 2724.96,
+  "end": 2737.96,
+  "keywords": [
+   "Robert Heinen"
+  ],
+  "type": "PER",
+  "score": 0.9996279478,
+  "card": {
+   "keywords": [
+    "Robert Heinlein"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Robert_A._Heinlein"
+  }
+ },
+ {
+  "start": 2742.96,
+  "end": 2747.96,
+  "keywords": [
+   "Second World War"
+  ],
+  "type": "MISC",
+  "score": 0.9972602725,
+  "card": {
+   "keywords": [
+    "Cold War"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 2753.1500000000005,
+  "end": 2758.1500000000005,
+  "keywords": [
+   "American"
+  ],
+  "type": "MISC",
+  "score": 0.5570527911,
+  "card": {
+   "keywords": [
+    "American"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 2753.1500000000005,
+  "end": 2758.1500000000005,
+  "keywords": [
+   "Judith Merrill"
+  ],
+  "type": "PER",
+  "score": 0.999702692,
+  "card": {
+   "keywords": [
+    "Judith Merrill"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 2767.1500000000005,
+  "end": 2782.1500000000005,
+  "keywords": [
+   "Octavia Butler"
+  ],
+  "type": "PER",
+  "score": 0.999758482,
+  "card": {
+   "keywords": [
+    "Octavia Butler"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 2803.96,
+  "end": 2817.96,
+  "keywords": [
+   "Ronald Reagan"
+  ],
+  "type": "PER",
+  "score": 0.9998202324,
+  "card": {
+   "keywords": [
+    "Ronald Reagan"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Ronald_Reagan"
+  }
+ },
+ {
+  "start": 2803.96,
+  "end": 2817.96,
+  "keywords": [
+   "Star Wars"
+  ],
+  "type": "MISC",
+  "score": 0.9987518191,
+  "card": {
+   "keywords": [
+    "Starship Troopers"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Starship_Troopers_(film)"
+  }
+ },
+ {
+  "start": 2821.96,
+  "end": 2830.96,
+  "keywords": [
+   "Robert Heinlein"
+  ],
+  "type": "PER",
+  "score": 0.9996620417,
+  "card": {
+   "keywords": [
+    "Robert Heinlein"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Robert_A._Heinlein"
+  }
+ },
+ {
+  "start": 2821.96,
+  "end": 2830.96,
+  "keywords": [
+   "Greg Bear"
+  ],
+  "type": "PER",
+  "score": 0.9994190335,
+  "card": {
+   "keywords": [
+    "Greg Bear"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Greg_Bear"
+  }
+ },
+ {
+  "start": 2834.96,
+  "end": 2842.96,
+  "keywords": [
+   "Republican Party"
+  ],
+  "type": "ORG",
+  "score": 0.9634199739,
+  "card": {
+   "keywords": [
+    "Republican Party"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Det_republikanske_parti_(USA)"
+  }
+ },
+ {
+  "start": 2834.96,
+  "end": 2842.96,
+  "keywords": [
+   "Cold War"
+  ],
+  "type": "MISC",
+  "score": 0.8390796185,
+  "card": {
+   "keywords": [
+    "Cold War"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 2856.6799999999994,
+  "end": 2869.6799999999994,
+  "keywords": [
+   "N. P. Ryan"
+  ],
+  "type": "PER",
+  "score": 0.9829562306,
+  "card": {
+   "keywords": [
+    "N. P. Ryan"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 2856.6799999999994,
+  "end": 2869.6799999999994,
+  "keywords": [
+   "Twitter"
+  ],
+  "type": "MISC",
+  "score": 0.9497523904,
+  "card": {
+   "keywords": [
+    "Twitter"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Twitter"
+  }
+ },
+ {
+  "start": 2856.6799999999994,
+  "end": 2869.6799999999994,
+  "keywords": [
+   "Churchill"
+  ],
+  "type": "PER",
+  "score": 0.9997245669,
+  "card": {
+   "keywords": [
+    "Churchill"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Winston_Churchill"
+  }
+ },
+ {
+  "start": 2856.6799999999994,
+  "end": 2869.6799999999994,
+  "keywords": [
+   "H. G. Wells"
+  ],
+  "type": "PER",
+  "score": 0.9603344798,
+  "card": {
+   "keywords": [
+    "H. G. Wells"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/H.G._Wells"
+  }
+ },
+ {
+  "start": 2889.96,
+  "end": 2898.96,
+  "keywords": [
+   "the"
+  ],
+  "type": "MISC",
+  "score": 0.98856318,
+  "card": {
+   "keywords": [
+    "the Education Act"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 2889.96,
+  "end": 2898.96,
+  "keywords": [
+   "Cold War"
+  ],
+  "type": "MISC",
+  "score": 0.9054344296,
+  "card": {
+   "keywords": [
+    "Cold War"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 2898.96,
+  "end": 2915.96,
+  "keywords": [
+   "Philip K. Dick"
+  ],
+  "type": "PER",
+  "score": 0.999725461,
+  "card": {
+   "keywords": [
+    "Dickens"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 2898.96,
+  "end": 2915.96,
+  "keywords": [
+   "1950s American"
+  ],
+  "type": "MISC",
+  "score": 0.8216885328,
+  "card": {
+   "keywords": [
+    "American"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 2898.96,
+  "end": 2915.96,
+  "keywords": [
+   "The Penultimate Truth"
+  ],
+  "type": "MISC",
+  "score": 0.9984912276,
+  "card": {
+   "keywords": [
+    "The Time Machine"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/The_Time_Machine"
+  }
+ },
+ {
+  "start": 2936.96,
+  "end": 2940.96,
   "keywords": [
    "Churchill"
   ],
@@ -2166,13 +3562,44 @@
   }
  },
  {
-  "start": 2996.3,
-  "end": 3001.34,
+  "start": 2980.96,
+  "end": 2988.96,
+  "keywords": [
+   "Indian"
+  ],
+  "type": "MISC",
+  "score": 0.4979334474,
+  "card": {
+   "keywords": [
+    "Indian"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Indian"
+  }
+ },
+ {
+  "start": 2988.96,
+  "end": 2995.96,
+  "keywords": [
+   "African"
+  ],
+  "type": "MISC",
+  "score": 0.8127683401,
+  "card": {
+   "keywords": [
+    "African"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 2995.96,
+  "end": 3005.96,
   "keywords": [
    "The Old Drift"
   ],
   "type": "MISC",
-  "score": 0.9979800582,
+  "score": 0.9987819791,
   "card": {
    "keywords": [
     "The Time Machine"
@@ -2182,13 +3609,13 @@
   }
  },
  {
-  "start": 2996.3,
-  "end": 3001.34,
+  "start": 2995.96,
+  "end": 3005.96,
   "keywords": [
    "Namwali Serpal"
   ],
   "type": "PER",
-  "score": 0.9975328445,
+  "score": 0.9978016615,
   "card": {
    "keywords": [
     "Namwali Serpal"
@@ -2197,28 +3624,28 @@
   }
  },
  {
-  "start": 3001.4,
-  "end": 3006.28,
+  "start": 2995.96,
+  "end": 3005.96,
   "keywords": [
-   "Science Fiction Novel Arthur C. Clarke Award"
+   "Arthur C. Clarke Award"
   ],
   "type": "MISC",
-  "score": 0.9680893421,
+  "score": 0.9956754446,
   "card": {
    "keywords": [
-    "Astounding Science Fiction"
+    "Arthur C. Clarke Award"
    ],
    "type": "MISC"
   }
  },
  {
-  "start": 3006.34,
-  "end": 3008.94,
+  "start": 3005.96,
+  "end": 3015.96,
   "keywords": [
    "Zambia"
   ],
   "type": "LOC",
-  "score": 0.9985694885,
+  "score": 0.9981642365,
   "card": {
    "keywords": [
     "Zambia"
@@ -2228,44 +3655,90 @@
   }
  },
  {
-  "start": 3024.2599999999998,
-  "end": 3028.72,
+  "start": 3021.96,
+  "end": 3027.96,
   "keywords": [
-   "Middle East"
-  ],
-  "type": "LOC",
-  "score": 0.9961115122,
-  "card": {
-   "keywords": [
-    "Middle East"
-   ],
-   "type": "LOC",
-   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Middle East"
-  }
- },
- {
-  "start": 3035.58,
-  "end": 3042.84,
-  "keywords": [
-   "Iraq War"
+   "Gulf Futurism"
   ],
   "type": "MISC",
-  "score": 0.8703969717,
+  "score": 0.9805560112,
   "card": {
    "keywords": [
-    "Iraq War"
+    "Gulf Futurism"
    ],
    "type": "MISC"
   }
  },
  {
-  "start": 3060.26,
-  "end": 3064.24,
+  "start": 3021.96,
+  "end": 3027.96,
+  "keywords": [
+   "Middle East"
+  ],
+  "type": "LOC",
+  "score": 0.9921854138,
+  "card": {
+   "keywords": [
+    "the East"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=the East"
+  }
+ },
+ {
+  "start": 3027.96,
+  "end": 3041.96,
+  "keywords": [
+   "Frankenstein in Baghdad"
+  ],
+  "type": "MISC",
+  "score": 0.9972193837,
+  "card": {
+   "keywords": [
+    "Frankenstein"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Frankenstein"
+  }
+ },
+ {
+  "start": 3027.96,
+  "end": 3041.96,
+  "keywords": [
+   "Ahmed Sadawi"
+  ],
+  "type": "PER",
+  "score": 0.9997836351,
+  "card": {
+   "keywords": [
+    "Ahmed Sadawi"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 3027.96,
+  "end": 3041.96,
+  "keywords": [
+   "Iraq war"
+  ],
+  "type": "MISC",
+  "score": 0.9785407782,
+  "card": {
+   "keywords": [
+    "Iraq war"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 3056.96,
+  "end": 3070.96,
   "keywords": [
    "London"
   ],
   "type": "LOC",
-  "score": 0.9994679093,
+  "score": 0.9993541837,
   "card": {
    "keywords": [
     "London"
@@ -2275,13 +3748,13 @@
   }
  },
  {
-  "start": 3064.3,
-  "end": 3068.56,
+  "start": 3056.96,
+  "end": 3070.96,
   "keywords": [
    "Science Fiction"
   ],
   "type": "MISC",
-  "score": 0.9977327585,
+  "score": 0.9984287024,
   "card": {
    "keywords": [
     "Astounding Science Fiction"
@@ -2290,60 +3763,89 @@
   }
  },
  {
-  "start": 3064.3,
-  "end": 3068.56,
+  "start": 3056.96,
+  "end": 3070.96,
   "keywords": [
    "the Science Museum"
   ],
   "type": "ORG",
-  "score": 0.8214003444,
+  "score": 0.9808141589,
   "card": {
    "keywords": [
-    "Standings Science Fictions"
+    "the Navy"
    ],
    "type": "ORG"
   }
  },
  {
-  "start": 3095.2000000000003,
-  "end": 3098.04,
+  "start": 3081.96,
+  "end": 3090.96,
   "keywords": [
-   "Soylent Green"
+   "LDOP"
   ],
   "type": "MISC",
-  "score": 0.6742702723,
+  "score": 0.7966560125,
   "card": {
    "keywords": [
-    "Soylent Green"
+    "LDOP"
    ],
-   "type": "MISC",
-   "url": "https://no.wikipedia.org/wiki/Soylent_Green_%E2%80%93_USA_%C3%A5r_2022"
+   "type": "MISC"
   }
  },
  {
-  "start": 3141.9,
-  "end": 3145.44,
+  "start": 3081.96,
+  "end": 3090.96,
   "keywords": [
-   "Labour"
+   "Exeter"
   ],
   "type": "ORG",
-  "score": 0.987509191,
+  "score": 0.9308199286,
   "card": {
    "keywords": [
-    "Labour"
+    "Exeter"
    ],
    "type": "ORG",
-   "url": "https://no.wikipedia.org/wiki/Labour_Party"
+   "url": "https://no.wikipedia.org/wiki/Exeter"
   }
  },
  {
-  "start": 3159.5,
-  "end": 3164.6000000000004,
+  "start": 3081.96,
+  "end": 3090.96,
+  "keywords": [
+   "asks"
+  ],
+  "type": "MISC",
+  "score": 0.5154166222,
+  "card": {
+   "keywords": [
+    "asks"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 3090.96,
+  "end": 3099.96,
+  "keywords": [
+   "Soylent"
+  ],
+  "type": "MISC",
+  "score": 0.8408791423,
+  "card": {
+   "keywords": [
+    "Soylent"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 3158.96,
+  "end": 3166.96,
   "keywords": [
    "America"
   ],
   "type": "LOC",
-  "score": 0.9995367527,
+  "score": 0.9995513558,
   "card": {
    "keywords": [
     "America"
@@ -2353,13 +3855,13 @@
   }
  },
  {
-  "start": 3167.24,
-  "end": 3169.78,
+  "start": 3166.96,
+  "end": 3173.96,
   "keywords": [
    "Star Trek"
   ],
   "type": "MISC",
-  "score": 0.9172070622,
+  "score": 0.9912824631,
   "card": {
    "keywords": [
     "Starship Troopers"
@@ -2369,13 +3871,13 @@
   }
  },
  {
-  "start": 3169.84,
-  "end": 3174.18,
+  "start": 3166.96,
+  "end": 3173.96,
   "keywords": [
    "Star Trek"
   ],
   "type": "MISC",
-  "score": 0.9867814183,
+  "score": 0.9850291014,
   "card": {
    "keywords": [
     "Starship Troopers"
@@ -2385,13 +3887,13 @@
   }
  },
  {
-  "start": 3174.24,
-  "end": 3181.04,
+  "start": 3173.96,
+  "end": 3182.96,
   "keywords": [
    "Arthur C. Clarke"
   ],
   "type": "PER",
-  "score": 0.9995909333,
+  "score": 0.9997109175,
   "card": {
    "keywords": [
     "Arthur C. Clarke"
@@ -2401,13 +3903,13 @@
   }
  },
  {
-  "start": 3204.48,
-  "end": 3207.08,
+  "start": 3197.96,
+  "end": 3206.96,
   "keywords": [
    "iPad"
   ],
   "type": "MISC",
-  "score": 0.9955555797,
+  "score": 0.9814429879,
   "card": {
    "keywords": [
     "iPad"
@@ -2417,13 +3919,13 @@
   }
  },
  {
-  "start": 3210.14,
-  "end": 3216.94,
+  "start": 3206.96,
+  "end": 3218.96,
   "keywords": [
    "James Cameron"
   ],
   "type": "PER",
-  "score": 0.9998210669,
+  "score": 0.9998164177,
   "card": {
    "keywords": [
     "James Cameron"
@@ -2433,13 +3935,13 @@
   }
  },
  {
-  "start": 3216.94,
-  "end": 3221.7600000000007,
+  "start": 3206.96,
+  "end": 3218.96,
   "keywords": [
    "Avatar"
   ],
   "type": "MISC",
-  "score": 0.9993029833,
+  "score": 0.9990453124,
   "card": {
    "keywords": [
     "Avatar"
@@ -2449,13 +3951,13 @@
   }
  },
  {
-  "start": 3216.94,
-  "end": 3221.7600000000007,
+  "start": 3218.96,
+  "end": 3230.96,
   "keywords": [
    "Steven Spielberg"
   ],
   "type": "PER",
-  "score": 0.9997599721,
+  "score": 0.999794364,
   "card": {
    "keywords": [
     "Steven Spielberg"
@@ -2465,13 +3967,13 @@
   }
  },
  {
-  "start": 3235.46,
-  "end": 3237.66,
+  "start": 3230.96,
+  "end": 3239.96,
   "keywords": [
    "James Cameron"
   ],
   "type": "PER",
-  "score": 0.9997813106,
+  "score": 0.9997921586,
   "card": {
    "keywords": [
     "James Cameron"
@@ -2481,13 +3983,13 @@
   }
  },
  {
-  "start": 3240.66,
-  "end": 3245.4,
+  "start": 3239.96,
+  "end": 3247.96,
   "keywords": [
    "Spielberg"
   ],
   "type": "PER",
-  "score": 0.9994730353,
+  "score": 0.999702394,
   "card": {
    "keywords": [
     "Steven Spielberg"
@@ -2497,13 +3999,13 @@
   }
  },
  {
-  "start": 3260.28,
-  "end": 3263.14,
+  "start": 3259.96,
+  "end": 3266.96,
   "keywords": [
    "Instagram"
   ],
   "type": "MISC",
-  "score": 0.9775953889,
+  "score": 0.9810855389,
   "card": {
    "keywords": [
     "Instagram"
@@ -2513,13 +4015,13 @@
   }
  },
  {
-  "start": 3279.92,
-  "end": 3283.32,
+  "start": 3279.96,
+  "end": 3287.96,
   "keywords": [
    "Google"
   ],
   "type": "ORG",
-  "score": 0.997279346,
+  "score": 0.9967092276,
   "card": {
    "keywords": [
     "Google"
@@ -2529,28 +4031,13 @@
   }
  },
  {
-  "start": 3283.4,
-  "end": 3288.0,
-  "keywords": [
-   "Michael Beecher"
-  ],
-  "type": "PER",
-  "score": 0.999719739,
-  "card": {
-   "keywords": [
-    "Michael Beecher"
-   ],
-   "type": "PER"
-  }
- },
- {
-  "start": 3309.34,
-  "end": 3314.74,
+  "start": 3308.96,
+  "end": 3320.96,
   "keywords": [
    "Elon Musk"
   ],
   "type": "PER",
-  "score": 0.9996850491,
+  "score": 0.9996907711,
   "card": {
    "keywords": [
     "Elon Musk"
@@ -2560,13 +4047,13 @@
   }
  },
  {
-  "start": 3314.8,
-  "end": 3321.3,
+  "start": 3308.96,
+  "end": 3320.96,
   "keywords": [
    "Silicon Valley"
   ],
   "type": "LOC",
-  "score": 0.9988309145,
+  "score": 0.9979160428,
   "card": {
    "keywords": [
     "Silicon Valley"
@@ -2576,13 +4063,13 @@
   }
  },
  {
-  "start": 3321.36,
-  "end": 3328.14,
+  "start": 3320.96,
+  "end": 3327.96,
   "keywords": [
    "Walt Disney"
   ],
   "type": "PER",
-  "score": 0.9997497201,
+  "score": 0.9997628927,
   "card": {
    "keywords": [
     "Walt Disney"
@@ -2592,13 +4079,13 @@
   }
  },
  {
-  "start": 3386.16,
-  "end": 3389.46,
+  "start": 3386.5199999999995,
+  "end": 3396.5199999999995,
   "keywords": [
    "The Handmaid's Tale"
   ],
   "type": "MISC",
-  "score": 0.9980964661,
+  "score": 0.998311162,
   "card": {
    "keywords": [
     "The Time Machine"
@@ -2608,13 +4095,13 @@
   }
  },
  {
-  "start": 3386.16,
-  "end": 3389.46,
+  "start": 3386.5199999999995,
+  "end": 3396.5199999999995,
   "keywords": [
    "Margaret Atwood"
   ],
   "type": "PER",
-  "score": 0.9991926551,
+  "score": 0.9996207952,
   "card": {
    "keywords": [
     "Margaret Atwood"
@@ -2624,29 +4111,29 @@
   }
  },
  {
-  "start": 3389.52,
-  "end": 3396.02,
+  "start": 3386.5199999999995,
+  "end": 3396.5199999999995,
   "keywords": [
    "Reagan"
   ],
   "type": "PER",
-  "score": 0.9970439076,
+  "score": 0.9975831509,
   "card": {
    "keywords": [
-    "Reagan"
+    "Ronald Reagan"
    ],
    "type": "PER",
    "url": "https://no.wikipedia.org/wiki/Ronald_Reagan"
   }
  },
  {
-  "start": 3409.42,
-  "end": 3413.62,
+  "start": 3405.5199999999995,
+  "end": 3417.5199999999995,
   "keywords": [
    "States"
   ],
   "type": "ORG",
-  "score": 0.7635369897,
+  "score": 0.6363577247,
   "card": {
    "keywords": [
     "States"
@@ -2655,13 +4142,28 @@
   }
  },
  {
-  "start": 3446.66,
-  "end": 3450.06,
+  "start": 3405.5199999999995,
+  "end": 3417.5199999999995,
   "keywords": [
-   "Charles Strass"
+   "Handmaid's Tale"
+  ],
+  "type": "MISC",
+  "score": 0.9928401709,
+  "card": {
+   "keywords": [
+    "Handmaid's Tale"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 3447.5199999999995,
+  "end": 3458.5199999999995,
+  "keywords": [
+   "Charles Stross"
   ],
   "type": "PER",
-  "score": 0.9996363521,
+  "score": 0.9993939996,
   "card": {
    "keywords": [
     "Charles Fourier"
@@ -2671,28 +4173,59 @@
   }
  },
  {
-  "start": 3446.66,
-  "end": 3450.06,
+  "start": 3447.5199999999995,
+  "end": 3458.5199999999995,
   "keywords": [
-   "Excellerando"
+   "Accelerando"
   ],
   "type": "MISC",
-  "score": 0.9989176989,
+  "score": 0.9984342456,
   "card": {
    "keywords": [
-    "Excellerando"
+    "Accelerando"
    ],
-   "type": "MISC"
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Tempo"
   }
  },
  {
-  "start": 3484.68,
-  "end": 3488.1,
+  "start": 3480.49,
+  "end": 3487.49,
+  "keywords": [
+   "Roger Luckhurst"
+  ],
+  "type": "PER",
+  "score": 0.9996861219,
+  "card": {
+   "keywords": [
+    "Professor Roger Luckhurst"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 3480.49,
+  "end": 3487.49,
+  "keywords": [
+   "Roger"
+  ],
+  "type": "PER",
+  "score": 0.9995767474,
+  "card": {
+   "keywords": [
+    "Professor Roger Luckhurst"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 3480.49,
+  "end": 3487.49,
   "keywords": [
    "Science Fiction Voyage to the Edge of Imagination"
   ],
   "type": "MISC",
-  "score": 0.9858005643,
+  "score": 0.9992461205,
   "card": {
    "keywords": [
     "Astounding Science Fiction"
@@ -2701,28 +4234,29 @@
   }
  },
  {
-  "start": 3488.18,
-  "end": 3493.14,
+  "start": 3487.96,
+  "end": 3496.96,
   "keywords": [
    "Science Museum"
   ],
   "type": "ORG",
-  "score": 0.9924430847,
+  "score": 0.9811650515,
   "card": {
    "keywords": [
-    "Standings Science Fictions"
+    "Science Museum"
    ],
-   "type": "ORG"
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Science_Museum"
   }
  },
  {
-  "start": 3488.18,
-  "end": 3493.14,
+  "start": 3487.96,
+  "end": 3496.96,
   "keywords": [
    "London"
   ],
   "type": "LOC",
-  "score": 0.9976905584,
+  "score": 0.9979299307,
   "card": {
    "keywords": [
     "London"
@@ -2732,28 +4266,58 @@
   }
  },
  {
-  "start": 3497.25,
-  "end": 3500.35,
+  "start": 3487.96,
+  "end": 3496.96,
   "keywords": [
-   "History Extra"
+   "sciencemuseum"
   ],
   "type": "MISC",
-  "score": 0.9986619949,
+  "score": 0.5958883166,
   "card": {
    "keywords": [
-    "History Extra"
+    "sciencemuseum"
    ],
    "type": "MISC"
   }
  },
  {
-  "start": 3500.24,
-  "end": 3523.6,
+  "start": 3487.96,
+  "end": 3496.96,
+  "keywords": [
+   "org"
+  ],
+  "type": "ORG",
+  "score": 0.5213882923,
+  "card": {
+   "keywords": [
+    "org"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 3496.96,
+  "end": 3505.96,
+  "keywords": [
+   "History Extra"
+  ],
+  "type": "MISC",
+  "score": 0.9948977232,
+  "card": {
+   "keywords": [
+    "BBC History Magazine"
+   ],
+   "type": "MISC"
+  }
+ },
+ {
+  "start": 3496.96,
+  "end": 3505.96,
   "keywords": [
    "Daniel Kramer Hardin"
   ],
   "type": "PER",
-  "score": 0.9997637868,
+  "score": 0.9997572303,
   "card": {
    "keywords": [
     "Daniel Kramer Hardin"

@@ -1,14 +1,14 @@
 {
- "id": 736893926,
-"poster": "https://thumborcdn.acast.com/SWXv3trmVVCerPMckGWixylA3_4=/1000x1000/https%3A%2F%2Fassets.pippa.io%2Fshows%2F61b9ff061a8cbe34583cf079%2F08a0de92-3367-4858-ba13-3a474b2e7101.jpg",
+ "id": 1069048459,
+ "poster": "https://thumborcdn.acast.com/SWXv3trmVVCerPMckGWixylA3_4=/1000x1000/https%3A%2F%2Fassets.pippa.io%2Fshows%2F61b9ff061a8cbe34583cf079%2F08a0de92-3367-4858-ba13-3a474b2e7101.jpg",
  "subtitles": [
   {
-   "src": "/hack/datasets/podcast/history_extra_subs.json"
+   "src": "/whisper//podcast/history_extra_subs.json"
   }
  ],
- "cast": "/hack/datasets/podcast/history_extra_people.json",
- "info": "/hack/datasets/podcast/history_extra_info.json",
+ "cast": "/whisper//podcast/history_extra_people.json",
+ "info": "/whisper//podcast/history_extra_info.json",
  "audio": {
-  "src": "/hack/datasets/podcast/history_extra.mp3"
+  "src": "/whisper//podcast/history_extra.mp3"
  }
 }
