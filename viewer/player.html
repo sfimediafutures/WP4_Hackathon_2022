@@ -103,6 +103,7 @@
 
         }
         .message {
+            position: relative;
             display: flex;
             align-items: center;
             background: lightgray;
@@ -168,6 +169,12 @@
             padding:10px;
         }
 
+        .infomessage .delete {
+            position: absolute;
+            top: 5px;
+            right: 5px;
+            background: rgba(0,0,0,0.6);
+        }
         .bunched {
             padding-bottom: 0px;
         }
@@ -367,6 +374,9 @@
           <button class="nrk-unset button hidden" id="btnsound" alt="Toggle sound"><i class="material-icons">volume_up</i></button>
           <button class="nrk-unset button hidden" id="btnsynstolk" alt="Toggle synstolk"><i class="material-icons">hearing</i></button>
           <button class="nrk-unset button hidden" title="Who was it?" id="btnwho" alt="Who was that"><i class="material-icons">face</i></button>
+
+          <div class="spacer"></div>
+         <button id="download" class="hidden">Download</button>
         </div>
         </div>
 
@@ -384,9 +394,6 @@
         <button id="clearsub">Clear</button>
         <button id="addsub">Add</button>
     </div>
-
-
-  <button id="download" class="hidden">Download</button>
 
 
   <template id="infoblock">
@@ -431,7 +438,8 @@
       downloadAnchorNode.remove();
     }
 
-  let canedit = getParameterByName("edit") || false;
+//  let canedit = getParameterByName("edit") || false;
+let canedit = false;
 
   let options = {
       video: false,
@@ -466,6 +474,8 @@
 
     let target = document.querySelector(".message_container");
     var app = rubberDuck(target, options);
+    app.edit = getParameterByName("edit") || false;
+
     app.app.ready.then(() => app.play());
 
     app.infobar = getParameterByName("infobar") || "timeline";
@@ -592,7 +602,7 @@
     }
 
     let add_message = function(data, body, canedit=false) {
-        canedit = getParameterByName("edit") || false;
+        // canedit = getParameterByName("edit") || false;
 
         let message = data.data;
         // console.log("Adding message", message);
@@ -755,6 +765,7 @@
 
                         msg.data.data.start = start;
                         msg.data.data.end = end;
+                        msg.data.who = String(msg.data.who || "").toLowerCase();
                         //setTimeout(function() { document.querySelector("#" + msg.data.key).style.display = "none"}, 100);
                         if (end < start) end = start + 2;
                         app.subsequencer.addCue(msg.data.key, [start, end], msg.data.data);
@@ -805,7 +816,7 @@
                         let _w = w[0];
                         list.addEventListener("click", function() {
                             let copy = {...msg.data.data};
-                            copy.who = _w;
+                            copy.who = String(_w || "").toLowerCase();
                             console.log("Updating to", _w, msg.data.key, msg.data.interval, copy);
                             app.subsequencer.addCue(msg.data.key, msg.data.interval, copy);
                             target.style.display = "none";
@@ -860,12 +871,36 @@
                 });
                 block.querySelector("img").src = "https://cdn-icons-png.flaticon.com/512/355/355980.png";
                 info.appendChild(block);
+            } else if (message.type == "url") {
+                let template = document.querySelector("template#infoblock").content.cloneNode(true);
+                let block = template.querySelector("div");
+                block.querySelector(".infotitle").innerHTML = message.keywords.join();
+
+                block.querySelector("a").addEventListener("click", () => {
+                    document.querySelector(".embedmap iframe").src = message.card.url;
+                    document.querySelector(".embedmap").style.display = "block";
+                });
+                block.querySelector("img").src = "open_link.png";
+                info.appendChild(block);
             } else {
                 let i = document.createElement("iframe");
                 i.classList.add("infoblock");
                 i.src = message.card.url;
                 info.appendChild(i);
             }
+
+            if (app.edit) {
+                let del = document.createElement("div");
+                del.classList.add("delete");
+                del.innerHTML = "X";
+                del.addEventListener("click", () =>  {
+                    console.log("REMOVING", data.key);
+                    app.subsequencer.removeCue(data.key)
+                    document.querySelector("#download").style.display = "block";
+                });
+                info.appendChild(del);
+            }
+
             _insert_sort(body, info);
             return;
         }
@@ -901,7 +936,7 @@ app.ready.then(function() {
 
 // If we're editing, show the subs a bit earlier
 
-let to_low = new TIMINGSRC.SkewConverter(app.to, -60);
+let to_low = new TIMINGSRC.SkewConverter(app.to, -120);
 app.rsequencer = app.sequencer.clone(to_low, app.to);
 
 if (canedit) {
@@ -951,7 +986,7 @@ if (canedit) {
 
         if (text && who) {
             let data = {
-                who: who,
+                who: String(who).toLowerCase(),
                 text: text,
                 start: start_ts,
                 end: end_ts
@@ -1004,6 +1039,7 @@ app.redraw_info_bar_timeline = function() {
 app.update_info_bar_timeline = function(data) {
     if (app.infobar != "timeline")
         return;
+    if (!app.app.motions.duration) return;
     // How many pixels is this event?
     let duration = app.app.motions.duration.pos;
     let infobar = document.querySelector(".infobar");
@@ -1017,8 +1053,9 @@ app.update_info_bar_timeline = function(data) {
     bit.style.width = Math.ceil(pixels) + "px";
     bit.style.left = Math.floor(offset) + "px";
     bit.classList.add("infobit");
-    if (app.cast[data.who])
-        bit.style.background = app.cast[data.who].color;
+    let who = String(data.who || "").toLowerCase();
+    if (app.cast[who])
+        bit.style.background = app.cast[who].color;
     infobar.appendChild(bit);
 }
 
@@ -1031,8 +1068,14 @@ app.update_info_bar_speakers = function() {
     let sum = 0;
     app.subrsequencer.getActiveCues().forEach(item => {
         if (item.data.who == undefined) return;
-        let name = app.cast[item.data.who].name;
-        if (!colors[name]) colors[name] = app.cast[item.data.who].color;
+        let who = String(item.data.who).toLowerCase();
+        if (app.cast[who] === undefined) {
+          console.log("ERROR - missing cast for", item.data.who);
+          console.log("Cast is", app.cast);
+          return;
+        }
+        let name = app.cast[who].name;
+        if (!colors[name]) colors[name] = app.cast[who].color;
         if (!users[name])
             users[name] = 0;
         users[name] += item.data.end - item.data.start;
@@ -1162,6 +1205,7 @@ fetch(manifest + "?ts=" + new Date().getTime())
                  r.forEach(sub => {
                     let id = "sub" + idx;
                     idx++;
+                    sub.who = string(sub.who || "").toLowerCase();
                     app.subsequencer.addCue(id, [sub.start, sub.end], sub);
                 });
                  if (data.aux) {
@@ -1177,7 +1221,8 @@ fetch(manifest + "?ts=" + new Date().getTime())
             });
         }
     });
-  */  
+  */ 
+    if (app.canedit) 
     document.querySelector("#download").addEventListener("click", function() {
 
         let texts = [];
@@ -1292,6 +1337,64 @@ document.querySelector(".infobar").addEventListener("click", () => {
         app.redraw_info_bar_timeline();
     }
 });
+
+
+// Also test some drop support for info things
+let dragtarget = document.querySelector(".message_container_wrapper");
+dragtarget.addEventListener("dragover", (event) => {
+    console.log("DRAGOVER");
+  // prevent default to allow drop
+  event.preventDefault();
+});
+
+
+function downloadObjectAsJson(exportObj, exportName){
+  var dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(exportObj));
+  var downloadAnchorNode = document.createElement('a');
+  downloadAnchorNode.setAttribute("href",     dataStr);
+  downloadAnchorNode.setAttribute("download", (exportName || "features.json"));
+  document.body.appendChild(downloadAnchorNode); // required for firefox
+  downloadAnchorNode.click();
+  downloadAnchorNode.remove();
+}
+document.querySelector("#download").addEventListener("click", () => {
+    let items = [];
+    app.subsequencer.getCues().forEach(cue => {
+        if (cue.data.isinfo) {
+            items.push(cue.data);
+        }
+    });
+    downloadObjectAsJson(items, app.manifest.info || "info.json");
+})
+dragtarget.addEventListener("drop", event => {
+  event.preventDefault();
+  event.stopPropagation();
+    var data = event.dataTransfer.getData("text");
+    console.log("Data was", data);
+    let keywords = prompt("Enter short description", "");
+    let text;
+    if (keywords == null || keywords == "") {
+        console.log("Canceled");
+        return;
+    }
+    let block = {
+        start: app.to.pos,
+        end: app.to.pos + 2,
+        keywords: [keywords],
+        type: "url",
+        isinfo: true,
+
+        card: {
+            url: data
+        }
+    }
+    let id = "info" + Math.floor(Math.random() * 10000000); 
+    console.log("Adding block", block);
+    app.subsequencer.addCue(id, [block.start, block.end], block);
+    document.querySelector("#download").style.display = "block";
+});
+
+      
 </script>
 
 
