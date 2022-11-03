@@ -858,11 +858,25 @@ let canedit = false;
             console.log("Gotit?", gotit);
             if (gotit) return;
 
+            var add_keywords = function(block, keywords) {
+                if (keywords[0].startsWith("http")) {
+                    let i = document.createElement("img");
+                    i.classList.add("biginfoimage")
+                    i.src = keywords[0];
+                    block.appendChild(i);
+                    // Take the rest of the keywords?
+                    // block.querySelector(".infotitle").innerHTML = message.keywords.join();
+                } else {                
+                    block.querySelector(".infotitle").innerHTML = keywords.join();
+                }                    
+            }                
+
+
             if (message.card.url.indexOf("wikipedia") > -1) {
                 // Link to wikipedia, just put in a link
                 let template = document.querySelector("template#infoblock").content.cloneNode(true);
                 let block = template.querySelector("div");
-                block.querySelector(".infotitle").innerHTML = message.keywords.join();
+                add_keywords(block, message.keywords);
                 block.querySelector("a").setAttribute("href", message.card.url);
                 block.querySelector("a").setAttribute("target", "_blank");
                 block.querySelector("img").src = "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/220px-Wikipedia-logo-v2.svg.png";
@@ -870,7 +884,7 @@ let canedit = false;
             } else if (message.card.url.indexOf("maps") > -1) {
                 let template = document.querySelector("template#infoblock").content.cloneNode(true);
                 let block = template.querySelector("div");
-                block.querySelector(".infotitle").innerHTML = message.keywords.join();
+                add_keywords(block, message.keywords);
 
                 block.querySelector("a").addEventListener("click", () => {
                     document.querySelector(".embedmap iframe").src = message.card.url;
@@ -881,17 +895,7 @@ let canedit = false;
             } else if (message.type == "url") {
                 let template = document.querySelector("template#infoblock").content.cloneNode(true);
                 let block = template.querySelector("div");
-                if (message.keywords[0].startsWith("http")) {
-                    let i = document.createElement("img");
-                    i.classList.add("biginfoimage")
-                    i.src = message.keywords[0];
-                    block.appendChild(i);
-                    // Take the rest of the keywords?
-                    // block.querySelector(".infotitle").innerHTML = message.keywords.join();
-                } else {                
-                    block.querySelector(".infotitle").innerHTML = message.keywords.join();
-                }
-
+                add_keywords(block, message.keywords);
                 block.querySelector("a").addEventListener("click", () => {
                     document.querySelector(".embedmap iframe").src = message.card.url;
                     document.querySelector(".embedmap").style.display = "block";
