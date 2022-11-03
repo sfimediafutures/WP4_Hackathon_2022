@@ -1128,10 +1128,12 @@ app.load(manifest + "?ts=" + new Date().getTime() , ".mediacontainer")
         } catch(e) {};
       });        
 
-      app.pbar.addEventListener("change", evt => {
-        let pos = app.app.motions.duration.pos * (evt.srcElement.value / 100.);
+      app.pbar.addEventListener("click", (evt) => {
+        // Need to use the 'click' not the change, as the timeupdate keeps updating it and undoing the update...
+        let val = evt.offsetX / app.pbar.clientWidth;
+        let pos = app.app.motions.duration.pos * val;
         app.to.update({position: pos});
-      });    
+    });
 
     // Update the infobar with who speaks the most
     let _infotimer;
