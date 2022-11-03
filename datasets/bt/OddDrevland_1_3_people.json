@@ -1,0 +1,34 @@
+{
+ "Odd Drevland": {
+  "name": "Odd Drevland",
+  "src": "/hack/datasets/gfx/odd_drevland.png",
+  "color": "#41454ca6"
+ },
+ "Kjesti Mjor": {
+  "name": "Kjesti Mjor",
+  "src": "/hack/datasets/gfx/kjersti_mjor.png",
+  "color": "#ffffffa6"
+ },
+ "2": {
+  "name": 2,
+  "color": "#73756aa6",
+  "segments": [
+   {
+    "file": "/tmp/OddDrevland_1_3_mono.wav",
+    "times": [
+     [
+      1431.71,
+      1436.71
+     ],
+     [
+      1551.68,
+      1558.18
+     ]
+    ]
+   }
+  ]
+ },
+ "extras": [
+  "#282828a6"
+ ]
+}

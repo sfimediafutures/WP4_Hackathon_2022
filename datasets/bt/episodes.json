@@ -26,5 +26,19 @@
    }
   ],
   "episode_art_url": "https://imbo.vgtv.no/users/bt_/images/6f40695b6027d5e8106c834dab187e45.jpg?t%5B%5D=1440q80"
+ },
+  {
+  "id": 830159000,
+  "title": "Odddrevland_1_3",
+  "published": 1667480051.5070229,
+  "manifest": "/hack/datasets/bt/OddDrevland_1_3.json",
+  "description": "",
+  "enclosures": [
+   {
+    "url": "/hack/datasets/bt/OddDrevland_1_3.mp3",
+    "mime_type": "audio/mpeg"
+   }
+  ],
+  "episode_art_url": "https://podmestorage.blob.core.windows.net/podcast-images/56f7c45e7aaa4def96f34642e250e8f1_medium.jpg"
  }
 ]

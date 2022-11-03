@@ -1,0 +1,14 @@
+{
+ "id": 830159000,
+ "subtitles": [
+  {
+   "src": "/hack/datasets/bt/OddDrevland_1_3_subs.json"
+  }
+ ],
+ "cast": "/hack/datasets/bt/OddDrevland_1_3_people.json",
+ "poster": "https://podmestorage.blob.core.windows.net/podcast-images/56f7c45e7aaa4def96f34642e250e8f1_medium.jpg",
+ "audio": {
+  "src": "/hack/datasets/bt/OddDrevland_1_3.mp3"
+ },
+ "info": "/hack/datasets/bt/OddDrevland_1_3_info.json"
+}

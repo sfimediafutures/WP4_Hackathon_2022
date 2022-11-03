@@ -1,0 +1,1590 @@
+[
+ {
+  "start": 25.26,
+  "end": 28.260000000000005,
+  "keywords": [
+   "Bergens"
+  ],
+  "type": "LOC",
+  "score": 0.9769938588,
+  "card": {
+   "keywords": [
+    "Bergens"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Bergens"
+  }
+ },
+ {
+  "start": 34.92,
+  "end": 38.92,
+  "keywords": [
+   "Odd Drevland"
+  ],
+  "type": "PER",
+  "score": 0.9998466372,
+  "card": {
+   "keywords": [
+    "Odd Drevland"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 52.0,
+  "end": 63.0,
+  "keywords": [
+   "Eksadvokat Odd Drevland"
+  ],
+  "type": "PER",
+  "score": 0.992973268,
+  "card": {
+   "keywords": [
+    "Odd Drevland"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 79.0,
+  "end": 85.0,
+  "keywords": [
+   "Skytterveien"
+  ],
+  "type": "LOC",
+  "score": 0.9992747903,
+  "card": {
+   "keywords": [
+    "Skytterveien"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Skytterveien"
+  }
+ },
+ {
+  "start": 79.0,
+  "end": 85.0,
+  "keywords": [
+   "Ytre Sandviken"
+  ],
+  "type": "LOC",
+  "score": 0.9988766909,
+  "card": {
+   "keywords": [
+    "Ytre Sandviken"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Ytre Sandviken"
+  }
+ },
+ {
+  "start": 86.0,
+  "end": 89.0,
+  "keywords": [
+   "Odd Drevland"
+  ],
+  "type": "PER",
+  "score": 0.9998348951,
+  "card": {
+   "keywords": [
+    "Odd Drevland"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 104.0,
+  "end": 108.0,
+  "keywords": [
+   "Bergens tidende"
+  ],
+  "type": "MISC",
+  "score": 0.9955348969,
+  "card": {
+   "keywords": [
+    "Bergens tidende"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Bergens_Tidende"
+  }
+ },
+ {
+  "start": 135.0,
+  "end": 142.0,
+  "keywords": [
+   "Odd Drevland"
+  ],
+  "type": "PER",
+  "score": 0.9998434782,
+  "card": {
+   "keywords": [
+    "Odd Drevland"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 162.0,
+  "end": 165.0,
+  "keywords": [
+   "Odd Drevland"
+  ],
+  "type": "PER",
+  "score": 0.9998062253,
+  "card": {
+   "keywords": [
+    "Odd Drevland"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 174.0,
+  "end": 181.0,
+  "keywords": [
+   "Odd Drevland"
+  ],
+  "type": "PER",
+  "score": 0.9998476505,
+  "card": {
+   "keywords": [
+    "Odd Drevland"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 213.0,
+  "end": 216.0,
+  "keywords": [
+   "Chesterfield"
+  ],
+  "type": "MISC",
+  "score": 0.9988049269,
+  "card": {
+   "keywords": [
+    "Chesterfield"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Chesterfield"
+  }
+ },
+ {
+  "start": 252.0,
+  "end": 255.0,
+  "keywords": [
+   "Justitia"
+  ],
+  "type": "PER",
+  "score": 0.994367063,
+  "card": {
+   "keywords": [
+    "Justitia"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Justitia"
+  }
+ },
+ {
+  "start": 260.0,
+  "end": 264.0,
+  "keywords": [
+   "Drevlands"
+  ],
+  "type": "PER",
+  "score": 0.9997407794,
+  "card": {
+   "keywords": [
+    "Odd Drevland"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 260.0,
+  "end": 264.0,
+  "keywords": [
+   "Bj\u00f8rgvin fengsel"
+  ],
+  "type": "LOC",
+  "score": 0.9988090992,
+  "card": {
+   "keywords": [
+    "Bj\u00f8rgvin fengsel"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Bj\u00f8rgvin fengsel"
+  }
+ },
+ {
+  "start": 260.0,
+  "end": 264.0,
+  "keywords": [
+   "\u00c5sane"
+  ],
+  "type": "LOC",
+  "score": 0.9996925592,
+  "card": {
+   "keywords": [
+    "\u00c5sane"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=\u00c5sane"
+  }
+ },
+ {
+  "start": 347.04,
+  "end": 353.04,
+  "keywords": [
+   "Sortland"
+  ],
+  "type": "LOC",
+  "score": 0.999545157,
+  "card": {
+   "keywords": [
+    "Sortland"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Sortland"
+  }
+ },
+ {
+  "start": 347.04,
+  "end": 353.04,
+  "keywords": [
+   "Vester\u00e5len"
+  ],
+  "type": "LOC",
+  "score": 0.999427855,
+  "card": {
+   "keywords": [
+    "Vester\u00e5len"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Vester\u00e5len"
+  }
+ },
+ {
+  "start": 353.04,
+  "end": 357.03999999999996,
+  "keywords": [
+   "Fausketek"
+  ],
+  "type": "LOC",
+  "score": 0.9990208149,
+  "card": {
+   "keywords": [
+    "Fausketek"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Fausketek"
+  }
+ },
+ {
+  "start": 353.04,
+  "end": 357.03999999999996,
+  "keywords": [
+   "Oslo"
+  ],
+  "type": "LOC",
+  "score": 0.9996404648,
+  "card": {
+   "keywords": [
+    "Oslo"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Oslo"
+  }
+ },
+ {
+  "start": 353.04,
+  "end": 357.03999999999996,
+  "keywords": [
+   "Bergensbanen"
+  ],
+  "type": "MISC",
+  "score": 0.7070415616,
+  "card": {
+   "keywords": [
+    "Bergens tidende"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Bergens_Tidende"
+  }
+ },
+ {
+  "start": 359.38,
+  "end": 361.38,
+  "keywords": [
+   "Vestlandsbyen"
+  ],
+  "type": "LOC",
+  "score": 0.9995248318,
+  "card": {
+   "keywords": [
+    "Vestlandsbyen"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Vestlandsbyen"
+  }
+ },
+ {
+  "start": 361.38,
+  "end": 364.38,
+  "keywords": [
+   "Odd"
+  ],
+  "type": "PER",
+  "score": 0.9996777773,
+  "card": {
+   "keywords": [
+    "Odd Drevland"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 361.38,
+  "end": 364.38,
+  "keywords": [
+   "Bergen"
+  ],
+  "type": "LOC",
+  "score": 0.9995935559,
+  "card": {
+   "keywords": [
+    "Bergens"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Bergens"
+  }
+ },
+ {
+  "start": 366.27,
+  "end": 370.00333333333333,
+  "keywords": [
+   "Hybel"
+  ],
+  "type": "LOC",
+  "score": 0.9938195348,
+  "card": {
+   "keywords": [
+    "Hybel"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Hybel"
+  }
+ },
+ {
+  "start": 384.0,
+  "end": 389.0,
+  "keywords": [
+   "Odd"
+  ],
+  "type": "PER",
+  "score": 0.999812305,
+  "card": {
+   "keywords": [
+    "Odd Drevland"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 389.0,
+  "end": 396.0,
+  "keywords": [
+   "Nordland"
+  ],
+  "type": "LOC",
+  "score": 0.9995704293,
+  "card": {
+   "keywords": [
+    "Nordland"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Nordland"
+  }
+ },
+ {
+  "start": 389.0,
+  "end": 396.0,
+  "keywords": [
+   "AUF"
+  ],
+  "type": "ORG",
+  "score": 0.9997560382,
+  "card": {
+   "keywords": [
+    "AUF"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Arbeidernes_ungdomsfylking"
+  }
+ },
+ {
+  "start": 389.0,
+  "end": 396.0,
+  "keywords": [
+   "Unge H\u00f8gre"
+  ],
+  "type": "ORG",
+  "score": 0.9997076988,
+  "card": {
+   "keywords": [
+    "Unge H\u00f8gre"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 403.14,
+  "end": 406.14,
+  "keywords": [
+   "Bergen"
+  ],
+  "type": "LOC",
+  "score": 0.999483943,
+  "card": {
+   "keywords": [
+    "Bergens"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Bergens"
+  }
+ },
+ {
+  "start": 406.14,
+  "end": 411.14,
+  "keywords": [
+   "AKP"
+  ],
+  "type": "ORG",
+  "score": 0.9997430444,
+  "card": {
+   "keywords": [
+    "AKP"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/AKP"
+  }
+ },
+ {
+  "start": 419.0,
+  "end": 422.0,
+  "keywords": [
+   "AKP"
+  ],
+  "type": "ORG",
+  "score": 0.999589622,
+  "card": {
+   "keywords": [
+    "AKP"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/AKP"
+  }
+ },
+ {
+  "start": 423.0,
+  "end": 427.0,
+  "keywords": [
+   "Bergen"
+  ],
+  "type": "LOC",
+  "score": 0.9996539354,
+  "card": {
+   "keywords": [
+    "Bergens"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Bergens"
+  }
+ },
+ {
+  "start": 428.0,
+  "end": 431.0,
+  "keywords": [
+   "Mao"
+  ],
+  "type": "PER",
+  "score": 0.9998778105,
+  "card": {
+   "keywords": [
+    "Mao"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Mao_Zedong"
+  }
+ },
+ {
+  "start": 428.0,
+  "end": 431.0,
+  "keywords": [
+   "Stalin"
+  ],
+  "type": "PER",
+  "score": 0.999830246,
+  "card": {
+   "keywords": [
+    "Stalin"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Josef_Stalin"
+  }
+ },
+ {
+  "start": 432.0,
+  "end": 437.0,
+  "keywords": [
+   "Nygaush\u00f8yden"
+  ],
+  "type": "LOC",
+  "score": 0.9811526537,
+  "card": {
+   "keywords": [
+    "Nygaush\u00f8yden"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Nygaush\u00f8yden"
+  }
+ },
+ {
+  "start": 432.0,
+  "end": 437.0,
+  "keywords": [
+   "Leninh\u00f8yden"
+  ],
+  "type": "LOC",
+  "score": 0.9633169174,
+  "card": {
+   "keywords": [
+    "Leninh\u00f8yden"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Leninh\u00f8yden"
+  }
+ },
+ {
+  "start": 432.0,
+  "end": 437.0,
+  "keywords": [
+   "Folkemunnet"
+  ],
+  "type": "LOC",
+  "score": 0.9974489808,
+  "card": {
+   "keywords": [
+    "Folkemunnet"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Folkemunnet"
+  }
+ },
+ {
+  "start": 450.03,
+  "end": 455.56333333333333,
+  "keywords": [
+   "AKP ML"
+  ],
+  "type": "ORG",
+  "score": 0.9990340471,
+  "card": {
+   "keywords": [
+    "AKP"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/AKP"
+  }
+ },
+ {
+  "start": 450.03,
+  "end": 455.56333333333333,
+  "keywords": [
+   "Marxist Leninisterne"
+  ],
+  "type": "ORG",
+  "score": 0.9985713959,
+  "card": {
+   "keywords": [
+    "Marxist Leninisterne"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 501.0,
+  "end": 504.0,
+  "keywords": [
+   "AKP"
+  ],
+  "type": "ORG",
+  "score": 0.9997319579,
+  "card": {
+   "keywords": [
+    "AKP"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/AKP"
+  }
+ },
+ {
+  "start": 524.0,
+  "end": 529.0,
+  "keywords": [
+   "Bergens meierie"
+  ],
+  "type": "ORG",
+  "score": 0.9872190356,
+  "card": {
+   "keywords": [
+    "Bergens meierie"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 541.0,
+  "end": 544.0,
+  "keywords": [
+   "Pol Pot"
+  ],
+  "type": "PER",
+  "score": 0.9956434965,
+  "card": {
+   "keywords": [
+    "Pol Pot"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Pol_Pot"
+  }
+ },
+ {
+  "start": 541.0,
+  "end": 544.0,
+  "keywords": [
+   "Mount Sitsung"
+  ],
+  "type": "LOC",
+  "score": 0.9921944737,
+  "card": {
+   "keywords": [
+    "Mount Sitsung"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Mount Sitsung"
+  }
+ },
+ {
+  "start": 562.98,
+  "end": 566.7133333333334,
+  "keywords": [
+   "Bergens meierie"
+  ],
+  "type": "ORG",
+  "score": 0.99917835,
+  "card": {
+   "keywords": [
+    "Bergens meierie"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 686.0,
+  "end": 689.4,
+  "keywords": [
+   "AKP ML"
+  ],
+  "type": "ORG",
+  "score": 0.9958655238,
+  "card": {
+   "keywords": [
+    "AKP"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/AKP"
+  }
+ },
+ {
+  "start": 689.4,
+  "end": 698.4000000000001,
+  "keywords": [
+   "H\u00f8gre"
+  ],
+  "type": "ORG",
+  "score": 0.9997366071,
+  "card": {
+   "keywords": [
+    "Unge H\u00f8gre"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 689.4,
+  "end": 698.4000000000001,
+  "keywords": [
+   "Eidsv\u00e5g"
+  ],
+  "type": "LOC",
+  "score": 0.9994435906,
+  "card": {
+   "keywords": [
+    "Eidsv\u00e5g"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Eidsv\u00e5g"
+  }
+ },
+ {
+  "start": 713.0,
+  "end": 720.0,
+  "keywords": [
+   "Trude Larsen"
+  ],
+  "type": "PER",
+  "score": 0.999779284,
+  "card": {
+   "keywords": [
+    "Trude Larsen"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 713.0,
+  "end": 720.0,
+  "keywords": [
+   "Trude Drevland"
+  ],
+  "type": "PER",
+  "score": 0.9998056889,
+  "card": {
+   "keywords": [
+    "Trude Larsen"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 720.0,
+  "end": 732.0,
+  "keywords": [
+   "Therese"
+  ],
+  "type": "PER",
+  "score": 0.9994655252,
+  "card": {
+   "keywords": [
+    "Therese"
+   ],
+   "type": "PER",
+   "url": "https://no.wikipedia.org/wiki/Terese"
+  }
+ },
+ {
+  "start": 720.0,
+  "end": 732.0,
+  "keywords": [
+   "Hordaland Fylkeskommune"
+  ],
+  "type": "ORG",
+  "score": 0.9994180202,
+  "card": {
+   "keywords": [
+    "Hordaland Fylkeskommune"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Hordaland"
+  }
+ },
+ {
+  "start": 739.0,
+  "end": 754.0,
+  "keywords": [
+   "Drevland"
+  ],
+  "type": "ORG",
+  "score": 0.9989795089,
+  "card": {
+   "keywords": [
+    "Drevland"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Drevland"
+  }
+ },
+ {
+  "start": 774.0,
+  "end": 779.0,
+  "keywords": [
+   "Fj\u00f8la"
+  ],
+  "type": "LOC",
+  "score": 0.999463141,
+  "card": {
+   "keywords": [
+    "Fj\u00f8la"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Fj\u00f8la"
+  }
+ },
+ {
+  "start": 798.0,
+  "end": 810.0,
+  "keywords": [
+   "Odd Drevland"
+  ],
+  "type": "PER",
+  "score": 0.9998502731,
+  "card": {
+   "keywords": [
+    "Odd Drevland"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 810.0,
+  "end": 819.0,
+  "keywords": [
+   "Bergen"
+  ],
+  "type": "LOC",
+  "score": 0.99952209,
+  "card": {
+   "keywords": [
+    "Bergens"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Bergens"
+  }
+ },
+ {
+  "start": 820.0,
+  "end": 827.0,
+  "keywords": [
+   "Ali Porin Mohammed"
+  ],
+  "type": "PER",
+  "score": 0.9997947216,
+  "card": {
+   "keywords": [
+    "Ali Porin Mohammed"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 820.0,
+  "end": 827.0,
+  "keywords": [
+   "Bergen"
+  ],
+  "type": "LOC",
+  "score": 0.9996131063,
+  "card": {
+   "keywords": [
+    "Bergens"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Bergens"
+  }
+ },
+ {
+  "start": 828.0,
+  "end": 834.0,
+  "keywords": [
+   "gula ting lagmannsrett"
+  ],
+  "type": "ORG",
+  "score": 0.9985793233,
+  "card": {
+   "keywords": [
+    "gula ting lagmannsrett"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 834.0,
+  "end": 844.0,
+  "keywords": [
+   "Ali Porin"
+  ],
+  "type": "PER",
+  "score": 0.9998127222,
+  "card": {
+   "keywords": [
+    "Ali Porin Mohammed"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 834.0,
+  "end": 844.0,
+  "keywords": [
+   "Bergen"
+  ],
+  "type": "LOC",
+  "score": 0.9995854497,
+  "card": {
+   "keywords": [
+    "Bergens"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Bergens"
+  }
+ },
+ {
+  "start": 845.0,
+  "end": 851.0,
+  "keywords": [
+   "Odd Drevland"
+  ],
+  "type": "PER",
+  "score": 0.999768436,
+  "card": {
+   "keywords": [
+    "Odd Drevland"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 852.0,
+  "end": 858.0,
+  "keywords": [
+   "Porins"
+  ],
+  "type": "PER",
+  "score": 0.9992208481,
+  "card": {
+   "keywords": [
+    "Ali Porin Mohammed"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 865.0,
+  "end": 873.0,
+  "keywords": [
+   "Porin"
+  ],
+  "type": "PER",
+  "score": 0.999476254,
+  "card": {
+   "keywords": [
+    "Ali Porin Mohammed"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 874.0,
+  "end": 880.0,
+  "keywords": [
+   "Porin"
+  ],
+  "type": "PER",
+  "score": 0.9989405274,
+  "card": {
+   "keywords": [
+    "Ali Porin Mohammed"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 907.0,
+  "end": 911.0,
+  "keywords": [
+   "Drevland"
+  ],
+  "type": "PER",
+  "score": 0.8466913104,
+  "card": {
+   "keywords": [
+    "Odd Drevland"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 921.0,
+  "end": 932.0,
+  "keywords": [
+   "Odd Drevland"
+  ],
+  "type": "PER",
+  "score": 0.9998437166,
+  "card": {
+   "keywords": [
+    "Odd Drevland"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 921.0,
+  "end": 932.0,
+  "keywords": [
+   "Ali Porin"
+  ],
+  "type": "PER",
+  "score": 0.9996082783,
+  "card": {
+   "keywords": [
+    "Ali Porin Mohammed"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 921.0,
+  "end": 932.0,
+  "keywords": [
+   "Oslo"
+  ],
+  "type": "LOC",
+  "score": 0.999704659,
+  "card": {
+   "keywords": [
+    "Oslo"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Oslo"
+  }
+ },
+ {
+  "start": 921.0,
+  "end": 932.0,
+  "keywords": [
+   "TV2"
+  ],
+  "type": "MISC",
+  "score": 0.9921793938,
+  "card": {
+   "keywords": [
+    "TV2"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/TV_2_Direkte"
+  }
+ },
+ {
+  "start": 921.0,
+  "end": 932.0,
+  "keywords": [
+   "Per St\u00e5le"
+  ],
+  "type": "PER",
+  "score": 0.9997704029,
+  "card": {
+   "keywords": [
+    "Per St\u00e5le"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 932.0,
+  "end": 936.0,
+  "keywords": [
+   "Ali Porin"
+  ],
+  "type": "PER",
+  "score": 0.9997394085,
+  "card": {
+   "keywords": [
+    "Ali Porin Mohammed"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 947.0,
+  "end": 949.0,
+  "keywords": [
+   "Drevland"
+  ],
+  "type": "PER",
+  "score": 0.9997842908,
+  "card": {
+   "keywords": [
+    "Odd Drevland"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 956.0,
+  "end": 962.0,
+  "keywords": [
+   "Porin"
+  ],
+  "type": "PER",
+  "score": 0.999643445,
+  "card": {
+   "keywords": [
+    "Ali Porin Mohammed"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 966.0,
+  "end": 972.0,
+  "keywords": [
+   "Porin"
+  ],
+  "type": "PER",
+  "score": 0.9988648891,
+  "card": {
+   "keywords": [
+    "Ali Porin Mohammed"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 966.0,
+  "end": 972.0,
+  "keywords": [
+   "Drevland"
+  ],
+  "type": "PER",
+  "score": 0.9997034669,
+  "card": {
+   "keywords": [
+    "Odd Drevland"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 988.0,
+  "end": 999.0,
+  "keywords": [
+   "Porin"
+  ],
+  "type": "PER",
+  "score": 0.9226439595,
+  "card": {
+   "keywords": [
+    "Ali Porin Mohammed"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1032.0,
+  "end": 1045.0,
+  "keywords": [
+   "Drevland"
+  ],
+  "type": "ORG",
+  "score": 0.9752351642,
+  "card": {
+   "keywords": [
+    "Drevland"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/Drevland"
+  }
+ },
+ {
+  "start": 1046.0,
+  "end": 1058.0,
+  "keywords": [
+   "Odd Drevland"
+  ],
+  "type": "PER",
+  "score": 0.9998550415,
+  "card": {
+   "keywords": [
+    "Odd Drevland"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1046.0,
+  "end": 1058.0,
+  "keywords": [
+   "Per St\u00e5le L\u00f8nning"
+  ],
+  "type": "PER",
+  "score": 0.9997472167,
+  "card": {
+   "keywords": [
+    "Per St\u00e5le"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1046.0,
+  "end": 1058.0,
+  "keywords": [
+   "Kristian Mikkelsens gate"
+  ],
+  "type": "LOC",
+  "score": 0.9797844887,
+  "card": {
+   "keywords": [
+    "Kristian Mikkelsens gate"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Kristian Mikkelsens gate"
+  }
+ },
+ {
+  "start": 1046.0,
+  "end": 1058.0,
+  "keywords": [
+   "Bergen sentrum"
+  ],
+  "type": "LOC",
+  "score": 0.9272268414,
+  "card": {
+   "keywords": [
+    "Bergens"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Bergens"
+  }
+ },
+ {
+  "start": 1071.0,
+  "end": 1083.0,
+  "keywords": [
+   "Kalfare"
+  ],
+  "type": "LOC",
+  "score": 0.9997276664,
+  "card": {
+   "keywords": [
+    "Kalfare"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Kalfare"
+  }
+ },
+ {
+  "start": 1083.0,
+  "end": 1091.0,
+  "keywords": [
+   "Kalvedalsveien"
+  ],
+  "type": "LOC",
+  "score": 0.9988665581,
+  "card": {
+   "keywords": [
+    "Kalvedalsveien"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Kalvedalsveien"
+  }
+ },
+ {
+  "start": 1092.0,
+  "end": 1101.0,
+  "keywords": [
+   "Bergen"
+  ],
+  "type": "LOC",
+  "score": 0.9991070628,
+  "card": {
+   "keywords": [
+    "Bergens"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Bergens"
+  }
+ },
+ {
+  "start": 1137.0,
+  "end": 1143.0,
+  "keywords": [
+   "Bergen"
+  ],
+  "type": "LOC",
+  "score": 0.9994978905,
+  "card": {
+   "keywords": [
+    "Bergens"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Bergens"
+  }
+ },
+ {
+  "start": 1162.0,
+  "end": 1174.0,
+  "keywords": [
+   "Gardino"
+  ],
+  "type": "PER",
+  "score": 0.9994501472,
+  "card": {
+   "keywords": [
+    "Gardino"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1217.0,
+  "end": 1229.0,
+  "keywords": [
+   "Bergens"
+  ],
+  "type": "MISC",
+  "score": 0.9487558603,
+  "card": {
+   "keywords": [
+    "Bergens tidende"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Bergens_Tidende"
+  }
+ },
+ {
+  "start": 1292.0,
+  "end": 1307.0,
+  "keywords": [
+   "Odd Drevland"
+  ],
+  "type": "PER",
+  "score": 0.999846518,
+  "card": {
+   "keywords": [
+    "Odd Drevland"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1292.0,
+  "end": 1307.0,
+  "keywords": [
+   "Bergen"
+  ],
+  "type": "LOC",
+  "score": 0.9992755055,
+  "card": {
+   "keywords": [
+    "Bergens"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Bergens"
+  }
+ },
+ {
+  "start": 1292.0,
+  "end": 1307.0,
+  "keywords": [
+   "Sortland"
+  ],
+  "type": "LOC",
+  "score": 0.9994878769,
+  "card": {
+   "keywords": [
+    "Sortland"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Sortland"
+  }
+ },
+ {
+  "start": 1292.0,
+  "end": 1307.0,
+  "keywords": [
+   "Vester\u00e5len"
+  ],
+  "type": "LOC",
+  "score": 0.9995074272,
+  "card": {
+   "keywords": [
+    "Vester\u00e5len"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Vester\u00e5len"
+  }
+ },
+ {
+  "start": 1307.0,
+  "end": 1328.0,
+  "keywords": [
+   "Vester\u00e5len"
+  ],
+  "type": "LOC",
+  "score": 0.9994965792,
+  "card": {
+   "keywords": [
+    "Vester\u00e5len"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Vester\u00e5len"
+  }
+ },
+ {
+  "start": 1361.0,
+  "end": 1366.0,
+  "keywords": [
+   "Drevland"
+  ],
+  "type": "PER",
+  "score": 0.5138212442,
+  "card": {
+   "keywords": [
+    "Odd Drevland"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1461.0,
+  "end": 1468.0,
+  "keywords": [
+   "Trude Drevland"
+  ],
+  "type": "PER",
+  "score": 0.9998438358,
+  "card": {
+   "keywords": [
+    "Trude Larsen"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1473.96,
+  "end": 1477.96,
+  "keywords": [
+   "Kalvedalsveien"
+  ],
+  "type": "LOC",
+  "score": 0.9994441867,
+  "card": {
+   "keywords": [
+    "Kalvedalsveien"
+   ],
+   "type": "LOC",
+   "url": "https://www.google.com/maps/embed/v1/place?key=AIzaSyAFI-Pk-PzIfjPGqmNO6qGQw_m0Cr3NV3I&q=Kalvedalsveien"
+  }
+ },
+ {
+  "start": 1600.0,
+  "end": 1608.0,
+  "keywords": [
+   "Odd Drevland"
+  ],
+  "type": "PER",
+  "score": 0.9998369217,
+  "card": {
+   "keywords": [
+    "Odd Drevland"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1608.0,
+  "end": 1610.0,
+  "keywords": [
+   "Bergens tiden"
+  ],
+  "type": "MISC",
+  "score": 0.9698200226,
+  "card": {
+   "keywords": [
+    "Bergens tidende"
+   ],
+   "type": "MISC",
+   "url": "https://no.wikipedia.org/wiki/Bergens_Tidende"
+  }
+ },
+ {
+  "start": 1628.06,
+  "end": 1631.3266666666666,
+  "keywords": [
+   "Bergenstidende"
+  ],
+  "type": "ORG",
+  "score": 0.8671213388,
+  "card": {
+   "keywords": [
+    "Bergens meierie"
+   ],
+   "type": "ORG"
+  }
+ },
+ {
+  "start": 1628.06,
+  "end": 1631.3266666666666,
+  "keywords": [
+   "NRK"
+  ],
+  "type": "ORG",
+  "score": 0.9984591007,
+  "card": {
+   "keywords": [
+    "NRK"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/NRK"
+  }
+ },
+ {
+  "start": 1628.06,
+  "end": 1631.3266666666666,
+  "keywords": [
+   "TV2"
+  ],
+  "type": "ORG",
+  "score": 0.9988374114,
+  "card": {
+   "keywords": [
+    "TV2"
+   ],
+   "type": "ORG",
+   "url": "https://no.wikipedia.org/wiki/TV_2_Direkte"
+  }
+ },
+ {
+  "start": 1632.56,
+  "end": 1659.56,
+  "keywords": [
+   "Henrik Svanevik"
+  ],
+  "type": "PER",
+  "score": 0.9998059273,
+  "card": {
+   "keywords": [
+    "Henrik Svanevik"
+   ],
+   "type": "PER"
+  }
+ },
+ {
+  "start": 1632.56,
+  "end": 1659.56,
+  "keywords": [
+   "Kjersti Mj\u00f8r"
+  ],
+  "type": "PER",
+  "score": 0.9997946024,
+  "card": {
+   "keywords": [
+    "Kjersti Mj\u00f8r"
+   ],
+   "type": "PER"
+  }
+ }
+]

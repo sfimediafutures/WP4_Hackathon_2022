@@ -1,0 +1,3822 @@
+[
+ {
+  "start": 0.03,
+  "end": 3.03,
+  "who": 2
+ },
+ {
+  "start": 3.24,
+  "end": 7.56,
+  "who": 2
+ },
+ {
+  "start": 7.59,
+  "end": 8.59,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 8.59,
+  "end": 11.43,
+  "who": 2
+ },
+ {
+  "start": 12.03,
+  "end": 16.03,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 16.03,
+  "end": 16.14,
+  "who": 2
+ },
+ {
+  "start": 16.65,
+  "end": 17.07,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 17.67,
+  "end": 18.17,
+  "who": 2
+ },
+ {
+  "start": 19.17,
+  "end": 19.67,
+  "who": 2
+ },
+ {
+  "start": 19.67,
+  "end": 20.61,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 21.54,
+  "end": 22.54,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 22.54,
+  "end": 23.82,
+  "who": 2
+ },
+ {
+  "start": 24.21,
+  "end": 24.51,
+  "who": 2
+ },
+ {
+  "start": 25.26,
+  "end": 28.26,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 28.26,
+  "end": 28.76,
+  "who": 2
+ },
+ {
+  "start": 28.76,
+  "end": 30.57,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 30.87,
+  "end": 33.33,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 34.92,
+  "end": 39.42,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 39.42,
+  "end": 39.57,
+  "who": 2
+ },
+ {
+  "start": 39.96,
+  "end": 43.96,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 43.96,
+  "end": 45.45,
+  "who": 2
+ },
+ {
+  "start": 46.54,
+  "end": 47.04,
+  "who": 2
+ },
+ {
+  "start": 47.04,
+  "end": 51.99,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 51.99,
+  "end": 52.11,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 53.16,
+  "end": 60.16,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 60.16,
+  "end": 60.36,
+  "who": 2
+ },
+ {
+  "start": 60.66,
+  "end": 63.16,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 63.16,
+  "end": 64.66,
+  "who": 2
+ },
+ {
+  "start": 65.16,
+  "end": 67.66,
+  "who": 2
+ },
+ {
+  "start": 68.16,
+  "end": 68.66,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 68.66,
+  "end": 70.79,
+  "who": 2
+ },
+ {
+  "start": 71.61,
+  "end": 72.11,
+  "who": 2
+ },
+ {
+  "start": 72.11,
+  "end": 73.11,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 73.11,
+  "end": 73.61,
+  "who": 2
+ },
+ {
+  "start": 74.07,
+  "end": 76.07,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 76.07,
+  "end": 77.07,
+  "who": 2
+ },
+ {
+  "start": 77.07,
+  "end": 77.57,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 77.57,
+  "end": 78.07,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 78.07,
+  "end": 78.57,
+  "who": 2
+ },
+ {
+  "start": 78.57,
+  "end": 78.96,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 79.41,
+  "end": 79.62,
+  "who": 2
+ },
+ {
+  "start": 80.42,
+  "end": 80.92,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 80.92,
+  "end": 85.68,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 86.31,
+  "end": 89.31,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 89.64,
+  "end": 90.14,
+  "who": 2
+ },
+ {
+  "start": 90.14,
+  "end": 91.64,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 91.64,
+  "end": 93.14,
+  "who": 2
+ },
+ {
+  "start": 93.64,
+  "end": 94.14,
+  "who": 2
+ },
+ {
+  "start": 94.14,
+  "end": 94.64,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 94.64,
+  "end": 95.64,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 95.64,
+  "end": 96.14,
+  "who": 2
+ },
+ {
+  "start": 96.14,
+  "end": 96.64,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 96.64,
+  "end": 97.14,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 97.77,
+  "end": 98.27,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 98.27,
+  "end": 98.77,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 98.77,
+  "end": 104.64,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 105.64,
+  "end": 107.14,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 107.14,
+  "end": 109.14,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 109.14,
+  "end": 109.91,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 109.91,
+  "end": 110.91,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 111.91,
+  "end": 112.91,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 112.91,
+  "end": 113.41,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 113.41,
+  "end": 114.91,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 115.08,
+  "end": 115.58,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 115.58,
+  "end": 117.58,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 118.08,
+  "end": 118.58,
+  "who": 2
+ },
+ {
+  "start": 119.58,
+  "end": 120.08,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 120.12,
+  "end": 121.12,
+  "who": 2
+ },
+ {
+  "start": 121.12,
+  "end": 121.62,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 122.12,
+  "end": 124.23,
+  "who": 2
+ },
+ {
+  "start": 124.74,
+  "end": 126.24,
+  "who": 2
+ },
+ {
+  "start": 126.24,
+  "end": 126.57,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 126.81,
+  "end": 128.04,
+  "who": 2
+ },
+ {
+  "start": 128.4,
+  "end": 130.9,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 130.9,
+  "end": 131.4,
+  "who": 2
+ },
+ {
+  "start": 131.4,
+  "end": 135.4,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 135.4,
+  "end": 136.35,
+  "who": 2
+ },
+ {
+  "start": 136.62,
+  "end": 143.15,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 143.25,
+  "end": 144.25,
+  "who": 2
+ },
+ {
+  "start": 144.25,
+  "end": 148.25,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 148.25,
+  "end": 149.75,
+  "who": 2
+ },
+ {
+  "start": 149.75,
+  "end": 151.25,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 151.38,
+  "end": 151.88,
+  "who": 2
+ },
+ {
+  "start": 151.88,
+  "end": 153.38,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 153.88,
+  "end": 154.38,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 154.38,
+  "end": 154.88,
+  "who": 2
+ },
+ {
+  "start": 155.38,
+  "end": 155.88,
+  "who": 2
+ },
+ {
+  "start": 155.88,
+  "end": 156.38,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 156.38,
+  "end": 159.36,
+  "who": 2
+ },
+ {
+  "start": 159.84,
+  "end": 160.34,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 160.34,
+  "end": 160.68,
+  "who": 2
+ },
+ {
+  "start": 161.16,
+  "end": 161.34,
+  "who": 2
+ },
+ {
+  "start": 162.06,
+  "end": 162.45,
+  "who": 2
+ },
+ {
+  "start": 162.81,
+  "end": 165.81,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 165.81,
+  "end": 167.31,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 167.31,
+  "end": 168.81,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 168.81,
+  "end": 171.41,
+  "who": 2
+ },
+ {
+  "start": 171.41,
+  "end": 172.91,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 172.91,
+  "end": 173.34,
+  "who": 2
+ },
+ {
+  "start": 173.82,
+  "end": 181.14,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 181.5,
+  "end": 181.77,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 182.01,
+  "end": 186.01,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 186.01,
+  "end": 188.51,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 188.51,
+  "end": 189.01,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 189.01,
+  "end": 189.51,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 189.51,
+  "end": 190.64,
+  "who": 2
+ },
+ {
+  "start": 190.64,
+  "end": 191.14,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 191.64,
+  "end": 192.64,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 192.64,
+  "end": 194.64,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 194.64,
+  "end": 195.14,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 195.14,
+  "end": 195.39,
+  "who": 2
+ },
+ {
+  "start": 195.93,
+  "end": 196.43,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 196.43,
+  "end": 196.93,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 196.93,
+  "end": 197.43,
+  "who": 2
+ },
+ {
+  "start": 197.93,
+  "end": 199.43,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 199.93,
+  "end": 200.43,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 200.43,
+  "end": 200.93,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 200.93,
+  "end": 201.93,
+  "who": 2
+ },
+ {
+  "start": 201.93,
+  "end": 203.93,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 204.06,
+  "end": 204.56,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 204.56,
+  "end": 205.06,
+  "who": 2
+ },
+ {
+  "start": 205.56,
+  "end": 206.06,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 206.06,
+  "end": 206.22,
+  "who": 2
+ },
+ {
+  "start": 206.94,
+  "end": 207.94,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 207.94,
+  "end": 208.23,
+  "who": 2
+ },
+ {
+  "start": 208.62,
+  "end": 208.8,
+  "who": 2
+ },
+ {
+  "start": 209.94,
+  "end": 211.44,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 211.77,
+  "end": 212.07,
+  "who": 2
+ },
+ {
+  "start": 214.56,
+  "end": 216.56,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 218.13,
+  "end": 222.13,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 222.3,
+  "end": 225.3,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 225.3,
+  "end": 225.8,
+  "who": 2
+ },
+ {
+  "start": 225.8,
+  "end": 228.3,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 228.3,
+  "end": 228.8,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 229.3,
+  "end": 230.3,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 230.43,
+  "end": 232.83,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 233.34,
+  "end": 234.84,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 234.84,
+  "end": 237.84,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 237.84,
+  "end": 238.14,
+  "who": 2
+ },
+ {
+  "start": 238.32,
+  "end": 238.5,
+  "who": 2
+ },
+ {
+  "start": 239.07,
+  "end": 241.57,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 241.57,
+  "end": 241.77,
+  "who": 2
+ },
+ {
+  "start": 242.43,
+  "end": 244.93,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 244.93,
+  "end": 245.4,
+  "who": 2
+ },
+ {
+  "start": 246.3,
+  "end": 247.8,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 248.43,
+  "end": 251.25,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 252.0,
+  "end": 258.0,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 258.0,
+  "end": 258.36,
+  "who": 2
+ },
+ {
+  "start": 258.51,
+  "end": 265.01,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 265.01,
+  "end": 265.51,
+  "who": 2
+ },
+ {
+  "start": 265.51,
+  "end": 267.12,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 268.32,
+  "end": 269.32,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 269.32,
+  "end": 269.82,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 269.82,
+  "end": 271.82,
+  "who": 2
+ },
+ {
+  "start": 271.82,
+  "end": 275.82,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 276.45,
+  "end": 276.95,
+  "who": 2
+ },
+ {
+  "start": 276.95,
+  "end": 280.95,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 280.95,
+  "end": 281.07,
+  "who": 2
+ },
+ {
+  "start": 283.29,
+  "end": 288.29,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 288.29,
+  "end": 288.45,
+  "who": 2
+ },
+ {
+  "start": 289.53,
+  "end": 292.53,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 292.53,
+  "end": 292.89,
+  "who": 2
+ },
+ {
+  "start": 294.09,
+  "end": 300.09,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 300.09,
+  "end": 300.33,
+  "who": 2
+ },
+ {
+  "start": 300.57,
+  "end": 301.57,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 302.1,
+  "end": 307.1,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 307.1,
+  "end": 308.1,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 308.1,
+  "end": 309.6,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 309.6,
+  "end": 310.02,
+  "who": 2
+ },
+ {
+  "start": 311.73,
+  "end": 317.73,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 317.73,
+  "end": 318.0,
+  "who": 2
+ },
+ {
+  "start": 318.18,
+  "end": 320.68,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 321.12,
+  "end": 322.12,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 322.12,
+  "end": 322.86,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 323.34,
+  "end": 326.34,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 326.84,
+  "end": 328.34,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 329.16,
+  "end": 334.66,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 334.66,
+  "end": 334.89,
+  "who": 2
+ },
+ {
+  "start": 335.37,
+  "end": 340.87,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 342.6,
+  "end": 345.6,
+  "who": 2
+ },
+ {
+  "start": 347.04,
+  "end": 353.73,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 353.88,
+  "end": 354.38,
+  "who": 2
+ },
+ {
+  "start": 354.38,
+  "end": 358.88,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 358.88,
+  "end": 359.38,
+  "who": 2
+ },
+ {
+  "start": 359.38,
+  "end": 364.51,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 364.51,
+  "end": 365.01,
+  "who": 2
+ },
+ {
+  "start": 365.01,
+  "end": 366.01,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 366.27,
+  "end": 372.18,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 372.24,
+  "end": 377.74,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 377.74,
+  "end": 378.24,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 378.24,
+  "end": 380.24,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 380.37,
+  "end": 385.35,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 385.41,
+  "end": 385.91,
+  "who": 2
+ },
+ {
+  "start": 385.91,
+  "end": 388.91,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 389.41,
+  "end": 389.7,
+  "who": 2
+ },
+ {
+  "start": 389.79,
+  "end": 395.29,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 395.29,
+  "end": 395.49,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 395.64,
+  "end": 398.14,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 398.58,
+  "end": 402.58,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 402.58,
+  "end": 402.84,
+  "who": 2
+ },
+ {
+  "start": 403.14,
+  "end": 406.64,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 406.64,
+  "end": 406.8,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 406.92,
+  "end": 407.42,
+  "who": 2
+ },
+ {
+  "start": 407.42,
+  "end": 407.92,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 407.92,
+  "end": 408.42,
+  "who": 2
+ },
+ {
+  "start": 408.42,
+  "end": 408.92,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 408.92,
+  "end": 409.42,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 410.42,
+  "end": 411.92,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 413.92,
+  "end": 414.92,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 415.55,
+  "end": 416.05,
+  "who": 2
+ },
+ {
+  "start": 416.05,
+  "end": 416.55,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 416.55,
+  "end": 417.05,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 418.05,
+  "end": 419.55,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 420.55,
+  "end": 421.55,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 421.55,
+  "end": 422.05,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 422.05,
+  "end": 423.05,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 423.18,
+  "end": 423.68,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 423.68,
+  "end": 424.18,
+  "who": 2
+ },
+ {
+  "start": 424.68,
+  "end": 425.18,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 425.68,
+  "end": 426.18,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 426.18,
+  "end": 426.33,
+  "who": 2
+ },
+ {
+  "start": 427.01,
+  "end": 427.51,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 427.51,
+  "end": 432.51,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 433.38,
+  "end": 436.68,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 437.22,
+  "end": 442.72,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 443.64,
+  "end": 449.14,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 450.03,
+  "end": 459.54,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 459.54,
+  "end": 460.2,
+  "who": 2
+ },
+ {
+  "start": 460.5,
+  "end": 468.5,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 468.63,
+  "end": 480.89,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 480.89,
+  "end": 480.99,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 481.92,
+  "end": 487.42,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 487.92,
+  "end": 489.92,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 490.05,
+  "end": 494.05,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 494.05,
+  "end": 494.25,
+  "who": 2
+ },
+ {
+  "start": 494.67,
+  "end": 498.67,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 499.35,
+  "end": 499.53,
+  "who": 2
+ },
+ {
+  "start": 499.65,
+  "end": 501.15,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 501.15,
+  "end": 504.65,
+  "who": 2
+ },
+ {
+  "start": 505.15,
+  "end": 505.65,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 506.15,
+  "end": 507.15,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 507.6,
+  "end": 508.1,
+  "who": 2
+ },
+ {
+  "start": 508.1,
+  "end": 511.1,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 511.6,
+  "end": 512.6,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 512.6,
+  "end": 512.94,
+  "who": 2
+ },
+ {
+  "start": 514.24,
+  "end": 514.59,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 515.96,
+  "end": 516.46,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 516.46,
+  "end": 516.96,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 516.96,
+  "end": 517.96,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 518.46,
+  "end": 518.96,
+  "who": 2
+ },
+ {
+  "start": 519.46,
+  "end": 519.96,
+  "who": 2
+ },
+ {
+  "start": 519.96,
+  "end": 520.96,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 520.96,
+  "end": 522.75,
+  "who": 2
+ },
+ {
+  "start": 524.46,
+  "end": 526.46,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 526.77,
+  "end": 529.23,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 530.01,
+  "end": 531.51,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 531.51,
+  "end": 532.01,
+  "who": 2
+ },
+ {
+  "start": 532.01,
+  "end": 532.51,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 532.51,
+  "end": 533.01,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 533.01,
+  "end": 533.4,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 534.15,
+  "end": 540.65,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 540.65,
+  "end": 542.15,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 542.15,
+  "end": 542.25,
+  "who": 2
+ },
+ {
+  "start": 542.28,
+  "end": 543.78,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 543.78,
+  "end": 544.78,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 544.78,
+  "end": 545.28,
+  "who": 2
+ },
+ {
+  "start": 545.28,
+  "end": 555.57,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 555.69,
+  "end": 561.9,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 562.98,
+  "end": 566.98,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 566.98,
+  "end": 567.48,
+  "who": 2
+ },
+ {
+  "start": 567.48,
+  "end": 575.11,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 575.11,
+  "end": 575.58,
+  "who": 2
+ },
+ {
+  "start": 576.24,
+  "end": 584.24,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 584.37,
+  "end": 586.87,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 586.87,
+  "end": 587.01,
+  "who": 2
+ },
+ {
+  "start": 587.37,
+  "end": 587.55,
+  "who": 2
+ },
+ {
+  "start": 587.79,
+  "end": 597.42,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 598.77,
+  "end": 600.77,
+  "who": 2
+ },
+ {
+  "start": 600.77,
+  "end": 605.27,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 605.27,
+  "end": 605.37,
+  "who": 2
+ },
+ {
+  "start": 605.43,
+  "end": 607.93,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 607.93,
+  "end": 608.07,
+  "who": 2
+ },
+ {
+  "start": 608.79,
+  "end": 612.79,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 612.79,
+  "end": 613.29,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 613.29,
+  "end": 615.79,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 615.79,
+  "end": 616.29,
+  "who": 2
+ },
+ {
+  "start": 616.29,
+  "end": 616.79,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 616.79,
+  "end": 616.89,
+  "who": 2
+ },
+ {
+  "start": 616.92,
+  "end": 621.92,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 621.92,
+  "end": 623.42,
+  "who": 2
+ },
+ {
+  "start": 623.42,
+  "end": 628.55,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 628.55,
+  "end": 628.68,
+  "who": 2
+ },
+ {
+  "start": 628.89,
+  "end": 635.34,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 636.33,
+  "end": 640.33,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 640.33,
+  "end": 640.65,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 641.4,
+  "end": 642.9,
+  "who": 2
+ },
+ {
+  "start": 642.9,
+  "end": 644.9,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 644.9,
+  "end": 645.4,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 645.4,
+  "end": 647.9,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 647.9,
+  "end": 648.03,
+  "who": 2
+ },
+ {
+  "start": 649.01,
+  "end": 651.51,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 652.01,
+  "end": 653.16,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 653.37,
+  "end": 653.87,
+  "who": 2
+ },
+ {
+  "start": 653.87,
+  "end": 655.37,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 655.37,
+  "end": 656.37,
+  "who": 2
+ },
+ {
+  "start": 656.91,
+  "end": 658.91,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 658.91,
+  "end": 659.41,
+  "who": 2
+ },
+ {
+  "start": 659.41,
+  "end": 660.91,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 660.91,
+  "end": 662.91,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 663.15,
+  "end": 663.65,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 664.15,
+  "end": 665.65,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 665.65,
+  "end": 666.15,
+  "who": 2
+ },
+ {
+  "start": 666.15,
+  "end": 667.15,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 667.15,
+  "end": 670.14,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 670.26,
+  "end": 672.72,
+  "who": 2
+ },
+ {
+  "start": 672.75,
+  "end": 676.75,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 676.75,
+  "end": 677.25,
+  "who": 2
+ },
+ {
+  "start": 677.25,
+  "end": 679.75,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 679.75,
+  "end": 680.85,
+  "who": 2
+ },
+ {
+  "start": 680.88,
+  "end": 684.88,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 684.88,
+  "end": 685.38,
+  "who": 2
+ },
+ {
+  "start": 685.38,
+  "end": 690.01,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 690.51,
+  "end": 694.51,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 694.51,
+  "end": 695.01,
+  "who": 2
+ },
+ {
+  "start": 696.27,
+  "end": 700.27,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 700.27,
+  "end": 700.41,
+  "who": 2
+ },
+ {
+  "start": 700.47,
+  "end": 702.97,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 703.47,
+  "end": 706.97,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 707.47,
+  "end": 713.03,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 713.52,
+  "end": 717.52,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 717.52,
+  "end": 718.02,
+  "who": 2
+ },
+ {
+  "start": 718.02,
+  "end": 720.52,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 720.52,
+  "end": 722.15,
+  "who": 2
+ },
+ {
+  "start": 722.65,
+  "end": 725.65,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 725.65,
+  "end": 726.15,
+  "who": 2
+ },
+ {
+  "start": 726.15,
+  "end": 728.65,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 728.97,
+  "end": 732.81,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 733.02,
+  "end": 737.02,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 737.02,
+  "end": 737.52,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 737.52,
+  "end": 739.52,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 739.52,
+  "end": 739.71,
+  "who": 2
+ },
+ {
+  "start": 739.92,
+  "end": 743.92,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 743.92,
+  "end": 744.15,
+  "who": 2
+ },
+ {
+  "start": 744.84,
+  "end": 750.34,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 750.34,
+  "end": 750.84,
+  "who": 2
+ },
+ {
+  "start": 750.84,
+  "end": 752.84,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 752.97,
+  "end": 753.97,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 753.97,
+  "end": 754.77,
+  "who": 2
+ },
+ {
+  "start": 755.43,
+  "end": 755.93,
+  "who": 2
+ },
+ {
+  "start": 755.93,
+  "end": 759.43,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 759.75,
+  "end": 760.23,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 760.71,
+  "end": 762.71,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 763.21,
+  "end": 763.71,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 763.71,
+  "end": 764.21,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 764.58,
+  "end": 766.08,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 766.08,
+  "end": 766.2,
+  "who": 2
+ },
+ {
+  "start": 766.65,
+  "end": 767.15,
+  "who": 2
+ },
+ {
+  "start": 767.15,
+  "end": 774.65,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 774.65,
+  "end": 774.75,
+  "who": 2
+ },
+ {
+  "start": 774.78,
+  "end": 780.27,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 781.17,
+  "end": 784.17,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 784.17,
+  "end": 784.35,
+  "who": 2
+ },
+ {
+  "start": 785.4,
+  "end": 785.76,
+  "who": 2
+ },
+ {
+  "start": 786.12,
+  "end": 788.12,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 788.12,
+  "end": 788.62,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 788.62,
+  "end": 789.96,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 790.95,
+  "end": 791.95,
+  "who": 2
+ },
+ {
+  "start": 791.95,
+  "end": 796.95,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 797.43,
+  "end": 797.93,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 797.93,
+  "end": 798.43,
+  "who": 2
+ },
+ {
+  "start": 798.43,
+  "end": 803.82,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 804.27,
+  "end": 809.77,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 809.77,
+  "end": 813.4,
+  "who": 2
+ },
+ {
+  "start": 813.4,
+  "end": 813.9,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 813.9,
+  "end": 814.4,
+  "who": 2
+ },
+ {
+  "start": 815.06,
+  "end": 816.06,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 816.56,
+  "end": 817.06,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 817.06,
+  "end": 817.56,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 817.56,
+  "end": 818.06,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 819.06,
+  "end": 819.56,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 820.06,
+  "end": 822.06,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 822.56,
+  "end": 822.66,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 823.19,
+  "end": 823.69,
+  "who": 2
+ },
+ {
+  "start": 823.69,
+  "end": 825.19,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 825.69,
+  "end": 826.19,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 828.19,
+  "end": 828.69,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 829.19,
+  "end": 829.69,
+  "who": 2
+ },
+ {
+  "start": 830.82,
+  "end": 831.82,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 832.82,
+  "end": 833.82,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 834.32,
+  "end": 834.82,
+  "who": 2
+ },
+ {
+  "start": 834.82,
+  "end": 835.32,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 835.32,
+  "end": 838.82,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 838.95,
+  "end": 841.95,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 841.95,
+  "end": 842.16,
+  "who": 2
+ },
+ {
+  "start": 842.46,
+  "end": 844.96,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 844.96,
+  "end": 845.25,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 845.61,
+  "end": 851.11,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 852.09,
+  "end": 856.09,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 856.92,
+  "end": 863.42,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 863.92,
+  "end": 866.05,
+  "who": 2
+ },
+ {
+  "start": 867.55,
+  "end": 868.55,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 868.55,
+  "end": 869.05,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 869.05,
+  "end": 869.55,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 870.05,
+  "end": 870.55,
+  "who": 2
+ },
+ {
+  "start": 870.55,
+  "end": 871.05,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 872.55,
+  "end": 872.97,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 873.09,
+  "end": 873.59,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 873.59,
+  "end": 873.69,
+  "who": 2
+ },
+ {
+  "start": 874.14,
+  "end": 874.64,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 874.64,
+  "end": 876.14,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 878.14,
+  "end": 878.64,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 879.14,
+  "end": 879.64,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 880.14,
+  "end": 880.64,
+  "who": 2
+ },
+ {
+  "start": 880.64,
+  "end": 881.14,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 881.14,
+  "end": 882.14,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 882.14,
+  "end": 882.77,
+  "who": 2
+ },
+ {
+  "start": 884.27,
+  "end": 884.77,
+  "who": 2
+ },
+ {
+  "start": 884.77,
+  "end": 885.77,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 885.77,
+  "end": 886.27,
+  "who": 2
+ },
+ {
+  "start": 886.77,
+  "end": 887.27,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 888.27,
+  "end": 890.27,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 890.27,
+  "end": 890.37,
+  "who": 2
+ },
+ {
+  "start": 890.9,
+  "end": 897.24,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 897.42,
+  "end": 897.92,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 897.92,
+  "end": 898.42,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 898.92,
+  "end": 899.42,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 899.42,
+  "end": 899.92,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 899.92,
+  "end": 900.92,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 900.92,
+  "end": 901.42,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 901.42,
+  "end": 904.92,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 905.55,
+  "end": 909.55,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 909.55,
+  "end": 909.66,
+  "who": 2
+ },
+ {
+  "start": 910.17,
+  "end": 911.67,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 911.67,
+  "end": 916.17,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 916.59,
+  "end": 921.06,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 921.27,
+  "end": 924.77,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 924.77,
+  "end": 925.02,
+  "who": 2
+ },
+ {
+  "start": 925.77,
+  "end": 926.27,
+  "who": 2
+ },
+ {
+  "start": 926.27,
+  "end": 932.77,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 932.77,
+  "end": 933.12,
+  "who": 2
+ },
+ {
+  "start": 933.42,
+  "end": 937.77,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 938.54,
+  "end": 939.04,
+  "who": 2
+ },
+ {
+  "start": 939.54,
+  "end": 940.04,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 940.04,
+  "end": 941.04,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 941.54,
+  "end": 942.04,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 942.04,
+  "end": 942.54,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 943.04,
+  "end": 943.54,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 943.54,
+  "end": 944.04,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 946.04,
+  "end": 946.14,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 946.17,
+  "end": 946.67,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 946.67,
+  "end": 947.17,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 947.17,
+  "end": 947.67,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 947.67,
+  "end": 949.17,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 949.67,
+  "end": 950.17,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 950.17,
+  "end": 950.67,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 951.17,
+  "end": 951.67,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 952.67,
+  "end": 953.17,
+  "who": 2
+ },
+ {
+  "start": 954.17,
+  "end": 954.27,
+  "who": 2
+ },
+ {
+  "start": 954.3,
+  "end": 954.8,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 955.3,
+  "end": 955.8,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 957.3,
+  "end": 957.8,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 958.3,
+  "end": 958.44,
+  "who": 2
+ },
+ {
+  "start": 959.04,
+  "end": 959.54,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 960.04,
+  "end": 968.42,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 969.77,
+  "end": 970.27,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 970.27,
+  "end": 970.77,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 970.77,
+  "end": 971.27,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 971.27,
+  "end": 975.27,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 975.57,
+  "end": 978.57,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 978.57,
+  "end": 979.07,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 979.07,
+  "end": 983.07,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 983.07,
+  "end": 983.4,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 983.52,
+  "end": 987.52,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 988.02,
+  "end": 988.52,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 989.02,
+  "end": 989.52,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 990.02,
+  "end": 990.52,
+  "who": 2
+ },
+ {
+  "start": 990.52,
+  "end": 991.62,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 992.22,
+  "end": 992.72,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 992.72,
+  "end": 993.22,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 993.72,
+  "end": 1001.35,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1001.35,
+  "end": 1001.85,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 1001.85,
+  "end": 1005.35,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1006.32,
+  "end": 1008.24,
+  "who": 2
+ },
+ {
+  "start": 1009.83,
+  "end": 1017.83,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1017.96,
+  "end": 1019.46,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1019.46,
+  "end": 1019.96,
+  "who": 2
+ },
+ {
+  "start": 1021.02,
+  "end": 1024.83,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1025.1,
+  "end": 1028.6,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1028.6,
+  "end": 1028.97,
+  "who": 2
+ },
+ {
+  "start": 1029.72,
+  "end": 1030.22,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 1030.22,
+  "end": 1031.72,
+  "who": 2
+ },
+ {
+  "start": 1031.72,
+  "end": 1032.22,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 1032.72,
+  "end": 1033.72,
+  "who": 2
+ },
+ {
+  "start": 1033.72,
+  "end": 1037.22,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1037.22,
+  "end": 1037.72,
+  "who": 2
+ },
+ {
+  "start": 1037.85,
+  "end": 1040.85,
+  "who": 2
+ },
+ {
+  "start": 1040.85,
+  "end": 1042.85,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1043.85,
+  "end": 1045.35,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1045.35,
+  "end": 1045.56,
+  "who": 2
+ },
+ {
+  "start": 1046.04,
+  "end": 1051.04,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 1051.23,
+  "end": 1058.23,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 1058.23,
+  "end": 1059.23,
+  "who": 2
+ },
+ {
+  "start": 1059.36,
+  "end": 1061.86,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1061.86,
+  "end": 1063.36,
+  "who": 2
+ },
+ {
+  "start": 1063.36,
+  "end": 1065.36,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1065.36,
+  "end": 1066.36,
+  "who": 2
+ },
+ {
+  "start": 1066.36,
+  "end": 1067.36,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1067.36,
+  "end": 1067.46,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 1067.49,
+  "end": 1069.99,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1069.99,
+  "end": 1070.49,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 1070.49,
+  "end": 1070.99,
+  "who": 2
+ },
+ {
+  "start": 1070.99,
+  "end": 1072.99,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 1073.37,
+  "end": 1077.81,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 1078.32,
+  "end": 1083.32,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 1083.96,
+  "end": 1085.46,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1085.46,
+  "end": 1085.96,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 1085.96,
+  "end": 1087.46,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1087.46,
+  "end": 1087.96,
+  "who": 2
+ },
+ {
+  "start": 1087.96,
+  "end": 1088.96,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 1088.96,
+  "end": 1089.46,
+  "who": 2
+ },
+ {
+  "start": 1089.46,
+  "end": 1089.96,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1089.96,
+  "end": 1090.46,
+  "who": 2
+ },
+ {
+  "start": 1090.46,
+  "end": 1091.96,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 1092.09,
+  "end": 1093.59,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1094.82,
+  "end": 1095.32,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 1095.32,
+  "end": 1096.82,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1096.82,
+  "end": 1097.32,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 1097.32,
+  "end": 1098.32,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1098.32,
+  "end": 1101.75,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 1101.96,
+  "end": 1102.46,
+  "who": 2
+ },
+ {
+  "start": 1102.96,
+  "end": 1104.46,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1104.46,
+  "end": 1104.96,
+  "who": 2
+ },
+ {
+  "start": 1104.96,
+  "end": 1109.96,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1110.59,
+  "end": 1111.09,
+  "who": 2
+ },
+ {
+  "start": 1111.59,
+  "end": 1112.09,
+  "who": 2
+ },
+ {
+  "start": 1112.09,
+  "end": 1112.59,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 1113.09,
+  "end": 1114.09,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1114.09,
+  "end": 1114.26,
+  "who": 2
+ },
+ {
+  "start": 1114.71,
+  "end": 1117.21,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1117.71,
+  "end": 1119.71,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1119.71,
+  "end": 1120.71,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 1120.71,
+  "end": 1120.83,
+  "who": 2
+ },
+ {
+  "start": 1121.49,
+  "end": 1122.39,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1122.93,
+  "end": 1123.43,
+  "who": 2
+ },
+ {
+  "start": 1123.43,
+  "end": 1125.93,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1126.65,
+  "end": 1130.15,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1130.15,
+  "end": 1130.34,
+  "who": 2
+ },
+ {
+  "start": 1130.88,
+  "end": 1134.63,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1135.17,
+  "end": 1136.17,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1136.17,
+  "end": 1136.67,
+  "who": 2
+ },
+ {
+  "start": 1136.67,
+  "end": 1143.17,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 1143.3,
+  "end": 1144.3,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 1144.3,
+  "end": 1144.8,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1145.91,
+  "end": 1146.41,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1146.81,
+  "end": 1150.31,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1150.31,
+  "end": 1150.47,
+  "who": 2
+ },
+ {
+  "start": 1150.68,
+  "end": 1154.18,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 1154.18,
+  "end": 1154.68,
+  "who": 2
+ },
+ {
+  "start": 1154.68,
+  "end": 1156.68,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 1156.98,
+  "end": 1157.19,
+  "who": 2
+ },
+ {
+  "start": 1158.0,
+  "end": 1159.5,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1159.5,
+  "end": 1160.0,
+  "who": 2
+ },
+ {
+  "start": 1160.0,
+  "end": 1162.0,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 1162.5,
+  "end": 1164.5,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1165.38,
+  "end": 1168.88,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1170.63,
+  "end": 1171.13,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1171.13,
+  "end": 1171.63,
+  "who": 2
+ },
+ {
+  "start": 1172.13,
+  "end": 1172.63,
+  "who": 2
+ },
+ {
+  "start": 1172.63,
+  "end": 1176.03,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1176.15,
+  "end": 1176.65,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1176.65,
+  "end": 1176.84,
+  "who": 2
+ },
+ {
+  "start": 1177.05,
+  "end": 1177.55,
+  "who": 2
+ },
+ {
+  "start": 1177.55,
+  "end": 1182.05,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1182.05,
+  "end": 1182.55,
+  "who": 2
+ },
+ {
+  "start": 1182.55,
+  "end": 1183.05,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 1183.05,
+  "end": 1190.18,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1190.37,
+  "end": 1193.22,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1194.09,
+  "end": 1196.59,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1196.59,
+  "end": 1197.27,
+  "who": 2
+ },
+ {
+  "start": 1197.51,
+  "end": 1202.51,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1202.91,
+  "end": 1203.41,
+  "who": 2
+ },
+ {
+  "start": 1203.41,
+  "end": 1208.41,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1208.41,
+  "end": 1208.91,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 1208.91,
+  "end": 1214.37,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1214.37,
+  "end": 1215.37,
+  "who": 2
+ },
+ {
+  "start": 1215.37,
+  "end": 1215.72,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 1216.32,
+  "end": 1216.82,
+  "who": 2
+ },
+ {
+  "start": 1218.06,
+  "end": 1219.06,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 1219.06,
+  "end": 1219.5,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1220.07,
+  "end": 1229.91,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 1230.75,
+  "end": 1235.64,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 1236.87,
+  "end": 1242.87,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1242.87,
+  "end": 1243.37,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 1243.37,
+  "end": 1244.87,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1244.87,
+  "end": 1244.97,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 1245.5,
+  "end": 1253.0,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1253.13,
+  "end": 1256.13,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1256.13,
+  "end": 1256.63,
+  "who": 2
+ },
+ {
+  "start": 1256.63,
+  "end": 1258.63,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1258.63,
+  "end": 1259.13,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 1259.13,
+  "end": 1261.13,
+  "who": 2
+ },
+ {
+  "start": 1261.26,
+  "end": 1269.26,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1269.39,
+  "end": 1272.39,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1272.39,
+  "end": 1272.89,
+  "who": 2
+ },
+ {
+  "start": 1272.89,
+  "end": 1273.62,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1273.83,
+  "end": 1277.33,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1277.83,
+  "end": 1278.33,
+  "who": 2
+ },
+ {
+  "start": 1278.33,
+  "end": 1279.33,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1279.53,
+  "end": 1280.03,
+  "who": 2
+ },
+ {
+  "start": 1280.03,
+  "end": 1280.53,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 1280.53,
+  "end": 1281.53,
+  "who": 2
+ },
+ {
+  "start": 1283.03,
+  "end": 1287.53,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1287.53,
+  "end": 1287.63,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 1287.66,
+  "end": 1292.16,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1293.6,
+  "end": 1296.93,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 1297.59,
+  "end": 1298.09,
+  "who": 2
+ },
+ {
+  "start": 1298.09,
+  "end": 1302.59,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 1303.17,
+  "end": 1307.55,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 1308.6,
+  "end": 1310.1,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1310.6,
+  "end": 1311.1,
+  "who": 2
+ },
+ {
+  "start": 1311.1,
+  "end": 1315.26,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1315.56,
+  "end": 1319.06,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1319.06,
+  "end": 1319.55,
+  "who": 2
+ },
+ {
+  "start": 1319.7,
+  "end": 1323.2,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1323.2,
+  "end": 1324.2,
+  "who": 2
+ },
+ {
+  "start": 1324.62,
+  "end": 1328.62,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1328.62,
+  "end": 1328.76,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 1328.91,
+  "end": 1336.91,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1337.04,
+  "end": 1341.04,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1341.04,
+  "end": 1341.3,
+  "who": 2
+ },
+ {
+  "start": 1341.57,
+  "end": 1345.07,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 1345.07,
+  "end": 1345.26,
+  "who": 2
+ },
+ {
+  "start": 1345.92,
+  "end": 1346.92,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 1346.92,
+  "end": 1352.67,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1353.03,
+  "end": 1354.53,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1354.53,
+  "end": 1355.03,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 1355.03,
+  "end": 1358.53,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1358.53,
+  "end": 1358.97,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 1359.03,
+  "end": 1360.26,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1360.86,
+  "end": 1362.36,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 1362.6,
+  "end": 1366.1,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 1366.1,
+  "end": 1366.6,
+  "who": 2
+ },
+ {
+  "start": 1367.1,
+  "end": 1368.1,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1368.1,
+  "end": 1368.6,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 1368.6,
+  "end": 1369.1,
+  "who": 2
+ },
+ {
+  "start": 1369.1,
+  "end": 1370.1,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1370.1,
+  "end": 1370.46,
+  "who": 2
+ },
+ {
+  "start": 1371.84,
+  "end": 1373.84,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1373.84,
+  "end": 1374.34,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 1374.34,
+  "end": 1374.72,
+  "who": 2
+ },
+ {
+  "start": 1375.32,
+  "end": 1377.32,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1377.32,
+  "end": 1377.82,
+  "who": 2
+ },
+ {
+  "start": 1377.82,
+  "end": 1381.82,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1381.82,
+  "end": 1382.01,
+  "who": 2
+ },
+ {
+  "start": 1382.34,
+  "end": 1384.84,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1384.84,
+  "end": 1385.34,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 1385.34,
+  "end": 1387.83,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1388.31,
+  "end": 1391.58,
+  "who": 2
+ },
+ {
+  "start": 1391.73,
+  "end": 1398.99,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1399.35,
+  "end": 1404.85,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1405.35,
+  "end": 1405.85,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1405.85,
+  "end": 1406.35,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 1406.35,
+  "end": 1407.35,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1407.48,
+  "end": 1408.83,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1409.25,
+  "end": 1410.75,
+  "who": 2
+ },
+ {
+  "start": 1411.44,
+  "end": 1411.62,
+  "who": 2
+ },
+ {
+  "start": 1412.28,
+  "end": 1416.28,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1416.28,
+  "end": 1416.63,
+  "who": 2
+ },
+ {
+  "start": 1416.72,
+  "end": 1419.66,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1420.83,
+  "end": 1422.33,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 1422.33,
+  "end": 1422.83,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1422.83,
+  "end": 1424.83,
+  "who": 2
+ },
+ {
+  "start": 1424.83,
+  "end": 1428.33,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1428.33,
+  "end": 1428.54,
+  "who": 2
+ },
+ {
+  "start": 1429.62,
+  "end": 1430.62,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1430.62,
+  "end": 1430.91,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 1431.21,
+  "end": 1435.71,
+  "who": 2
+ },
+ {
+  "start": 1435.71,
+  "end": 1436.21,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1436.21,
+  "end": 1437.45,
+  "who": 2
+ },
+ {
+  "start": 1437.87,
+  "end": 1439.87,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1439.87,
+  "end": 1440.37,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 1440.37,
+  "end": 1441.87,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1441.87,
+  "end": 1442.37,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 1442.37,
+  "end": 1443.37,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1443.37,
+  "end": 1443.51,
+  "who": 2
+ },
+ {
+  "start": 1443.66,
+  "end": 1447.66,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1447.66,
+  "end": 1447.95,
+  "who": 2
+ },
+ {
+  "start": 1448.22,
+  "end": 1451.22,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1451.61,
+  "end": 1454.52,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1455.03,
+  "end": 1458.53,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1458.96,
+  "end": 1459.14,
+  "who": 2
+ },
+ {
+  "start": 1459.35,
+  "end": 1460.35,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1460.85,
+  "end": 1463.35,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1463.35,
+  "end": 1463.73,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 1465.35,
+  "end": 1472.82,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 1473.96,
+  "end": 1478.4,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 1478.73,
+  "end": 1486.73,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1486.86,
+  "end": 1489.83,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1490.19,
+  "end": 1493.69,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1494.19,
+  "end": 1498.19,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1498.32,
+  "end": 1501.8,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1504.17,
+  "end": 1507.67,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1508.91,
+  "end": 1516.91,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1517.04,
+  "end": 1518.54,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1519.04,
+  "end": 1521.04,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1521.04,
+  "end": 1521.24,
+  "who": 2
+ },
+ {
+  "start": 1523.01,
+  "end": 1523.51,
+  "who": 2
+ },
+ {
+  "start": 1523.51,
+  "end": 1525.01,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1525.01,
+  "end": 1525.29,
+  "who": 2
+ },
+ {
+  "start": 1525.8,
+  "end": 1530.74,
+  "who": 2
+ },
+ {
+  "start": 1531.44,
+  "end": 1531.94,
+  "who": 2
+ },
+ {
+  "start": 1531.94,
+  "end": 1533.94,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1533.94,
+  "end": 1534.14,
+  "who": 2
+ },
+ {
+  "start": 1534.92,
+  "end": 1535.42,
+  "who": 2
+ },
+ {
+  "start": 1535.42,
+  "end": 1540.42,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1541.37,
+  "end": 1541.55,
+  "who": 2
+ },
+ {
+  "start": 1541.85,
+  "end": 1545.86,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1545.86,
+  "end": 1546.36,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 1546.36,
+  "end": 1546.86,
+  "who": 2
+ },
+ {
+  "start": 1547.36,
+  "end": 1550.36,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1550.67,
+  "end": 1550.91,
+  "who": 2
+ },
+ {
+  "start": 1551.18,
+  "end": 1552.18,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1552.18,
+  "end": 1558.83,
+  "who": 2
+ },
+ {
+  "start": 1559.31,
+  "end": 1561.31,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1561.81,
+  "end": 1563.81,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1563.81,
+  "end": 1563.96,
+  "who": 2
+ },
+ {
+  "start": 1564.95,
+  "end": 1566.6,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1567.02,
+  "end": 1568.52,
+  "who": 2
+ },
+ {
+  "start": 1568.52,
+  "end": 1569.52,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1569.52,
+  "end": 1570.02,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 1570.02,
+  "end": 1572.21,
+  "who": 2
+ },
+ {
+  "start": 1572.24,
+  "end": 1572.74,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1572.74,
+  "end": 1573.11,
+  "who": 2
+ },
+ {
+  "start": 1573.95,
+  "end": 1576.95,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1576.95,
+  "end": 1577.45,
+  "who": 2
+ },
+ {
+  "start": 1577.45,
+  "end": 1579.45,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1580.67,
+  "end": 1581.17,
+  "who": 2
+ },
+ {
+  "start": 1581.67,
+  "end": 1584.67,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1584.67,
+  "end": 1585.17,
+  "who": 2
+ },
+ {
+  "start": 1585.17,
+  "end": 1586.17,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1586.67,
+  "end": 1587.67,
+  "who": 2
+ },
+ {
+  "start": 1587.67,
+  "end": 1588.17,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 1588.17,
+  "end": 1588.67,
+  "who": 2
+ },
+ {
+  "start": 1589.3,
+  "end": 1590.3,
+  "who": 2
+ },
+ {
+  "start": 1590.3,
+  "end": 1591.8,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1591.8,
+  "end": 1592.13,
+  "who": 2
+ },
+ {
+  "start": 1592.94,
+  "end": 1595.44,
+  "who": 2
+ },
+ {
+  "start": 1595.44,
+  "end": 1600.94,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1601.07,
+  "end": 1602.99,
+  "who": "Odd Drevland"
+ },
+ {
+  "start": 1603.74,
+  "end": 1609.74,
+  "who": 2
+ },
+ {
+  "start": 1609.89,
+  "end": 1617.89,
+  "who": 2
+ },
+ {
+  "start": 1618.02,
+  "end": 1619.52,
+  "who": 2
+ },
+ {
+  "start": 1619.52,
+  "end": 1625.52,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 1625.61,
+  "end": 1625.79,
+  "who": 2
+ },
+ {
+  "start": 1626.06,
+  "end": 1626.56,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 1627.06,
+  "end": 1628.06,
+  "who": 2
+ },
+ {
+  "start": 1628.06,
+  "end": 1632.06,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 1632.24,
+  "end": 1632.74,
+  "who": 2
+ },
+ {
+  "start": 1632.74,
+  "end": 1637.24,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 1637.24,
+  "end": 1640.24,
+  "who": 2
+ },
+ {
+  "start": 1640.37,
+  "end": 1641.87,
+  "who": 2
+ },
+ {
+  "start": 1641.87,
+  "end": 1642.37,
+  "who": "Kjesti Mjor"
+ },
+ {
+  "start": 1642.37,
+  "end": 1645.87,
+  "who": 2
+ },
+ {
+  "start": 1646.1,
+  "end": 1646.4,
+  "who": 2
+ }
+]
