@@ -304,6 +304,11 @@
     .infoblock img {
         height: 50px;
     }
+
+    .infoblock .biginfoimage {
+        height:  250px;
+    }
+
     .infoblock .infotext {
         place-self: center;
         margin-left:25px;
@@ -706,6 +711,7 @@ let canedit = false;
            msg.startts = message.start;
            msg.endts = message.end;
            msg.data = data;
+           /*
            msg.addEventListener("dragover", e => e.preventDefault());
                msg.addEventListener("drop", e => {
                 console.log(e);
@@ -713,6 +719,7 @@ let canedit = false;
                 console.log("GOT DATA", info);
                 app._post_emotion(message.start, message.end, info.emotion, info.src);
             });
+            */
             msg.addEventListener("dblclick", e => {
                 e.preventDefault();
                 console.log("dbclick");
@@ -874,7 +881,16 @@ let canedit = false;
             } else if (message.type == "url") {
                 let template = document.querySelector("template#infoblock").content.cloneNode(true);
                 let block = template.querySelector("div");
-                block.querySelector(".infotitle").innerHTML = message.keywords.join();
+                if (message.keywords[0].startsWith("http")) {
+                    let i = document.createElement("img");
+                    i.classList.add("biginfoimage")
+                    i.src = message.keywords[0];
+                    block.appendChild(i);
+                    // Take the rest of the keywords?
+                    // block.querySelector(".infotitle").innerHTML = message.keywords.join();
+                } else {                
+                    block.querySelector(".infotitle").innerHTML = message.keywords.join();
+                }
 
                 block.querySelector("a").addEventListener("click", () => {
                     document.querySelector(".embedmap iframe").src = message.card.url;
@@ -1372,6 +1388,7 @@ dragtarget.addEventListener("drop", event => {
   event.preventDefault();
   event.stopPropagation();
     var data = event.dataTransfer.getData("text");
+    window.dropevent = event;
     console.log("Data was", data);
     let keywords = prompt("Enter short description", "");
     let text;
