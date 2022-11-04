@@ -463,6 +463,17 @@ let canedit = false;
       text_track: "text"
     };
 
+  if (getParameterByName("single")) {
+    options.mcorp_appid = undefined;
+    console.log("Single device - no shared controls");
+  }
+
+  if (getParameterByName("audio")) {
+    options.audioon = true;
+    console.log("Audio default on");
+  }
+
+
   if (getParameterByName("lang")) {
     options.text_track = "text_" + getParameterByName("lang");
     // Not native language, slow subs down a bit
@@ -481,7 +492,8 @@ let canedit = false;
     var app = rubberDuck(target, options);
     app.edit = getParameterByName("edit") || false;
 
-    app.app.ready.then(() => app.play());
+    if (app.app)
+        app.app.ready.then(() => app.play());
 
     app.infobar = getParameterByName("infobar") || "timeline";
 
@@ -610,7 +622,7 @@ let canedit = false;
         // canedit = getParameterByName("edit") || false;
 
         let message = data.data;
-        // console.log("Adding message", message);
+        console.log("Adding message", message);
 
         let old = document.querySelector("#" + data.key);
         if (old) {
@@ -841,6 +853,12 @@ let canedit = false;
         }
 
         if (message.isinfo) {
+            let hash = function(s) {
+                s = s.replace(" ", "_");
+                return s;
+                for(var i = 0, h = 0; i < s.length; i++)
+                return Math.imul(31, h) + s.charCodeAt(i) | 0;
+            };
             // Create an iframe and embed this
             let info = document.createElement("div");
             info.classList.add("message");
@@ -851,27 +869,52 @@ let canedit = false;
 
             // If we already have this infocard visible, don't create a new one
             let gotit = false;
+            console.log("Check if we have it", hash(message.card.url || message.card.keywords.join()));
             document.querySelectorAll(".infoblock").forEach(block => {
-                if (block.querySelector(".infotitle").innerHTML == message.keywords.join())
+                if (block.getAttribute("hash") == hash(message.card.url || message.card.keywords.join()))
                     gotit = true;
             });
             console.log("Gotit?", gotit);
             if (gotit) return;
 
             var add_keywords = function(block, keywords) {
-                if (keywords[0].startsWith("http")) {
+                console.log("Adding keywords", keywords);
+                if (!keywords || keywords[0].startsWith("http")) {
                     let i = document.createElement("img");
                     i.classList.add("biginfoimage")
-                    i.src = keywords[0];
+                    if (!keywords)
+                        i.src = message.card.url
+                    else
+                        i.src = keywords[0];
                     block.appendChild(i);
                     // Take the rest of the keywords?
                     // block.querySelector(".infotitle").innerHTML = message.keywords.join();
-                } else {                
+                } else {
                     block.querySelector(".infotitle").innerHTML = keywords.join();
                 }                    
             }                
 
-
+            console.log("Infomessage, type", message.type);
+            if (message.type == "url") {
+                console.log("URL card");
+                let template = document.querySelector("template#infoblock").content.cloneNode(true);
+                let block = template.querySelector("div");
+                add_keywords(block, message.keywords);
+                // If no url, don't make a link
+                if (message.keywords) {
+                    console.log("HOOKING UP TO CLICK", block);
+                    block.addEventListener("click", () => {
+                        console.log("CLICKED", message.card.url);
+                        document.querySelector(".embedmap iframe").src = message.card.url;
+                        document.querySelector(".embedmap").style.display = "block";
+                    });
+                    block.querySelector("img").src = "open_link.png";                
+                } else {
+                    console.log("Hiding a");
+                    block.querySelector("a").style.display = "none";
+                }
+                info.appendChild(block);
+            } else 
             if (message.card.url.indexOf("wikipedia") > -1) {
                 // Link to wikipedia, just put in a link
                 let template = document.querySelector("template#infoblock").content.cloneNode(true);
@@ -881,7 +924,8 @@ let canedit = false;
                 block.querySelector("a").setAttribute("target", "_blank");
                 block.querySelector("img").src = "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/220px-Wikipedia-logo-v2.svg.png";
                 info.appendChild(block);
-            } else if (message.card.url.indexOf("maps") > -1) {
+            } else
+            if (message.card.url.indexOf("maps") > -1) {
                 let template = document.querySelector("template#infoblock").content.cloneNode(true);
                 let block = template.querySelector("div");
                 add_keywords(block, message.keywords);
@@ -891,16 +935,6 @@ let canedit = false;
                     document.querySelector(".embedmap").style.display = "block";
                 });
                 block.querySelector("img").src = "https://cdn-icons-png.flaticon.com/512/355/355980.png";
-                info.appendChild(block);
-            } else if (message.type == "url") {
-                let template = document.querySelector("template#infoblock").content.cloneNode(true);
-                let block = template.querySelector("div");
-                add_keywords(block, message.keywords);
-                block.querySelector("a").addEventListener("click", () => {
-                    document.querySelector(".embedmap iframe").src = message.card.url;
-                    document.querySelector(".embedmap").style.display = "block";
-                });
-                block.querySelector("img").src = "open_link.png";
                 info.appendChild(block);
             } else {
                 let i = document.createElement("iframe");
@@ -921,6 +955,7 @@ let canedit = false;
                 info.appendChild(del);
             }
 
+            info.querySelector(".infoblock").setAttribute("hash", hash(message.card.url || message.card.keywords.join()));
             _insert_sort(body, info);
             return;
         }
@@ -1059,9 +1094,9 @@ app.redraw_info_bar_timeline = function() {
 app.update_info_bar_timeline = function(data) {
     if (app.infobar != "timeline")
         return;
-    if (!app.app.motions.duration) return;
+    if (!get_duration()) return;
     // How many pixels is this event?
-    let duration = app.app.motions.duration.pos;
+    let duration = get_duration();
     let infobar = document.querySelector(".infobar");
     let width = infobar.clientWidth;
     let pixelsprsec = width / duration;
@@ -1103,7 +1138,7 @@ app.update_info_bar_speakers = function() {
     });
 
     // Create the bits
-    let duration = app.app.motions.duration.pos;
+    let duration = get_duration();
     let infobar = document.querySelector(".infobar");
     infobar.innerHTML = "";
     let width = infobar.clientWidth;
@@ -1143,7 +1178,7 @@ app.load(manifest + "?ts=" + new Date().getTime() , ".mediacontainer")
       app.pbar = document.querySelector(".controls .progressbar input");
       app.to.on("timeupdate", function() {
         try {
-            let percent = 100 * (this.pos / app.app.motions.duration.pos);
+            let percent = 100 * (this.pos / get_duration());
             app.pbar.value = percent;
         } catch(e) {};
       });        
@@ -1151,7 +1186,7 @@ app.load(manifest + "?ts=" + new Date().getTime() , ".mediacontainer")
       app.pbar.addEventListener("click", (evt) => {
         // Need to use the 'click' not the change, as the timeupdate keeps updating it and undoing the update...
         let val = evt.offsetX / app.pbar.clientWidth;
-        let pos = app.app.motions.duration.pos * val;
+        let pos = get_duration() * val;
         app.to.update({position: pos});
     });
 
@@ -1313,14 +1348,16 @@ function onTouchStart(e) {
     let v = app.to.vel;
     oldtimingsrc = app.to.timingsrc;
     console.log("  *** START DRAG", oldtimingsrc);
-    app.to.timingsrc = undefined;
+    if (app.app)
+        app.to.timingsrc = undefined;
     app.to.update({position: p, velocity: v});
     e.preventDefault();
     e.stopPropagation();
     cur_pos = e.touches[0].screenY;
 };
 function onTouchEnd(e) {
-    app.to.timingsrc = app.app.motions.private;
+    if (app.app)
+        app.to.timingsrc = app.app.motions.private;
     cur_pos = undefined;
     console.log("  *** END DRAG");
 };
@@ -1345,6 +1382,16 @@ function onTouchMove(e) {
     if (document.querySelector("audio") && document.querySelector("audio").duration)
         downsample_skip(Math.min(Math.max(0, app.to.pos + diff), document.querySelector("audio").duration));
 };
+
+let get_duration = function() {
+    let a = document.querySelector("audio");
+    if (a) return a.duration;
+
+    if (app.app) {
+        return app.app.motions.duration.pos;
+    };
+    return 0;
+}
 
 document.querySelector(".message_container").addEventListener("touchstart", onTouchStart);
 document.querySelector(".message_container").addEventListener("touchend", onTouchEnd);
@@ -1393,17 +1440,27 @@ dragtarget.addEventListener("drop", event => {
   event.stopPropagation();
     var data = event.dataTransfer.getData("text");
     window.dropevent = event;
-    console.log("Data was", data);
-    let keywords = prompt("Enter short description", "");
-    let text;
-    if (keywords == null || keywords == "") {
-        console.log("Canceled");
-        return;
+
+    // We just need to guess here, cross domain makes it impossible to do anything sensible
+    let extensions = ["png", "jpg", "jpeg", "webp"];
+    let type = "link";
+    extensions.forEach( e => { if (data.indexOf(e) > -1) type = "image/" + e;});
+
+    let keywords;
+    if (!type.startsWith("image")) {
+        keywords = prompt("Enter short description", "");
+        let text;
+        if (keywords == null || keywords == "") {
+            console.log("Canceled");
+            return;
+        }
+    } else {
+        console.log("Is an image", type);
+        // keywords = data;
     }
     let block = {
         start: app.to.pos,
         end: app.to.pos + 2,
-        keywords: [keywords],
         type: "url",
         isinfo: true,
 
@@ -1411,6 +1468,8 @@ dragtarget.addEventListener("drop", event => {
             url: data
         }
     }
+    if (keywords)
+        block["keywords"] = keywords.split(",");
     let id = "info" + Math.floor(Math.random() * 10000000); 
     console.log("Adding block", block);
     app.subsequencer.addCue(id, [block.start, block.end], block);
