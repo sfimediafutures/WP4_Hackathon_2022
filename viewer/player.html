@@ -1435,47 +1435,49 @@ document.querySelector("#download").addEventListener("click", () => {
     });
     downloadObjectAsJson(items, app.manifest.info || "info.json");
 })
-dragtarget.addEventListener("drop", event => {
-  event.preventDefault();
-  event.stopPropagation();
-    var data = event.dataTransfer.getData("text");
-    window.dropevent = event;
+if (app.edit) {
 
-    // We just need to guess here, cross domain makes it impossible to do anything sensible
-    let extensions = ["png", "jpg", "jpeg", "webp"];
-    let type = "link";
-    extensions.forEach( e => { if (data.indexOf(e) > -1) type = "image/" + e;});
+    dragtarget.addEventListener("drop", event => {
+      event.preventDefault();
+      event.stopPropagation();
+        var data = event.dataTransfer.getData("text");
+        window.dropevent = event;
 
-    let keywords;
-    if (!type.startsWith("image")) {
-        keywords = prompt("Enter short description", "");
-        let text;
-        if (keywords == null || keywords == "") {
-            console.log("Canceled");
-            return;
+        // We just need to guess here, cross domain makes it impossible to do anything sensible
+        let extensions = ["png", "jpg", "jpeg", "webp"];
+        let type = "link";
+        extensions.forEach( e => { if (data.indexOf(e) > -1) type = "image/" + e;});
+
+        let keywords;
+        if (!type.startsWith("image")) {
+            keywords = prompt("Enter short description", "");
+            let text;
+            if (keywords == null || keywords == "") {
+                console.log("Canceled");
+                return;
+            }
+        } else {
+            console.log("Is an image", type);
+            // keywords = data;
         }
-    } else {
-        console.log("Is an image", type);
-        // keywords = data;
-    }
-    let block = {
-        start: app.to.pos,
-        end: app.to.pos + 2,
-        type: "url",
-        isinfo: true,
+        let block = {
+            start: app.to.pos,
+            end: app.to.pos + 2,
+            type: "url",
+            isinfo: true,
 
-        card: {
-            url: data
+            card: {
+                url: data
+            }
         }
-    }
-    if (keywords)
-        block["keywords"] = keywords.split(",");
-    let id = "info" + Math.floor(Math.random() * 10000000); 
-    console.log("Adding block", block);
-    app.subsequencer.addCue(id, [block.start, block.end], block);
-    document.querySelector("#download").style.display = "block";
-});
-
+        if (keywords)
+            block["keywords"] = keywords.split(",");
+        let id = "info" + Math.floor(Math.random() * 10000000); 
+        console.log("Adding block", block);
+        app.subsequencer.addCue(id, [block.start, block.end], block);
+        document.querySelector("#download").style.display = "block";
+    });
+}
       
 </script>
 
