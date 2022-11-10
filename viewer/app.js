@@ -1691,8 +1691,10 @@ var rubberDuck = function(target, options) {
 
         // Always update
         let mbox = API.targetElement.querySelector(".markingbox");
-        mbox.style.left = itm.pos[0] + "%";
-        mbox.style.top = itm.pos[1] + "%";
+        if (mbox) {
+            mbox.style.left = itm.pos[0] + "%";
+            mbox.style.top = itm.pos[1] + "%";            
+        }
 
         if (itm.alt) {
             // Got alternative face(s) too!
