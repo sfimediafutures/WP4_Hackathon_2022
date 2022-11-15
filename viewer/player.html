@@ -473,6 +473,9 @@ let canedit = false;
     console.log("Audio default on");
   }
 
+  if (getParameterByName("info")) {
+    options.info = getParameterByName("info");
+  }
 
   if (getParameterByName("lang")) {
     options.text_track = "text_" + getParameterByName("lang");
@@ -853,6 +856,8 @@ let canedit = false;
         }
 
         if (message.isinfo) {
+            if (options.info == "false") return;
+            
             let hash = function(s) {
                 s = s.replace(" ", "_");
                 return s;
