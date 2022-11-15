@@ -1,7 +1,7 @@
 {
  "0": {
   "name": "Mads Bøyum",
-  "src": "/audio/bt/mads_bøyum.png",
+  "src": "/hack/datasets/gfx/mads_bøyum.png",
   "color": "#f97370a6",
   "segments": [
    {
@@ -16,7 +16,7 @@
  },
  "1": {
   "name": "Doddo",
-  "src": "/audio/bt/doddo.png",
+  "src": "/hack/datasets/gfx/doddo.png",
   "color": "#3c0a09a6",
   "segments": [
    {
@@ -32,7 +32,7 @@
  },
  "2": {
   "name": "Erik Mjelde",
-  "src": "/audio/bt/erik_mjelde.png",
+  "src": "/hack/datasets/gfx/erik_mjelde.png",
   "color": "#8c8c8ca6",
   "segments": [
    {
@@ -48,7 +48,7 @@
  },
  "3": {
   "name": "Anders Pamer",
-  "src": "/audio/bt/anders_pamer.png",
+  "src": "/hack/datasets/gfx/anders_pamer.png",
   "color": "#922423a6",
   "segments": [
    {
@@ -64,7 +64,7 @@
  },
  "4": {
   "name": "Remi Taule",
-  "src": "/audio/bt/remi_taule.png",
+  "src": "/hack/datasets/gfx/remi_taule.png",
   "color": "#efabaaa6",
   "segments": [
    {
