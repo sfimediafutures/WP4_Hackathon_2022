@@ -981,7 +981,7 @@ let canedit = false;
 
 app.indents = {};
 app.last_indent = 0;
-
+app._tmp_to = new TIMINGSRC.TimingObject();
 /*
 app.to = new TIMINGSRC.TimingObject();
 app.ready.then(function() {
@@ -1183,7 +1183,7 @@ app.load(manifest + "?ts=" + new Date().getTime() , ".mediacontainer")
         } catch(e) {};
       });        
 
-      app.pbar.addEventListener("click", (evt) => {
+      app.pbar.addEventListener("pointerdown", (evt) => {
         // Need to use the 'click' not the change, as the timeupdate keeps updating it and undoing the update...
         let val = evt.offsetX / app.pbar.clientWidth;
         let pos = get_duration() * val;
@@ -1341,6 +1341,7 @@ if ("wakeLock" in navigator) {
 
 // We experiment with scrolling for skipping
 let cur_pos;
+let start_pos;
 let oldtimingsrc;
 function onTouchStart(e) {
     if (e.path.indexOf(document.querySelector("div.controls")) > -1) return;
@@ -1348,14 +1349,20 @@ function onTouchStart(e) {
     let v = app.to.vel;
     oldtimingsrc = app.to.timingsrc;
     console.log("  *** START DRAG", oldtimingsrc);
-    if (app.app)
-        app.to.timingsrc = undefined;
+    if (app.app) {
+        app._tmp_to.update({position: p, velocity: v})
+        app.to.timingsrc = app._tmp_to;
+    }
     app.to.update({position: p, velocity: v});
     e.preventDefault();
     e.stopPropagation();
-    cur_pos = e.touches[0].screenY;
+    start_pos = cur_pos = e.touches[0].screenY;
 };
 function onTouchEnd(e) {
+    console.log("Touch end", e.touches);
+    if (cur_pos - start_pos < 10) {
+        console.log("Was this a click?")
+    }
     if (app.app)
         app.to.timingsrc = app.app.motions.private;
     cur_pos = undefined;
@@ -1393,9 +1400,11 @@ let get_duration = function() {
     return 0;
 }
 
+/*
 document.querySelector(".message_container").addEventListener("touchstart", onTouchStart);
 document.querySelector(".message_container").addEventListener("touchend", onTouchEnd);
 document.querySelector(".message_container").addEventListener("touchmove", onTouchMove);
+*/
 
 document.querySelector(".infobar").addEventListener("click", () => {
     if (app.infobar == "timeline") {
@@ -1435,7 +1444,11 @@ document.querySelector("#download").addEventListener("click", () => {
     });
     downloadObjectAsJson(items, app.manifest.info || "info.json");
 })
+
 if (app.edit) {
+    let isImage = function(url) {
+      return /\.(jpg|jpeg|png|webp|avif|gif|svg)/.test(url);
+    }
 
     dragtarget.addEventListener("drop", event => {
       event.preventDefault();
@@ -1445,11 +1458,8 @@ if (app.edit) {
 
         // We just need to guess here, cross domain makes it impossible to do anything sensible
         let extensions = ["png", "jpg", "jpeg", "webp"];
-        let type = "link";
-        extensions.forEach( e => { if (data.indexOf(e) > -1) type = "image/" + e;});
-
-        let keywords;
-        if (!type.startsWith("image")) {
+        let keywords = data;
+        if (!isImage(data)) {
             keywords = prompt("Enter short description", "");
             let text;
             if (keywords == null || keywords == "") {
@@ -1457,8 +1467,7 @@ if (app.edit) {
                 return;
             }
         } else {
-            console.log("Is an image", type);
-            // keywords = data;
+            type = "image";
         }
         let block = {
             start: app.to.pos,
