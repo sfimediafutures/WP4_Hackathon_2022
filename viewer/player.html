@@ -475,6 +475,7 @@ let canedit = false;
 
   if (getParameterByName("info")) {
     options.info = getParameterByName("info");
+    console.log("=== Info is ", options.info, "===");
   }
 
   if (getParameterByName("lang")) {
@@ -856,7 +857,7 @@ let canedit = false;
         }
 
         if (message.isinfo) {
-            if (options.info == "false") return;
+            if (options.info != "true") return;
             
             let hash = function(s) {
                 s = s.replace(" ", "_");
