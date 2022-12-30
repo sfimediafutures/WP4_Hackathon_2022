@@ -118,6 +118,7 @@
                 <div role="button" class="button nrkunset timeline">[timeline]</div>
                 <div role="button" class="button nrkunset people">[people]</div>
                 <div role="button" class="button nrkunset heads">[heads]</div>
+                <div role="button" class="button nrkunset video hidden">[video]</div>
             </div>
         </div>
         <div class="info"></div>
@@ -148,7 +149,7 @@
       //url = BASEURL + "url=../res/radio/kjaerlighetssorg2.json"
       target.querySelector(".playbtn").addEventListener("click", e => {
         let a = document.createElement("a");
-        a.setAttribute("href", "../../viewer?" + url);
+        a.setAttribute("href", "../viewer/?" + url);
         a.setAttribute("target", "_blank");
         a.click();
       });
@@ -162,7 +163,7 @@
 
       target.querySelector(".timeline").addEventListener("click", e => {
         let a = document.createElement("a");
-        a.setAttribute("href", "/sfi/VideoPos/timeline3.html?" + url);
+        a.setAttribute("href", "/sfi/VideoPos/chapters.html?" + url);
         a.setAttribute("target", "_blank");
         a.click();
       });
@@ -177,6 +178,13 @@
       target.querySelector(".heads").addEventListener("click", e => {
         let a = document.createElement("a");
         a.setAttribute("href", "/whisper/face.html?" + url);
+        a.setAttribute("target", "_blank");
+        a.click();
+      });
+      
+      target.querySelector(".video").addEventListener("click", e => {
+        let a = document.createElement("a");
+        a.setAttribute("href", "/sfi/VideoPos/?" + url);
         a.setAttribute("target", "_blank");
         a.click();
       });
