@@ -1453,7 +1453,7 @@ document.querySelector("#download").addEventListener("click", () => {
 
 if (app.edit) {
     let isImage = function(url) {
-      return /\.(jpg|jpeg|png|webp|avif|gif|svg)/.test(url);
+      return /\.(jpg|jpeg|png|webp|avif|gif|svg)/.test(url.toLowerCase());
     }
 
     dragtarget.addEventListener("drop", event => {
