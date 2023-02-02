@@ -305,8 +305,10 @@
         height: 50px;
     }
 
-    .infoblock .biginfoimage {
+    .infoblock.biginfoimage {
         height:  250px;
+        background-position: center;
+        background-size: cover;
     }
 
     .infoblock .infotext {
@@ -447,6 +449,7 @@
 let canedit = false;
 
   let options = {
+    audioon: true,
       video: false,
       pip:  false,
       pippos: false,
@@ -473,7 +476,7 @@ let canedit = false;
     console.log("Audio default on");
   }
 
-  if (getParameterByName("info")) {
+  if (getParameterByName("info") || getParameterByName("edit")) {
     options.info = getParameterByName("info");
     console.log("=== Info is ", options.info, "===");
   }
@@ -495,7 +498,6 @@ let canedit = false;
     let target = document.querySelector(".message_container");
     var app = rubberDuck(target, options);
     app.edit = getParameterByName("edit") || false;
-
     if (app.app)
         app.app.ready.then(() => app.play());
 
@@ -886,13 +888,17 @@ let canedit = false;
             var add_keywords = function(block, keywords) {
                 console.log("Adding keywords", keywords);
                 if (!keywords || keywords[0].startsWith("http")) {
+
+                    // Rather put it within the box
+                    block.style.backgroundImage = "url(" + message.card.url + ")";
+                    block.classList.add("biginfoimage");
                     let i = document.createElement("img");
                     i.classList.add("biginfoimage")
                     if (!keywords)
                         i.src = message.card.url
                     else
                         i.src = keywords[0];
-                    block.appendChild(i);
+                    //block.appendChild(i);
                     // Take the rest of the keywords?
                     // block.querySelector(".infotitle").innerHTML = message.keywords.join();
                 } else {
@@ -914,7 +920,14 @@ let canedit = false;
                         document.querySelector(".embedmap iframe").src = message.card.url;
                         document.querySelector(".embedmap").style.display = "block";
                     });
-                    block.querySelector("img").src = "open_link.png";                
+                    // If the keywords have images, remove all the rest
+                    if (block.classList.contains("biginfoimage")) {
+                        // Remove some other bits
+                        block.removeChild(block.querySelector(".infoimage"));
+                        block.removeChild(block.querySelector(".infotext"));
+                    } else {                    
+                        block.querySelector(".infoimage").src = "open_link.png";                
+                    }
                 } else {
                     console.log("Hiding a");
                     block.querySelector("a").style.display = "none";
@@ -956,6 +969,10 @@ let canedit = false;
                 del.addEventListener("click", () =>  {
                     console.log("REMOVING", data.key);
                     app.subsequencer.removeCue(data.key)
+                    // Remove from local storage too
+                    let blocks = JSON.parse(localStorage["__edit-" + app.manifest.id] || "[]");
+                    var newblocks = blocks.filter(function(el) { return el.id != data.key; });
+                    localStorage["__edit-" + app.manifest.id] = JSON.stringify(newblocks);
                     document.querySelector("#download").style.display = "block";
                 });
                 info.appendChild(del);
@@ -1176,6 +1193,14 @@ app.load(manifest + "?ts=" + new Date().getTime() , ".mediacontainer")
         document.querySelector(".background").style.backgroundImage = 'url(' + app.manifest.poster + ')';
     }
 
+    if (app.manifest.showinfo) {
+        options.info = app.manifest.showinfo;
+    }
+
+    // Do we have any local stuff?
+    let blocks = JSON.parse(localStorage["__edit-" + app.manifest.id] || "[]");
+    console.log("***LOAD LOCAL",blocks);
+    blocks.forEach((block) => app.subsequencer.addCue(block.id || ("c" + Math.random()).replace(".", ""), [block.start, block.end], block));
     // Load info stuff
     if (app.manifest.info) {
         app.load_info_blocks(app.manifest.info);
@@ -1487,9 +1512,16 @@ if (app.edit) {
         }
         if (keywords)
             block["keywords"] = keywords.split(",");
-        let id = "info" + Math.floor(Math.random() * 10000000); 
+        block.id = "info" + Math.floor(Math.random() * 10000000); 
         console.log("Adding block", block);
-        app.subsequencer.addCue(id, [block.start, block.end], block);
+
+        let blocks = JSON.parse(localStorage["__edit-" + app.manifest.id] || "[]");
+
+        blocks.push(block);
+        console.log("BLOCKS", blocks);
+        localStorage["__edit-" + app.manifest.id] = JSON.stringify(blocks);
+
+        app.subsequencer.addCue(block.id, [block.start, block.end], block);
         document.querySelector("#download").style.display = "block";
     });
 }
