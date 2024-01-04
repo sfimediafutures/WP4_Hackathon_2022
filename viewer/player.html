@@ -117,7 +117,14 @@
         .message .icon {
             width: 60px;
             height: 60px;
-            padding: 5px;
+            margin: 5px 5px;
+            overflow: hidden;
+            border-radius: 50%;
+        }
+
+        .message .icon img {
+            width: 100%;
+            height: auto;
         }
 
         .message.right {
@@ -414,7 +421,9 @@
 
     <template id="message">
         <div class="message">
-            <img class="icon"></img>
+            <div class="icon">
+                <img/>
+            </div>
             <div class="text"></div>
             <div class="emotions"></div>
         </div>
@@ -719,7 +728,7 @@ let canedit = false;
            }
            msg.style.background = app.cast[who].color || "darkgray";
            if (app.cast[who].src) {
-               msg.querySelector(".icon").src = app.cast[who].src;
+               msg.querySelector(".icon img").src = app.cast[who].src;
             } else {
                 // msg.querySelector(".icon").src = "undefined.png";
                 msg.querySelector(".icon").style.display = "none";

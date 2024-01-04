@@ -1480,7 +1480,7 @@ var rubberDuck = function(target, options) {
                     let id = "sub" + idx;
                     idx++;
                     if (sub.start > sub.end) {
-                        console.log("ERROR - SUB ENDS BEFORE START", sub);
+                        console.log("ERROR - SUB ENDS BEFORE START, ignoring", sub);
                         return;
                     }
                     if (sub.who) sub.who = String(sub.who);
@@ -1535,12 +1535,13 @@ var rubberDuck = function(target, options) {
                 who = "undefined";
                 msg.style.background = "darkgray";
             }
+            print("who", who, API.cast[who], text);
             if (text) {
                 if (API.cast[who]) {
                     msg.style.background = API.cast[who].color || "lightgray";
-                    msg.querySelector(".icon").src = API.cast[who].src
+                    msg.querySelector(".icon img").src = API.cast[who].src
                 } else {
-                    msg.querySelector(".icon").src = "undefined.png";
+                    msg.querySelector(".icon img").src = "undefined.png";
                 }
             } else {
                 console.log("Hide icon");
